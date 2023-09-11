@@ -85,9 +85,9 @@ edits:
         - name: q4_1	
           label: "The population is mentioned, and described accurately"
         - name: q4_2
-          label: "The population is mentioned, but described somewhat inaccurately"
+          label: "The population is mentioned, but described somewhat inaccurately or vaguely"
         - name: q4_3	
-          label: "The population is mentioned, but described completely inaccurately"
+          label: "The population is mentioned, but described inaccurately or missing critical descriptors"
         - name: q4_4	
           label: "The population is missing in the model summary"
         - name: q4_5	
@@ -110,9 +110,9 @@ edits:
         - name: q4_1	
           label: "The interventions are mentioned, and described accurately"
         - name: q4_2
-          label: "The interventions are mentioned, but described somewhat inaccurately"
+          label: "The interventions are mentioned, but described somewhat inaccurately or vaguely"
         - name: q4_3	
-          label: "The interventions are mentioned, but described completely inaccurately"
+          label: "The interventions are mentioned, but described inaccurately or missing critical descriptors"
         - name: q4_4	
           label: "The interventions are missing in the model summary"
         - name: q4_5	
@@ -134,9 +134,9 @@ edits:
         - name: q4_1	
           label: "The comparator is mentioned, and described accurately"
         - name: q4_2
-          label: "The comparator is mentioned, but described somewhat inaccurately"
+          label: "The comparator is mentioned, but described somewhat inaccurately or vaguely"
         - name: q4_3	
-          label: "The comparator is mentioned, but described completely inaccurately"
+          label: "The comparator is mentioned, but described inaccurately or missing critical descriptors"
         - name: q4_4	
           label: "The comparator is missing in the model summary"
         - name: q4_5	
@@ -158,9 +158,9 @@ edits:
         - name: q4_1	
           label: "The outcome is mentioned, and described accurately"
         - name: q4_2
-          label: "The outcome is mentioned, but described somewhat inaccurately"
+          label: "The outcome is mentioned, but described somewhat inaccurately or vaguely"
         - name: q4_3	
-          label: "The outcome is mentioned, but described completely inaccurately"
+          label: "The outcome is mentioned, but described inaccurately or missing critical descriptors"
         - name: q4_4	
           label: "The outcome is missing in the model summary"
         - name: q4_5	
