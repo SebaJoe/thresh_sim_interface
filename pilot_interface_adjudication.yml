@@ -19,6 +19,8 @@ interface_text:
     source_label: "Original Abstract"
     target_label: "Generated Summary/Simplfication"
 
+prepend_instructions: false
+
 font_size:
   source: 16
   target: 16
