@@ -186,3 +186,4 @@ edits:
       - name: final_comments
         question: "Write down any additional comments (optional):"
         options: textarea
+        required: false
