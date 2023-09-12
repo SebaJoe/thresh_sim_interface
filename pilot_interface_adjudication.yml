@@ -19,14 +19,9 @@ interface_text:
     source_label: "Original Abstract"
     target_label: "Generated Summary/Simplfication"
 
-prepend_instructions: true
-
 font_size:
   source: 16
   target: 16
-
-display: 
-- side-by-side
 
 edits:
   - name: hol_eval
