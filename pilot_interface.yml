@@ -186,11 +186,11 @@ edits:
         question: "Is the highlighted result or inference mentioned in the summary? If so, is it accurate?"
         options:
         - name: r_1
-        - label: "Accurate"
+          label: "Accurate"
         - name: r_2
-        - label: "Inaccurate"
+          label: "Inaccurate"
         - name: r_3
-        - label: "Not Mentioned"
+          label: "Not Mentioned"
   
   - name: final_q
     label: "Commands and Comments"
