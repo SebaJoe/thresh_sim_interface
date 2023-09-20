@@ -152,7 +152,7 @@ edits:
   - name: pico_out
     label: "PICO: Outcomes"
     color: "#33a6f6"
-    icon: fa-square-poll-vertical
+    icon: fa-ruler
 
     annotation:
       - name: pico_pop_out
@@ -173,6 +173,25 @@ edits:
         label: "Question 4 Rationale"
         question: "Please briefly explain your choice:"
         options: textarea
+
+  - name: results
+    label: "Result Inferences"
+    color: "#ff6ec7"
+    icon: fa-square-poll-vertical
+    enable_input: true
+
+    annotation:
+      - name: results_anno
+        label: "Results Annotation"
+        question: "Is the highlighted result or inference mentioned in the summary? If so, is it accurate?"
+        options:
+        - name: r_1
+        - label: "Accurate"
+        - name: r_2
+        - label: "Inaccurate"
+        - name: r_3
+        - name: "Not Mentioned"
+  
   - name: final_q
     label: "Commands and Comments"
     color: grey
