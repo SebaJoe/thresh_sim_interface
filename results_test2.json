@@ -1,7 +1,7 @@
 [
     {
-        "source": "ABSTRACT.BACKGROUNDRCTN17057980\n",
-        "target": "Simple Explana",
+        "source": "Hello World!",
+        "target": "Goodbye world!",
         "edits": [
             {
                 "category": "hol_eval",
