@@ -176,7 +176,7 @@ edits:
 
   - name: results
     label: "Result Inferences"
-    color: "#ff6ec7"
+    color: "#00ff5b"
     icon: fa-square-poll-vertical
     enable_input: true
 
