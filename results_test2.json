@@ -1,7 +1,6 @@
 [
     {
-        "source": "Hello World!",
-        "target": "Goodbye world!",
+        "target": "The Flt3L (CDX-301) pre-treatment enhancement did increase peripheral monocytes to CD205-NY-ESO-1, a fusion antibody targeting CD205, linked to NY-ESO-1 in high-risk melanoma. This increased the humoral response as well.",
         "edits": [
             {
                 "category": "hol_eval",
@@ -27,6 +26,7 @@
                 "category": "pico_out",
                 "id": 5
             }
-        ]
+        ],
+        "source": "Generating responses to tumor antigens poses a challenge for immunotherapy. This phase II trial (NCT02129075) tested fms-like tyrosine kinase 3 (Flt3) ligand pre-treatment enhancement of responses to dendritic cell (DC)-targeting vaccines. We evaluated a regimen of Flt3L (CDX-301) to increase DCs and other antigen-presenting cells, poly-ICLC (TLR3 agonist that activates DCs) and a vaccine comprising anti-DEC-205-NY-ESO-1, a fusion antibody targeting CD205, linked to NY-ESO-1. High-risk melanoma patients were randomized to vaccine, with and without CDX-301. The end point was immune response to NY-ESO-1. Flt3L increased peripheral monocytes and conventional DCs (cDCs), including cross-presenting cDC1 and cDC2 and plasmacytoid DCs. Significant increases in humoral and T-cell responses and activation of DCs, natural killer cells and T cells were elicited. Transcriptional analyses revealed gene signatures associated with CDX-301 induction of an early, durable immune response. This study reveals in vivo effects of Flt3L on innate immune cells in the setting of vaccination, leading to an immunogenic vaccine regimen."
     }
 ]
