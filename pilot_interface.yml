@@ -193,6 +193,11 @@ edits:
           label: "Inaccurate"
         - name: r_3
           label: "Not Mentioned"
+      - name: results_rat
+        label: "Results Rationale"
+        question: "Comments or Rationale:"
+        options: textarea
+        required: false
   
   - name: final_q
     label: "Commands and Comments"
