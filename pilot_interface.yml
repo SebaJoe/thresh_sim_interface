@@ -24,6 +24,8 @@ font_size:
 
 display: 
 - side-by-side
+- text-side-by-side
+- disable-lines
 
 edits:
   - name: hol_eval
