@@ -41,7 +41,7 @@
     },
     {
         "source": "ABSTRACT.\nFluorescence in situ hybridization using peptide nucleic acid probes (PNA-FISH) differentiates Staphylococcus aureus from other Gram-positive-cocci in clusters (GPCC). 101/202 patients with GPCC+ blood cultures were randomly assigned to clinician-notification of PNA FISH results. Notification was associated with reduced mortality (8% vs.17%, p = 0.05), further antibiotic use (median \u22122.5 days, p = 0.01), and trended toward reduced hospital stay and charges.",
-        "target": "Staphylococcus aureus can be differentiated from other Gram-positive cocci in clusters (GPCC) using fluorescence in situ hybridization with peptide nucleic acid probes (PNA-FISH). 101/202 patients with GPCC+ blood cultures were randomly assigned to either a control group or a group where the clinicians were notified of the PNA-FISH results. The results showed that the notification group had a lower mortality rate (8% vs. 17%), shorter hospital stays, and lower charges compared to the control group.&lt;/s&gt;&lt;s&gt;",
+        "target": "Scientists have a tool called Fluorescence in situ hybridization using peptide nucleic acid probes (PNA-FISH) which can tell one kind of bacteria (Staphylococcus aureus) from other similar ones (Gram-positive-cocci). They did an experiment with 202 patients who had these bacteria in their blood. Half of the patients' doctors were told about the results from this tool.\n\nThe researchers found out that when doctors knew which specific type of bacteria their patients had, they were able to treat them better. These patients had a lower death rate (8% compared to 17%), used fewer antibiotics (averaging 2.5 days less), and showed a tendency towards shorter hospital stays and lower medical bills. This means that using this tool can help improve treatment and save time and money. ",
         "edits": [
             {
                 "category": "hol_eval",
@@ -114,11 +114,23 @@
                     [
                         803,
                         932
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
                     [
                         1066,
                         1244
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
                     [
                         1245,
                         1385
@@ -129,7 +141,7 @@
     },
     {
         "source": "ABSTRACT.\nThere continues to be a need for improved medical management of diabetes patients with hypertension in primary care. While several care models have shown effectiveness in achieving various outcomes among these patients, it remains unclear what care model is most effective in improving blood pressure control in primary care. In this prospective study, 54 patients with type 2 diabetes mellitus and blood pressure of &gt;140/90 identified through the registry, were randomized into three groups. Group A attended a nurse educator-conducted class on diabetes and hypertension, group B attended the same class and was asked to monitor their home blood pressure using provided device, and group C served as control (usual care). Of the 24 subjects who completed the study, only 20% achieved the target blood pressure of &lt;130/80 and there was no statistical difference in mean systolic and diastolic blood pressures among the three groups (p &gt; 0.05). Efforts to intensify management of hypertension among type 2 diabetes patients did not result in better blood pressure control compared to usual care. Studies looking into factors which limit patients' participation in group classes and determining patients' preferences in disease management would be helpful in ensuring success of any chronic disease management program.",
-        "target": "This passage is talking about how doctors are trying to figure out the best way to help people with diabetes and high blood pressure. They are doing a study where they are splitting the people into three groups and giving them different things to do. One group is just getting a class on how to manage their diabetes and high blood pressure, another group is getting a device to measure their blood pressure at home, and the third group is just getting usual care from their doctor. They are looking to see if any of these groups does better at controlling their blood pressure. But, the study didn't show that any of the groups did better. So, doctors are still trying to figure out the best way to help people with diabetes and high blood pressure.",
+        "target": "ABSTRACT. There continues to be a need for improved medical management of diabetes patients with hypertension in primary care. While several care models have shown effectiveness in achieving various outcomes among these patients ,, it remains unclear what care model is most effective in improving blood pressure control in primary care,. In this prospective study, 54 patients with type 2 diabetes mellitus and blood pressure of &gt;140/90 identified through the registry, were randomized into three groups.Group A attended a nurse educator-conducted class On diabetes and hypertension, group B attended the same class and was asked to monitor their home blood pressure using provided device, and group C served as control (usual care). Of the 24 subjects who completed the study, only 20% achieved the target blood pressure of 130/80 and there was no statistical difference in mean systolic and diastolic blood pressures among the three groups",
         "edits": [
             {
                 "category": "hol_eval",
@@ -169,7 +181,7 @@
     },
     {
         "source": "ABSTRACT.\nThalassemia is the commonest single gene disorder in India. About 10,000 infants with Thalassemia major are born every year. The present study was under taken with a hope to prevail better quality of life to the Thalassemic patients. Pallor being the chief complaint, a randomized controlled trial was undertaken with Dhatri Avaleha as it is specially mentioned for Pandu, Kamala & Haleemaka Roga. Children between age group of 1 to 15 years were randomly divided in two groups: Drug treated group (Group A) and Control group (Group B). Assessment was done on subjective and objective parameters after 30 and 60 days of treatment with follow up of two month. Statistically significant (P&lt;0.01) result was obtained in Blood transfusion interval in group 'A' in comparison to group 'B'. Dhatri Avaleha may have a potential to increase blood transfusion interval and decrease secondary infection and thus it can be used as supportive therapy with modern medical management.",
-        "target": "This study was done to help improve the lives of patients with Thalassemia, a blood disease that is the most common single gene disorder in India and affects about 10,000 new born babies each year. The main problem for these patients is that they look pale because their blood does not have enough healthy red cells. The researchers did an experiment with two groups of children between ages 1 to 15. One group was given a drug called Dhatri Avaleha, which is known to help with symptoms similar to those caused by Thalassemia. The other group did not receive the drug. After checking these children for 60 days, the scientists found that the children who took the drug needed blood transfusions less often than the others. This suggests that Dhatri Avaleha might be useful to help manage Thalassemia along with other medical treatments.",
+        "target": "Thalassemia is a genetic disorder that is common in India, with around 10,000 infants born with the condition each year. The aim of this study was to improve the quality of life for these patients. Pallor was the main complaint, so a randomized controlled trial was conducted with Dhatri Avaleha, a traditional remedy mentioned for Pandu, Kamala and Haleemaka Roga. Children between the ages of 1 and 15 were randomly divided into two groups: a drug-treated group (Group A) and a control group (Group B). Assessments were done after 30 and 60 days of treatment, with follow-up of two months. The results showed a statistically significant (P&lt;0.01) decrease in the number of blood transfusions in Group A compared to Group B. Dhatri Avaleha may have potential to reduce the number of blood transfusions, decrease the risk of secondary infections, and improve the quality of life for Thalassemic patients.&lt;/s&gt;&lt;s&gt;",
         "edits": [
             {
                 "category": "hol_eval",
@@ -242,15 +254,33 @@
                     [
                         1430,
                         1524
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
                     [
                         1018,
                         1241
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
                     [
                         1242,
                         1336
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
                     [
                         1337,
                         1431
@@ -261,7 +291,7 @@
     },
     {
         "source": "ABSTRACT.BACKGROUND.\nInduction of labour (IOL) is one of the commonest obstetric interventions, with significant impact on both the individual woman and health service delivery. Outpatient IOL is an attractive option to reduce these impacts. To date there is little data comparing outpatient and inpatient IOL methods, and potential safety concerns (hyperstimulation) if prostaglandins, the standard inpatient IOL medications, are used in the outpatient setting. The purpose of this study was to assess feasibility, clinical effectiveness and patient acceptability of outpatient Foley catheter (OPC) vs. inpatient vaginal PGE2 (IP) for induction of labour (IOL) at term.\n\nABSTRACT.METHODS.\nWomen with an unfavourable cervix requiring IOL at term (N = 101) were randomised to outpatient care using Foley catheter (OPC, n = 50) or inpatient care using vaginal PGE2 (IP, n = 51). OPC group had Foley catheter inserted and were discharged overnight following a reassuring cardiotocograph. IP group received 2 mg/1 mg vaginal PGE2 if nulliparous or 1 mg/1 mg if multiparous. Main outcome measures were inpatient stay (prior to birth, in Birthing Unit, total), mode of birth, induction to delivery interval, adverse reactions and patient satisfaction.\n\nABSTRACT.RESULTS.\nOPC group had shorter hospital stay prior to birth (21.3 vs. 32.4 hrs, p &lt; .001), IP were more likely to achieve vaginal birth within 12 hours of presenting to Birthing Unit (53% vs. 28%, p = .01). Vaginal birth rates (66% OPC Vs. 71% IP), total induction to delivery time (33.5 hrs vs. 31.3 hrs) and total inpatient times (96 hrs OPC Vs. 105 hrs IP) were similar. OPC group felt less pain (significant discomfort 26% Vs 58%, p = .003), and had more sleep (5.8 Vs 3.4 hours, p &lt; .001), during cervical preparation, but were more likely to require oxytocin IOL (88 Vs 59%, p = .001).\n\nABSTRACT.CONCLUSIONS.\nOPC was feasible and acceptable for IOL of women with an unfavourable cervix at term compared to IP, however did not show a statistically significant reduction in total inpatient stay and was associated with increased oxytocin IOL.\n\nABSTRACT.TRIAL REGISTRATION.\nAustralian New Zealand Clinical Trials Registry, ACTRN:12609000420246.",
-        "target": "\nThis study looked at how two different ways of inducing labor (IOL) compare. One way is called outpatient IOL and the other is called inpatient IOL. The study found that the outpatient way is just as good as the inpatient way, but it doesn't make you stay in the hospital as long. The outpatient way also makes you feel less pain and sleep more during the preparation time, but you are more likely to need extra medicine to help labor progress.\n\n\n",
+        "target": "This report talks about a study where they were trying to find out the best way to start labor for women who were having trouble starting it naturally. They compared two methods: one where the woman stays in the hospital and they use a special medication, and another where the woman can go home with a device that helps start labor. They found out that the at-home method allowed women to have less time in the hospital before the baby's birth, and the women felt less pain and got more sleep. But, it was also more likely that they needed additional help to start labor. Basically, both ways have their pros and cons.",
         "edits": [
             {
                 "category": "hol_eval",
@@ -294,7 +324,13 @@
                     [
                         1633,
                         1853
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
                     [
                         1265,
                         1465
@@ -305,7 +341,7 @@
     },
     {
         "source": "ABSTRACT.BACKGROUND.\nThis study was designed to determine whether small diameter needles for oocyte retrieval alter oocyte yields in patients undergoing IVF in comparison to standard large diameter needles.\n\nABSTRACT.METHODS.\nWe conducted a prospective pilot study of 21 consecutive favorable prognosis patients. In each patient one ovary was randomly allocated to retrieval with either a 20 G/ 35 mm (thin) or 17 G/ 35 mm (standard) needle, the other ovary was then retrieved with the opposite needle.\n\nABSTRACT.RESULTS.\nThe standard diameter needle was used to collect a total of 215 oocytes from 355 aspirated follicles (60.6%) compared to 203 oocytes from 352 aspirated follicles (57.7%) with the thinner needle (p = 0.23). Stratifying outcomes by anti-Mu\u0308llerian hormone (AMH), as indicator of ovarian reserve, and by body mass index (BMI) the oocyte yields, still, did not differ (AMH, r (17) = \u22120.20, p = 0.44; BMI, r (17) =0.02, p = 0.96). Outcomes also did not vary among women with diminished ovarian reserve (p = 0.17) and in women with normal ovarian reserve (p = 1.00). Operating time was, however, significantly increased by 3.3 minutes per ovary (z = \u22123.08, p = 0.002) with the thinner needle.\n\nABSTRACT.CONCLUSIONS.\nNeedle diameter does not affect oocyte yield, including in obese patients and patients with diminished ovarian reserve. Thinner needles appear to significantly prolong operating time.",
-        "target": "Scientists did a study to see if using smaller needles to collect eggs from a woman's ovaries (for a process called IVF) would collect fewer eggs than with bigger needles. They tried both needle sizes on 21 ladies. The results showed that the needle size didn't really make a difference in how many eggs they got. But they noticed that using the smaller needle took a little bit more time.",
+        "target": "In this test, the standard needle produced fewer oocytes than the thinner needle, though operating time was significantly longer with the thinner needle.",
         "edits": [
             {
                 "category": "hol_eval",
@@ -338,11 +374,23 @@
                     [
                         522,
                         727
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
                     [
                         728,
                         947
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
                     [
                         1083,
                         1208
@@ -353,7 +401,7 @@
     },
     {
         "source": "ABSTRACT.BACKGROUND::\nThe aim of this study was to examine the effects of preoperatively administered i.v. hypertonic saline on hypotension following induction of general anesthesia.\n\nABSTRACT.MATERIALS AND METHODS::\nFifty-four patients who scheduled for elective surgery were randomly allocated to two groups of 27 patients who received hypertonic saline 5% (2.3 ml/kg) or received normal saline (13 ml/kg). Infusion of hypertonic saline was done half an hour before induction of anesthesia during 30 minutes. Anesthesia was conducted in a standard protocol for all patients. Age, sex, body mass index (BMI), systolic and diastolic blood pressure (SBP, DBP), heart rate (HR) and mean arterial pressure (MAP) were assessed in all patients.\n\nABSTRACT.RESULTS::\nThe mean age of patients was 36.68 \u00b1 10.8 years. Forty percent of patients were male. The mean SBP at min 2 and min 5, mean of DBP at min 2, 5, and 15, mean of HR at all time points and mean of MAP at min 2 and 15 between groups were no significantly different (P &gt; 0.05), but mean of SBP at min 10 and 15, mean of DBP at min 10, and mean of MAP at min 5 and 10 in hypertonic saline group was significantly more than the normal group (P &lt; 0.05). Trend of SBP, DBP, HR and MAP between groups were not significantly different (P &gt; 0.05).\n\nABSTRACT.CONCLUSIONS::\nInfusion of hypertonic saline 5% (2.3 mg/kg) before the general anesthesia led to a useful reduction in MAP and reduced heart rate, with no episodes of severe hypotension.",
-        "target": "This study examined the effects of preoperatively administered intravenous (i.v.) hypertonic saline on hypotension following induction of general anesthesia. Fifty-four patients were randomly allocated to either a hypertonic saline 5% (2.3 ml/kg) or a normal saline (13 ml/kg) group. Infusion of hypertonic saline was done half an hour before induction of anesthesia during 30 minutes. Age, sex, body mass index (BMI), systolic and diastolic blood pressure (SBP, DBP), heart rate (HR) and mean arterial pressure (MAP) were assessed in all patients.\n\nThe mean age of patients was 36.68 \u00b1 10.8 years. Forty percent of patients were male. The mean SBP at min 2 and min 5, mean of DBP at min 2, 5, and 15, mean of HR at all time points and mean of MAP at min 2 and 15 between groups were no significantly different (P &gt; 0.05). However, mean of SBP at min 10 and 15, mean of DBP at min 10, and mean of MAP at min 5 and 10 in the hypertonic saline group was significantly more than the normal group (P &lt; 0.05). Trend of SBP, DBP, HR and MAP between groups were not significantly different (P &gt; 0.05).\n\nIn conclusion, infusion of hypertonic saline 5% (2.3 ml/kg) before the general anesthesia led to a useful reduction in MAP and reduced heart rate, with no episodes of severe hypotension.&lt;/s&gt;&lt;s&gt;",
+        "target": "\nThis study looked at how giving a special kind of salt called hypertonic saline before anesthesia affected people's blood pressure and heart rate during surgery. The study found that giving hypertonic saline before anesthesia helped keep blood pressure and heart rate stable, and didn't cause dangerous drops in blood pressure.\n\nI hope this helps! Let me know if you have any other questions.",
         "edits": [
             {
                 "category": "hol_eval",
@@ -386,7 +434,13 @@
                     [
                         846,
                         1035
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
                     [
                         1036,
                         1210
@@ -397,7 +451,7 @@
     },
     {
         "source": "ABSTRACT.BACKGROUND::\nNasal cannula, beside administering low-flow therapy, showed the capability for the administration of continuous positive airway pressure (CPAP) through high-flow nasal cannula (HFNC). Meeting specific physical criteria of 100% relative humidity (RH) and temperature of 37\u00b0C are the basic interventional requirements to administer oxygen for the newborns through a nasal cannula. Recently, two systems, MR850 and PMH7000, received the Food and Drug Administration (FDA) approval to administer heated, humidified HFNC (HHHFNC). These systems are evaluated in this study based on their humidifying and heating capabilities.\n\nABSTRACT.MATERIALS AND METHODS::\nThis study was done as an RCT on newborns weighing 1,000 to 1,500 g recovering from respiratory distress syndrome (RDS) while nCPAP was administered at CDP = 4 cmH2O, Fio2 &lt;30%. Patients were randomized to two groups of 35 receiving HHHFNC after treatment with nCPAP, with one group using MR850 humidifier and the other PMH7000. The patients were compared according to the duration of HHHFNC administration, repeated need for nCPAP respiratory support, the need for invasive ventilation, apnea, chronic lung disease (CLD), nasal trauma, RH, and temperature of the gases.\n\nABSTRACT.RESULTS::\nThe average time of support with HHHNFC did not show any significant difference in the two groups. There was no significant difference between the groups in the need for nCPAP, invasive ventilation, apnea, nasal trauma, and CLD. The difference in the levels of average temperature and humidity was significant (P value &lt;0.001).\n\nABSTRACT.CONCLUSION::\nAlthough the records of temperature and RH in the PMH7000 system was lower than the records from the MR850 system, no clinical priority was observed for respiratory support with HHHNFC in the two systems.",
-        "target": "This passage is about a scientific study. In the study, doctors used two different systems, called MR850 and PMH7000, to give humidified and heated air to newborn babies through a small tube in their nose to help them breathe better. The babies in the study were recovering from a lung condition. The doctors found out that both systems worked equally well in helping the babies. While one system (PMH7000) provided slightly lower temperature and humidity level compared to the other, it did not affect the babies' recovery. Both systems were just as good and did the job well!",
+        "target": "This study compared two systems for administering heated, humidified high-flow nasal cannula (HHHFNC) to newborns recovering from respiratory distress syndrome (RDS). The two systems were the MR850 and PMH7000, which had been approved by the Food and Drug Administration (FDA). The newborns, who weighed between 1,000 and 1,500 grams, were randomly assigned to receive either HHHFNC or continuous positive airway pressure (CPAP) through a nasal cannula. The results showed that the average time of support with HHHFNC did not differ significantly between the two groups. There was no significant difference between the groups in the need for nCPAP, invasive ventilation, apnea, nasal trauma, or chronic lung disease (CLD). The difference in temperature and humidity was significant, with the PMH7000 system having lower records than the MR850 system. Although no clinical priority was observed for respiratory support with HHHFNC in the two systems, the records of temperature and humidity in the PMH7000 system were lower than those of the MR850 system.&lt;/s&gt;&lt;s&gt;",
         "edits": [
             {
                 "category": "hol_eval",
@@ -437,7 +491,7 @@
     },
     {
         "source": "ABSTRACT.BACKGROUND.\nThe purpose of this study was to examine the effect of mental clinical nursing pathways on suicidal ideation and life quality of patients with malignant tumors.\n\nABSTRACT.METHODS.\nTwo hundred patients with malignant tumors were randomly divided into a study group and a control group, with 100 patients in each group. During the treatment, patients in the study group received mental clinical nursing pathway care, while those in the control group were given the usual nursing care, such as timely inspection, nurse's reactions to patient's behavior, and execution of medical orders. Thereafter, the \"self-rating idea of suicide scale\" and Karnofsky Performance Status (KPS) were used to compare the differences in the suicidal ideation of patients with malignant tumors between the two groups before and after the treatment.\n\nABSTRACT.RESULTS.\nThere were no statistical differences in the scores of despair factor, optimistic factor, sleep factor, and cover factor between the two groups before the treatment (P&gt;0.05). After different styles of nursing, the former four factors of patients in the study group were significantly lower than those in the control group (P&lt;0.01), while there were no significant differences in the score of cover factor between the two groups (P&gt;0.05). The KPS of patients receiving mental clinical nursing pathway care was higher than those receiving usual nursing care, and there was a statistical significant difference between the two groups (P&lt;0.01). Interestingly, the patients' suicidal ideation scale was negatively correlated with KPS (r =\u22120.29, P&lt;0.05).\n\nABSTRACT.CONCLUSION.\nFor individuals diagnosed with a malignant tumor, using a mental health clinical nursing pathway can effectively decrease the degree of suicidal ideation and positively impact the quality of life.",
-        "target": "This study examined the effect of mental clinical nursing pathways on suicidal ideation and quality of life in patients with malignant tumors. Two hundred patients were randomly assigned to either a study group or a control group. The study group received mental clinical nursing pathway care, while the control group received the usual nursing care, such as timely inspection, nurse's reactions to patient's behavior, and execution of medical orders.\n\nThe results showed that there were no significant differences in the scores of despair factor, optimistic factor, sleep factor, and cover factor between the two groups before the treatment (P&gt;0.05). After different styles of nursing, the former four factors of patients in the study group were significantly lower than those in the control group (P&lt;0.01). In addition, the KPS of patients receiving mental clinical nursing pathway care was higher than those receiving usual nursing care, and there was a statistical significant difference between the two groups (P&lt;0.01). Interestingly, the patients' suicidal ideation scale was negatively correlated with KPS (r = -0.29, P&lt;0.05).\n\nIn conclusion, for individuals diagnosed with a malignant tumor, using a mental health clinical nursing pathway can effectively decrease the degree of suicidal ideation and positively impact the quality of life.&lt;/s&gt;&lt;s&gt;",
+        "target": "\nThe study looked at how nurses helping patients with cancer feel less sad and more hopeful. They found that patients who got special nursing care had fewer thoughts of suicide and were generally happier. The nurses asked the patients how they were feeling and gave them extra help when they needed it. This made a big difference in how the patients felt about themselves and their lives.",
         "edits": [
             {
                 "category": "hol_eval",
@@ -470,11 +524,23 @@
                     [
                         1652,
                         1848
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
                     [
                         866,
                         1312
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
                     [
                         1313,
                         1518
@@ -485,7 +551,7 @@
     },
     {
         "source": "ABSTRACT.\nDietary intake/status of the trace mineral Se may affect the risk of developing hypertensive conditions of pregnancy, i.e. pre-eclampsia and pregnancy-induced hypertension (PE/PIH). In the present study, we evaluated Se status in UK pregnant women to establish whether pre-pregnant Se status or Se supplementation affected the risk of developing PE/PIH. The samples originated from the SPRINT (Selenium in PRegnancy INTervention) study that randomised 230 UK primiparous women to treatment with Se (60 \u03bcg/d) or placebo from 12 weeks of gestation. Whole-blood Se concentration was measured at 12 and 35 weeks, toenail Se concentration at 16 weeks, plasma selenoprotein P (SEPP1) concentration at 35 weeks and plasma glutathione peroxidase (GPx3) activity at 12, 20 and 35 weeks. Demographic data were collected at baseline. Participants completed a FFQ. UK pregnant women had whole-blood Se concentration lower than the mid-range of other populations, toenail Se concentration considerably lower than US women, GPx3 activity considerably lower than US and Australian pregnant women, and low baseline SEPP1 concentration (median 3\u00b700, range 0\u00b790\u20135\u00b780 mg/l). Maternal age, education and social class were positively associated with Se status. After adjustment, whole-blood Se concentration was higher in women consuming Brazil nuts (P= 0\u00b7040) and in those consuming more than two seafood portions per week (P= 0\u00b7054). A stepwise logistic regression model revealed that among the Se-related risk factors, only toenail Se (OR 0\u00b738, 95 % CI 0\u00b717, 0\u00b787, P= 0\u00b7021) significantly affected the OR for PE/PIH. On excluding non-compliers with Se treatment, Se supplementation also significantly reduced the OR for PE/PIH (OR 0\u00b730, 95 % CI 0\u00b709, 1\u00b700, P= 0\u00b7049). In conclusion, UK women have low Se status that increases their risk of developing PE/PIH. Therefore, UK women of childbearing age need to improve their Se status.",
-        "target": "In the present study, we observed Se status in UK pregnant women to determine whether pre-pregnant status or Se supplementation affected the risk of developing PE/PIH.",
+        "target": "This study looked at the dietary intake and status of the trace mineral Se in pregnant women in the UK, to determine whether this could affect the risk of developing hypertensive conditions of pregnancy, such as pre-eclampsia and pregnancy-induced hypertension (PE/PIH). The results showed that UK pregnant women have lower Se status than the mid-range of other populations, as well as lower levels of the selenoprotein P (SEPP1) and glutathione peroxidase (GPx3) which are involved in Se metabolism. Women consuming Brazil nuts and more than two seafood portions per week had higher Se status. After adjusting for other factors, it was found that lower levels of Se in the toenails was associated with an increased risk of PE/PIH. Additionally, Se supplementation was found to reduce the risk of PE/PIH. These results suggest that UK pregnant women need to improve their Se status in order to reduce their risk of developing hypertensive conditions of pregnancy.&lt;/s&gt;&lt;s&gt;",
         "edits": [
             {
                 "category": "hol_eval",
@@ -518,7 +584,13 @@
                     [
                         1250,
                         1424
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
                     [
                         1609,
                         1759
@@ -529,7 +601,7 @@
     },
     {
         "source": "ABSTRACT.\nDifferent amounts of ingested alcohol can have distinct effects on the human body. However, there is limited research on chronic alcohol consumption with Helicobacter pylori infection. We sought to investigate the relationship between the cytokine profile, oxidative balance and H. pylori infection in subjects with chronic alcohol consumption. A total of 142 subjects were divided into three groups: 59 subjects with chronic alcohol ingestion and H. pylori infection (group A); 53 subjects with chronic alcohol ingestion without H. pylori infection (group B); and 30 control subjects (group C). The serum levels of CagA, interleukin (IL)-10, E-selectin, TNF-\u03b1, malondialdehyde (MDA) and superoxide dismutase (SOD) activity were measured by enzyme-linked immunosorbent assay (ELISA). We found that the ages and serum H. pylori CagA levels among the three groups, as well as both the mean drinking age and the mean daily alcohol consumption between groups A and B, were matched and comparable. Comparing the BMIs among the three groups, the BMI differences were found to be statistically significant (F=3.921, P&lt;0.05). Compared with group C, the BMIs in groups A and B were significantly higher (P&lt;0.001 and P&lt;0.01, respectively); however, the BMI differences between group A and group B were not statistically significant (P&gt;0.05). Additionally, no differences in the serum CagA levels were found in comparisons among the groups (all P&gt;0.05). The serum IL-10 and E-selectin levels in group A were significantly lower than those in group B (serum IL-10: P&lt;0.05; E-selectin: P&lt;0.05). The serum IL-10 in group A was significantly higher than that in group C (P&lt;0.01); the serum E-selectin levels in group A did not significantly differ compared with those in group C (P&gt;0.05). Furthermore, the serum IL-10 and E-selectin levels in group B were significantly higher than those in group C (serum IL-10: P&lt;0.001; E-selectin: P&lt;0.05); however, the serum TNF-\u03b1 levels did not differ among groups (all P&gt;0.05). Although the serum levels of MDA and SOD in groups A and B were slightly lower than those in group C, there were no significant differences among groups (all P&gt;0.05). In conclusion, we believe that H. pylori infection might cause a significant inhibition of certain cytokine profiles in subjects with chronic alcohol ingestion. Moreover, chronically ingested alcohol may exert an adjusted inflammatory effect, but there was no association between H. pylori infection, chronic alcohol consumption and oxidative balance.",
-        "target": "This is a scientific study summary. Scientists wanted to see if drinking alcohol a lot over a long time affected people differently if they had an infection from a germ called H. pylori. They studied 142 people, some who have the infection and drink alcohol, some who drink alcohol but don't have the infection, and a group who were healthy, which they used as a control or comparison group. \n\nThey examined everyone's blood to measure certain things that can show how your body reacts to infections and alcohol. They didn't find a huge difference in those measures between those with the infection and those without the infection who consume alcohol. Basically, the researchers found that having this infection, while also drinking alcohol chronically, affects some of the substances your body produces to fight off diseases. However, drinking alcohol alone or having the infection alone does not seem to affect the body's ability to stay balanced. \n\nIn simpler terms, scientists found out that drinking a lot of alcohol over time can affect some of your body's alarms (those substances they measured) if you have this specific germ. But, just drinking alcohol a lot or just having the infection doesn't seem to throw your body's balance off.",
+        "target": "Different amounts of ingested alcohol can have distinct effects on the human body. However, there is limited research on chronic alcohol consumption in combination with Helicobacter pylori infection. We sought to investigate the relationship between the cytokine profile, oxidative balance, and H. pylori infection in subjects with chronic alcohol consumption. A total of 142 subjects were divided into three groups: 59 subjects with chronic alcohol ingestion and H. pylori infection (group A); 53 subjects with chronic alcohol ingestion without H. pylori infection (group B); and 30 control subjects (group C). The serum levels of CagA, interleukin (IL)-10, E-selectin, tumor necrosis factor-alpha (TNF-alpha), malondialdehyde (MDA), and superoxide dismutase (SOD) activity were measured by enzyme-linked immunosorbent assay (ELISA). We found that the ages and serum H. pylori CagA levels among the three groups, as well as both the mean drinking age and the mean daily alcohol consumption between groups A and B, were matched and comparable. Comparing the body mass indices (BMIs) among the three groups, the BMI differences were found to be statistically significant (F=3.921, P&lt;0.05). Compared with group C, the BMIs in groups A and B were significantly higher (P&lt;0.001 and P&lt;0.01, respectively); however, the BMI differences between group A and group B were not statistically significant (P&gt;0.05). Additionally, no differences in the serum CagA levels were found in comparisons among the groups (all P&gt;0.05). The serum IL-10 and E-selectin levels in group A were significantly lower than those in group B (serum IL-10: P&lt;0.05; E-selectin: P&lt;0.05). The serum IL-10 in group A was significantly higher than that in group C (P&lt;0.01); the serum E-selectin levels in group A did not significantly differ compared with group C (P&gt;0.05). Furthermore, the serum IL-10 and E-selectin levels in group B were significantly higher than those in group C (serum IL-10: P&lt;0.001; E-selectin: P&lt;0.05); however, the serum TNF-alpha levels did not differ among groups (all P&gt;0.05). Although the serum levels of MDA and SOD in groups A and B were slightly lower than those in group C, there were no significant differences among groups (all P&gt;0.05). In conclusion, we believe that H. pylori infection might cause a significant inhibition of certain cytokine profiles in subjects with chronic alcohol ingestion. Moreover, chronically ingested alcohol may exert an adjusted inflammatory effect, but there was no association between H. pylori infection, chronic alcohol consumption, and oxidative balance.&lt;/s&gt;&lt;s&gt;",
         "edits": [
             {
                 "category": "hol_eval",
@@ -562,15 +634,33 @@
                     [
                         1980,
                         2047
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
                     [
                         1468,
                         1612
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
                     [
                         1613,
                         1810
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
                     [
                         1811,
                         1970
@@ -581,7 +671,7 @@
     },
     {
         "source": "ABSTRACT.INTRODUCTION:.\nThere is debate on renal graft stenting during ureteroneocystostomy, patients with ureteral stents may encounter several complications such as encrustation, stent crustation which can lead to loss of kidney, and complications related to stent extraction: pain and UTI increasing related to cystoscopy for stent extraction accompanying excess expenses. This study designed to reduce complications related to stent extraction.\n\nABSTRACT.MATERIAL AND METHODS:.\n90 patients prepared for renal transplantation during 1 year randomly classified to groups, study group: patients with attached stent to Foley catheter, control group: patients with conventional technique (stent separated from Foley) then in their follow up; UTI, stent crustation, luts severity compared to each other.\n\nABSTRACT.RESULTS:.\nSecond week and fourth week UTI reported 25.6%, 2.3% in study group versus 34.9%, 4.7% in control group (P value 0.48 and 0.5). Urinary leakage was 3.3% overall, that all of them occurred in separate stent group, 37.5% vs. 0% in the linked stent group. Stent crustation in separate stent was 25% compared with 0% in the linked stent.\n\nABSTRACT.CONCLUSION:.\nLow complications rate in linked stent group, despite the lack of significant statistical differences, but indicate the effectiveness and success of the new technique.",
-        "target": "This study compared two different techniques for removing ureteral stents after kidney transplant surgery. The study found that the linked stent technique had a lower complication rate than the separate stent technique, despite there being no significant statistical differences between the two. This suggests that the linked stent technique is effective and successful.&lt;/s&gt;&lt;s&gt;",
+        "target": "\nThe study looked at two groups of people who were having a kidney transplant. One group had a special kind of tube called a stent inside their bladder to help their new kidney work properly. The other group had a different kind of tube that was not attached to their bladder. The study found that the group with the special stent inside their bladder had fewer problems with urine leaking and less crusting inside their bladder compared to the other group.\n\n\n",
         "edits": [
             {
                 "category": "hol_eval",
@@ -614,11 +704,23 @@
                     [
                         950,
                         1155
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
                     [
                         822,
                         949
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
                     [
                         1179,
                         1281
@@ -629,7 +731,7 @@
     },
     {
         "source": "ABSTRACT.BACKGROUND.\nThe increased risk of abacavir in cardiovascular disease (CVD) in HIV-infected patients is still being debated. Maraviroc, a CCR5 blocker, has been shown to decrease immune activation and monocyte infiltration in atherosclerotic plaques in murine experiments. Therefore, we examined the effect of maraviroc intensification on flow-mediated dilatation (FMD) in abacavir-treated HIV-infected patients and its effect on immunological and inflammatory parameters.\n\nABSTRACT.METHODS.\nA open-label prospective crossover study with a duration of 16 weeks: 8 weeks of intervention (maraviroc intensification) and 8 weeks of control (unchanged cART regimen). FMD, HIV-specific variables, expression of HIV co-receptors, markers of inflammation and coagulation and cellular markers of immune activation were measured at weeks 0, 8 and 16. The changes (\u0394) in these variables were compared between intervention and control periods using non-parametric tests. To evaluate the relation with the change in FMD, linear regression modeling was used.\n\nABSTRACT.RESULTS.\nTwenty-one male patients with suppressed plasma HIV-RNA, on cART, had a known HIV infection for 9.2 years (IQR 6.9\u201313.5) with abacavir use for 6.5 years (2.8\u20139.3). A significantly increased FMD of 0.73% (IQR \u22120.25 to 1.70) was seen after maraviroc intensification compared to a decrease of \u22120.42% (IQR \u22121.89 to 0.25; p = 0.049) in the control period. There was a negative relation between \u0394FMD with \u0394D-dimer (\u03b2 \u221222.70, 95% CI \u221239.27; \u22126.13, p = 0.011) and \u0394CD95+ CD4+ T cells (\u03b2 \u22120.16, 95% CI \u22120.28; \u22120.04, p = 0.013), adjusted for age and duration of HIV.\n\nABSTRACT.CONCLUSION.\nMaraviroc intensification modestly improves endothelial function in HIV-infected patients on an abacavir-containing regimen.\n\nABSTRACT.TRIAL REGISTRATION.\nNCT01389063.\n\nABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL.\nThe online version of this article (doi:10.1007/s40121-016-0115-0) contains supplementary material, which is available to authorized users.",
-        "target": "This study examined the effect of maraviroc intensification on flow-mediated dilatation (FMD) in HIV-infected patients on abacavir-containing regimens. FMD was found to be increased after maraviroc intensification compared to a decrease in the control period. There was a negative relation between FMD change and D-dimer and CD95+ CD4+ T cells, suggesting that maraviroc intensification may improve endothelial function in HIV-infected patients on abacavir-containing regimens.&lt;/s&gt;&lt;s&gt;",
+        "target": "Scientists were studying if a medicine called Maraviroc could help heart problems in people with HIV who are also taking a drug called abacavir. They did a test on 21 men for 16 weeks: for half that time, they added Maraviroc to their normal medicines; for the other half, they only took their usual medicines. They found that the men's bodies responded slightly better to the blood flow after they'd taken Maraviroc. So, the scientists think that Maraviroc could help to improve heart health in people with HIV who are taking abacavir.",
         "edits": [
             {
                 "category": "hol_eval",
@@ -662,7 +764,13 @@
                     [
                         1237,
                         1423
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
                     [
                         1652,
                         1776
@@ -673,7 +781,7 @@
     },
     {
         "source": "ABSTRACT.BACKGROUND:.\nPost- and intra-operative shivering is one of the most complications of spinal anesthesia so recommend a suitable drug with at least complications for prevention and control of postoperative shivering. This current study aimed to compare the preventive effect of hydrocortisone on intra- and post-operative shivering in patients undergoing surgery with spinal anesthesia.\n\nABSTRACT.MATERIALS AND METHODS:.\nIn a clinical trial study, ninety patients who candidate for surgery with spinal anesthesia were selected and randomly divided into three groups. The first and second groups were received 1 mg/kg and 2 mg/kg hydrocortisone, respectively, and the third group was received normal saline, and postoperative shivering was compared between the three groups.\n\nABSTRACT.RESULTS:.\nThe investigation of the incidence of inter- and post-operative shivering in patients in the three groups revealed that within the study period, 31 patients suffered from shivering among which 9, 5, and 17 cases were in 1 mg/kg hydrocortisone group, 2 mg/kg hydrocortisone group, and placebo group, respectively, and according to the Chi-square test, the difference among the three groups was significant (P = 0.004).\n\nABSTRACT.CONCLUSION:.\nAccording to the obtained results, the overall conclusion of the study is that using hydrocortisone at least with the dose of 1 mg/kg as a preventive drug reduced the incidence of intra- and post-operative shivering with spinal anesthesia.",
-        "target": "Doctors wanted to see if a drug called hydrocortisone could help stop people from shivering after they have surgery with a certain type of numbing medication called spinal anesthesia. They tested it on 90 people that were about to have surgery. Some people got 1 mg/kg of hydrocortisone, some got 2 mg/kg, and the rest got a saline solution, which is like a placebo or \"fake\" drug. They found out that the people who got hydrocortisone shivered less than the people who got the placebo. So, they concluded that hydrocortisone can help prevent shivering after surgery when using spinal anesthesia.",
+        "target": "This passage is talking about a study that was performed to try and help patients who get the shivers after or during their surgery. This shivering happens a lot when the patient gets spinal anesthesia, which is a special medication to make they don't feel any pain. So, the doctors wanted to find a medicine that can help stop these shivers, but without causing other problems. \n\nThey chose to test a medicine called hydrocortisone. They broke up 90 patients who were about to have surgery into three groups. The first group was given 1 milligram for each kilogram they weighed of the hydrocortisone, and the second group got 2 milligrams for each kilogram they weighed. The third group got a shot of salt water, which is what we call a placebo.\n\nThey found out that the group that got the most shivers was the one who got the salt water shot. So, the medication did help to reduce the shivering, and it worked better with the smaller dose. This study suggests that giving hydrocortisone to patients who are getting spinal anesthesia could help prevent them from getting the shivers.",
         "edits": [
             {
                 "category": "hol_eval",
@@ -746,7 +854,13 @@
                     [
                         815,
                         937
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
                     [
                         939,
                         1179
@@ -797,7 +911,7 @@
     },
     {
         "source": "ABSTRACT.INTRODUCTION:.\nLichen planus (LP) is a chronic inflammatory, autoimmune, mucocutaneous disease of unknown etiology. The first line of treatment for oral LP (OLP) has been corticosteroids, but because of their adverse effects, alternative therapeutic approaches are being carried out, of which the recent natural alternative is propolis.\n\nABSTRACT.AIM:.\nThis study aims to evaluate the efficacy of topical propolis in the management of OLP.\n\nABSTRACT.MATERIALS AND METHODS:.\nThe research group consisted of 27 patients diagnosed with symptomatic OLP, among which 15 patients were in the control group and the rest 12 were in the study group. The patients in the control group received triamcinolone acetonide 0.1% (topical application) while the patients in the study group received propolis gel. Both the groups were evaluated for pain and erythema at baseline (1st visit), first follow-up (7th day), and second follow-up (14th day) using numerical rating scale and modified oral mucositis index.\n\nABSTRACT.RESULTS:.\nThe patients in both the study and control groups showed a statistically significant reduction (P = 0.000 for the study group and P = 0.000 for the control group) in pain and erythema scores from baseline to second follow-up visit. However, on comparison of the reduction in pain and erythema scores between the two groups, the difference was found to be statistically insignificant (P = 0.255).\n\nABSTRACT.STATISTICAL ANALYSIS USED:.\nChi-square and Cramer's V test were used.\n\nABSTRACT.CONCLUSION:.\nThe topical propolis was found to be of comparative effectiveness with respect to triamcinolone acetonide 0.1% in the management of OLP.",
-        "target": "This study investigated the effectiveness of a propolis gel compared to a corticosteroid cream in the treatment of oral lichen planus. The study included 27 patients with symptomatic oral lichen planus. The patients were divided into two groups, with 15 in the control group receiving a corticosteroid cream and 12 in the study group receiving the propolis gel. Both groups were evaluated for pain and erythema at three different time points over a two-week period. The results showed that both groups experienced a reduction in pain and erythema scores from baseline to the second follow-up visit. However, there was no significant difference in the reduction of pain and erythema scores between the two groups. In conclusion, the results of this study suggest that the propolis gel is comparable in effectiveness to a corticosteroid cream in the management of oral lichen planus.&lt;/s&gt;&lt;s&gt;",
+        "target": "Lichen planus (LP) is a chronic inflammatory, autoimmune, mucocutaneous disease of unknown etiology. The first line of treatment for oral LP has been corticosteroids, but because of their adverse effects, alternative therapeutic approaches are being carried out, of which the recent natural alternative is propolis. This study aims to evaluate the efficacy of topical propolis in the management of OLP.",
         "edits": [
             {
                 "category": "hol_eval",
@@ -830,7 +944,13 @@
                     [
                         1258,
                         1421
-                    ],
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
                     [
                         1026,
                         1256
@@ -841,7 +961,7 @@
     },
     {
         "source": "ABSTRACT.BACKGROUND:\nIt has been suggested that liraglutide could have an impact on glucose and lipid metabolism disorder and adhesion molecule activation, which may play important roles in the vascular damage of diabetes. In this study, we examined the effects of liraglutide versus metformin on non-esterified free fatty acids, beta-cell insulin secretion, and adhesion molecule levels in patients with recent-onset type 2 diabetes mellitus.\n\nABSTRACT.METHODS:\nIn this study, 60 patients newly diagnosed with type 2 diabetes mellitus (mean age 33.97\u2009\u00b1\u20095.67\u00a0years) were randomly assigned to receive once-daily subcutaneous liraglutide or oral metformin. Before the study and after the 8-week treatment period, a 75\u00a0g oral glucose tolerance test was performed. Plasma glucose, lipids and lipoprotein, plasma insulin, glycaemic and insulin responses, non-esterified free fatty acids (NEFA), and soluble vascular cell adhesion molecule-1 (sVCAM-1) levels were evaluated.\n\nABSTRACT.RESULTS:\nAfter 8\u00a0weeks, 120\u00a0min of NEFA (155\u2009\u00b1\u2009125 vs 99\u2009\u00b1\u200973\u00a0\u00b5mol/L, P\u2009=\u20090.026) and the levels of sVCAM-1 (465\u2009\u00b1\u2009136 vs 382\u2009\u00b1\u2009131\u00a0ng/ml, P\u2009=\u20090.013) significantly decreased, while the early phase insulin secretion index (24.94 [7.78, 38.89] vs. 31.13 [17.67, 59.09], P\u2009=\u20090.031), fasting plasma insulin (104 [51, 123] vs 113 [54, 171]\u00a0mIU/L, P\u2009=\u20090.015), 60\u00a0min plasma insulin (326 [165, 441] vs 471 [334, 717]\u00a0mIU/L, P\u2009=\u20090.005), 120\u00a0min plasma insulin (401 [193, 560] vs 500 [367, 960]\u00a0mIU/L, P\u2009=\u20090.047), and insulin area under the curve (AUCins) (648 [321, 742] vs 738 [451, 1118]\u00a0mIU/L, P\u2009=\u20090.005) remarkably increased for patients in the liraglutide treatment group. The levels of sVCAM-1 dramatically decreased after 8\u00a0weeks of liraglutide treatment (503\u2009\u00b1\u2009182 vs 382\u2009\u00b1\u2009131\u00a0ng/ml, P\u2009=\u20090.046) compared to that of the metformin treatment group. At the same time, the differences before and after liraglutide treatment in 120\u00a0min of NEFA (\u2212\u200932 [\u2212\u200996, \u2212\u20095] vs 5 [\u2212\u200935, 38]\u00a0\u00b5mol/L, P\u2009=\u20090.033) and AUCins (738 [451, 1118] vs 594 [357, 1216]\u00a0mIU/L, P\u2009=\u20090.014) were remarkably enhanced compared to that of the metformin therapy. Nevertheless, there were no significant differences in fasting NEFA after liraglutide or metformin treatment. The reduction of 120\u00a0min NEFA (\u0394NEFA) was positively correlated with the decrease of sVCAM-1 (\u0394sVCAM-1) after 8\u00a0weeks of liraglutide treatment (r\u2009=\u20090.523, P\u2009=\u20090.003).\n\nABSTRACT.CONCLUSIONS:\nOur results demonstrate that liraglutide administration is more effective than metformin in reducing 120\u00a0min NEFA and suppressing sVCAM-1 levels for recent-onset type 2 diabetes mellitus. We suggest that this outcome may be because liraglutide is associated with potentiating insulin secretion capacity, inhibiting vascular inflammatory cytokines, and antagonizing atherosclerosis.\n\nABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL:\nThe online version of this article (10.1186/s12933-018-0701-4) contains supplementary material, which is available to authorized users.",
-        "target": "Liraglutide is esirating insulin secretion capacity, attenuating vascular inflammatory cytokines, and antagonizing atherosclerosis.",
+        "target": "\nThis article is about a special medicine called liraglutide. It helps people with type 2 diabetes, which is a sickness that makes it hard to control blood sugar levels. The medicine was tested in people who recently got type 2 diabetes, and it was compared to another medicine called metformin.\nThe medicine liraglutide worked better than metformin at lowering the amount of fat in the blood after 8 weeks. It also helped reduce a protein called sVCAM-1 that is linked to inflammation in the body.\nThe study shows that liraglutide is more effective than metformin in reducing the amount of fat in the blood and suppressing inflammation in people with recent-onset type 2 diabetes.\n\nI hope this helps! Let me know if you have any other questions.",
         "edits": [
             {
                 "category": "hol_eval",
