@@ -19,7 +19,7 @@ interface_text:
 prepend_instructions: true
 
 gdrive_save:
-  folder_id: "1yAH21z5HyPlbU3n0mPejyjcb6ZaaHRPd"
+  folder_id: "1r0H4WvqAGgz9SIacZd3i4TsEEob3HRFY"
   file_prefix: "hello_anno"
 
 
