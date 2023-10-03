@@ -19,7 +19,7 @@ interface_text:
 prepend_instructions: true
 
 gdrive_save:
-  folder_id: "1nOendark6xAhpdgOMVpn547syEMeoega"
+  folder_id: "12z2aV9dThRJEqdTZmgeCLHLSBFYfhtTY"
   file_prefix: "anno2_split0"
 
 
