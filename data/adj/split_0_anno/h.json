@@ -1,0 +1,2905 @@
+[
+    {
+        "source": "ABSTRACT.BACKGROUND:\nMetabolic syndrome is a cluster of common cardiovascular risk factors that includes hypertension and insulin resistance. Hypertension and diabetes mellitus are frequent comorbidities and, like metabolic syndrome, increase the risk of cardiovascular events. Telmisartan, an antihypertensive agent with evidence of partial peroxisome proliferator-activated receptor activity-gamma (PPAR\u03b3) activity, may improve insulin sensitivity and lipid profile in patients with metabolic syndrome.\n\nABSTRACT.METHODS:\nIn a double-blind, parallel-group, randomized study, patients with World Health Organization criteria for metabolic syndrome received once-daily doses of telmisartan (80 mg, n = 20) or losartan (50 mg, n = 20) for 3 months. At baseline and end of treatment, fasting and postprandial plasma glucose, insulin sensitivity, glycosylated haemoglobin (HBA1c) and 24-hour mean systolic and diastolic blood pressures were determined.\n\nABSTRACT.RESULTS:\nTelmisartan, but not losartan, significantly (p &lt; 0.05) reduced free plasma glucose, free plasma insulin, homeostasis model assessment of insulin resistance and HbAic. Following treatment, plasma glucose and insulin were reduced during the oral glucose tolerance test by telmisartan, but not by losartan. Telmisartan also significantly reduced 24-hour mean systolic blood pressure (p &lt; 0.05) and diastolic blood pressure (p &lt; 0.05) compared with losartan.\n\nABSTRACT.CONCLUSION:\nAs well as providing superior 24-hour blood pressure control, telmisartan, unlike losartan, displayed insulin-sensitizing activity, which may be explained by its partial PPAR\u03b3 activity.",
+        "target": "Metabolic syndrome is a group of risk factors for heart disease, including high blood pressure and insulin resistance. Losartan, an antihypertensive agent, was compared to telmisartan, which has evidence of partial peroxisome proliferator-activated receptor activity-gamma (PPAR\u03b3) activity. The study found that telmisartan, but not losartan, reduced free plasma glucose, free plasma insulin, homeostasis model assessment of insulin resistance and HbA1c. It also reduced 24-hour mean systolic and diastolic blood pressures compared to losartan. These results suggest that telmisartan may be more effective than losartan in treating metabolic syndrome.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_3"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "Explain \"partial peroxisome proliferator-activated receptor activity-gamma (PPAR\u03b3) activity\" more. \nExplain or rephrase terms like \"homeostasis modell, HbA1c, free plasma glucose..\" "
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_2"
+                    },
+                    "pico_inter_rat": "Intervention (comparison of losartan and telmisartan) is mentioned but as the population is missing an important part of intervention is missing as well "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_2"
+                    },
+                    "pico_comp_rat": "Comparison of Losartan and Telmisartan are mentioned but I would prefer a better explanation of telmisartan (instead of the explanation about PPaRy activity) "
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_1"
+                    },
+                    "pico_out_rat": "Outcome (treatment of metabolic syndrome) is mentioned "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        969,
+                        1139
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "Accurate: It contains all important information regarding the result "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 1,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_4"
+                    },
+                    "pico_pop_rat": "n=20: is missing \npat. with criteria for metabolic syndrome: is missing "
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_1"
+                    },
+                    "pico_inter_rat": "comparison of losartan and telmisartan is mentioned. \n"
+                }
+            }
+        ],
+        "_thresh_id": 1
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nMetabolic syndrome is a cluster of common cardiovascular risk factors that includes hypertension and insulin resistance. Hypertension and diabetes mellitus are frequent comorbidities and, like metabolic syndrome, increase the risk of cardiovascular events. Telmisartan, an antihypertensive agent with evidence of partial peroxisome proliferator-activated receptor activity-gamma (PPAR\u03b3) activity, may improve insulin sensitivity and lipid profile in patients with metabolic syndrome.\n\nABSTRACT.METHODS:\nIn a double-blind, parallel-group, randomized study, patients with World Health Organization criteria for metabolic syndrome received once-daily doses of telmisartan (80 mg, n = 20) or losartan (50 mg, n = 20) for 3 months. At baseline and end of treatment, fasting and postprandial plasma glucose, insulin sensitivity, glycosylated haemoglobin (HBA1c) and 24-hour mean systolic and diastolic blood pressures were determined.\n\nABSTRACT.RESULTS:\nTelmisartan, but not losartan, significantly (p &lt; 0.05) reduced free plasma glucose, free plasma insulin, homeostasis model assessment of insulin resistance and HbAic. Following treatment, plasma glucose and insulin were reduced during the oral glucose tolerance test by telmisartan, but not by losartan. Telmisartan also significantly reduced 24-hour mean systolic blood pressure (p &lt; 0.05) and diastolic blood pressure (p &lt; 0.05) compared with losartan.\n\nABSTRACT.CONCLUSION:\nAs well as providing superior 24-hour blood pressure control, telmisartan, unlike losartan, displayed insulin-sensitizing activity, which may be explained by its partial PPAR\u03b3 activity.",
+        "target": "Metabolic syndrome is a condition that comes with several health issues like high blood pressure and problems in how the body uses sugar. Both the condition and its individual issues can lead to heart disease. There's a medicine named Telmisartan that doctors give people with high blood pressure. People think it could also help with how the body uses sugar and might improve other aspects of metabolic syndrome.\n\nThey did a trial where they picked some patients who had metabolic syndrome and divided them into two groups. For three months, one group took Telmisartan every day, while the other group took another drug named Losartan.\n\nBy the end of the trial, the group that took Telmisartan showed better results. They had lower sugar levels, the body used sugar more efficiently, and lower hemoglobin A1c, a measure of blood sugar over time. They also had lower blood pressure at all times compared to those who took Losartan. It seems that Telmisartan helped the body use sugar more efficiently partly because it works partially as a PPAR\u03b3 controller (which is like a switch inside your cells that helps manage sugar and fat). \n\nIn summary, the medicine Telmisartan was better at managing blood pressure and helped improve how the body uses sugar, unlike Losartan. This means it could be useful for people suffering from metabolic syndrome.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_3"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": ".",
+                    "final_comments": "Better explanation of medical terms than in the first model summary. good introduction and explanation of metabolic syndrome and its impact on health issues "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_1"
+                    },
+                    "pico_pop_rat": "Important aspects are mentioned: Two groups with different drugs, pat. with metabolic syndrome "
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_1"
+                    },
+                    "pico_inter_rat": "comparison of both drugs are mentioned as well as the structure of the study (two groups with pat. with metabolic syndrome) "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_1"
+                    },
+                    "pico_comp_rat": "."
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_1"
+                    },
+                    "pico_out_rat": "Outcome Telmisartan might be useful for people with metabolic syndrome is mentioned "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        969,
+                        1139
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "results are mentioned and even explained. Therefore non medical people can understand the results "
+                }
+            }
+        ],
+        "_thresh_id": 2
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nMetabolic syndrome is a cluster of common cardiovascular risk factors that includes hypertension and insulin resistance. Hypertension and diabetes mellitus are frequent comorbidities and, like metabolic syndrome, increase the risk of cardiovascular events. Telmisartan, an antihypertensive agent with evidence of partial peroxisome proliferator-activated receptor activity-gamma (PPAR\u03b3) activity, may improve insulin sensitivity and lipid profile in patients with metabolic syndrome.\n\nABSTRACT.METHODS:\nIn a double-blind, parallel-group, randomized study, patients with World Health Organization criteria for metabolic syndrome received once-daily doses of telmisartan (80 mg, n = 20) or losartan (50 mg, n = 20) for 3 months. At baseline and end of treatment, fasting and postprandial plasma glucose, insulin sensitivity, glycosylated haemoglobin (HBA1c) and 24-hour mean systolic and diastolic blood pressures were determined.\n\nABSTRACT.RESULTS:\nTelmisartan, but not losartan, significantly (p &lt; 0.05) reduced free plasma glucose, free plasma insulin, homeostasis model assessment of insulin resistance and HbAic. Following treatment, plasma glucose and insulin were reduced during the oral glucose tolerance test by telmisartan, but not by losartan. Telmisartan also significantly reduced 24-hour mean systolic blood pressure (p &lt; 0.05) and diastolic blood pressure (p &lt; 0.05) compared with losartan.\n\nABSTRACT.CONCLUSION:\nAs well as providing superior 24-hour blood pressure control, telmisartan, unlike losartan, displayed insulin-sensitizing activity, which may be explained by its partial PPAR\u03b3 activity.",
+        "target": "\nThis study looked at two medications, telmisartan and losartan, to see which one is better for people with a condition called metabolic syndrome. Metabolic syndrome is when you have a bunch of health problems like high blood pressure and high blood sugar. The study found that telmisartan is better than losartan because it helps lower blood sugar and blood pressure more than losartan does. Telmisartan also helps your body use insulin better, which can help prevent health problems like diabetes.\nSo, telmisartan is like a superhero for your body! It helps keep your blood sugar and blood pressure under control, and it even has special powers that help your body use insulin better.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_2"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "- So, telmisartan is like a superhero for your body!- Those interpretations can be quite dangerous. \n-special powers- do not use that. Rather explain briefly how the drug works \n- explain briefly how losartan and telmisartan work "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_4"
+                    },
+                    "pico_pop_rat": "totally missing. Please mention the two groups that contains of people with metabolic syndrome "
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_3"
+                    },
+                    "pico_inter_rat": "Some aspects of the intervention are missing (3 months, 2 groups) "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_2"
+                    },
+                    "pico_comp_rat": "losartan is not explained"
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_2"
+                    },
+                    "pico_out_rat": "Outcome (impact on metabolic syndrome) is mentioned but due to its interpretation deformed"
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        969,
+                        1139
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "Some aspects of the results are mentioned but a few are missing (HbA1c). The interpretation of the results (telmisartan is like a superhero for your body) is inaccurate. "
+                }
+            }
+        ],
+        "_thresh_id": 3
+    },
+    {
+        "source": "ABSTRACT.\nThalassemia is the commonest single gene disorder in India. About 10,000 infants with Thalassemia major are born every year. The present study was under taken with a hope to prevail better quality of life to the Thalassemic patients. Pallor being the chief complaint, a randomized controlled trial was undertaken with Dhatri Avaleha as it is specially mentioned for Pandu, Kamala & Haleemaka Roga. Children between age group of 1 to 15 years were randomly divided in two groups: Drug treated group (Group A) and Control group (Group B). Assessment was done on subjective and objective parameters after 30 and 60 days of treatment with follow up of two month. Statistically significant (P&lt;0.01) result was obtained in Blood transfusion interval in group 'A' in comparison to group 'B'. Dhatri Avaleha may have a potential to increase blood transfusion interval and decrease secondary infection and thus it can be used as supportive therapy with modern medical management.",
+        "target": "Thalassemia is a genetic disorder that is common in India, with around 10,000 infants born with the condition each year. The aim of this study was to improve the quality of life for these patients. Pallor was the main complaint, so a randomized controlled trial was conducted with Dhatri Avaleha, a traditional remedy mentioned for Pandu, Kamala and Haleemaka Roga. Children between the ages of 1 and 15 were randomly divided into two groups: a drug-treated group (Group A) and a control group (Group B). Assessments were done after 30 and 60 days of treatment, with follow-up of two months. The results showed a statistically significant (P&lt;0.01) decrease in the number of blood transfusions in Group A compared to Group B. Dhatri Avaleha may have potential to reduce the number of blood transfusions, decrease the risk of secondary infections, and improve the quality of life for Thalassemic patients.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "he simplification is nearly a copy the the original. Therefore it contains all information but not so many explanations. Explain Pandu, Kamala and Haleemaka Roga more\nexplain Thalassemia more and its impact on the affected people "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_1"
+                    },
+                    "pico_pop_rat": "every important aspect is mentioned "
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_1"
+                    },
+                    "pico_inter_rat": "Control group and drug treated group and measurement days are mentioned "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_1"
+                    },
+                    "pico_comp_rat": "As the simplification is nearly a copy of the original aspect it contains all information. "
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_1"
+                    },
+                    "pico_out_rat": "Outcome (better quality of life) is mentioned "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        669,
+                        983
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "All aspects are mentioned "
+                }
+            },
+            {
+                "category": "hol_eval",
+                "id": 1,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_2"
+                    }
+                }
+            }
+        ],
+        "_thresh_id": 4
+    },
+    {
+        "source": "ABSTRACT.\nThalassemia is the commonest single gene disorder in India. About 10,000 infants with Thalassemia major are born every year. The present study was under taken with a hope to prevail better quality of life to the Thalassemic patients. Pallor being the chief complaint, a randomized controlled trial was undertaken with Dhatri Avaleha as it is specially mentioned for Pandu, Kamala & Haleemaka Roga. Children between age group of 1 to 15 years were randomly divided in two groups: Drug treated group (Group A) and Control group (Group B). Assessment was done on subjective and objective parameters after 30 and 60 days of treatment with follow up of two month. Statistically significant (P&lt;0.01) result was obtained in Blood transfusion interval in group 'A' in comparison to group 'B'. Dhatri Avaleha may have a potential to increase blood transfusion interval and decrease secondary infection and thus it can be used as supportive therapy with modern medical management.",
+        "target": "This study was done to help improve the lives of patients with Thalassemia, a blood disease that is the most common single gene disorder in India and affects about 10,000 new born babies each year. The main problem for these patients is that they look pale because their blood does not have enough healthy red cells. The researchers did an experiment with two groups of children between ages 1 to 15. One group was given a drug called Dhatri Avaleha, which is known to help with symptoms similar to those caused by Thalassemia. The other group did not receive the drug. After checking these children for 60 days, the scientists found that the children who took the drug needed blood transfusions less often than the others. This suggests that Dhatri Avaleha might be useful to help manage Thalassemia along with other medical treatments.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_3"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "- better explanation of Thalassemia than in Hit 4 (does not have enough healthy red cells) \n- better simplification of the population \n- results are not accurate: be careful with may have the potential and it does "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_1"
+                    },
+                    "pico_pop_rat": "accurate description "
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_1"
+                    },
+                    "pico_inter_rat": "Intervention (control group and treatment group and timeline of the study) are mentioned "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_1"
+                    },
+                    "pico_comp_rat": "."
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_1"
+                    },
+                    "pico_out_rat": " "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        669,
+                        983
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "It may have the potential to increase blood transfusion interval, but the simplification does not include the may have the potential. \nFurthermore the aspects about decreasing secondary infection is missing. "
+                }
+            },
+            {
+                "category": "add_info",
+                "id": 1,
+                "annotation": {
+                    "factual": "no",
+                    "hal_rationale": "Not sure whether this is a contradiction or added information "
+                },
+                "output_idx": [
+                    [
+                        670,
+                        723
+                    ]
+                ]
+            }
+        ],
+        "_thresh_id": 5
+    },
+    {
+        "source": "ABSTRACT.\nThalassemia is the commonest single gene disorder in India. About 10,000 infants with Thalassemia major are born every year. The present study was under taken with a hope to prevail better quality of life to the Thalassemic patients. Pallor being the chief complaint, a randomized controlled trial was undertaken with Dhatri Avaleha as it is specially mentioned for Pandu, Kamala & Haleemaka Roga. Children between age group of 1 to 15 years were randomly divided in two groups: Drug treated group (Group A) and Control group (Group B). Assessment was done on subjective and objective parameters after 30 and 60 days of treatment with follow up of two month. Statistically significant (P&lt;0.01) result was obtained in Blood transfusion interval in group 'A' in comparison to group 'B'. Dhatri Avaleha may have a potential to increase blood transfusion interval and decrease secondary infection and thus it can be used as supportive therapy with modern medical management.",
+        "target": "\nThe study looked at how a special medicine called Dhatri Avaleha can help people with Thalassemia. Thalassemia is a sickness that affects a lot of people in India. The medicine was given to some kids who had Thalassemia, and the results showed that it helped them feel better. The medicine made their blood transfusions more frequent, and they were less likely to get sick. The study showed that the medicine can be used to help people with Thalassemia feel better and live a better life.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_2"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "- explain Thalassemia more, how does it affect the people and why  \n- mention the population \n- explain the intervention more (control group) \n- explain why did they feel better?"
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_3"
+                    },
+                    "pico_pop_rat": "The age of the children is missing and the period of measurement"
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_3"
+                    },
+                    "pico_inter_rat": "Intervention with the medicine is mentioned but the information about the control group and the treatment group is missing "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_4"
+                    },
+                    "pico_comp_rat": "the information about the comparison between control group and treatment group is missing "
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_1"
+                    },
+                    "pico_out_rat": "better quality of life is mentioned "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        669,
+                        983
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "- The medicine made their blood transfusions more frequent- > wrong \n- decrease of infection is mentioned "
+                }
+            },
+            {
+                "category": "contradictions",
+                "id": 1,
+                "annotation": {
+                    "con_rationale": "wrong because it has the potential to increase blood transfusion interval\n- I was not able to mark the original (may have the potential to increase blood transfusion interval) as this is already marked for the results "
+                },
+                "input_idx": [
+                    [
+                        595,
+                        605
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        291,
+                        335
+                    ]
+                ]
+            }
+        ],
+        "_thresh_id": 6
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nNasal insufflation of CO2 has been shown to exert antinociceptive respectively antihyperalgesic effects in animal pain models using topical capsaicin with activation of TRPV1-receptor positive nociceptive neurons. Clinical benefit from CO2 inhalation in patients with craniofacial pain caused by a putative activation of TRPV1 receptor positive trigeminal neurons has also been reported. These effects are probably mediated via an activation of TRPV1 receptor - positive neurons in the nasal mucosa with subsequent central inhibitory effects (such as conditioned pain modulation). In this study, we aimed to examine the effects of intranasal CO2 on a human model of craniofacial pain elicited by nasal application of capsaicin.\n\nABSTRACT.METHODS:\nIn a first experiment, 48 healthy volunteers without previous craniofacial pain received intranasal capsaicin to provoke trigeminal pain elicited by activation of TRVP1 positive nociceptive neurons. Then, CO2 or air was insufflated alternatingly into the nasal cavity at a flow rate of 1 l/min for 60 sec each. In the subsequent experiment, all participants were randomized into 2 groups of 24 each and received either continuous nasal insufflation of CO2 or placebo for 18:40 min after nociceptive stimulation with intranasal capsaicin. In both experiments, pain was rated on a numerical rating scale every 60 sec.\n\nABSTRACT.RESULTS:\nContrary to previous animal studies, the effects of CO2 on experimental trigeminal pain were only marginal. In the first experiment, CO2 reduced pain ratings only minimally by 5.3% compared to air if given alternatingly with significant results for the main factor GROUP (F1,47\u2009=\u20094.438; p\u2009=\u20090.041) and the interaction term TIME*GROUP (F2.6,121.2\u2009=\u20093.3; p\u2009=\u20090.029) in the repeated-measures ANOVA. However, these effects were abrogated after continuous insufflation of CO2 or placebo with no significant changes for the main factors or the interaction term.\n\nABSTRACT.CONCLUSIONS:\nAlthough mild modulatory effects of low-flow intranasal CO2 could be seen in this human model of TRPV-1 mediated activation of nociceptive trigeminal neurons, utility is limited as observed changes in pain ratings are clinically non-significant.",
+        "target": "In this study, we examined the effects of intranasal carbon dioxide (CO2) on a human model of craniofacial pain caused by activation of TRPV1-positive nociceptive neurons. We found that CO2 had mild modulatory effects on pain ratings in this model, with these effects being seen only in the first experiment, in which CO2 was given alternatingly with air. However, these effects were abrogated after continuous insufflation of CO2 or placebo, with no significant changes for the main factors or the interaction term. Therefore, the utility of intranasal CO2 in this model is limited, as the observed changes in pain ratings are clinically non-significant.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_1"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "do not use terms like \"intranasal\" or \" craniofacial\" or \"nociceptive neurons\" . Instead of that that use non medical terms or explain \n- explain TRPV1- positive nociceptive neurons or rephrase that \n- explain clinically non- significant\n- explain what is the purpose or give a short introduction \n- mention the population "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_4"
+                    },
+                    "pico_pop_rat": "all information missing (48 healthy people, randomized into 2 groups...)"
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_3"
+                    },
+                    "pico_inter_rat": "some facts are missing:  how long did did they receive air or Co2? "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_1"
+                    },
+                    "pico_comp_rat": "Co2 and placebo (air) are mentioned"
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_2"
+                    },
+                    "pico_out_rat": "Outcome is mentioned but not easy to understand for non medical people "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1511,
+                        1798
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "Partly mentioned and not as detailed "
+                }
+            }
+        ],
+        "_thresh_id": 7
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nNasal insufflation of CO2 has been shown to exert antinociceptive respectively antihyperalgesic effects in animal pain models using topical capsaicin with activation of TRPV1-receptor positive nociceptive neurons. Clinical benefit from CO2 inhalation in patients with craniofacial pain caused by a putative activation of TRPV1 receptor positive trigeminal neurons has also been reported. These effects are probably mediated via an activation of TRPV1 receptor - positive neurons in the nasal mucosa with subsequent central inhibitory effects (such as conditioned pain modulation). In this study, we aimed to examine the effects of intranasal CO2 on a human model of craniofacial pain elicited by nasal application of capsaicin.\n\nABSTRACT.METHODS:\nIn a first experiment, 48 healthy volunteers without previous craniofacial pain received intranasal capsaicin to provoke trigeminal pain elicited by activation of TRVP1 positive nociceptive neurons. Then, CO2 or air was insufflated alternatingly into the nasal cavity at a flow rate of 1 l/min for 60 sec each. In the subsequent experiment, all participants were randomized into 2 groups of 24 each and received either continuous nasal insufflation of CO2 or placebo for 18:40 min after nociceptive stimulation with intranasal capsaicin. In both experiments, pain was rated on a numerical rating scale every 60 sec.\n\nABSTRACT.RESULTS:\nContrary to previous animal studies, the effects of CO2 on experimental trigeminal pain were only marginal. In the first experiment, CO2 reduced pain ratings only minimally by 5.3% compared to air if given alternatingly with significant results for the main factor GROUP (F1,47\u2009=\u20094.438; p\u2009=\u20090.041) and the interaction term TIME*GROUP (F2.6,121.2\u2009=\u20093.3; p\u2009=\u20090.029) in the repeated-measures ANOVA. However, these effects were abrogated after continuous insufflation of CO2 or placebo with no significant changes for the main factors or the interaction term.\n\nABSTRACT.CONCLUSIONS:\nAlthough mild modulatory effects of low-flow intranasal CO2 could be seen in this human model of TRPV-1 mediated activation of nociceptive trigeminal neurons, utility is limited as observed changes in pain ratings are clinically non-significant.",
+        "target": "This study talks about a type of pain that happens in the face and head. Scientists have found in some animal experiments that letting them breathe in CO2 - the gas we breathe out - can help with this pain. They thought it might work by interacting with certain nerves in our nose. So, they wanted to see if the same thing could help humans too. \n\nThey first tested it on healthy volunteers who didn't have any head or face pain before. They used capsaicin - the stuff that makes chili peppers hot - to cause the pain, then had them breathe in either CO2 or regular air. They did this in two different ways: switching between CO2 and air every minute, or continuously breathing in CO2. The volunteers rated their pain levels every minute.\n\nUnlike the animal experiments, the CO2 didn't help the human volunteers much. It only lowered their pain ratings a little bit - only 5.3%. Even that small effect was lost when the volunteers were asked to breathe in CO2 continuously. \n\nSo, the conclusion is that while it's interesting to see that CO2 has a small effect on this type of pain in humans, it's not enough to be really helpful for treating pain.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_3"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "good summary, contains all important aspects "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_1"
+                    },
+                    "pico_pop_rat": "healthy people are mentioned "
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_1"
+                    },
+                    "pico_inter_rat": "Co2 and air intervention are mentioned. CO2 is explained "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_1"
+                    },
+                    "pico_comp_rat": "comparator is mentioned "
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_1"
+                    },
+                    "pico_out_rat": "outcome is mentioned as part of the introduction "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1511,
+                        1798
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "the reduction of pain in the first experiment is mentioned as well as the loss of the effect"
+                }
+            }
+        ],
+        "_thresh_id": 8
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nNasal insufflation of CO2 has been shown to exert antinociceptive respectively antihyperalgesic effects in animal pain models using topical capsaicin with activation of TRPV1-receptor positive nociceptive neurons. Clinical benefit from CO2 inhalation in patients with craniofacial pain caused by a putative activation of TRPV1 receptor positive trigeminal neurons has also been reported. These effects are probably mediated via an activation of TRPV1 receptor - positive neurons in the nasal mucosa with subsequent central inhibitory effects (such as conditioned pain modulation). In this study, we aimed to examine the effects of intranasal CO2 on a human model of craniofacial pain elicited by nasal application of capsaicin.\n\nABSTRACT.METHODS:\nIn a first experiment, 48 healthy volunteers without previous craniofacial pain received intranasal capsaicin to provoke trigeminal pain elicited by activation of TRVP1 positive nociceptive neurons. Then, CO2 or air was insufflated alternatingly into the nasal cavity at a flow rate of 1 l/min for 60 sec each. In the subsequent experiment, all participants were randomized into 2 groups of 24 each and received either continuous nasal insufflation of CO2 or placebo for 18:40 min after nociceptive stimulation with intranasal capsaicin. In both experiments, pain was rated on a numerical rating scale every 60 sec.\n\nABSTRACT.RESULTS:\nContrary to previous animal studies, the effects of CO2 on experimental trigeminal pain were only marginal. In the first experiment, CO2 reduced pain ratings only minimally by 5.3% compared to air if given alternatingly with significant results for the main factor GROUP (F1,47\u2009=\u20094.438; p\u2009=\u20090.041) and the interaction term TIME*GROUP (F2.6,121.2\u2009=\u20093.3; p\u2009=\u20090.029) in the repeated-measures ANOVA. However, these effects were abrogated after continuous insufflation of CO2 or placebo with no significant changes for the main factors or the interaction term.\n\nABSTRACT.CONCLUSIONS:\nAlthough mild modulatory effects of low-flow intranasal CO2 could be seen in this human model of TRPV-1 mediated activation of nociceptive trigeminal neurons, utility is limited as observed changes in pain ratings are clinically non-significant.",
+        "target": "\nThe researchers looked at how a gas called carbon dioxide (CO2) affects pain in people. They used a special machine to give people a tiny bit of capsaicin, which is a substance that can cause pain, in their noses. Then, they gave some of the people CO2 to breathe in through their noses and some of them breathed in air instead. They asked the people to rate their pain on a special scale every 60 seconds for a few minutes. They found out that the CO2 didn't really help much with the pain, and the changes they saw were not big enough to be important. They think that CO2 might help a little bit with pain in some people, but more research is needed to know for sure.\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_2"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "explain co2 more; explain the population more"
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_3"
+                    },
+                    "pico_pop_rat": "important aspects are missing: healthy people "
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_inter_rat": "the treatment co2 is mentioned "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_1"
+                    },
+                    "pico_comp_rat": "comparator air is mentioned "
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_1"
+                    },
+                    "pico_out_rat": "outcome (effect of nasal co2 ) is mentioned "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1511,
+                        1798
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "the description is imprecisely (reduction of 5,3% is missing) "
+                }
+            },
+            {
+                "category": "add_info",
+                "id": 1,
+                "annotation": {
+                    "factual": "no",
+                    "hal_rationale": "this is not mentioned in the original "
+                },
+                "output_idx": [
+                    [
+                        625,
+                        670
+                    ]
+                ]
+            }
+        ],
+        "_thresh_id": 9
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE.\nThere are controversial findings in the literature on the effects of chest physiotherapy on postextubation lung collapse in pediatric age group.  Therefore, we aimed to investigate the efficacy of chest physiotherapy in prevention of postextubation atelectasis in pediatric patients.\n\nABSTRACT.MATERIALS & METHODS.\nIn a case-control study from March 2007 to March 2011, two groups of patients (35 patients in each group) susceptible to lung collapse were enrolled in the study. The studied patients had neuromuscular diseases such as spinal muscular atrophy, Guillain-Barre syndrome, critical illness polyneuropathy/myopathy, and cerebral palsy. The patients were randomly divided into two groups (case and control); The case group underwent daily chest physiotherapy through vibrator and chest percussion and the control group was under supervision. In the latter group, the underlying disease was treated and the lung collapse was managed, if occurred.\n\nABSTRACT.RESULTS.\nThe frequency of atelectasis was lower in the case group who received prophylactic chest physiotherapy compared to the control group (16.6% vs. 40%).\n\nABSTRACT.CONCLUSION.\nChest physiotherapy as well as appropriate and regular change of position can considerably reduce the rate of pulmonary collapse in pediatric patients.",
+        "target": "This study investigated the efficacy of chest physiotherapy in preventing post-extubation atelectasis in pediatric patients.\n\nThe study included 35 patients with neuromuscular diseases who were susceptible to lung collapse. The patients were randomly divided into two groups, a case group that received daily chest physiotherapy through a vibrator and chest percussion, and a control group that was monitored and treated for any lung collapse that occurred.\n\nThe results showed that the frequency of atelectasis was lower in the case group (16.6%) compared to the control group (40%).\n\nThe study concluded that chest physiotherapy, in addition to appropriate and regular change of position, can considerably reduce the rate of pulmonary collapse in pediatric patients.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_1"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "- explain words like atelectasis, postextubation, neuromuscular disease, pulmonary collapse\n- do not use medical terms without explanation "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_2"
+                    },
+                    "pico_pop_rat": "population is mentioned and described but the description is difficult to understand for non medical people"
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_2"
+                    },
+                    "pico_inter_rat": "intervention is mentioned but there is no explanation for medical terms "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_1"
+                    },
+                    "pico_comp_rat": "comparator is mentioned and understandable"
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_2"
+                    },
+                    "pico_out_rat": "outcome is mentioned but not understandable for non medical people"
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        994,
+                        1143
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "The result is accurate but is not explained or easy to understand "
+                }
+            }
+        ],
+        "_thresh_id": 10
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE.\nThere are controversial findings in the literature on the effects of chest physiotherapy on postextubation lung collapse in pediatric age group.  Therefore, we aimed to investigate the efficacy of chest physiotherapy in prevention of postextubation atelectasis in pediatric patients.\n\nABSTRACT.MATERIALS & METHODS.\nIn a case-control study from March 2007 to March 2011, two groups of patients (35 patients in each group) susceptible to lung collapse were enrolled in the study. The studied patients had neuromuscular diseases such as spinal muscular atrophy, Guillain-Barre syndrome, critical illness polyneuropathy/myopathy, and cerebral palsy. The patients were randomly divided into two groups (case and control); The case group underwent daily chest physiotherapy through vibrator and chest percussion and the control group was under supervision. In the latter group, the underlying disease was treated and the lung collapse was managed, if occurred.\n\nABSTRACT.RESULTS.\nThe frequency of atelectasis was lower in the case group who received prophylactic chest physiotherapy compared to the control group (16.6% vs. 40%).\n\nABSTRACT.CONCLUSION.\nChest physiotherapy as well as appropriate and regular change of position can considerably reduce the rate of pulmonary collapse in pediatric patients.",
+        "target": "This passage is about a study that was done to see if a special type of therapy for your chest, called chest physiotherapy, could prevent a condition known as lung collapse in kids, after they have a tube removed from their throat. The study included kids who had certain types of muscle or nerve diseases. They had two groups, one group that got chest physiotherapy and another group that was just watched and treated for their disease but they didn't get the chest physiotherapy.\n\nAfter doing the study, they found out that the kids who had the chest physiotherapy had less lung collapses compared to the group that didn't have the therapy (16.6% vs 40%). The researchers concluded that chest physiotherapy can help reduce the chances of lung collapse in patients, especially when it's combined with changing the child's position regularly.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_3"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "I like all explanations and simplifications done by the model "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_1"
+                    },
+                    "pico_pop_rat": "population is mentioned and the description contains every important detail"
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_inter_rat": "the intervention is mentioned and the description contains every information and an explanation if necessary "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_1"
+                    },
+                    "pico_comp_rat": "the comparator is mentioned and the description contains every information and an explanation if necessary"
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_1"
+                    },
+                    "pico_out_rat": "outcome is mentioned and well explained "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        994,
+                        1143
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "the results are mentioned and explained and understandable"
+                }
+            }
+        ],
+        "_thresh_id": 11
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE.\nThere are controversial findings in the literature on the effects of chest physiotherapy on postextubation lung collapse in pediatric age group.  Therefore, we aimed to investigate the efficacy of chest physiotherapy in prevention of postextubation atelectasis in pediatric patients.\n\nABSTRACT.MATERIALS & METHODS.\nIn a case-control study from March 2007 to March 2011, two groups of patients (35 patients in each group) susceptible to lung collapse were enrolled in the study. The studied patients had neuromuscular diseases such as spinal muscular atrophy, Guillain-Barre syndrome, critical illness polyneuropathy/myopathy, and cerebral palsy. The patients were randomly divided into two groups (case and control); The case group underwent daily chest physiotherapy through vibrator and chest percussion and the control group was under supervision. In the latter group, the underlying disease was treated and the lung collapse was managed, if occurred.\n\nABSTRACT.RESULTS.\nThe frequency of atelectasis was lower in the case group who received prophylactic chest physiotherapy compared to the control group (16.6% vs. 40%).\n\nABSTRACT.CONCLUSION.\nChest physiotherapy as well as appropriate and regular change of position can considerably reduce the rate of pulmonary collapse in pediatric patients.",
+        "target": "\nThe study found that doing chest physiotherapy every day can help prevent lung collapse in kids with certain diseases. The study looked at 35 kids in each of two groups: one group got chest physiotherapy every day, and the other group didn't. The group that got chest physiotherapy had fewer cases of lung collapse.\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_2"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "explain \"with certain diseases\" more- what kind of disease?/ - explain more how the physiotherapy is done/ explain more what is done with the control group (underlying disease was treated)/ in general too short and important details are missing"
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_1"
+                    },
+                    "pico_pop_rat": "population is mentioned "
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_3"
+                    },
+                    "pico_inter_rat": "details about physiotherapy itself are missing "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_3"
+                    },
+                    "pico_comp_rat": "details about how the control group is treated are missing- underlying disease is treated and management of lung collapse"
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_3"
+                    },
+                    "pico_out_rat": "descriptors are missing: prevention of POSTEXTUBATION atelectasis "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        994,
+                        1143
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "result is mentioned and it is accurate but nevertheless more information (16.6 vs 40%) might have been useful "
+                }
+            }
+        ],
+        "_thresh_id": 12
+    },
+    {
+        "source": "ABSTRACT.PURPOSE:\nTo evaluate the analgesic effect, efficacy and safety of aceclofenac controlled release (CR) in patients with chronic knee osteoarthritis (OA).\n\nABSTRACT.MATERIALS AND METHODS:\nA total of 125 subjects with chronic knee OA were randomly divided into two groups: one group (n=62) was administered aceclofenac CR once daily and the other (n=63), aceclofenac immediate release (IR) twice a day for 4 weeks. A 100-mm visual analogue scale (VAS), Knee injury and Osteoarthritis Outcome Score (KOOS) and range of motoin (ROM) were evaluated as the outcome measures. To evaluate the safety of the drug, adverse events, vital signs, physical examination findings, clinical laboratory values and electrocardiographic findings were evaluated.\n\nABSTRACT.RESULTS:\nThe VAS, KOOS and ROM were improved after 4 weeks of administration in both groups, but the differences between the two groups were not statistically significant. Significant differences between the two groups were not shown in the evaluation of the adverse events, vital sign, physical examination results, clinical laboratory values, and electrocardiography.\n\nABSTRACT.CONCLUSIONS:\nThe aceclofenac CR and aceclofenac IR were equally effective in patients with chronic knee OA and the clinical trial results didn't show any significant difference in safety. The new aceclofenac CR formulation was found to be effective and safe with the practical advantage of once daily administration.",
+        "target": "This study evaluated the analgesic effect, efficacy and safety of aceclofenac controlled release (CR) in patients with chronic knee osteoarthritis (OA). A total of 125 subjects were randomly divided into two groups: one group was administered aceclofenac CR once daily and the other was administered aceclofenac immediate release (IR) twice a day for 4 weeks. The outcome measures included a 100-mm visual analogue scale (VAS), Knee injury and Osteoarthritis Outcome Score (KOOS) and range of motion (ROM). Safety was also evaluated by assessing adverse events, vital signs, physical examination findings, clinical laboratory values and electrocardiographic findings.\n\nThe results showed that both groups showed improvements in the VAS, KOOS and ROM after 4 weeks of administration. However, the differences between the two groups were not statistically significant. No significant differences were seen in the evaluation of the adverse events, vital sign, physical examination results, clinical laboratory values and electrocardiography.\n\nIn conclusion, aceclofenac CR and aceclofenac IR were found to be equally effective in patients with chronic knee OA and the clinical trial results didn't show any significant difference in safety. The new aceclofenac CR formulation was found to be effective and safe with the practical advantage of once daily administration.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_1"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "explain medical terms (osteoarthritis, aceclofenac CR and IR, vital signs, physical examination findings, clinical laboratory values and electrocardiographic findings, 100-mm visual analogue scale (VAS), Knee injury and Osteoarthritis Outcome Score (KOOS) and range of motion (ROM))!!!!/ it feels more like a copy of the original than as a simplification "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_1"
+                    },
+                    "pico_pop_rat": "the number of people and their division into two different groups are mentioned "
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_2"
+                    },
+                    "pico_inter_rat": "intervention is mentioned but not simplified or explained. Therefore, many people would consider this to be understandable "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_2"
+                    },
+                    "pico_comp_rat": "comparator is mentioned but is not simplified or explained. Therefore many people would not understand that"
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_2"
+                    },
+                    "pico_out_rat": "outcome is mentioned but is not simplified or explained. Therefore I consider it to be vaguely for non medical people"
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        769,
+                        931
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "the result is mentioned but not simplified or explained "
+                }
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1153,
+                        1327
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "the result is mentioned but not simplified or explained "
+                }
+            }
+        ],
+        "_thresh_id": 13
+    },
+    {
+        "source": "ABSTRACT.PURPOSE:\nTo evaluate the analgesic effect, efficacy and safety of aceclofenac controlled release (CR) in patients with chronic knee osteoarthritis (OA).\n\nABSTRACT.MATERIALS AND METHODS:\nA total of 125 subjects with chronic knee OA were randomly divided into two groups: one group (n=62) was administered aceclofenac CR once daily and the other (n=63), aceclofenac immediate release (IR) twice a day for 4 weeks. A 100-mm visual analogue scale (VAS), Knee injury and Osteoarthritis Outcome Score (KOOS) and range of motoin (ROM) were evaluated as the outcome measures. To evaluate the safety of the drug, adverse events, vital signs, physical examination findings, clinical laboratory values and electrocardiographic findings were evaluated.\n\nABSTRACT.RESULTS:\nThe VAS, KOOS and ROM were improved after 4 weeks of administration in both groups, but the differences between the two groups were not statistically significant. Significant differences between the two groups were not shown in the evaluation of the adverse events, vital sign, physical examination results, clinical laboratory values, and electrocardiography.\n\nABSTRACT.CONCLUSIONS:\nThe aceclofenac CR and aceclofenac IR were equally effective in patients with chronic knee OA and the clinical trial results didn't show any significant difference in safety. The new aceclofenac CR formulation was found to be effective and safe with the practical advantage of once daily administration.",
+        "target": "Scientists wanted to know if a drug called aceclofenac, made in two different ways, could help people with knee pain from arthritis, and if it was safe. They tested it on 125 people, with some of them getting one version and some the other. They measured things like how much it hurt, how well the knee moved, and did other medical tests to check if the drug was safe. After 4 weeks, they found that both forms of the drug helped with pain and movement, and neither of them caused any harmful effects. The new form of the drug only needs to be taken once a day, which could be easier for people.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_3"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "explain more the difference between aceclofenac CR and IR"
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_1"
+                    },
+                    "pico_pop_rat": "population and their division into two groups are mentioned "
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_3"
+                    },
+                    "pico_inter_rat": "intervention is mentioned but important information about how to take the drugs are missing (twice a day for 4 weeks...)"
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_3"
+                    },
+                    "pico_comp_rat": "comparator is mentioned but information about how often to take the drug is missing "
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_3"
+                    },
+                    "pico_out_rat": "outcome is mentioned but the aim to evaluate its efficacy is missing "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        769,
+                        931
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "the information/ simplification about Knee injury and Osteoarthritis Outcome Score (KOOS) is missing. Furthermore, the information about the result not being statistically significant is missing"
+                }
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1153,
+                        1327
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "information about being equally effective is missing"
+                }
+            },
+            {
+                "category": "add_info",
+                "id": 1,
+                "annotation": {
+                    "factual": "no",
+                    "hal_rationale": "original: results didn't show any significant difference in safety- this do not necessarily mean that they do not have any sides effects/ harmful effects "
+                },
+                "output_idx": [
+                    [
+                        458,
+                        501
+                    ]
+                ]
+            }
+        ],
+        "_thresh_id": 14
+    },
+    {
+        "source": "ABSTRACT.PURPOSE:\nTo evaluate the analgesic effect, efficacy and safety of aceclofenac controlled release (CR) in patients with chronic knee osteoarthritis (OA).\n\nABSTRACT.MATERIALS AND METHODS:\nA total of 125 subjects with chronic knee OA were randomly divided into two groups: one group (n=62) was administered aceclofenac CR once daily and the other (n=63), aceclofenac immediate release (IR) twice a day for 4 weeks. A 100-mm visual analogue scale (VAS), Knee injury and Osteoarthritis Outcome Score (KOOS) and range of motoin (ROM) were evaluated as the outcome measures. To evaluate the safety of the drug, adverse events, vital signs, physical examination findings, clinical laboratory values and electrocardiographic findings were evaluated.\n\nABSTRACT.RESULTS:\nThe VAS, KOOS and ROM were improved after 4 weeks of administration in both groups, but the differences between the two groups were not statistically significant. Significant differences between the two groups were not shown in the evaluation of the adverse events, vital sign, physical examination results, clinical laboratory values, and electrocardiography.\n\nABSTRACT.CONCLUSIONS:\nThe aceclofenac CR and aceclofenac IR were equally effective in patients with chronic knee OA and the clinical trial results didn't show any significant difference in safety. The new aceclofenac CR formulation was found to be effective and safe with the practical advantage of once daily administration.",
+        "target": "\nThe researchers wanted to see if a new medicine called aceclofenac controlled release (CR) works as well as the regular version of the medicine (aceclofenac immediate release or IR) to help people with knee osteoarthritis (OA) feel less pain and have better mobility. They gave the medicine to 125 people with knee OA and measured how well it worked by asking them to rate their pain and mobility on a special scale. They also looked at how safe the medicine was by checking for any side effects. The results showed that both versions of the medicine worked about the same and were safe to use. The researchers concluded that the new CR version of the medicine is as good as the regular version and has the added benefit of only needing to be taken once a day.\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_2"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "be careful with interpretations (no differences in safety - safe to use)/ please mention the structure of the study (division into two groups) and their differences regarding the drugs they take "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_3"
+                    },
+                    "pico_pop_rat": " the information about the division into two groups that receive different types of the drug is missing"
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_3"
+                    },
+                    "pico_inter_rat": " the information about the division into two groups that receive different types of the drug is missing as well as the information about often to take the drug (twice a day for 4 weeks vs daily) "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_3"
+                    },
+                    "pico_comp_rat": "the information about the division into two groups that receive different types of the drug is missing as well as the information about often to take the drug (twice a day for 4 weeks vs daily)"
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_3"
+                    },
+                    "pico_out_rat": "the information about the efficacy and safety is missing "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        769,
+                        931
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_3"
+                    },
+                    "results_rat": "this part regarding the result is totally missing. No information about improvement regarding pain, mobility.."
+                }
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1153,
+                        1327
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "the information about the drugs being equally effective and not having significant differences is missing "
+                }
+            },
+            {
+                "category": "add_info",
+                "id": 1,
+                "annotation": {
+                    "factual": "no",
+                    "hal_rationale": "this is not mentioned in the original. They do not have differences in safety, which does not necessarily mean that they are safe to use. "
+                },
+                "output_idx": [
+                    [
+                        574,
+                        595
+                    ]
+                ]
+            },
+            {
+                "category": "contradictions",
+                "id": 1,
+                "annotation": {
+                    "con_rationale": "they work different due to different release mechanism (CR and IR)"
+                },
+                "input_idx": [
+                    [
+                        373,
+                        395
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        543,
+                        573
+                    ]
+                ]
+            }
+        ],
+        "_thresh_id": 15
+    },
+    {
+        "source": "ABSTRACT.PURPOSE.\nA link between poor sleep quality and Alzheimer's disease (AD) has recently been suggested. Since endogenous melatonin levels are already reduced at preclinical AD stages, it is important to ask whether replenishing the missing hormone would be beneficial in AD and whether any such effects would be related to the presence of sleep disorder in patients.\n\nABSTRACT.PATIENTS AND METHODS.\nThe effects of add-on prolonged-release melatonin (PRM) (2 mg) to standard therapy on cognitive functioning and sleep were investigated in 80 patients (men [50.7%], women [49.3%], average age 75.3 years [range, 52\u201385 years]) diagnosed with mild to moderate AD, with and without insomnia comorbidity, and receiving standard therapy (acetylcholinesterase inhibitors with or without memantine). In this randomized, double-blind, parallel-group study, patients were treated for 2 weeks with placebo and then randomized (1:1) to receive 2 mg of PRM or placebo nightly for 24 weeks, followed by 2 weeks placebo. The AD Assessment Scale\u2013Cognition (ADAS-Cog), Instrumental Activities of Daily Living (IADL), Mini\u2013Mental State Examination (MMSE), sleep, as assessed by the Pittsburgh Sleep Quality Index (PSQI) and a daily sleep diary, and safety parameters were measured.\n\nABSTRACT.RESULTS.\nPatients treated with PRM (24 weeks) had significantly better cognitive performance than those treated with placebo, as measured by the IADL (P=0.004) and MMSE (P=0.044). Mean ADAS-Cog did not differ between the groups. Sleep efficiency, as measured by the PSQI, component 4, was also better with PRM (P=0.017). In the comorbid insomnia (PSQI \u22656) subgroup, PRM treatment resulted in significant and clinically meaningful effects versus the placebo, in mean IADL (P=0.032), MMSE score (+1.5 versus \u22123 points) (P=0.0177), and sleep efficiency (P=0.04). Median ADAS-Cog values (\u22123.5 versus +3 points) (P=0.045) were significantly better with PRM. Differences were more significant at longer treatment duration. PRM was well tolerated, with an adverse event profile similar to that of placebo.\n\nABSTRACT.CONCLUSION.\nAdd-on PRM has positive effects on cognitive functioning and sleep maintenance in AD patients compared with placebo, particularly in those with insomnia comorbidity. The results suggest a possible causal link between poor sleep and cognitive decline.",
+        "target": "This study investigated the effects of prolonged-release melatonin (PRM) on cognitive functioning and sleep in patients with Alzheimer's disease (AD). The results showed that PRM improved cognitive performance, sleep efficiency and insomnia symptoms in AD patients. These findings suggest a possible causal link between poor sleep and cognitive decline.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_2"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "- be more detailed regarding the structure of the study (parallel group study, placebo), population ( 80 pat. , men and woman, diagnosed with AD and standard therapy), results / - explain the context between PRM, AD and sleep inefficiency/ - explain medical terms (AD, prolonged release melatonin) "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_4"
+                    },
+                    "pico_pop_rat": "totally missing- no information about the population, their pre-existing illnesses, age"
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_4"
+                    },
+                    "pico_inter_rat": "totally missing- no information about the treatment, intervention or placebo group "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_4"
+                    },
+                    "pico_comp_rat": "there is no information about a placebo group "
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_3"
+                    },
+                    "pico_out_rat": "it is not mentioned that this is a missing hormone and what kind of effects regarding sleep are looked for "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1288,
+                        1458
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "the improved cognitive performance is mentioned the rest is totally missing "
+                }
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1508,
+                        1599
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "the improved sleep efficiency is mentioned but any further information are not given "
+                }
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1932,
+                        2077
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_3"
+                    },
+                    "results_rat": "this is not mentioned at all. The part of the study regarding placebo and treatment duration is missing "
+                }
+            }
+        ],
+        "_thresh_id": 16
+    },
+    {
+        "source": "ABSTRACT.PURPOSE.\nA link between poor sleep quality and Alzheimer's disease (AD) has recently been suggested. Since endogenous melatonin levels are already reduced at preclinical AD stages, it is important to ask whether replenishing the missing hormone would be beneficial in AD and whether any such effects would be related to the presence of sleep disorder in patients.\n\nABSTRACT.PATIENTS AND METHODS.\nThe effects of add-on prolonged-release melatonin (PRM) (2 mg) to standard therapy on cognitive functioning and sleep were investigated in 80 patients (men [50.7%], women [49.3%], average age 75.3 years [range, 52\u201385 years]) diagnosed with mild to moderate AD, with and without insomnia comorbidity, and receiving standard therapy (acetylcholinesterase inhibitors with or without memantine). In this randomized, double-blind, parallel-group study, patients were treated for 2 weeks with placebo and then randomized (1:1) to receive 2 mg of PRM or placebo nightly for 24 weeks, followed by 2 weeks placebo. The AD Assessment Scale\u2013Cognition (ADAS-Cog), Instrumental Activities of Daily Living (IADL), Mini\u2013Mental State Examination (MMSE), sleep, as assessed by the Pittsburgh Sleep Quality Index (PSQI) and a daily sleep diary, and safety parameters were measured.\n\nABSTRACT.RESULTS.\nPatients treated with PRM (24 weeks) had significantly better cognitive performance than those treated with placebo, as measured by the IADL (P=0.004) and MMSE (P=0.044). Mean ADAS-Cog did not differ between the groups. Sleep efficiency, as measured by the PSQI, component 4, was also better with PRM (P=0.017). In the comorbid insomnia (PSQI \u22656) subgroup, PRM treatment resulted in significant and clinically meaningful effects versus the placebo, in mean IADL (P=0.032), MMSE score (+1.5 versus \u22123 points) (P=0.0177), and sleep efficiency (P=0.04). Median ADAS-Cog values (\u22123.5 versus +3 points) (P=0.045) were significantly better with PRM. Differences were more significant at longer treatment duration. PRM was well tolerated, with an adverse event profile similar to that of placebo.\n\nABSTRACT.CONCLUSION.\nAdd-on PRM has positive effects on cognitive functioning and sleep maintenance in AD patients compared with placebo, particularly in those with insomnia comorbidity. The results suggest a possible causal link between poor sleep and cognitive decline.",
+        "target": "Scientists were curious about a hormone called melatonin that we don't have as much of when we don't sleep well and when we get older. They gave extra melatonin to some older people who have Alzheimer's disease, which can make you forget things. Some of those people also had trouble sleeping. The scientists did a test and found out that the people who took the extra melatonin remembered things better and slept better than the people who didn't take it, especially those who had trouble sleeping. This might mean that not sleeping well could also cause memory problems. The extra melatonin didn't make people feel sick and was safe to take. So, it looks like it could be helpful for people with Alzheimer's disease, especially if they also have problems with sleeping.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_2"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "- important information regarding outcome, results and structure of the study are missing. Be more detailed; the context between  poor sleep and cognitive decline is not mentioned "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_2"
+                    },
+                    "pico_pop_rat": "no information about age and the pat. receiving therapy "
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_3"
+                    },
+                    "pico_inter_rat": "intervention with melatonin is mentioned but not for how long and how often they did get the drug "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_3"
+                    },
+                    "pico_comp_rat": "it is just mentioned that some people did not receive the drug - no information about the placebo "
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_4"
+                    },
+                    "pico_out_rat": "the benefit to AD and the relation of those effects to sleep disorders are not mentioned "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1288,
+                        1458
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "the improved cognitive performance is mentioned but the treatment for 24 weeks and different results regarding placebo are not mentioned "
+                }
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1508,
+                        1599
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "improved sleep efficiency is mentioned "
+                }
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1932,
+                        2077
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "differences regarding treatment duration are not mentioned; there is kind of an interpretation regarding \"it was well tolerated\"- \" did not make people feel sick\", which is not same"
+                }
+            },
+            {
+                "category": "add_info",
+                "id": 1,
+                "annotation": {
+                    "factual": "no",
+                    "hal_rationale": "original: it was well tolerated- did not make people feel sick is an interpretation;  \nsafe to take is not mentioned at all"
+                },
+                "output_idx": [
+                    [
+                        573,
+                        643
+                    ]
+                ]
+            }
+        ],
+        "_thresh_id": 17
+    },
+    {
+        "source": "ABSTRACT.PURPOSE.\nA link between poor sleep quality and Alzheimer's disease (AD) has recently been suggested. Since endogenous melatonin levels are already reduced at preclinical AD stages, it is important to ask whether replenishing the missing hormone would be beneficial in AD and whether any such effects would be related to the presence of sleep disorder in patients.\n\nABSTRACT.PATIENTS AND METHODS.\nThe effects of add-on prolonged-release melatonin (PRM) (2 mg) to standard therapy on cognitive functioning and sleep were investigated in 80 patients (men [50.7%], women [49.3%], average age 75.3 years [range, 52\u201385 years]) diagnosed with mild to moderate AD, with and without insomnia comorbidity, and receiving standard therapy (acetylcholinesterase inhibitors with or without memantine). In this randomized, double-blind, parallel-group study, patients were treated for 2 weeks with placebo and then randomized (1:1) to receive 2 mg of PRM or placebo nightly for 24 weeks, followed by 2 weeks placebo. The AD Assessment Scale\u2013Cognition (ADAS-Cog), Instrumental Activities of Daily Living (IADL), Mini\u2013Mental State Examination (MMSE), sleep, as assessed by the Pittsburgh Sleep Quality Index (PSQI) and a daily sleep diary, and safety parameters were measured.\n\nABSTRACT.RESULTS.\nPatients treated with PRM (24 weeks) had significantly better cognitive performance than those treated with placebo, as measured by the IADL (P=0.004) and MMSE (P=0.044). Mean ADAS-Cog did not differ between the groups. Sleep efficiency, as measured by the PSQI, component 4, was also better with PRM (P=0.017). In the comorbid insomnia (PSQI \u22656) subgroup, PRM treatment resulted in significant and clinically meaningful effects versus the placebo, in mean IADL (P=0.032), MMSE score (+1.5 versus \u22123 points) (P=0.0177), and sleep efficiency (P=0.04). Median ADAS-Cog values (\u22123.5 versus +3 points) (P=0.045) were significantly better with PRM. Differences were more significant at longer treatment duration. PRM was well tolerated, with an adverse event profile similar to that of placebo.\n\nABSTRACT.CONCLUSION.\nAdd-on PRM has positive effects on cognitive functioning and sleep maintenance in AD patients compared with placebo, particularly in those with insomnia comorbidity. The results suggest a possible causal link between poor sleep and cognitive decline.",
+        "target": "\nThe study found that taking a special sleep medicine called melatonin can help people with Alzheimer's disease (AD) do better on tests of their thinking and memory. It also helped them sleep better. The medicine was given to 80 people with AD, some of whom also had trouble sleeping. The study found that the medicine worked better for people who had trouble sleeping. It also found that the medicine was safe and well-tolerated.\n\n\nDoes this make sense to you?",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_2"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "- focus more on the structure of the study and the differences between intervention and placebo "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_3"
+                    },
+                    "pico_pop_rat": "not every participant of the study received the drug as some of them got placebo"
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_3"
+                    },
+                    "pico_inter_rat": "it is not mentioned how long they received the PRM"
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_4"
+                    },
+                    "pico_comp_rat": "placebo treatment is not mentioned "
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_4"
+                    },
+                    "pico_out_rat": "outcome is missing, just information about the results "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1288,
+                        1458
+                    ]
+                ],
+                "annotation": {
+                    "results_rat": "better cognitive performance is mentioned, but there is no comparison between PRM and placebo"
+                }
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1508,
+                        1599
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "improved sleep efficiency is mentioned "
+                }
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1932,
+                        2077
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "no information about the differences regarding treatment duration; well tolerated is mentioned "
+                }
+            },
+            {
+                "category": "contradictions",
+                "id": 1,
+                "annotation": {
+                    "con_rationale": "the study includes 80 people, but some of them received the placebo"
+                },
+                "input_idx": [
+                    [
+                        900,
+                        981
+                    ]
+                ],
+                "output_idx": [
+                    [
+                        200,
+                        244
+                    ]
+                ]
+            },
+            {
+                "category": "add_info",
+                "id": 1,
+                "annotation": {
+                    "factual": "no",
+                    "hal_rationale": "it is well tolerated, but therefore not necessarily safe "
+                },
+                "output_idx": [
+                    [
+                        389,
+                        410
+                    ]
+                ]
+            },
+            {
+                "category": "add_info",
+                "id": 2,
+                "annotation": {
+                    "factual": "no",
+                    "hal_rationale": "not a part of a simplification "
+                },
+                "output_idx": [
+                    [
+                        433,
+                        462
+                    ]
+                ]
+            }
+        ],
+        "_thresh_id": 18
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:.\nThe aim of this study is to compare and evaluate the clinical outcome of the envelope-type of coronally advanced flap (CAF) alone versus envelope type of coronally advanced flap plus type I collagen membrane (NEOMEM) in the treatment of multiple buccal gingival recessions, using the split mouth study.\n\nABSTRACT.MATERIALS AND METHODS:.\nTen patients in the age group of 20-50 years showing bilateral gingival recessions were treated. The defects in each patient were randomly assigned as Group A, which were treated with the envelope type of CAF, and those in Group B were treated with envelope type of CAF along with the Type I collagen membrane (NEOMEM). The recession depth (RD), probing depth (PD), clinical attachment level (CAL), and width of the keratinized tissue (KT) were measured at baseline, at three and six month intervals.\n\nABSTRACT.RESULTS:.\nForty-six Miller's class I and II gingival recessions were treated. In the CAF + Type I collagen membrane (NEOMEM)-treated (Group B) sites the baseline gingival recession was 2.34 \u00b1 0.48 mm, while in the CAFtreated (Group A) sites it was 2.52 \u00b1 0.84 mm. Both the treatments resulted in significant recession depth reduction (P &lt; 0.001), but the reduction was significantly greater (P &lt; 0.01) for Group B than Group A. The probing depth changes were significant (P &lt; 0.01) for both groups, but the difference was nonsignificant. Similarly, a significant gain of CAL was seen in Group B (2.23 \u00b1 0.75 mm, P &lt; 0.001) as well as in group A (1.60 \u00b1 0.86 mm, P &lt; 0.001) showing a significant difference (P &lt; 0.01) between the two groups. The width of keratinized tissue was also significantly (P &lt; 0.001) increased in both groups, but the increase was significantly greater (P &lt; 0.001) in group B (2.30 \u00b1 1.06 mm) than in group A (1.21 \u00b1 0.67 mm).\n\nABSTRACT.CONCLUSION:.\nThe envelope type of CAF along with Type I collagen membrane (NEOMEM) was more effective than envelope type of CAF alone, in producing root coverage in multiple gingival recession defects, associated with gain in CAL as also in the width of KT.",
+        "target": "This study compared the effectiveness of an envelope-type coronally advanced flap (CAF) alone with the addition of a type I collagen membrane (NEOMEM) in the treatment of multiple buccal gingival recessions. The results showed that the combination of the CAF and the type I collagen membrane was more effective than the CAF alone, producing greater root coverage, gain in clinical attachment level (CAL), and wider keratinized tissue.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_1"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "-explain medical terms/ surgery techniques (e.g.envelope-type of coronally advanced flap (CAF), envelope type of coronally advanced flap plus type I collagen membrane (NEOMEM), multiple buccal gingival recessions) / explain and simplify the results/ tell more about the structure of the study/ do an introduction to explain the topic/ problem"
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_4"
+                    },
+                    "pico_pop_rat": "no information about the patients (10 pat.; age 20-50; bilateral gingival recessions)"
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_2"
+                    },
+                    "pico_inter_rat": "details (time of measurement) and explanations are missing"
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_2"
+                    },
+                    "pico_comp_rat": "details and explanations are missing"
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_2"
+                    },
+                    "pico_out_rat": " Outcome is mentioned but not explained or simplified"
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1305,
+                        1416
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_3"
+                    },
+                    "results_rat": "No information about the significance "
+                }
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1629,
+                        1842
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_3"
+                    },
+                    "results_rat": "It is just mentioned that a combination was more effective than CAF alone"
+                }
+            }
+        ],
+        "_thresh_id": 19
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:.\nThe aim of this study is to compare and evaluate the clinical outcome of the envelope-type of coronally advanced flap (CAF) alone versus envelope type of coronally advanced flap plus type I collagen membrane (NEOMEM) in the treatment of multiple buccal gingival recessions, using the split mouth study.\n\nABSTRACT.MATERIALS AND METHODS:.\nTen patients in the age group of 20-50 years showing bilateral gingival recessions were treated. The defects in each patient were randomly assigned as Group A, which were treated with the envelope type of CAF, and those in Group B were treated with envelope type of CAF along with the Type I collagen membrane (NEOMEM). The recession depth (RD), probing depth (PD), clinical attachment level (CAL), and width of the keratinized tissue (KT) were measured at baseline, at three and six month intervals.\n\nABSTRACT.RESULTS:.\nForty-six Miller's class I and II gingival recessions were treated. In the CAF + Type I collagen membrane (NEOMEM)-treated (Group B) sites the baseline gingival recession was 2.34 \u00b1 0.48 mm, while in the CAFtreated (Group A) sites it was 2.52 \u00b1 0.84 mm. Both the treatments resulted in significant recession depth reduction (P &lt; 0.001), but the reduction was significantly greater (P &lt; 0.01) for Group B than Group A. The probing depth changes were significant (P &lt; 0.01) for both groups, but the difference was nonsignificant. Similarly, a significant gain of CAL was seen in Group B (2.23 \u00b1 0.75 mm, P &lt; 0.001) as well as in group A (1.60 \u00b1 0.86 mm, P &lt; 0.001) showing a significant difference (P &lt; 0.01) between the two groups. The width of keratinized tissue was also significantly (P &lt; 0.001) increased in both groups, but the increase was significantly greater (P &lt; 0.001) in group B (2.30 \u00b1 1.06 mm) than in group A (1.21 \u00b1 0.67 mm).\n\nABSTRACT.CONCLUSION:.\nThe envelope type of CAF along with Type I collagen membrane (NEOMEM) was more effective than envelope type of CAF alone, in producing root coverage in multiple gingival recession defects, associated with gain in CAL as also in the width of KT.",
+        "target": "Scientists did a study on two different ways to treat gum receding issues. They split the patients up: one group was treated with a special surgical method, and the other group received the same surgery plus a collagen membrane. They measured the results at the start, middle, and end of six months. They found that both methods improved gum recession, but the second method helped more significantly with root coverage and in widening the healthy tissue around the teeth.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_3"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "- despite explanation, mention the medical terms/ mention the outcome (maybe as a part of a short introduction)/ be more precise regarding the results "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_2"
+                    },
+                    "pico_pop_rat": "some information about the group of patients are missing (age, having bilateral gingival recessions)"
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_1"
+                    },
+                    "pico_inter_rat": "short but understandable"
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_1"
+                    },
+                    "pico_comp_rat": "short but understandable "
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_4"
+                    },
+                    "pico_out_rat": "outcome is missing, just the result is mentioned "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1305,
+                        1416
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "nonsignificant difference is not mentioned "
+                }
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1629,
+                        1842
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "significant increase is mentioned, but the significant change in root coverage is not mentioned "
+                }
+            },
+            {
+                "category": "add_info",
+                "id": 1,
+                "annotation": {
+                    "factual": "no",
+                    "hal_rationale": "this is not mentioned in the original "
+                },
+                "output_idx": [
+                    [
+                        387,
+                        419
+                    ]
+                ]
+            }
+        ],
+        "_thresh_id": 20
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:.\nThe aim of this study is to compare and evaluate the clinical outcome of the envelope-type of coronally advanced flap (CAF) alone versus envelope type of coronally advanced flap plus type I collagen membrane (NEOMEM) in the treatment of multiple buccal gingival recessions, using the split mouth study.\n\nABSTRACT.MATERIALS AND METHODS:.\nTen patients in the age group of 20-50 years showing bilateral gingival recessions were treated. The defects in each patient were randomly assigned as Group A, which were treated with the envelope type of CAF, and those in Group B were treated with envelope type of CAF along with the Type I collagen membrane (NEOMEM). The recession depth (RD), probing depth (PD), clinical attachment level (CAL), and width of the keratinized tissue (KT) were measured at baseline, at three and six month intervals.\n\nABSTRACT.RESULTS:.\nForty-six Miller's class I and II gingival recessions were treated. In the CAF + Type I collagen membrane (NEOMEM)-treated (Group B) sites the baseline gingival recession was 2.34 \u00b1 0.48 mm, while in the CAFtreated (Group A) sites it was 2.52 \u00b1 0.84 mm. Both the treatments resulted in significant recession depth reduction (P &lt; 0.001), but the reduction was significantly greater (P &lt; 0.01) for Group B than Group A. The probing depth changes were significant (P &lt; 0.01) for both groups, but the difference was nonsignificant. Similarly, a significant gain of CAL was seen in Group B (2.23 \u00b1 0.75 mm, P &lt; 0.001) as well as in group A (1.60 \u00b1 0.86 mm, P &lt; 0.001) showing a significant difference (P &lt; 0.01) between the two groups. The width of keratinized tissue was also significantly (P &lt; 0.001) increased in both groups, but the increase was significantly greater (P &lt; 0.001) in group B (2.30 \u00b1 1.06 mm) than in group A (1.21 \u00b1 0.67 mm).\n\nABSTRACT.CONCLUSION:.\nThe envelope type of CAF along with Type I collagen membrane (NEOMEM) was more effective than envelope type of CAF alone, in producing root coverage in multiple gingival recession defects, associated with gain in CAL as also in the width of KT.",
+        "target": "\nThe study compared how well two different treatments work for people with multiple gum recessions. One treatment used a special type of gum tissue to cover the exposed roots, and the other used a special membrane to help the gum tissue grow back. The study found that using both treatments together worked better than using just one of them. The gum tissue grew back more and the gum recession got smaller.\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_3"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "- tell more about the techniques and how it works/ - name the technique/ - be more detailed regarding the results; some of them are missing"
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_3"
+                    },
+                    "pico_pop_rat": "information about the population are missing (10 pat., aged 20-50)"
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_2"
+                    },
+                    "pico_inter_rat": "some more explanations/ descriptions would have been useful "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_2"
+                    },
+                    "pico_comp_rat": "some more explanations/ descriptions would have been useful"
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_3"
+                    },
+                    "pico_out_rat": "the techniques itself is vaguely mentioned and not named"
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1305,
+                        1416
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_3"
+                    },
+                    "results_rat": "it is just mentioned that a combination of both works the best, but not the significant changes they gain alone "
+                }
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1629,
+                        1842
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_3"
+                    },
+                    "results_rat": "it is just mentioned that a combination of both works the best, but efficacy alone and the greater significance in one group"
+                }
+            }
+        ],
+        "_thresh_id": 21
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVES.\nTo evaluate the effect of certolizumab pegol (CZP) on productivity outside and within the home, and on participation in family, social and leisure activities in adult patients with psoriatic arthritis (PsA).\n\nABSTRACT.METHODS.\nRAPID-PsA (NCT01087788) is a phase 3, double-blind, placebo-controlled trial. 409 patients with active PsA were randomised 1:1:1 to placebo, CZP 200 mg every 2 weeks (Q2W) or CZP 400 mg every 4 weeks (Q4W). The arthritis-specific Work Productivity Survey (WPS) assessed the impact of PsA on paid work and household productivity, and participation in social activities during the preceding month. WPS responses were compared between treatment arms using a non-parametric bootstrap-t method.\n\nABSTRACT.RESULTS.\nAt baseline, 56.6%, 60.1% and 61.5% of placebo, CZP 200 mg Q2W and CZP 400 mg Q4W patients were employed. By week 24, employed CZP patients reported an average of 1.0\u20131.8 and 3.0\u20133.9 fewer days of absenteeism and presenteeism, respectively, per month compared with 1.0 and 0.3 fewer days for placebo patients (p&lt;0.05). Within the home, by week 24, CZP patients reported an average of 3.0\u20133.5 household work days gained per month versus 1.0 day for placebo (p&lt;0.05). CZP patients also reported fewer days with reduced household productivity or days lost for participation in family, social and leisure activities. Improvements with CZP were seen as early as week 4 and continued to week 24.\n\nABSTRACT.CONCLUSIONS.\nCZP treatment significantly improved productivity at paid work and within the home, and resulted in greater participation in social activities for PsA patients.\n\nABSTRACT.TRIAL REGISTRATION NUMBER.\nNCT01087788.",
+        "target": "This study evaluated the effect of certolizumab pegol (CZP) on productivity outside and within the home, and on participation in family, social and leisure activities in adult patients with psoriatic arthritis (PsA).\n\nThe study was a phase 3, double-blind, placebo-controlled trial. 409 patients with active PsA were randomised 1:1:1 to placebo, CZP 200 mg every 2 weeks (Q2W) or CZP 400 mg every 4 weeks (Q4W). The arthritis-specific Work Productivity Survey (WPS) assessed the impact of PsA on paid work and household productivity, and participation in social activities during the preceding month. WPS responses were compared between treatment arms using a non-parametric bootstrap-t method.\n\nAt baseline, 56.6%, 60.1% and 61.5% of placebo, CZP 200 mg Q2W and CZP 400 mg Q4W patients were employed. By week 24, employed CZP patients reported an average of 1.0\u20131.8 and 3.0\u20133.9 fewer days of absenteeism and presenteeism, respectively, per month compared with 1.0 and 0.3 fewer days for placebo patients (p&lt;0.05). Within the home, by week 24, CZP patients reported an average of 3.0\u20133.5 household work days gained per month versus 1.0 day for placebo (p&lt;0.05). CZP patients also reported fewer days with reduced household productivity or days lost for participation in family, social and leisure activities. Improvements with CZP were seen as early as week 4 and continued to week 24.\n\nThe results of this study suggest that CZP treatment significantly improved productivity at paid work and within the home, and resulted in greater participation in social activities for PsA patients.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_1"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "- it is just a copy from the original/ - explain medical terms/ - rephrase and explain the outcome/ - explain what has been done and when in an understandable way/ - make the part of the results shorter and explain; do not use p in results (better what means p ) "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_rat": "but an explanation is totally missing; although very important detail is included it is not understandable"
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_2"
+                    },
+                    "pico_inter_rat": "but an explanation is totally missing; although very important detail is included it is not understandable"
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_2"
+                    },
+                    "pico_comp_rat": "but an explanation is totally missing; although very important detail is included it is not understandable"
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_2"
+                    },
+                    "pico_out_rat": "an explanation is totally missing; although very important detail is included it is not understandable"
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        875,
+                        1078
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "it is accurate and mentioned but it is not understandable for non medical people as there is absolutely no explanation  "
+                }
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1108,
+                        1228
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "it is accurate and mentioned but it is not understandable for non medical people as there is absolutely no explanation"
+                }
+            }
+        ],
+        "_thresh_id": 22
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVES.\nTo evaluate the effect of certolizumab pegol (CZP) on productivity outside and within the home, and on participation in family, social and leisure activities in adult patients with psoriatic arthritis (PsA).\n\nABSTRACT.METHODS.\nRAPID-PsA (NCT01087788) is a phase 3, double-blind, placebo-controlled trial. 409 patients with active PsA were randomised 1:1:1 to placebo, CZP 200 mg every 2 weeks (Q2W) or CZP 400 mg every 4 weeks (Q4W). The arthritis-specific Work Productivity Survey (WPS) assessed the impact of PsA on paid work and household productivity, and participation in social activities during the preceding month. WPS responses were compared between treatment arms using a non-parametric bootstrap-t method.\n\nABSTRACT.RESULTS.\nAt baseline, 56.6%, 60.1% and 61.5% of placebo, CZP 200 mg Q2W and CZP 400 mg Q4W patients were employed. By week 24, employed CZP patients reported an average of 1.0\u20131.8 and 3.0\u20133.9 fewer days of absenteeism and presenteeism, respectively, per month compared with 1.0 and 0.3 fewer days for placebo patients (p&lt;0.05). Within the home, by week 24, CZP patients reported an average of 3.0\u20133.5 household work days gained per month versus 1.0 day for placebo (p&lt;0.05). CZP patients also reported fewer days with reduced household productivity or days lost for participation in family, social and leisure activities. Improvements with CZP were seen as early as week 4 and continued to week 24.\n\nABSTRACT.CONCLUSIONS.\nCZP treatment significantly improved productivity at paid work and within the home, and resulted in greater participation in social activities for PsA patients.\n\nABSTRACT.TRIAL REGISTRATION NUMBER.\nNCT01087788.",
+        "target": "This passage is about a scientific experiment that tested a medicine called CZP on people who have a disease called psoriatic arthritis. This disease can cause a lot of pain and problems that can make it hard for people to do their job or chores at home. \n\nIn the experiment, they divided people into three groups. The first group got a fake pill with no medicine, the second group got a small amount of CZP every 2 weeks, and the third group got a larger amount of CZP every 4 weeks. They asked these people questions about how many days they missed work or couldn't do their household chores, and how much they were able to join in family, social and leisure activities.\n\nThey found out that people who got CZP missed fewer days of work, were able to do more chores at home, and could join family activities more than those who took the fake pill. The people with CZP started to feel better and do more activities as early as the 4th week and continued to improve until the 24th week of the treatment. \n\nSo, the experiment showed that CZP medicine can help people with psoriatic arthritis do their jobs, chores, and activities better than before.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_3"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "- be more precisely in terms of results and outcome ",
+                    "final_comments": "- good simplification- main message received "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_3"
+                    },
+                    "pico_pop_rat": "number of participants is missing "
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_1"
+                    },
+                    "pico_inter_rat": "contains the important details and is understandable"
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_1"
+                    },
+                    "pico_comp_rat": "contains the important details and is understandable"
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_2"
+                    },
+                    "pico_out_rat": "the question \" what do the scientists what to show- effect on CZP on productivity and social participation\" is missing although the medicine and problems of the disease are mentioned "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        875,
+                        1078
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "it is mentioned that they missed fewer days of work, but not how many and one does not know if there is a difference in the placebo group"
+                }
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1108,
+                        1228
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "it is mentioned that there is an improvement but not how many days and there is no comparison to placebo"
+                }
+            }
+        ],
+        "_thresh_id": 23
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVES.\nTo evaluate the effect of certolizumab pegol (CZP) on productivity outside and within the home, and on participation in family, social and leisure activities in adult patients with psoriatic arthritis (PsA).\n\nABSTRACT.METHODS.\nRAPID-PsA (NCT01087788) is a phase 3, double-blind, placebo-controlled trial. 409 patients with active PsA were randomised 1:1:1 to placebo, CZP 200 mg every 2 weeks (Q2W) or CZP 400 mg every 4 weeks (Q4W). The arthritis-specific Work Productivity Survey (WPS) assessed the impact of PsA on paid work and household productivity, and participation in social activities during the preceding month. WPS responses were compared between treatment arms using a non-parametric bootstrap-t method.\n\nABSTRACT.RESULTS.\nAt baseline, 56.6%, 60.1% and 61.5% of placebo, CZP 200 mg Q2W and CZP 400 mg Q4W patients were employed. By week 24, employed CZP patients reported an average of 1.0\u20131.8 and 3.0\u20133.9 fewer days of absenteeism and presenteeism, respectively, per month compared with 1.0 and 0.3 fewer days for placebo patients (p&lt;0.05). Within the home, by week 24, CZP patients reported an average of 3.0\u20133.5 household work days gained per month versus 1.0 day for placebo (p&lt;0.05). CZP patients also reported fewer days with reduced household productivity or days lost for participation in family, social and leisure activities. Improvements with CZP were seen as early as week 4 and continued to week 24.\n\nABSTRACT.CONCLUSIONS.\nCZP treatment significantly improved productivity at paid work and within the home, and resulted in greater participation in social activities for PsA patients.\n\nABSTRACT.TRIAL REGISTRATION NUMBER.\nNCT01087788.",
+        "target": "\nThe researchers wanted to see how a medicine called certolizumab pegol helps people with a condition called psoriatic arthritis. They looked at how much work people with psoriatic arthritis could do and how many days they missed work or had trouble doing things at home. They found that people who took the medicine had better productivity at work and at home, and they were able to participate in more social activities than people who took a placebo (a fake medicine). The improvements started as early as 4 weeks after starting the medicine and continued for 24 weeks.\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_2"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": " - focus more on the structure of the study (groups, who did receive the placebo, different dosings) / - be more precise in terms of results"
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_3"
+                    },
+                    "pico_pop_rat": "number of people is missing "
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_3"
+                    },
+                    "pico_inter_rat": "the structure of the intervention is totally missing (randomised 1:1:1 to placebo, CZP 200 mg every 2 weeks (Q2W) or CZP 400 mg every 4 weeks (Q4W))"
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_3"
+                    },
+                    "pico_comp_rat": "the placebo is not mentioned as part of intervention, first mentioned in results"
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_1"
+                    },
+                    "pico_out_rat": "outcome contains every important information"
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        875,
+                        1078
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "better productivity is mentioned but inaccurate (how much more? does the placebo has an effect too?) Furthermore productivity is not the same as days of absenteeism "
+                }
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1108,
+                        1228
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "better productivity at home is mentioned but inaccurate (how much more? does the placebo has an effect too?) "
+                }
+            }
+        ],
+        "_thresh_id": 24
+    },
+    {
+        "source": "ABSTRACT.\nReinforcement signals in the striatum are known to be crucial for mediating the subjective rewarding effects of acute drug intake. It is proposed that these effects may be more involved in early phases of drug addiction, whereas negative reinforcement effects may occur more in later stages of the illness. This study used resting-state functional magnetic resonance imaging to explore whether acute heroin substitution also induced positive reinforcement effects in striatal brain regions of protracted heroin-maintained patients. Using independent component analysis and a dual regression approach, we compared resting-state functional connectivity (rsFC) strengths within the basal ganglia/limbic network across a group of heroin-dependent patients receiving both an acute infusion of heroin and placebo and 20 healthy subjects who received placebo only. Subsequent correlation analyses were performed to test whether the rsFC strength under heroin exposure correlated with the subjective rewarding effect and with plasma concentrations of heroin and its main metabolites morphine. Relative to the placebo treatment in patients, heroin significantly increased rsFC of the left putamen within the basal ganglia/limbic network, the extent of which correlated positively with patients' feelings of rush and with the plasma level of morphine. Furthermore, healthy controls revealed increased rsFC of the posterior cingulate cortex/precuneus in this network relative to the placebo treatment in patients. Our results indicate that acute heroin substitution induces a subjective rewarding effect via increased striatal connectivity in heroin-dependent patients, suggesting that positive reinforcement effects in the striatum still occur after protracted maintenance therapy.",
+        "target": "This study used functional magnetic resonance imaging (fMRI) to explore whether acute heroin substitution also induces positive reinforcement effects in the striatum of heroin-dependent patients. The results showed that heroin increased the connectivity of the left putamen, a part of the basal ganglia/limbic network, in heroin-dependent patients. This increased connectivity was correlated with the patients' feelings of rush and with the plasma level of morphine. In addition, healthy controls revealed increased connectivity of the posterior cingulate cortex/precuneus in this network relative to the placebo treatment in patients. These findings suggest that positive reinforcement effects in the striatum still occur after protracted maintenance therapy.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_1"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "- medical terms are not explained or rephrased; explain terms like basal ganglia/limbic network, striatum, cortex and their meanings/ find your own words to describe the study or to tell the results "
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_3"
+                    },
+                    "pico_inter_rat": "infusion is not mentioned, just treatment "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_2"
+                    },
+                    "pico_comp_rat": "placebo treatment mentioned but some explanations for a better understanding are missing"
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_1"
+                    },
+                    "pico_out_rat": "includes every detail but not understandable for non medical people "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1095,
+                        1351
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "accurate and detailed"
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 1,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_2"
+                    },
+                    "pico_pop_rat": "number of healthy controls is missing, could be more structured, details are widespread all over the text"
+                }
+            }
+        ],
+        "_thresh_id": 25
+    },
+    {
+        "source": "ABSTRACT.\nReinforcement signals in the striatum are known to be crucial for mediating the subjective rewarding effects of acute drug intake. It is proposed that these effects may be more involved in early phases of drug addiction, whereas negative reinforcement effects may occur more in later stages of the illness. This study used resting-state functional magnetic resonance imaging to explore whether acute heroin substitution also induced positive reinforcement effects in striatal brain regions of protracted heroin-maintained patients. Using independent component analysis and a dual regression approach, we compared resting-state functional connectivity (rsFC) strengths within the basal ganglia/limbic network across a group of heroin-dependent patients receiving both an acute infusion of heroin and placebo and 20 healthy subjects who received placebo only. Subsequent correlation analyses were performed to test whether the rsFC strength under heroin exposure correlated with the subjective rewarding effect and with plasma concentrations of heroin and its main metabolites morphine. Relative to the placebo treatment in patients, heroin significantly increased rsFC of the left putamen within the basal ganglia/limbic network, the extent of which correlated positively with patients' feelings of rush and with the plasma level of morphine. Furthermore, healthy controls revealed increased rsFC of the posterior cingulate cortex/precuneus in this network relative to the placebo treatment in patients. Our results indicate that acute heroin substitution induces a subjective rewarding effect via increased striatal connectivity in heroin-dependent patients, suggesting that positive reinforcement effects in the striatum still occur after protracted maintenance therapy.",
+        "target": "This study was trying to see how heroin affects the brain of people who have been using the drug for a long period of time. They saw that when people used heroin after not using it for a while, certain areas in their brain linked more strongly. These stronger links made the people feel a rush of enjoyment and this feeling was stronger if there was more heroin in their body. This suggests that even after using heroin for a long time, the drug can still create feelings of enjoyment in the brain.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_3"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "- make a more detailed description for the intervention and comparator, which was not mentioned at all/- try to explain the neuronal network and their function more "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_3"
+                    },
+                    "pico_pop_rat": "healthy control group is not mentioned"
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_3"
+                    },
+                    "pico_inter_rat": "heroin dependent pat. received heroin and placebo, placebo is not mentioned "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_4"
+                    },
+                    "pico_comp_rat": "healthy subjects who received placebo are not mentioned "
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_2"
+                    },
+                    "pico_out_rat": "some details are missing due to the explanation, but therefore understandable (effects of heroin instead of positive reinforcement)"
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1095,
+                        1351
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "explained and still contains the most important aspects "
+                }
+            }
+        ],
+        "_thresh_id": 26
+    },
+    {
+        "source": "ABSTRACT.\nReinforcement signals in the striatum are known to be crucial for mediating the subjective rewarding effects of acute drug intake. It is proposed that these effects may be more involved in early phases of drug addiction, whereas negative reinforcement effects may occur more in later stages of the illness. This study used resting-state functional magnetic resonance imaging to explore whether acute heroin substitution also induced positive reinforcement effects in striatal brain regions of protracted heroin-maintained patients. Using independent component analysis and a dual regression approach, we compared resting-state functional connectivity (rsFC) strengths within the basal ganglia/limbic network across a group of heroin-dependent patients receiving both an acute infusion of heroin and placebo and 20 healthy subjects who received placebo only. Subsequent correlation analyses were performed to test whether the rsFC strength under heroin exposure correlated with the subjective rewarding effect and with plasma concentrations of heroin and its main metabolites morphine. Relative to the placebo treatment in patients, heroin significantly increased rsFC of the left putamen within the basal ganglia/limbic network, the extent of which correlated positively with patients' feelings of rush and with the plasma level of morphine. Furthermore, healthy controls revealed increased rsFC of the posterior cingulate cortex/precuneus in this network relative to the placebo treatment in patients. Our results indicate that acute heroin substitution induces a subjective rewarding effect via increased striatal connectivity in heroin-dependent patients, suggesting that positive reinforcement effects in the striatum still occur after protracted maintenance therapy.",
+        "target": "\nThis means that when people take heroin, their brain gets a little happy feeling. It's like when you eat your favorite food and it tastes really good. The heroin makes the brain happy by connecting with other parts of the brain that help us feel good. And the more connected these parts are, the happier the brain gets. But sometimes, the brain can get too happy and that can be bad. So, scientists studied what happens in the brain when people take heroin and they found out that even after a long time of taking heroin, the brain still gets happy when it takes the drug. It's like the brain is still trying to get that happy feeling even after a while.\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_1"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "use a more serious language/ do not reduce the results to one sentence without any explanation of the result (why did this happen?)/ mention the population consisting of healthy and heroin dependent people/ mention the placebo intervention/ do not make those weird examples ",
+                    "final_comments": "this does not create the feeling of a summary of a scientistic study but rather the feeling of a text written by a child "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_4"
+                    },
+                    "pico_pop_rat": "population consisting of health heroin dependent pat is not mentioned "
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_3"
+                    },
+                    "pico_inter_rat": "it is just mentioned that people take heroin(who are those people? in which setting do they take heroin?), but that a group of heroin dependent pat. receive a infusion of heroin is not mentioned "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_4"
+                    },
+                    "pico_comp_rat": "healthy placebo group and placebo intervention within the heroin dependent group is not mentioned "
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_3"
+                    },
+                    "pico_out_rat": "missing: protracted heroin maintained pat.; acute heroin substitution instead of people take heroin "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1095,
+                        1351
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_2"
+                    },
+                    "results_rat": "no placebo treatment mentioned, many details and scientistic findings got lost and were reduced \"the brain still gets happy\", not mentioned why "
+                }
+            },
+            {
+                "category": "add_info",
+                "id": 1,
+                "annotation": {
+                    "hal_rationale": "a weird example "
+                },
+                "output_idx": [
+                    [
+                        83,
+                        151
+                    ]
+                ]
+            }
+        ],
+        "_thresh_id": 27
+    },
+    {
+        "source": "ABSTRACT.PURPOSE.\nTo prospectively compare SIRT and DEB-TACE for treating hepatocellular carcinoma (HCC).\n\nABSTRACT.METHODS.\nFrom 04/2010\u201307/2012, 24 patients with histologically proven unresectable N0, M0 HCCs were randomized 1:1 to receive SIRT or DEB-TACE. SIRT could be repeated once in case of recurrence; while, TACE was repeated every 6 weeks until no viable tumor tissue was detected by MRI or contraindications prohibited further treatment. Patients were followed-up by MRI every 3 months; the final evaluation was 05/2013.\n\nABSTRACT.RESULTS.\nBoth groups were comparable in demographics (SIRT: 8males/4females, mean age 72 \u00b1 7 years; TACE: 10males/2females, mean age 71 \u00b1 9 years), initial tumor load (1 patient \u226525 % in each group), and BCLC (Barcelona Clinic Liver Cancer) stage (SIRT: 12\u00d7B; TACE 1\u00d7A, 11\u00d7B). Median progression-free survival (PFS) was 180 days for SIRT versus 216 days for TACE patients (p = 0.6193) with a median TTP of 371 days versus 336 days, respectively (p = 0.5764). Median OS was 592 days for SIRT versus 788 days for TACE patients (p = 0.9271). Seven patients died in each group. Causes of death were liver failure (n = 4 SIRT group), tumor progression (n = 4 TACE group), cardiovascular events, and inconclusive (n = 1 in each group).\n\nABSTRACT.CONCLUSIONS.\nNo significant differences were found in median PFS, OS, and TTP. The lower rate of tumor progression in the SIRT group was nullified by a greater incidence of liver failure. This pilot study is the first prospective randomized trial comparing SIRT and TACE for treating HCC, and results can be used for sample size calculations of future studies.",
+        "target": "This study compared two treatments for hepatocellular carcinoma (HCC): SIRT and transarterial chemoembolization (TACE). Both treatments were given to patients with histologically proven unresectable N0, M0 HCCs. The results showed that both treatments had similar median progression-free survival (PFS) and overall survival (OS). However, the SIRT group had a lower rate of tumor progression compared to the TACE group. Additionally, the TACE group had a greater incidence of liver failure. These results can be used to inform future sample size calculations for similar studies.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_1"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "- explain HCC; SIRT; TACE; N0;M0 and their impact and do not use shortcuts at first/ -focus more on the structure of the study (number of repeats)/ - tell number of pat. (pilot study- important)/ - do not use such a medical language in generell "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_3"
+                    },
+                    "pico_pop_rat": "- missing: number of pat. (pilot study- important for further studies) \n- missing: preconditions -histologically proven unresectable N0, M0 HCCs were randomized"
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_3"
+                    },
+                    "pico_inter_rat": "intervention is mentioned but not explained. Furthermore, the repeats are not mentioned "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_3"
+                    },
+                    "pico_comp_rat": "comparator is mentioned but not explained. Repeats are not mentioned "
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_1"
+                    },
+                    "pico_out_rat": "comparison of both treatments are mentioned "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        928,
+                        1001
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_3"
+                    },
+                    "results_rat": "TTP is not mentioned "
+                }
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1002,
+                        1081
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "important information is mentioned "
+                }
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        820,
+                        927
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "the important information is mentioned "
+                }
+            }
+        ],
+        "_thresh_id": 28
+    },
+    {
+        "source": "ABSTRACT.PURPOSE.\nTo prospectively compare SIRT and DEB-TACE for treating hepatocellular carcinoma (HCC).\n\nABSTRACT.METHODS.\nFrom 04/2010\u201307/2012, 24 patients with histologically proven unresectable N0, M0 HCCs were randomized 1:1 to receive SIRT or DEB-TACE. SIRT could be repeated once in case of recurrence; while, TACE was repeated every 6 weeks until no viable tumor tissue was detected by MRI or contraindications prohibited further treatment. Patients were followed-up by MRI every 3 months; the final evaluation was 05/2013.\n\nABSTRACT.RESULTS.\nBoth groups were comparable in demographics (SIRT: 8males/4females, mean age 72 \u00b1 7 years; TACE: 10males/2females, mean age 71 \u00b1 9 years), initial tumor load (1 patient \u226525 % in each group), and BCLC (Barcelona Clinic Liver Cancer) stage (SIRT: 12\u00d7B; TACE 1\u00d7A, 11\u00d7B). Median progression-free survival (PFS) was 180 days for SIRT versus 216 days for TACE patients (p = 0.6193) with a median TTP of 371 days versus 336 days, respectively (p = 0.5764). Median OS was 592 days for SIRT versus 788 days for TACE patients (p = 0.9271). Seven patients died in each group. Causes of death were liver failure (n = 4 SIRT group), tumor progression (n = 4 TACE group), cardiovascular events, and inconclusive (n = 1 in each group).\n\nABSTRACT.CONCLUSIONS.\nNo significant differences were found in median PFS, OS, and TTP. The lower rate of tumor progression in the SIRT group was nullified by a greater incidence of liver failure. This pilot study is the first prospective randomized trial comparing SIRT and TACE for treating HCC, and results can be used for sample size calculations of future studies.",
+        "target": "Scientists wanted to see if two treatments, named SIRT and DEB-TACE, worked differently to treat a type of liver cancer. They divided people with this cancer into two groups, and gave one SIRT and one DEB-TACE. They watched the patients carefully for a few years to see if and how their cancer changed. What they found is that both treatments worked about the same, but people on SIRT had more problem with liver failure. This information can help them decide how many people they need for their future studies comparing these treatments.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_2"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "- explain terms like (SIRT; DEB-TACE) and do not use shortcuts at first/ - name the cancer the study is about/ tell the results more detailed because the results includes different aspects and all of them are important "
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_3"
+                    },
+                    "pico_pop_rat": "- missing: number of pat. (pilot study- important for further studies) \n- missing: preconditions -histologically proven unresectable N0, M0 HCCs were randomized"
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_2"
+                    },
+                    "pico_inter_rat": "Intervention mentioned but not explained"
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_2"
+                    },
+                    "pico_comp_rat": "comparator mentioned but not explained; not understandable for non medical people"
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_3"
+                    },
+                    "pico_out_rat": "outcome (comparison of two treatments) is mentioned but name of the cnacer (HCC) is missing"
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        928,
+                        1001
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_3"
+                    },
+                    "results_rat": "the result is not very detailed ( both treatments worked about the same) and therefore this part of the treatment is not mentioned"
+                }
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1002,
+                        1081
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_3"
+                    },
+                    "results_rat": "the result is not very detailed ( both treatments worked about the same) and therefore this part of the treatment is not mentioned"
+                }
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        820,
+                        927
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_3"
+                    },
+                    "results_rat": "the result is not very detailed ( both treatments worked about the same) and therefore this part of the treatment is not mentioned "
+                }
+            }
+        ],
+        "_thresh_id": 29
+    },
+    {
+        "source": "ABSTRACT.PURPOSE.\nTo prospectively compare SIRT and DEB-TACE for treating hepatocellular carcinoma (HCC).\n\nABSTRACT.METHODS.\nFrom 04/2010\u201307/2012, 24 patients with histologically proven unresectable N0, M0 HCCs were randomized 1:1 to receive SIRT or DEB-TACE. SIRT could be repeated once in case of recurrence; while, TACE was repeated every 6 weeks until no viable tumor tissue was detected by MRI or contraindications prohibited further treatment. Patients were followed-up by MRI every 3 months; the final evaluation was 05/2013.\n\nABSTRACT.RESULTS.\nBoth groups were comparable in demographics (SIRT: 8males/4females, mean age 72 \u00b1 7 years; TACE: 10males/2females, mean age 71 \u00b1 9 years), initial tumor load (1 patient \u226525 % in each group), and BCLC (Barcelona Clinic Liver Cancer) stage (SIRT: 12\u00d7B; TACE 1\u00d7A, 11\u00d7B). Median progression-free survival (PFS) was 180 days for SIRT versus 216 days for TACE patients (p = 0.6193) with a median TTP of 371 days versus 336 days, respectively (p = 0.5764). Median OS was 592 days for SIRT versus 788 days for TACE patients (p = 0.9271). Seven patients died in each group. Causes of death were liver failure (n = 4 SIRT group), tumor progression (n = 4 TACE group), cardiovascular events, and inconclusive (n = 1 in each group).\n\nABSTRACT.CONCLUSIONS.\nNo significant differences were found in median PFS, OS, and TTP. The lower rate of tumor progression in the SIRT group was nullified by a greater incidence of liver failure. This pilot study is the first prospective randomized trial comparing SIRT and TACE for treating HCC, and results can be used for sample size calculations of future studies.",
+        "target": "\nThe study compared two ways of treating liver cancer. One way is called SIRT, and the other way is called TACE. The study found out that the two ways are almost the same in terms of how long the cancer stays away, how long the patient lives, and how often the cancer comes back. The study also found that the patients who got SIRT had more liver problems, but the patients who got TACE had more cancer problems. The study was small, but it gives us information that we can use for future studies.\n\n\n\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0,
+                "annotation": {
+                    "hol_question_1": {
+                        "val": "hol_child_3"
+                    }
+                }
+            },
+            {
+                "category": "final_q",
+                "id": 1,
+                "annotation": {
+                    "final_commands": "-explain terms like SIRT/ TACE at least in a short way/ do not use shortcuts at first/ tell more about the population and their preconditions"
+                }
+            },
+            {
+                "category": "pico_pop",
+                "id": 2,
+                "annotation": {
+                    "pico_pop_anno": {
+                        "val": "q4_3"
+                    },
+                    "pico_pop_rat": "missing: histologically proven unresectable N0, M0 HCCs were randomized "
+                }
+            },
+            {
+                "category": "pico_inter",
+                "id": 3,
+                "annotation": {
+                    "pico_pop_inter": {
+                        "val": "q4_2"
+                    },
+                    "pico_inter_rat": "intervention mentioned but not explained "
+                }
+            },
+            {
+                "category": "pico_comp",
+                "id": 4,
+                "annotation": {
+                    "pico_pop_comp": {
+                        "val": "q4_2"
+                    },
+                    "pico_comp_rat": "comparator mentioned but not explained "
+                }
+            },
+            {
+                "category": "pico_out",
+                "id": 5,
+                "annotation": {
+                    "pico_pop_out": {
+                        "val": "q4_1"
+                    },
+                    "pico_out_rat": "outcome (comparison of two ways treatments for treating liver cancer) is mentioned "
+                }
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        928,
+                        1001
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "mentioned and rephrased "
+                }
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1002,
+                        1081
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "mentioned and rephrased "
+                }
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        820,
+                        927
+                    ]
+                ],
+                "annotation": {
+                    "results_anno": {
+                        "val": "r_1"
+                    },
+                    "results_rat": "mentioned and rephrased "
+                }
+            },
+            {
+                "category": "add_info",
+                "id": 1,
+                "annotation": {
+                    "factual": "no",
+                    "hal_rationale": "This is not mentioned "
+                },
+                "output_idx": [
+                    [
+                        361,
+                        412
+                    ]
+                ]
+            }
+        ],
+        "_thresh_id": 30
+    }
+]
