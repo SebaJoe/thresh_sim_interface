@@ -61,7 +61,7 @@ edits:
 
     annotation:
       - name: factual
-        label: "Question 2.1"
+        label: "factual"
         question: "Is the added information factual?"
         options: binary
 
