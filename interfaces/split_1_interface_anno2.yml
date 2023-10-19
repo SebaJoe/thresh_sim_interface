@@ -63,7 +63,7 @@ edits:
       - name: factual
         label: "Question 2.1"
         question: "Is the added information factual?"
-        options: likert-5
+        options: binary
 
       - name: hal_rationale
         label: "Question 2.2"
