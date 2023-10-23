@@ -1,0 +1,1562 @@
+[
+    {
+        "source": "ABSTRACT.BACKGROUND.\nArtesunate+amodiaquine (AS+AQ) and artemether-lumefantrine (AL) are now the most frequently recommended first line treatments for uncomplicated malaria in Africa. Artesunate+chlorproguanil-dapsone (AS+CD) was a potential alternative for treatment of uncomplicated malaria. A comparison of the efficacy and safety of these three drug combinations was necessary to make evidence based drug treatment policies.\n\nABSTRACT.METHODS.\nFive hundred and thirty-four, glucose-6-phosphate dehydrogenase (G6PD) normal children were randomised in blocks of 15 to the AS+AQ, AL or AS+CD groups. Administration of study drugs was supervised by project staff and the children were followed up at r home on days 1,2,3,7,14 and 28 post treatment. Parasitological and clinical failures and adverse events were compared between the study groups.\n\nABSTRACT.MAIN FINDINGS.\nIn a per-protocol analysis, the parasitological and clinical failure rate at day 28 post treatment (PCF28) was lower in the AS+AQ group compared to the AL or AS+CD groups (corrected for re-infections: 6.6% vs 13.8% and 13.8% respectively, p = 0.08; uncorrected: 14.6% vs 27.6% and 28.1% respectively, p = 0.005). In the intention to treat analysis, the rate of early treatment failure was high in all three groups (AS+AQ 13.3%; AL 15.2%; and AS+CD 9.3%, p = 0.2) primarily due to vomiting. However, the PCF28 corrected for re-infection was lower, though not significantly, in the AS+AQ group compared to the AL or the AS+CD groups (AS+AQ 18.3%; AL 24.2%; AS+CD 20.8%, p = 0.4) The incidence of adverse events was comparable between the groups.\n\nABSTRACT.CONCLUSIONS.\nAS+AQ is an appropriate first line treatment for uncomplicated malaria in Ghana and possibly in the neighbouring countries in West Africa. The effectiveness of AL in routine programme conditions needs to be studied further in West Africa.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov NCT00119145",
+        "target": "Artesunate+amodiaquine (AS+AQ) and artemether-lumefantrine (AL) are now the most frequently recommended first line treatments for uncomplicated malaria in Africa. Previously, a potential alternative for treatment of uncomplicated malaria was artesunate+chlorproguanil-dapsone (AS+CD). A comparison of the efficacy and safety of these three drug combinations was necessary to make evidence based drug treatment policies.\n\nIn a clinical trial, 534 G6PD normal children were randomised in blocks of 15 to the AS+AQ, AL or AS+CD groups. Administration of study drugs was supervised by project staff and the children were followed up at home on days 1, 2, 3, 7, 14 and 28 post treatment. Parasitological and clinical failures and adverse events were compared between the study groups.\n\nIn a per-protocol analysis, the parasitological and clinical failure rate at day 28 post treatment (PCF28) was lower in the AS+AQ group compared to the AL or AS+CD groups (corrected for re-infections: 6.6% vs 13.8% and 13.8% respectively, p = 0.08; uncorrected: 14.6% vs 27.6% and 28.1% respectively, p = 0.005). In the intention to treat analysis, the rate of early treatment failure was high in all three groups (AS+AQ 13.3%; AL 15.2%; and AS+CD 9.3%, p = 0.2) primarily due to vomiting. However, the PCF28 corrected for re-infection was lower, though not significantly, in the AS+AQ group compared to the AL or the AS+CD groups (AS+AQ 18.3%; AL 24.2%; AS+CD 20.8%, p = 0.4).\n\nThe incidence of adverse events was comparable between the groups.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        899,
+                        1183
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1361,
+                        1548
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nArtesunate+amodiaquine (AS+AQ) and artemether-lumefantrine (AL) are now the most frequently recommended first line treatments for uncomplicated malaria in Africa. Artesunate+chlorproguanil-dapsone (AS+CD) was a potential alternative for treatment of uncomplicated malaria. A comparison of the efficacy and safety of these three drug combinations was necessary to make evidence based drug treatment policies.\n\nABSTRACT.METHODS.\nFive hundred and thirty-four, glucose-6-phosphate dehydrogenase (G6PD) normal children were randomised in blocks of 15 to the AS+AQ, AL or AS+CD groups. Administration of study drugs was supervised by project staff and the children were followed up at r home on days 1,2,3,7,14 and 28 post treatment. Parasitological and clinical failures and adverse events were compared between the study groups.\n\nABSTRACT.MAIN FINDINGS.\nIn a per-protocol analysis, the parasitological and clinical failure rate at day 28 post treatment (PCF28) was lower in the AS+AQ group compared to the AL or AS+CD groups (corrected for re-infections: 6.6% vs 13.8% and 13.8% respectively, p = 0.08; uncorrected: 14.6% vs 27.6% and 28.1% respectively, p = 0.005). In the intention to treat analysis, the rate of early treatment failure was high in all three groups (AS+AQ 13.3%; AL 15.2%; and AS+CD 9.3%, p = 0.2) primarily due to vomiting. However, the PCF28 corrected for re-infection was lower, though not significantly, in the AS+AQ group compared to the AL or the AS+CD groups (AS+AQ 18.3%; AL 24.2%; AS+CD 20.8%, p = 0.4) The incidence of adverse events was comparable between the groups.\n\nABSTRACT.CONCLUSIONS.\nAS+AQ is an appropriate first line treatment for uncomplicated malaria in Ghana and possibly in the neighbouring countries in West Africa. The effectiveness of AL in routine programme conditions needs to be studied further in West Africa.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov NCT00119145",
+        "target": "Doctors are trying to find the best medicine for a type of illness called malaria. So, they did a study where they gave different combinations of medicine to 534 healthy children and observed how well the medicines worked. They also watched for any bad reactions to the medications. They found out that one of the combinations (AS+AQ) seemed to work better than the others. This might be the best option for treating malaria in places like Ghana and West Africa. But the other combination (AL) still needs to be studied more.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        899,
+                        1183
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1361,
+                        1548
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nArtesunate+amodiaquine (AS+AQ) and artemether-lumefantrine (AL) are now the most frequently recommended first line treatments for uncomplicated malaria in Africa. Artesunate+chlorproguanil-dapsone (AS+CD) was a potential alternative for treatment of uncomplicated malaria. A comparison of the efficacy and safety of these three drug combinations was necessary to make evidence based drug treatment policies.\n\nABSTRACT.METHODS.\nFive hundred and thirty-four, glucose-6-phosphate dehydrogenase (G6PD) normal children were randomised in blocks of 15 to the AS+AQ, AL or AS+CD groups. Administration of study drugs was supervised by project staff and the children were followed up at r home on days 1,2,3,7,14 and 28 post treatment. Parasitological and clinical failures and adverse events were compared between the study groups.\n\nABSTRACT.MAIN FINDINGS.\nIn a per-protocol analysis, the parasitological and clinical failure rate at day 28 post treatment (PCF28) was lower in the AS+AQ group compared to the AL or AS+CD groups (corrected for re-infections: 6.6% vs 13.8% and 13.8% respectively, p = 0.08; uncorrected: 14.6% vs 27.6% and 28.1% respectively, p = 0.005). In the intention to treat analysis, the rate of early treatment failure was high in all three groups (AS+AQ 13.3%; AL 15.2%; and AS+CD 9.3%, p = 0.2) primarily due to vomiting. However, the PCF28 corrected for re-infection was lower, though not significantly, in the AS+AQ group compared to the AL or the AS+CD groups (AS+AQ 18.3%; AL 24.2%; AS+CD 20.8%, p = 0.4) The incidence of adverse events was comparable between the groups.\n\nABSTRACT.CONCLUSIONS.\nAS+AQ is an appropriate first line treatment for uncomplicated malaria in Ghana and possibly in the neighbouring countries in West Africa. The effectiveness of AL in routine programme conditions needs to be studied further in West Africa.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov NCT00119145",
+        "target": "\nThe study compared three different treatments for malaria in children. The first treatment is called Artesunate+amodiaquine (AS+AQ). The second treatment is called Artemether-lumefantrine (AL). The third treatment is called Artesunate+chlorproguanil-dapsone (AS+CD). The researchers wanted to know which treatment works best to cure malaria.\nThey randomly divided 534 children into three groups and gave them one of the three treatments. They followed the children for 28 days to see if the malaria came back. They found that the children who got the Artesunate+amodiaquine treatment were less likely to have malaria come back compared to the other two groups.\nThe researchers also found that the children in all three groups had a lot of vomiting, which made it hard to compare the results. But overall, the Artesunate+amodiaquine treatment seemed to work best to cure malaria.\nThis study was done in Ghana, but the researchers think it might be useful for other countries in West Africa too.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Giovanni\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\naban\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0144skiej\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\n\n\n\nMSG\n\n\n\nMS\n\nMS-\n\n\nMS MS-\nMS-\nMS-\n\n\n\n\nMS-\n\n\nMS-MS-\n\n\n\n\n\n\nMS-\nMS-\n\n\n\n\n\n\n\n\n\n\nMS-MS-\nMS-\n\n\n\n\nMS-\nMS-\n\n\n\n\nMS-MS-\n\n\n\n\n\nMS-\n\n\nMS-\nMS-\n\n\n\n\n\n\nMS-\n\n\n\n\n\nMS-\n\n\n\n\nMS-MS-\n\n\n\n\n\n\n\n MS-\n\n\n MS-\n\n\n\n\n\n MS-MS-\n\n\n\n\n\n\n\nMS-MS-\n\n\n\n\n\n\n\nMS- MS-\n\n\n\n\n\n\n\n\n MS-\n\n\n\n\n\n\n MS-\n\n\n\n\n\nMS-\n\n\n MS-\n\n\n\n\n\n\n\n MS- MS-\n\n\n\n\n\n\n MS-\n\n\n\n\n\n\n MS-\n\n\n\nMS-\n\n\n\n\n\n\n\n\nMS-\n\n\n\nMS-\n\n\n\nMS-\nMS-\n\n\n\n\n\n\n\n MS-\n\n\n\n\n\nMS-\n\n\n\n\n\n\n MS-\n\n\n\n\n\n MS-\n\n\n\n\n\n\n\n\nMS-\n\n\nMS-\n\n\n\n\n\n\nMS-\n\n\n\nMS-\n\n\n\n\nMS-\n\n\n\n\n\nMS-\nMS-\n\n\n\n\n\nMS-\n\n\n\n\n\nMS-\n\n\n\n MS-\n\nMS-\n\n\n\n\n\n\nMS-\nMS- MS-\n\n\n\n\n\n\n\n\n\n MS- MS-MS-MS-MS\n\n\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        899,
+                        1183
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1361,
+                        1548
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nEmergency department (ED) overcrowding is a ubiquitous problem with serious public health implications. The fast track area is a novel method which aims to reduce waiting time, patient dissatisfaction and morbidity. |The study objective was to determine the impact of a fast track area (FTA) on both effectiveness measures (i.e. waiting times [WT] and length of stay [LOS]) and quality measures (i.e. LWBS rates and mortality rates) in non-urgent patients. The secondary objective was to assess if a FTA negatively impacted on urgent patients entering the ED.\n\nABSTRACT.METHODS.\nThe study took place in a 500 bed, urban, tertiary care hospital in Abu Dhabi, United Arab Emirates. This was a quasi-experimental, which examined the impact of a FTA on a pre-intervention control group (January 2005) (n = 4,779) versus a post-intervention study group (January 2006) (n = 5,706).\n\nABSTRACT.RESULTS.\nMean WTs of Canadian Triage Acuity Scale (CTAS) 4 patients decreased by 22 min (95% CI 21 min to 24 min, P &lt; 0.001). Similarly, mean WTs of CTAS 5 patients decreased by 28 min (95% CI 19 min to 37 min, P &lt; 0.001) post FTA. The mean WTs of urgent patients (CTAS 2/3) were also significantly reduced after the FTA was opened (P &lt; 0.001). The LWBS rate was reduced from 4.7% to 0.7% (95% CI 3.37 to 4.64; P &lt; 0.001). Opening a FTA had no significant impact on mortality rates (P = 0.88).\n\nABSTRACT.CONCLUSION.\nThe FTA improved ED effectiveness (WTs and LOS) and quality measures (LWBS rates) whereas mortality rate remained unchanged.",
+        "target": "This study examined the impact of a Fast Track Area (FTA) on the effectiveness and quality of care in a non-urgent patient population in an urban, tertiary care hospital in Abu Dhabi, United Arab Emirates. The FTA was found to reduce waiting times and length of stay, as well as lower the rate of patients who leave without being seen (LWBS). There was no significant impact on mortality rates. These results suggest that FTAs can be beneficial for hospitals looking to reduce waiting times and improve the quality of care for non-urgent patients.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1145,
+                        1260
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1261,
+                        1340
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1342,
+                        1412
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        916,
+                        1035
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 10,
+                "input_idx": [
+                    [
+                        1036,
+                        1144
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nEmergency department (ED) overcrowding is a ubiquitous problem with serious public health implications. The fast track area is a novel method which aims to reduce waiting time, patient dissatisfaction and morbidity. |The study objective was to determine the impact of a fast track area (FTA) on both effectiveness measures (i.e. waiting times [WT] and length of stay [LOS]) and quality measures (i.e. LWBS rates and mortality rates) in non-urgent patients. The secondary objective was to assess if a FTA negatively impacted on urgent patients entering the ED.\n\nABSTRACT.METHODS.\nThe study took place in a 500 bed, urban, tertiary care hospital in Abu Dhabi, United Arab Emirates. This was a quasi-experimental, which examined the impact of a FTA on a pre-intervention control group (January 2005) (n = 4,779) versus a post-intervention study group (January 2006) (n = 5,706).\n\nABSTRACT.RESULTS.\nMean WTs of Canadian Triage Acuity Scale (CTAS) 4 patients decreased by 22 min (95% CI 21 min to 24 min, P &lt; 0.001). Similarly, mean WTs of CTAS 5 patients decreased by 28 min (95% CI 19 min to 37 min, P &lt; 0.001) post FTA. The mean WTs of urgent patients (CTAS 2/3) were also significantly reduced after the FTA was opened (P &lt; 0.001). The LWBS rate was reduced from 4.7% to 0.7% (95% CI 3.37 to 4.64; P &lt; 0.001). Opening a FTA had no significant impact on mortality rates (P = 0.88).\n\nABSTRACT.CONCLUSION.\nThe FTA improved ED effectiveness (WTs and LOS) and quality measures (LWBS rates) whereas mortality rate remained unchanged.",
+        "target": "This study is about a test done in a hospital in Abu Dhabi to see if having a \"fast track area\" in the emergency room would help make things run more smoothly. The fast track area is supposed to help people with non-emergency issues get treated faster, so the serious cases can get direct attention.\n\nThey tested this out for a year and found that it did make a difference! People with less serious issues had to wait less time and fewer people left without being seen by a doctor. But it didn't make any difference in the number of deaths in the emergency room. So, to keep it simple, the fast track area did help things move faster, but it didn't change how many people lived or died in the hospital.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1145,
+                        1260
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1261,
+                        1340
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1342,
+                        1412
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        916,
+                        1035
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 10,
+                "input_idx": [
+                    [
+                        1036,
+                        1144
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nEmergency department (ED) overcrowding is a ubiquitous problem with serious public health implications. The fast track area is a novel method which aims to reduce waiting time, patient dissatisfaction and morbidity. |The study objective was to determine the impact of a fast track area (FTA) on both effectiveness measures (i.e. waiting times [WT] and length of stay [LOS]) and quality measures (i.e. LWBS rates and mortality rates) in non-urgent patients. The secondary objective was to assess if a FTA negatively impacted on urgent patients entering the ED.\n\nABSTRACT.METHODS.\nThe study took place in a 500 bed, urban, tertiary care hospital in Abu Dhabi, United Arab Emirates. This was a quasi-experimental, which examined the impact of a FTA on a pre-intervention control group (January 2005) (n = 4,779) versus a post-intervention study group (January 2006) (n = 5,706).\n\nABSTRACT.RESULTS.\nMean WTs of Canadian Triage Acuity Scale (CTAS) 4 patients decreased by 22 min (95% CI 21 min to 24 min, P &lt; 0.001). Similarly, mean WTs of CTAS 5 patients decreased by 28 min (95% CI 19 min to 37 min, P &lt; 0.001) post FTA. The mean WTs of urgent patients (CTAS 2/3) were also significantly reduced after the FTA was opened (P &lt; 0.001). The LWBS rate was reduced from 4.7% to 0.7% (95% CI 3.37 to 4.64; P &lt; 0.001). Opening a FTA had no significant impact on mortality rates (P = 0.88).\n\nABSTRACT.CONCLUSION.\nThe FTA improved ED effectiveness (WTs and LOS) and quality measures (LWBS rates) whereas mortality rate remained unchanged.",
+        "target": "\nThe passage is talking about a new area in an emergency room called a \"fast track area.\" This area is meant to help reduce the time it takes for people to get medical attention. The study looked at how well this area worked and found that it helped reduce the time it took for people to get medical attention and made the emergency room a safer place for everyone.\n\nIs there anything else I can help you with?",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1145,
+                        1260
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1261,
+                        1340
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1342,
+                        1412
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        916,
+                        1035
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 10,
+                "input_idx": [
+                    [
+                        1036,
+                        1144
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:.\nPrimary therapeutic aim in treatment of osteoarthritis of the knee is to relieve the pain of osteoarthritis. The aim of this study was to compare the efficacy of intra-articular triamcinolone with intra-articular morphine in pain relief due to osteoarthritis of the knee in the elderly population.\n\nABSTRACT.MATERIALS AND METHODS:.\nPatients between 50 and 80 years of age were randomized into three groups. Group M received morphine plus bupivacaine intra-articularly, Group T received triamcinolone plus bupivacaine intra-articularly, and Group C received saline plus bupivacaine intra-articularly. Patients were evaluated before injection and in 2nd, 4th, 6th, and 12th weeks after injection. First-line supplementary analgesic was oral paracetamol 1500 mg/day. If analgesia was insufficient with paracetamol, oral dexketoprofen trometamol 50 mg/day was recommended to patients.\n\nABSTRACT.RESULTS:.\nAfter the intra-articular injection, there was statistically significant decrease in visual analog scale (VAS) scores in Groups M and T, when compared to Group C. The decrease of VAS scores seen at the first 2 weeks continued steadily up to the end of 12th week. There was a significant decrease in Groups M and T in the WOMAC scores, when compared to Group C. There was no significant difference in the WOMAC scores between morphine and steroid groups. Significantly less supplementary analgesics was used in the morphine and steroid groups.\n\nABSTRACT.CONCLUSION:.\nIntra-articular morphine was as effective as intra-articular triamcinolone for analgesia in patients with osteoarthritis knee. Intra-articular morphine is possibly a better option than intra-articular steroid as it has lesser side effects.",
+        "target": "This study compared the efficacy of intra-articular morphine with intra-articular triamcinolone for pain relief in elderly patients with osteoarthritis of the knee. The results showed that both treatments were effective in reducing pain, with morphine being as effective as triamcinolone. In addition, morphine was associated with fewer side effects than triamcinolone. Therefore, intra-articular morphine is a possible option for pain relief in elderly patients with osteoarthritis of the knee.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        925,
+                        1187
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1379,
+                        1467
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:.\nPrimary therapeutic aim in treatment of osteoarthritis of the knee is to relieve the pain of osteoarthritis. The aim of this study was to compare the efficacy of intra-articular triamcinolone with intra-articular morphine in pain relief due to osteoarthritis of the knee in the elderly population.\n\nABSTRACT.MATERIALS AND METHODS:.\nPatients between 50 and 80 years of age were randomized into three groups. Group M received morphine plus bupivacaine intra-articularly, Group T received triamcinolone plus bupivacaine intra-articularly, and Group C received saline plus bupivacaine intra-articularly. Patients were evaluated before injection and in 2nd, 4th, 6th, and 12th weeks after injection. First-line supplementary analgesic was oral paracetamol 1500 mg/day. If analgesia was insufficient with paracetamol, oral dexketoprofen trometamol 50 mg/day was recommended to patients.\n\nABSTRACT.RESULTS:.\nAfter the intra-articular injection, there was statistically significant decrease in visual analog scale (VAS) scores in Groups M and T, when compared to Group C. The decrease of VAS scores seen at the first 2 weeks continued steadily up to the end of 12th week. There was a significant decrease in Groups M and T in the WOMAC scores, when compared to Group C. There was no significant difference in the WOMAC scores between morphine and steroid groups. Significantly less supplementary analgesics was used in the morphine and steroid groups.\n\nABSTRACT.CONCLUSION:.\nIntra-articular morphine was as effective as intra-articular triamcinolone for analgesia in patients with osteoarthritis knee. Intra-articular morphine is possibly a better option than intra-articular steroid as it has lesser side effects.",
+        "target": "This study is trying to figure out the best way to help old people relieve their knee pain due to a disease called osteoarthritis. They gave patients three different types of injections directly into their knees. The first group got morphine, the second got something called triamcinolone, and the third group got a saline solution. They checked the patients' pain levels before the injection and at several weeks after.\n\nAfter the injections, the patients who got morphine or triamcinolone reported less pain compared to the ones who got saline. The pain kept decreasing up till the 12th week. Also, these patients had to take less extra, oral painkillers. The study concluded that both morphine and triamcinolone are useful, but morphine might be better as it has fewer side effects. So, if granny or grandpa is having pain because of osteoarthritis, an injection with morphine could help them better.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        925,
+                        1187
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1379,
+                        1467
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:.\nPrimary therapeutic aim in treatment of osteoarthritis of the knee is to relieve the pain of osteoarthritis. The aim of this study was to compare the efficacy of intra-articular triamcinolone with intra-articular morphine in pain relief due to osteoarthritis of the knee in the elderly population.\n\nABSTRACT.MATERIALS AND METHODS:.\nPatients between 50 and 80 years of age were randomized into three groups. Group M received morphine plus bupivacaine intra-articularly, Group T received triamcinolone plus bupivacaine intra-articularly, and Group C received saline plus bupivacaine intra-articularly. Patients were evaluated before injection and in 2nd, 4th, 6th, and 12th weeks after injection. First-line supplementary analgesic was oral paracetamol 1500 mg/day. If analgesia was insufficient with paracetamol, oral dexketoprofen trometamol 50 mg/day was recommended to patients.\n\nABSTRACT.RESULTS:.\nAfter the intra-articular injection, there was statistically significant decrease in visual analog scale (VAS) scores in Groups M and T, when compared to Group C. The decrease of VAS scores seen at the first 2 weeks continued steadily up to the end of 12th week. There was a significant decrease in Groups M and T in the WOMAC scores, when compared to Group C. There was no significant difference in the WOMAC scores between morphine and steroid groups. Significantly less supplementary analgesics was used in the morphine and steroid groups.\n\nABSTRACT.CONCLUSION:.\nIntra-articular morphine was as effective as intra-articular triamcinolone for analgesia in patients with osteoarthritis knee. Intra-articular morphine is possibly a better option than intra-articular steroid as it has lesser side effects.",
+        "target": "\nThe study looked at how well two different medicines, morphine and triamcinolone, worked to relieve pain in people with osteoarthritis of the knee. The study found that both medicines worked equally well to relieve pain, but morphine had fewer side effects. So, either medicine could be used to help people with osteoarthritis knee pain, but morphine might be a better choice because it has fewer side effects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSG\n\n\n\n\n\n\n\n\nMSGMTK",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        925,
+                        1187
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1379,
+                        1467
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThe purpose is to assess cardiopulmonary function outcomes and quality of life values in inactive people that participated in the Physical Activity Promotion Programme (PAPP) against the control group that did not perform this program.\n\nABSTRACT.METHOD.\nA total of 100 subjects of both genders participated in the randomized controlled trial with systematic random sampling; all were aged 55 and older, from Torremolinos, Spain. Participants either received (n = 50) the PAPP for 60 minutes, twice a week during three months or (n = 50) they received health education. The effectiveness of the intervention was measured by general state of health the Short Form 12 health survey questionnaire, and the quality of life was determined with the EuroQoL-5D questionnaire. Cardiopulmonary function was measured with a spirometry and a walking test according to the Bruce protocol.\n\nABSTRACT.RESULTS.\nThis pilot study had a significant impact on the quality of life (p = 0.05) in men, which increased. However, the quality of life in women did not improve. The average changes in the lung and cardiovascular function was not significant between groups.\n\nABSTRACT.CONCLUSIONS.\nChanges in the quality of life measured with EQ-5D in the group of men who carried out the PAPP were statistically significant when comparing between groups. However changes in cardiopulmonary function were not as relevant when comparing between groups. There was a significant effect within each group in the pulmonary outcomes of values in men, within the experimental group.\n\nABSTRACT.TRIAL REGISTRATION.\nDeveloped by the University of Ma\u0301laga. ClinicalTrials.gov ID: NCT01172483.",
+        "target": "This study compared the effects of a physical activity promotion program (PAPP) with a control group that did not perform the program. A total of 100 participants, both genders, aged 55 and older from Torremolinos, Spain, were randomly selected and divided into two groups of 50 each. The PAPP group received the program for 60 minutes, twice a week, for three months. The control group received health education. The effectiveness of the intervention was measured by the Short Form 12 health survey questionnaire and the EuroQoL-5D questionnaire. Cardiopulmonary function was measured with a spirometry and a walking test according to the Bruce protocol.\n\nThe results showed that the PAPP had a significant impact on the quality of life in men, leading to an increase. However, the quality of life in women did not improve. The average changes in the lung and cardiovascular function were not significant between groups.\n\nIn conclusion, the PAPP had a positive effect on the quality of life in men, while the cardiopulmonary function results were not as relevant.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        916,
+                        1015
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1017,
+                        1071
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThe purpose is to assess cardiopulmonary function outcomes and quality of life values in inactive people that participated in the Physical Activity Promotion Programme (PAPP) against the control group that did not perform this program.\n\nABSTRACT.METHOD.\nA total of 100 subjects of both genders participated in the randomized controlled trial with systematic random sampling; all were aged 55 and older, from Torremolinos, Spain. Participants either received (n = 50) the PAPP for 60 minutes, twice a week during three months or (n = 50) they received health education. The effectiveness of the intervention was measured by general state of health the Short Form 12 health survey questionnaire, and the quality of life was determined with the EuroQoL-5D questionnaire. Cardiopulmonary function was measured with a spirometry and a walking test according to the Bruce protocol.\n\nABSTRACT.RESULTS.\nThis pilot study had a significant impact on the quality of life (p = 0.05) in men, which increased. However, the quality of life in women did not improve. The average changes in the lung and cardiovascular function was not significant between groups.\n\nABSTRACT.CONCLUSIONS.\nChanges in the quality of life measured with EQ-5D in the group of men who carried out the PAPP were statistically significant when comparing between groups. However changes in cardiopulmonary function were not as relevant when comparing between groups. There was a significant effect within each group in the pulmonary outcomes of values in men, within the experimental group.\n\nABSTRACT.TRIAL REGISTRATION.\nDeveloped by the University of Ma\u0301laga. ClinicalTrials.gov ID: NCT01172483.",
+        "target": "Some scientists from Spain wanted to see if an exercise program could help older people feel better and breathe better. They had 100 people, who were all 55 or older, join the study. Half of them did the exercise program and the other half learned about health but didn't do the exercise program. After three months, they found that the men who did the exercise program felt better although there was no change in how they breathed or how their hearts worked. The women did not feel any better. These results are just from a small study, so more research is needed.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        916,
+                        1015
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1017,
+                        1071
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThe purpose is to assess cardiopulmonary function outcomes and quality of life values in inactive people that participated in the Physical Activity Promotion Programme (PAPP) against the control group that did not perform this program.\n\nABSTRACT.METHOD.\nA total of 100 subjects of both genders participated in the randomized controlled trial with systematic random sampling; all were aged 55 and older, from Torremolinos, Spain. Participants either received (n = 50) the PAPP for 60 minutes, twice a week during three months or (n = 50) they received health education. The effectiveness of the intervention was measured by general state of health the Short Form 12 health survey questionnaire, and the quality of life was determined with the EuroQoL-5D questionnaire. Cardiopulmonary function was measured with a spirometry and a walking test according to the Bruce protocol.\n\nABSTRACT.RESULTS.\nThis pilot study had a significant impact on the quality of life (p = 0.05) in men, which increased. However, the quality of life in women did not improve. The average changes in the lung and cardiovascular function was not significant between groups.\n\nABSTRACT.CONCLUSIONS.\nChanges in the quality of life measured with EQ-5D in the group of men who carried out the PAPP were statistically significant when comparing between groups. However changes in cardiopulmonary function were not as relevant when comparing between groups. There was a significant effect within each group in the pulmonary outcomes of values in men, within the experimental group.\n\nABSTRACT.TRIAL REGISTRATION.\nDeveloped by the University of Ma\u0301laga. ClinicalTrials.gov ID: NCT01172483.",
+        "target": "\nThe researchers wanted to see if a program called Physical Activity Promotion Programme (PAPP) could help people over 55 years old improve their quality of\u00f6m life and cardiopulmonary function. They divided the participants into two groups: one group did the PAPP for three months and the other group did not. They found out that the group that did the PAPP had a small but significant improvement in their quality of life, but the improvement in their cardiopulmonary function was not as big as they expected.\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        916,
+                        1015
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1017,
+                        1071
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nKnee pain in children with Joint Hypermobility Syndrome (JHS) is traditionally managed with exercise, however the supporting evidence for this is scarce. No trial has previously examined whether exercising to neutral or into the hypermobile range affects outcomes. This study aimed to (i) determine if a physiotherapist-prescribed exercise programme focused on knee joint strength and control is effective in reducing knee pain in children with JHS compared to no treatment, and (ii) whether the range in which these exercises are performed affects outcomes.\n\nABSTRACT.METHODS:\nA prospective, parallel-group, randomised controlled trial conducted in a tertiary hospital in Sydney, Australia compared an 8 week exercise programme performed into either the full hypermobile range or only to neutral knee extension, following a minimum 2 week baseline period without treatment. Randomisation was computer-generated, with allocation concealed by sequentially numbered opaque sealed envelopes. Knee pain was the primary outcome. Quality of life, thigh muscle strength, and function were also measured at (i) initial assessment, (ii) following the baseline period and (iii) post treatment. Assessors were blinded to the participants\u2019 treatment allocation and participants blinded to the difference in the treatments.\n\nABSTRACT.RESULTS:\nChildren with JHS and knee pain (n=26) aged 7-16 years were randomly assigned to the hypermobile (n=12) or neutral (n=14) treatment group. Significant improvements in child-reported maximal knee pain were found following treatment, regardless of group allocation with a mean 14.5 mm reduction on the visual analogue scale (95% CI 5.2 \u2013 23.8 mm, p=0.003). Significant differences between treatment groups were noted for parent-reported overall psychosocial health (p=0.009), specifically self-esteem (p=0.034), mental health (p=0.001) and behaviour (p=0.019), in favour of exercising into the hypermobile range (n=11) compared to neutral only (n=14). Conversely, parent-reported overall physical health significantly favoured exercising only to neutral (p=0.037). No other differences were found between groups and no adverse events occurred.\n\nABSTRACT.CONCLUSIONS:\nParents perceive improved child psychosocial health when children exercise into the hypermobile range, while exercising to neutral only is perceived to favour the child\u2019s physical health. A physiotherapist prescribed, supervised, individualised and progressed exercise programme effectively reduces knee pain in children with JHS.\n\nABSTRACT.TRIAL REGISTRATION:\nAustralia & New Zealand Clinical Trials Registry; ACTRN12606000109505.",
+        "target": "This study aimed to determine the effectiveness of a physiotherapist-prescribed exercise programme focused on knee joint strength and control in reducing knee pain in children with Joint Hypermobility Syndrome (JHS). The study also looked at whether the range in which these exercises are performed affects outcomes.\n\nThe results showed that children with JHS and knee pain, who were randomly assigned to the hypermobile range exercise group, experienced significant improvements in knee pain, as measured by a visual analogue scale. In addition, parents of these children reported improved psychosocial health, specifically self-esteem, mental health and behaviour, when compared to the neutral range exercise group. No adverse events occurred and no other differences were found between groups.\n\nThe study concluded that a physiotherapist-prescribed, supervised, individualised and progressed exercise programme focused on knee joint strength and control is effective in reducing knee pain in children with JHS, and that exercising into the hypermobile range may be beneficial for psychosocial health, while exercising to neutral only may be beneficial for physical health.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1490,
+                        1705
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        2114,
+                        2192
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nKnee pain in children with Joint Hypermobility Syndrome (JHS) is traditionally managed with exercise, however the supporting evidence for this is scarce. No trial has previously examined whether exercising to neutral or into the hypermobile range affects outcomes. This study aimed to (i) determine if a physiotherapist-prescribed exercise programme focused on knee joint strength and control is effective in reducing knee pain in children with JHS compared to no treatment, and (ii) whether the range in which these exercises are performed affects outcomes.\n\nABSTRACT.METHODS:\nA prospective, parallel-group, randomised controlled trial conducted in a tertiary hospital in Sydney, Australia compared an 8 week exercise programme performed into either the full hypermobile range or only to neutral knee extension, following a minimum 2 week baseline period without treatment. Randomisation was computer-generated, with allocation concealed by sequentially numbered opaque sealed envelopes. Knee pain was the primary outcome. Quality of life, thigh muscle strength, and function were also measured at (i) initial assessment, (ii) following the baseline period and (iii) post treatment. Assessors were blinded to the participants\u2019 treatment allocation and participants blinded to the difference in the treatments.\n\nABSTRACT.RESULTS:\nChildren with JHS and knee pain (n=26) aged 7-16 years were randomly assigned to the hypermobile (n=12) or neutral (n=14) treatment group. Significant improvements in child-reported maximal knee pain were found following treatment, regardless of group allocation with a mean 14.5 mm reduction on the visual analogue scale (95% CI 5.2 \u2013 23.8 mm, p=0.003). Significant differences between treatment groups were noted for parent-reported overall psychosocial health (p=0.009), specifically self-esteem (p=0.034), mental health (p=0.001) and behaviour (p=0.019), in favour of exercising into the hypermobile range (n=11) compared to neutral only (n=14). Conversely, parent-reported overall physical health significantly favoured exercising only to neutral (p=0.037). No other differences were found between groups and no adverse events occurred.\n\nABSTRACT.CONCLUSIONS:\nParents perceive improved child psychosocial health when children exercise into the hypermobile range, while exercising to neutral only is perceived to favour the child\u2019s physical health. A physiotherapist prescribed, supervised, individualised and progressed exercise programme effectively reduces knee pain in children with JHS.\n\nABSTRACT.TRIAL REGISTRATION:\nAustralia & New Zealand Clinical Trials Registry; ACTRN12606000109505.",
+        "target": "This study is about children who have a condition that makes their joints extra flexible, which sometimes causes knee pain. The researchers wanted to test if certain exercises would help reduce the pain. The exercises were of two types: one that uses the normal range of knee movement, and other that goes into the extra flexible range. \n\n26 kids aged between 7-16 years old participated in an 8-week exercise program. The researchers found out that both types of exercises helped reduce the knee pain. But interestingly, kids that exercised their knees to the maximum flexibility had improvements in their mental health and behavior, as observed by their parents. On the other hand, parents felt that the physical health of the kids improved more if they kept their exercises to the normal range of knee movement. \n\nNo child had any problem or issue due to the exercises. Thus, the study proved that these exercises prescribed by a therapist, can successfully reduce knee pain in kids with this condition.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1490,
+                        1705
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        2114,
+                        2192
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nKnee pain in children with Joint Hypermobility Syndrome (JHS) is traditionally managed with exercise, however the supporting evidence for this is scarce. No trial has previously examined whether exercising to neutral or into the hypermobile range affects outcomes. This study aimed to (i) determine if a physiotherapist-prescribed exercise programme focused on knee joint strength and control is effective in reducing knee pain in children with JHS compared to no treatment, and (ii) whether the range in which these exercises are performed affects outcomes.\n\nABSTRACT.METHODS:\nA prospective, parallel-group, randomised controlled trial conducted in a tertiary hospital in Sydney, Australia compared an 8 week exercise programme performed into either the full hypermobile range or only to neutral knee extension, following a minimum 2 week baseline period without treatment. Randomisation was computer-generated, with allocation concealed by sequentially numbered opaque sealed envelopes. Knee pain was the primary outcome. Quality of life, thigh muscle strength, and function were also measured at (i) initial assessment, (ii) following the baseline period and (iii) post treatment. Assessors were blinded to the participants\u2019 treatment allocation and participants blinded to the difference in the treatments.\n\nABSTRACT.RESULTS:\nChildren with JHS and knee pain (n=26) aged 7-16 years were randomly assigned to the hypermobile (n=12) or neutral (n=14) treatment group. Significant improvements in child-reported maximal knee pain were found following treatment, regardless of group allocation with a mean 14.5 mm reduction on the visual analogue scale (95% CI 5.2 \u2013 23.8 mm, p=0.003). Significant differences between treatment groups were noted for parent-reported overall psychosocial health (p=0.009), specifically self-esteem (p=0.034), mental health (p=0.001) and behaviour (p=0.019), in favour of exercising into the hypermobile range (n=11) compared to neutral only (n=14). Conversely, parent-reported overall physical health significantly favoured exercising only to neutral (p=0.037). No other differences were found between groups and no adverse events occurred.\n\nABSTRACT.CONCLUSIONS:\nParents perceive improved child psychosocial health when children exercise into the hypermobile range, while exercising to neutral only is perceived to favour the child\u2019s physical health. A physiotherapist prescribed, supervised, individualised and progressed exercise programme effectively reduces knee pain in children with JHS.\n\nABSTRACT.TRIAL REGISTRATION:\nAustralia & New Zealand Clinical Trials Registry; ACTRN12606000109505.",
+        "target": "\nThis study looked at how exercising can help kids with a condition called Joint Hypermobility Syndrome (JHS) that makes their knees move too much. Some kids did exercises that stretched their knees to a really flexible range, while others did exercises that only stretched their knees to a neutral position (where they don't bend too far). The study found that both groups of kids got better after doing exercises for 8 weeks, but the kids who did exercises in the hypermobile range (meaning they stretched their knees a lot) had better results in terms of how much pain they felt. The study also found that the kids' parents thought that exercising in the hypermobile range was better for their overall psychosocial health (meaning how they feel about themselves and their relationships), while the kids who only did exercises to neutral (meaning they didn't stretch their knees too far) had better results in terms of their physical health (meaning how their body works).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n mi\u0119dzy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u043d\u043e\u043c\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\n\n\n\n\n\nMS\n\n\n\n\n\nMSMS\n\nMS\n\n\n\n\n\nMSMS\n\nMS\n\nMS\n\nMSGY\n\n\n\n\n\n\nMSGYellowhat MSGYellowhat MSG Yellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGY history MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MS",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1490,
+                        1705
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        2114,
+                        2192
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nObjective: Computerized cognitive-bias modification (CBM) protocols are rapidly evolving in experimental medicine yet might best be combined with Internet-based cognitive behavioral therapy (iCBT). No research to date has evaluated the combined approach in depression. The current randomized controlled trial aimed to evaluate both the independent effects of a CBM protocol targeting imagery and interpretation bias (CBM-I) and the combined effects of CBM-I followed by iCBT. Method: Patients diagnosed with a major depressive episode were randomized to an 11-week intervention (1 week/CBM-I + 10 weeks/iCBT; n = 38) that was delivered via the Internet with no face-to-face patient contact or to a wait-list control (WLC; n = 31). Results: Intent-to-treat marginal models using restricted maximum likelihood estimation demonstrated significant reductions in primary measures of depressive symptoms and distress corresponding to medium-large effect sizes (Cohen's d = 0.62\u20132.40) following CBM-I and the combined (CBM-I + iCBT) intervention. Analyses demonstrated that the change in interpretation bias at least partially mediated the reduction in depression symptoms following CBM-I. Treatment superiority over the WLC was also evident on all outcome measures at both time points (Hedges gs = .59\u2013.98). Significant reductions were also observed following the combined intervention on secondary measures associated with depression: disability, anxiety, and repetitive negative thinking (Cohen's d = 1.51\u20132.23). Twenty-seven percent of patients evidenced clinically significant change following CBM-I, and this proportion increased to 65% following the combined intervention. Conclusions: The current study provides encouraging results of the integration of Internet-based technologies into an efficacious and acceptable form of treatment delivery.",
+        "target": "This study evaluated the effects of two treatments for depression: a computerized cognitive bias modification protocol (CBM-I) and internet-based cognitive Behavioral Therapy (iCBT). The results showed that both treatments were effective in reducing depressive symptoms and distress, with the combined treatment (CBM-I + iCBT) being more effective than either treatment alone. The combined treatment also improved secondary measures associated with depression, such as disability, anxiety, and repetitive negative thinking. Twenty-seven percent of patients showed clinically significant change following CBM-I, and this proportion increased to 65% following the combined intervention. These results suggest that the integration of internet-based technologies into an efficacious and acceptable form of treatment delivery is possible.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        750,
+                        1049
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1312,
+                        1520
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nObjective: Computerized cognitive-bias modification (CBM) protocols are rapidly evolving in experimental medicine yet might best be combined with Internet-based cognitive behavioral therapy (iCBT). No research to date has evaluated the combined approach in depression. The current randomized controlled trial aimed to evaluate both the independent effects of a CBM protocol targeting imagery and interpretation bias (CBM-I) and the combined effects of CBM-I followed by iCBT. Method: Patients diagnosed with a major depressive episode were randomized to an 11-week intervention (1 week/CBM-I + 10 weeks/iCBT; n = 38) that was delivered via the Internet with no face-to-face patient contact or to a wait-list control (WLC; n = 31). Results: Intent-to-treat marginal models using restricted maximum likelihood estimation demonstrated significant reductions in primary measures of depressive symptoms and distress corresponding to medium-large effect sizes (Cohen's d = 0.62\u20132.40) following CBM-I and the combined (CBM-I + iCBT) intervention. Analyses demonstrated that the change in interpretation bias at least partially mediated the reduction in depression symptoms following CBM-I. Treatment superiority over the WLC was also evident on all outcome measures at both time points (Hedges gs = .59\u2013.98). Significant reductions were also observed following the combined intervention on secondary measures associated with depression: disability, anxiety, and repetitive negative thinking (Cohen's d = 1.51\u20132.23). Twenty-seven percent of patients evidenced clinically significant change following CBM-I, and this proportion increased to 65% following the combined intervention. Conclusions: The current study provides encouraging results of the integration of Internet-based technologies into an efficacious and acceptable form of treatment delivery.",
+        "target": "This study was looking at a way to help people who are really sad or depressed. They used computer programs to help change the way people think about things (that's the cognitive-bias modification), and also had an online course that taught people how to deal with their feelings in a healthier way (that's the cognitive behavioral therapy). They did all of this without actually meeting the person face-to-face. \n\nThey found out that using both the computer program and the online course worked better than doing nothing. It made people feel less sad and upset, and more able to cope with their day-to-day life. More people got better when they did both things rather than just one. So, this study shows that you can use the internet and computer programs to help people feel better when they're feeling really down. \n\nIt's sort of like if you were having trouble in school, and I gave you a video game that helps you learn better and also enrolled you in an online tutoring program - and you started doing much better in your classes than before.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        750,
+                        1049
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1312,
+                        1520
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nObjective: Computerized cognitive-bias modification (CBM) protocols are rapidly evolving in experimental medicine yet might best be combined with Internet-based cognitive behavioral therapy (iCBT). No research to date has evaluated the combined approach in depression. The current randomized controlled trial aimed to evaluate both the independent effects of a CBM protocol targeting imagery and interpretation bias (CBM-I) and the combined effects of CBM-I followed by iCBT. Method: Patients diagnosed with a major depressive episode were randomized to an 11-week intervention (1 week/CBM-I + 10 weeks/iCBT; n = 38) that was delivered via the Internet with no face-to-face patient contact or to a wait-list control (WLC; n = 31). Results: Intent-to-treat marginal models using restricted maximum likelihood estimation demonstrated significant reductions in primary measures of depressive symptoms and distress corresponding to medium-large effect sizes (Cohen's d = 0.62\u20132.40) following CBM-I and the combined (CBM-I + iCBT) intervention. Analyses demonstrated that the change in interpretation bias at least partially mediated the reduction in depression symptoms following CBM-I. Treatment superiority over the WLC was also evident on all outcome measures at both time points (Hedges gs = .59\u2013.98). Significant reductions were also observed following the combined intervention on secondary measures associated with depression: disability, anxiety, and repetitive negative thinking (Cohen's d = 1.51\u20132.23). Twenty-seven percent of patients evidenced clinically significant change following CBM-I, and this proportion increased to 65% following the combined intervention. Conclusions: The current study provides encouraging results of the integration of Internet-based technologies into an efficacious and acceptable form of treatment delivery.",
+        "target": "This means that a new way of treating depression using computers and the internet is being tested. The test showed that using both the computer program and talking to a therapist online can be more helpful than using either one alone. This is good news because it means that people with depression might be able to get better faster and easier.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        750,
+                        1049
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1312,
+                        1520
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:.\nIntra-articular analgesia is a pain reliever that is frequently administered following arthroscopic knee surgery.\n\nABSTRACT.OBJECTIVES:.\nThe purpose of this study was to compare the efficacy of intra-articular application of morphine and tramadol on postoperative pain after arthroscopic knee surgery.\n\nABSTRACT.PATIENTS AND METHODS:.\nFor this randomized double blinded clinical trial, 132 patients undergoing minor arthroscopic knee surgery were randomly assigned to receive either; 5 mg morphine or 50 mg tramadol intra-articularly. Pain was evaluated by means of the verbal pain rating score (VRS) preoperatively (at rest and on movement of the knee joint) and postoperatively at 0, 1, 2, 3, 4, 6, 12 and 24 hours. Meanwhile, the time of the first analgesic request and need for supplemental analgesic were also recorded.\n\nABSTRACT.RESULTS:.\nThere was no statistically significant difference in VRS scoring between the two groups during the preoperative period either at rest or on knee movement. Meanwhile, VRS scores did not differ significantly between the morphine and tramadol treated groups postoperatively, except for in the one-hour post-operative scores in which the tramadol-treated group experienced less pain (P &lt; 0.007). Post-operative VRS scores at 6, 12, and 24 hours were significantly decreased when compared with previous scores in both morphine and tramadol prescribed subjects (P &lt; 0.001), hence, both local analgesics can significantly reduce pain after minor knee surgery.\n\nABSTRACT.CONCLUSIONS:.\nWe have found a postoperative analgesic effect of intra-articularly administered morphine and tramadol following minor arthroscopic knee surgeries with a maximum effect 6 hours post injection.",
+        "target": "This study compared the efficacy of intra-articularly administered morphine and tramadol for pain relief following arthroscopic knee surgery. 132 patients were randomly assigned to receive either 5 mg morphine or 50 mg tramadol. The results showed that both drugs provided effective pain relief, with the tramadol-treated group experiencing less pain one hour post-operatively (P &lt; 0.007). Post-operative pain scores at 6, 12, and 24 hours were significantly decreased when compared with previous scores in both morphine and tramadol prescribed subjects (P &lt; 0.001). In conclusion, both local analgesics can significantly reduce pain after minor knee surgery.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1022,
+                        1261
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:.\nIntra-articular analgesia is a pain reliever that is frequently administered following arthroscopic knee surgery.\n\nABSTRACT.OBJECTIVES:.\nThe purpose of this study was to compare the efficacy of intra-articular application of morphine and tramadol on postoperative pain after arthroscopic knee surgery.\n\nABSTRACT.PATIENTS AND METHODS:.\nFor this randomized double blinded clinical trial, 132 patients undergoing minor arthroscopic knee surgery were randomly assigned to receive either; 5 mg morphine or 50 mg tramadol intra-articularly. Pain was evaluated by means of the verbal pain rating score (VRS) preoperatively (at rest and on movement of the knee joint) and postoperatively at 0, 1, 2, 3, 4, 6, 12 and 24 hours. Meanwhile, the time of the first analgesic request and need for supplemental analgesic were also recorded.\n\nABSTRACT.RESULTS:.\nThere was no statistically significant difference in VRS scoring between the two groups during the preoperative period either at rest or on knee movement. Meanwhile, VRS scores did not differ significantly between the morphine and tramadol treated groups postoperatively, except for in the one-hour post-operative scores in which the tramadol-treated group experienced less pain (P &lt; 0.007). Post-operative VRS scores at 6, 12, and 24 hours were significantly decreased when compared with previous scores in both morphine and tramadol prescribed subjects (P &lt; 0.001), hence, both local analgesics can significantly reduce pain after minor knee surgery.\n\nABSTRACT.CONCLUSIONS:.\nWe have found a postoperative analgesic effect of intra-articularly administered morphine and tramadol following minor arthroscopic knee surgeries with a maximum effect 6 hours post injection.",
+        "target": "This study is about a test to see which painkiller works better after minor knee surgery. They used two drugs, morphine and tramadol, given directly into the knee, and measured each patient's pain level before and after surgery. They found out that overall both drugs worked well to lessen the pain. At one hour after surgery, the people who got tramadol felt a little less pain than the ones who got morphine. But after that, both groups felt much less pain. So, in simple terms, both drugs did a good job helping relieve knee surgery pain.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1022,
+                        1261
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:.\nIntra-articular analgesia is a pain reliever that is frequently administered following arthroscopic knee surgery.\n\nABSTRACT.OBJECTIVES:.\nThe purpose of this study was to compare the efficacy of intra-articular application of morphine and tramadol on postoperative pain after arthroscopic knee surgery.\n\nABSTRACT.PATIENTS AND METHODS:.\nFor this randomized double blinded clinical trial, 132 patients undergoing minor arthroscopic knee surgery were randomly assigned to receive either; 5 mg morphine or 50 mg tramadol intra-articularly. Pain was evaluated by means of the verbal pain rating score (VRS) preoperatively (at rest and on movement of the knee joint) and postoperatively at 0, 1, 2, 3, 4, 6, 12 and 24 hours. Meanwhile, the time of the first analgesic request and need for supplemental analgesic were also recorded.\n\nABSTRACT.RESULTS:.\nThere was no statistically significant difference in VRS scoring between the two groups during the preoperative period either at rest or on knee movement. Meanwhile, VRS scores did not differ significantly between the morphine and tramadol treated groups postoperatively, except for in the one-hour post-operative scores in which the tramadol-treated group experienced less pain (P &lt; 0.007). Post-operative VRS scores at 6, 12, and 24 hours were significantly decreased when compared with previous scores in both morphine and tramadol prescribed subjects (P &lt; 0.001), hence, both local analgesics can significantly reduce pain after minor knee surgery.\n\nABSTRACT.CONCLUSIONS:.\nWe have found a postoperative analgesic effect of intra-articularly administered morphine and tramadol following minor arthroscopic knee surgeries with a maximum effect 6 hours post injection.",
+        "target": "\n\nThe study compared how well two types of pain medicine worked after surgery on the knee. The two types were morphine and tramadol. They gave some of the patients one of these medicines in their knee before surgery and some patients the other medicine. They looked at how much pain the patients had after surgery and how long the pain lasted. They found that both medicines worked well to reduce pain after surgery, but the tramadol medicine worked a little better.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ninae.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1022,
+                        1261
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\n To determine the effects of probiotic yogurt on performance and health status of young adultfemale endurance swimmers.\n\nABSTRACT.METHODS:\n In a randomized controlled trial, 46 endurance swimmers girls with mean age of 13.8 \u00b11.8 years,weight of 48.6\u00b17.5kg and height of 159\u00b15.6cm, were studied. Subjects were randomly assigned into two groups,receiving either 400 ml probiotic yogurt (intervention group) or ordinary yogurt (control group) daily for 8weeks. At the beginning and at the end of the study, the 400-m free swimming record was done and the HarvardStep test was employed to measure VO2max. Statistical analysis of the data was performed using SPSS software.This trial has been registered with IRCT ID of IRCT2012122311849N1.\n\nABSTRACT.RESULTS:\n Average changes in the records of the intervention and control groups were 3.9 and 0.5 seconds, respectively(p= 0.22). The intervention group complained of dyspnea for 2.4 days and the value for the controlwas 4.4 days (p=0.024). Values for ear pain were 0.5 and 1.6 days (p=0.008) respectively. The average numberof episodes of respiratory infection in the intervention group was 0.9 day, which was statistically fewer than thatin the control group (1.4 days), P=0.009.\n\nABSTRACT.CONCLUSIONS:\n A reduction in the number of episodes of respiratory infections and duration of some symptomssuch as dyspnea and ear pain was observed. Due to the reduction in upper respiratory tract infections of theathletes following intake of probiotic yogurt, improvement in VO2max is possible.",
+        "target": "This study examined the effects of probiotic yogurt on the performance and health status of young adult female endurance swimmers. Forty-six swimmers, with a mean age of 13.8 years, weight of 48.6 kg, and height of 159 cm, were randomly assigned to either a probiotic yogurt or ordinary yogurt group. The probiotic yogurt group received 400 ml of the product daily for 8 weeks. At the beginning and end of the study, the swimmers' 400-m free swimming record and the Harvard Step test were done to measure VO2max. Statistical analysis of the data was performed using SPSS software. The results showed that the average changes in the records of the probiotic yogurt group and the control group were 3.9 and 0.5 seconds, respectively (p = 0.22). The probiotic yogurt group also reported fewer episodes of dyspnea (2.4 days) and ear pain (0.5 days) compared to the control group (1.4 days and 1.6 days, respectively). The average number of episodes of respiratory infections in the probiotic yogurt group was 0.9 day, which was statistically fewer than that in the control group (1.4 days). These results suggest that probiotic yogurt can reduce the number of episodes of respiratory infections and duration of some symptoms such as dyspnea and ear pain, leading to an improvement in VO2max.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        777,
+                        895
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        896,
+                        1072
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1073,
+                        1247
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\n To determine the effects of probiotic yogurt on performance and health status of young adultfemale endurance swimmers.\n\nABSTRACT.METHODS:\n In a randomized controlled trial, 46 endurance swimmers girls with mean age of 13.8 \u00b11.8 years,weight of 48.6\u00b17.5kg and height of 159\u00b15.6cm, were studied. Subjects were randomly assigned into two groups,receiving either 400 ml probiotic yogurt (intervention group) or ordinary yogurt (control group) daily for 8weeks. At the beginning and at the end of the study, the 400-m free swimming record was done and the HarvardStep test was employed to measure VO2max. Statistical analysis of the data was performed using SPSS software.This trial has been registered with IRCT ID of IRCT2012122311849N1.\n\nABSTRACT.RESULTS:\n Average changes in the records of the intervention and control groups were 3.9 and 0.5 seconds, respectively(p= 0.22). The intervention group complained of dyspnea for 2.4 days and the value for the controlwas 4.4 days (p=0.024). Values for ear pain were 0.5 and 1.6 days (p=0.008) respectively. The average numberof episodes of respiratory infection in the intervention group was 0.9 day, which was statistically fewer than thatin the control group (1.4 days), P=0.009.\n\nABSTRACT.CONCLUSIONS:\n A reduction in the number of episodes of respiratory infections and duration of some symptomssuch as dyspnea and ear pain was observed. Due to the reduction in upper respiratory tract infections of theathletes following intake of probiotic yogurt, improvement in VO2max is possible.",
+        "target": "This study was about finding out if eating yogurt with special good bacteria, called probiotic yogurt, can help young girl swimmers swim better and stay healthier. So, the researchers took 46 girl swimmers, who were about 14 years old on average, and divided them into two groups. One group ate probiotic yogurt every day for 8 weeks, and the other group ate just regular yogurt. They made the girls swim a certain distance and checked their breathing and overall health before and after these 8 weeks.\n\nThe study found that the girls who ate the probiotic yogurt didn't swim much faster than the ones who ate regular yogurt. They also found that the girls who ate the probiotic yogurt didn't get out of breath and didn't have ear pain as long as the ones who ate regular yogurt did. They also got sick with breathing problems less often. So, the study thinks that eating probiotic yogurt might improve the girls' ability to breathe deeply and stay healthier, which could in turn help them swim better.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        777,
+                        895
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        896,
+                        1072
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1073,
+                        1247
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\n To determine the effects of probiotic yogurt on performance and health status of young adultfemale endurance swimmers.\n\nABSTRACT.METHODS:\n In a randomized controlled trial, 46 endurance swimmers girls with mean age of 13.8 \u00b11.8 years,weight of 48.6\u00b17.5kg and height of 159\u00b15.6cm, were studied. Subjects were randomly assigned into two groups,receiving either 400 ml probiotic yogurt (intervention group) or ordinary yogurt (control group) daily for 8weeks. At the beginning and at the end of the study, the 400-m free swimming record was done and the HarvardStep test was employed to measure VO2max. Statistical analysis of the data was performed using SPSS software.This trial has been registered with IRCT ID of IRCT2012122311849N1.\n\nABSTRACT.RESULTS:\n Average changes in the records of the intervention and control groups were 3.9 and 0.5 seconds, respectively(p= 0.22). The intervention group complained of dyspnea for 2.4 days and the value for the controlwas 4.4 days (p=0.024). Values for ear pain were 0.5 and 1.6 days (p=0.008) respectively. The average numberof episodes of respiratory infection in the intervention group was 0.9 day, which was statistically fewer than thatin the control group (1.4 days), P=0.009.\n\nABSTRACT.CONCLUSIONS:\n A reduction in the number of episodes of respiratory infections and duration of some symptomssuch as dyspnea and ear pain was observed. Due to the reduction in upper respiratory tract infections of theathletes following intake of probiotic yogurt, improvement in VO2max is possible.",
+        "target": "\n\nSo, scientists wanted to know if eating probiotic yogurt can help endurance swimmers perform better and stay healthy. They divided 46 swimmers into two groups and gave one group probiotic yogurt and the other group regular yogurt to eat every day for 8 weeks. They then measured how fast the swimmers could swim 400 meters and how much oxygen they could use (VO2max) before and after the 8 weeks. They also asked the swimmers about any symptoms they had like coughing or ear pain. The results showed that the swimmers who ate probiotic yogurt had fewer respiratory infections and less ear pain compared to the other group. This means that eating probiotic yogurt might help endurance swimmers perform better and stay healthy.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n finishing off the passage and explaining it to your 5th grader.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n t\u00e4t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\n\n\n\n\nMS\nMS-\n\nMSGPAGE\nMS GEOMS GEOMS GEMS GEMS GEMS MS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS GEMS G",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        777,
+                        895
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        896,
+                        1072
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1073,
+                        1247
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nAging-related reduced spinal mobility can interfere with the execution of important functional skills and activities in elderly women. Although several studies have shown positive outcomes in response to spinal flexibility training programs, little is known about the management of sets and repetitions in training protocols. The purpose of this study was to investigate the effects of an 8-week specific and standardized flexibility training program on the range of spinal motion in elderly women.\n\nABSTRACT.METHODS.\nParticipants were recruited in a senior center of Palermo and randomly assigned in two groups: trained group (TG) and control group (CG), which included 19 and 18 women, respectively. TG was trained for 8 weeks at two sessions/week. In particular, every session included three phases: warm up (~10 minutes), central period (~50 minutes), and cool down (~10 minutes). CG did not perform any physical activity during the experimental period. Spinal ranges of motion (ROM) were measured from neutral standing position to maximum bending position and from neutral standing position to maximum extension position before and after the experimental period, using a SpinalMouse\u00ae device (Idiag, Volkerswill, Switzerland).\n\nABSTRACT.RESULTS.\nAfter the training period, TG showed an increase in spinal inclination by 16.4% (P&lt;0.05), in sacral/hip ROM by 29.2% (P&lt;0.05), and in thoracic ROM by 22.5% (P&gt;0.05) compared with CG from maximum extension position to maximum bending position. We did not observe any significant difference in TG's lumbar ROM compared with CG after the training period (P&gt;0.05).\n\nABSTRACT.CONCLUSION.\nWe found that an 8-week flexibility training program improved ROMs of the spine in elderly women. The training protocol appeared to be practicable for active elderly people with autonomy and the capability for self-care.",
+        "target": "This study investigated the effects of an 8-week specific and standardized flexibility training program on the range of spinal motion in elderly women. The results showed that the trained group (TG) had increased spinal inclination by 16.4%, sacral/hip range of motion by 29.2%, and thoracic range of motion by 22.5%, compared to the control group (CG). There was no significant difference in lumbar range of motion between TG and CG (P&gt;0.05). These findings suggest that flexibility training programs can be beneficial for improving spinal mobility in elderly women, and may be a useful tool for improving their quality of life.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1523,
+                        1643
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1271,
+                        1522
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nAging-related reduced spinal mobility can interfere with the execution of important functional skills and activities in elderly women. Although several studies have shown positive outcomes in response to spinal flexibility training programs, little is known about the management of sets and repetitions in training protocols. The purpose of this study was to investigate the effects of an 8-week specific and standardized flexibility training program on the range of spinal motion in elderly women.\n\nABSTRACT.METHODS.\nParticipants were recruited in a senior center of Palermo and randomly assigned in two groups: trained group (TG) and control group (CG), which included 19 and 18 women, respectively. TG was trained for 8 weeks at two sessions/week. In particular, every session included three phases: warm up (~10 minutes), central period (~50 minutes), and cool down (~10 minutes). CG did not perform any physical activity during the experimental period. Spinal ranges of motion (ROM) were measured from neutral standing position to maximum bending position and from neutral standing position to maximum extension position before and after the experimental period, using a SpinalMouse\u00ae device (Idiag, Volkerswill, Switzerland).\n\nABSTRACT.RESULTS.\nAfter the training period, TG showed an increase in spinal inclination by 16.4% (P&lt;0.05), in sacral/hip ROM by 29.2% (P&lt;0.05), and in thoracic ROM by 22.5% (P&gt;0.05) compared with CG from maximum extension position to maximum bending position. We did not observe any significant difference in TG's lumbar ROM compared with CG after the training period (P&gt;0.05).\n\nABSTRACT.CONCLUSION.\nWe found that an 8-week flexibility training program improved ROMs of the spine in elderly women. The training protocol appeared to be practicable for active elderly people with autonomy and the capability for self-care.",
+        "target": "Scientists wanted to see if old ladies doing specific exercises over 8 weeks would be more flexible. They had two groups, one doing exercises and one doing nothing. After 8 weeks, they found the women who exercised could bend and move their backs more compared to the women who didn't do anything. However, there was no change in the lower back movement. So, they concluded that doing specific exercises over a period of time makes older women more flexible.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1523,
+                        1643
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1271,
+                        1522
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nAging-related reduced spinal mobility can interfere with the execution of important functional skills and activities in elderly women. Although several studies have shown positive outcomes in response to spinal flexibility training programs, little is known about the management of sets and repetitions in training protocols. The purpose of this study was to investigate the effects of an 8-week specific and standardized flexibility training program on the range of spinal motion in elderly women.\n\nABSTRACT.METHODS.\nParticipants were recruited in a senior center of Palermo and randomly assigned in two groups: trained group (TG) and control group (CG), which included 19 and 18 women, respectively. TG was trained for 8 weeks at two sessions/week. In particular, every session included three phases: warm up (~10 minutes), central period (~50 minutes), and cool down (~10 minutes). CG did not perform any physical activity during the experimental period. Spinal ranges of motion (ROM) were measured from neutral standing position to maximum bending position and from neutral standing position to maximum extension position before and after the experimental period, using a SpinalMouse\u00ae device (Idiag, Volkerswill, Switzerland).\n\nABSTRACT.RESULTS.\nAfter the training period, TG showed an increase in spinal inclination by 16.4% (P&lt;0.05), in sacral/hip ROM by 29.2% (P&lt;0.05), and in thoracic ROM by 22.5% (P&gt;0.05) compared with CG from maximum extension position to maximum bending position. We did not observe any significant difference in TG's lumbar ROM compared with CG after the training period (P&gt;0.05).\n\nABSTRACT.CONCLUSION.\nWe found that an 8-week flexibility training program improved ROMs of the spine in elderly women. The training protocol appeared to be practicable for active elderly people with autonomy and the capability for self-care.",
+        "target": "\nThe researchers looked at how well elderly women could bend and twist their spines. They found that some women had trouble doing these movements because they were older. The researchers then taught the women some special exercises to help them improve their spine flexibility. They found that the exercises worked and the women were able to bend and twist their spines better after the training. This is important because it means that the exercises could help elderly people stay healthy and independent.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1523,
+                        1643
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1271,
+                        1522
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nAdministration of normal saline might increase circulating levels of pro-inflammatory cytokines and may cause variation of plasmatic electrolytic and hyperchloremic acidosis, which in turn can impair renal function. Hence the use of balanced solutions could influence the inflammatory cascade triggered by the surgical procedures, the plasmatic electrolyte concentration, the acid\u2013base equilibrium, and the renal function.\n\nABSTRACT.METHODS.\nThis is a double blind randomized trial. Forty patients undergoing major abdominal surgery (bowel cancer) were allocated in two groups, the balanced solution (BS) group in which the fluids administered were balanced solutions (colloids and crystalloids); and the unbalanced solution (UBS) group in which the fluids administered were unbalanced solutions (colloids and crystalloids). Measurements were performed after anaesthesia induction (T0), at the end of surgery (T1), within 2 h after surgery (T2) and 24 h after the beginning of surgery (T3). The following data were collected: 1) active matrix metalloproteinase 9 (MMP-9) and its tissue inhibitor (TIMP-1), IL-6, IL-8, IL-10; 2) blood gases variables; 3) electrolytes, albumin, total serum protein and the strong ion difference; 4) neutrophil gelatinase-associated lipocalin (NGAL) from urinary sample.\n\nABSTRACT.RESULTS.\nThe BS group exhibited higher circulating level of IL-10 and TIMP-1 and lower level of active MMP-9. The UBS group experienced hypercloremia, hypocalcemia, hypomagnesemia, worse acid\u2013base equilibrium and higher level of NGAL.\n\nABSTRACT.CONCLUSIONS.\nThe use of balanced solutions was responsible of less alteration of plasmatic electrolytes, acid\u2013base equilibrium, kidney function and it might be associated with an early anti-inflammatory mechanisms triggering.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov (Ref: NCT01320891).",
+        "target": "This study aims to investigate the effects of two different fluid types on inflammation, acid-base balance, and renal function in patients undergoing major abdominal surgery. The balanced solution group will receive fluids that are balanced in terms of electrolytes, acids, and bases, while the unbalanced solution group will receive fluids that are unbalanced. The results of this study will help to determine the best type of fluid to use during major abdominal surgery in order to reduce inflammation and improve outcomes.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1342,
+                        1441
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nAdministration of normal saline might increase circulating levels of pro-inflammatory cytokines and may cause variation of plasmatic electrolytic and hyperchloremic acidosis, which in turn can impair renal function. Hence the use of balanced solutions could influence the inflammatory cascade triggered by the surgical procedures, the plasmatic electrolyte concentration, the acid\u2013base equilibrium, and the renal function.\n\nABSTRACT.METHODS.\nThis is a double blind randomized trial. Forty patients undergoing major abdominal surgery (bowel cancer) were allocated in two groups, the balanced solution (BS) group in which the fluids administered were balanced solutions (colloids and crystalloids); and the unbalanced solution (UBS) group in which the fluids administered were unbalanced solutions (colloids and crystalloids). Measurements were performed after anaesthesia induction (T0), at the end of surgery (T1), within 2 h after surgery (T2) and 24 h after the beginning of surgery (T3). The following data were collected: 1) active matrix metalloproteinase 9 (MMP-9) and its tissue inhibitor (TIMP-1), IL-6, IL-8, IL-10; 2) blood gases variables; 3) electrolytes, albumin, total serum protein and the strong ion difference; 4) neutrophil gelatinase-associated lipocalin (NGAL) from urinary sample.\n\nABSTRACT.RESULTS.\nThe BS group exhibited higher circulating level of IL-10 and TIMP-1 and lower level of active MMP-9. The UBS group experienced hypercloremia, hypocalcemia, hypomagnesemia, worse acid\u2013base equilibrium and higher level of NGAL.\n\nABSTRACT.CONCLUSIONS.\nThe use of balanced solutions was responsible of less alteration of plasmatic electrolytes, acid\u2013base equilibrium, kidney function and it might be associated with an early anti-inflammatory mechanisms triggering.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov (Ref: NCT01320891).",
+        "target": "This passage is explaining a test that doctors did. They wanted to see what happens when they give people different kinds of liquids during a big stomach surgery. Some people got a 'balanced' mix of liquids, and others got an 'unbalanced' mix of liquids. They took measurements at different times and looked at different things in the blood and urine.\n\nThey found out the 'balanced' mix was better. It didn't mess up the levels of important stuff in the blood as much, didn't upset the balance of acids and bases in the body, and was better for the kidneys. Plus, it seemed like it helped to cool down the body's inflammation response sooner. Inflammation is like when you get a cut and the skin around it turns red and puffy - that's your body trying to fight off any germs and start healing. But too much inflammation inside the body can sometimes be a bad thing, especially during surgery. So, the 'balanced' mix helping to tone it down faster is a good thing.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1342,
+                        1441
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nAdministration of normal saline might increase circulating levels of pro-inflammatory cytokines and may cause variation of plasmatic electrolytic and hyperchloremic acidosis, which in turn can impair renal function. Hence the use of balanced solutions could influence the inflammatory cascade triggered by the surgical procedures, the plasmatic electrolyte concentration, the acid\u2013base equilibrium, and the renal function.\n\nABSTRACT.METHODS.\nThis is a double blind randomized trial. Forty patients undergoing major abdominal surgery (bowel cancer) were allocated in two groups, the balanced solution (BS) group in which the fluids administered were balanced solutions (colloids and crystalloids); and the unbalanced solution (UBS) group in which the fluids administered were unbalanced solutions (colloids and crystalloids). Measurements were performed after anaesthesia induction (T0), at the end of surgery (T1), within 2 h after surgery (T2) and 24 h after the beginning of surgery (T3). The following data were collected: 1) active matrix metalloproteinase 9 (MMP-9) and its tissue inhibitor (TIMP-1), IL-6, IL-8, IL-10; 2) blood gases variables; 3) electrolytes, albumin, total serum protein and the strong ion difference; 4) neutrophil gelatinase-associated lipocalin (NGAL) from urinary sample.\n\nABSTRACT.RESULTS.\nThe BS group exhibited higher circulating level of IL-10 and TIMP-1 and lower level of active MMP-9. The UBS group experienced hypercloremia, hypocalcemia, hypomagnesemia, worse acid\u2013base equilibrium and higher level of NGAL.\n\nABSTRACT.CONCLUSIONS.\nThe use of balanced solutions was responsible of less alteration of plasmatic electrolytes, acid\u2013base equilibrium, kidney function and it might be associated with an early anti-inflammatory mechanisms triggering.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov (Ref: NCT01320891).",
+        "target": "\nThis study looked at how different types of fluids given during surgery can affect the body's inflammatory response and kidney function. The researchers found that using balanced solutions (which have the right mix of nutrients and electrolytes) during surgery can help keep the body's electrolyte levels and acid-base balance better, and might even help reduce inflammation.\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1342,
+                        1441
+                    ]
+                ]
+            }
+        ]
+    }
+]

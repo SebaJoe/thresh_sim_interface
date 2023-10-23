@@ -1,0 +1,1562 @@
+[
+    {
+        "source": "ABSTRACT.BACKGROUND.\nArtesunate+amodiaquine (AS+AQ) and artemether-lumefantrine (AL) are now the most frequently recommended first line treatments for uncomplicated malaria in Africa. Artesunate+chlorproguanil-dapsone (AS+CD) was a potential alternative for treatment of uncomplicated malaria. A comparison of the efficacy and safety of these three drug combinations was necessary to make evidence based drug treatment policies.\n\nABSTRACT.METHODS.\nFive hundred and thirty-four, glucose-6-phosphate dehydrogenase (G6PD) normal children were randomised in blocks of 15 to the AS+AQ, AL or AS+CD groups. Administration of study drugs was supervised by project staff and the children were followed up at r home on days 1,2,3,7,14 and 28 post treatment. Parasitological and clinical failures and adverse events were compared between the study groups.\n\nABSTRACT.MAIN FINDINGS.\nIn a per-protocol analysis, the parasitological and clinical failure rate at day 28 post treatment (PCF28) was lower in the AS+AQ group compared to the AL or AS+CD groups (corrected for re-infections: 6.6% vs 13.8% and 13.8% respectively, p = 0.08; uncorrected: 14.6% vs 27.6% and 28.1% respectively, p = 0.005). In the intention to treat analysis, the rate of early treatment failure was high in all three groups (AS+AQ 13.3%; AL 15.2%; and AS+CD 9.3%, p = 0.2) primarily due to vomiting. However, the PCF28 corrected for re-infection was lower, though not significantly, in the AS+AQ group compared to the AL or the AS+CD groups (AS+AQ 18.3%; AL 24.2%; AS+CD 20.8%, p = 0.4) The incidence of adverse events was comparable between the groups.\n\nABSTRACT.CONCLUSIONS.\nAS+AQ is an appropriate first line treatment for uncomplicated malaria in Ghana and possibly in the neighbouring countries in West Africa. The effectiveness of AL in routine programme conditions needs to be studied further in West Africa.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov NCT00119145",
+        "target": "Artesunate+amodiaquine (AS+AQ) and artemether-lumefantrine (AL) are now the most frequently recommended first line treatments for uncomplicated malaria in Africa. Previously, a potential alternative for treatment of uncomplicated malaria was artesunate+chlorproguanil-dapsone (AS+CD). A comparison of the efficacy and safety of these three drug combinations was necessary to make evidence based drug treatment policies.\n\nIn a clinical trial, 534 G6PD normal children were randomised in blocks of 15 to the AS+AQ, AL or AS+CD groups. Administration of study drugs was supervised by project staff and the children were followed up at home on days 1, 2, 3, 7, 14 and 28 post treatment. Parasitological and clinical failures and adverse events were compared between the study groups.\n\nIn a per-protocol analysis, the parasitological and clinical failure rate at day 28 post treatment (PCF28) was lower in the AS+AQ group compared to the AL or AS+CD groups (corrected for re-infections: 6.6% vs 13.8% and 13.8% respectively, p = 0.08; uncorrected: 14.6% vs 27.6% and 28.1% respectively, p = 0.005). In the intention to treat analysis, the rate of early treatment failure was high in all three groups (AS+AQ 13.3%; AL 15.2%; and AS+CD 9.3%, p = 0.2) primarily due to vomiting. However, the PCF28 corrected for re-infection was lower, though not significantly, in the AS+AQ group compared to the AL or the AS+CD groups (AS+AQ 18.3%; AL 24.2%; AS+CD 20.8%, p = 0.4).\n\nThe incidence of adverse events was comparable between the groups.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        899,
+                        1183
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1361,
+                        1548
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nArtesunate+amodiaquine (AS+AQ) and artemether-lumefantrine (AL) are now the most frequently recommended first line treatments for uncomplicated malaria in Africa. Artesunate+chlorproguanil-dapsone (AS+CD) was a potential alternative for treatment of uncomplicated malaria. A comparison of the efficacy and safety of these three drug combinations was necessary to make evidence based drug treatment policies.\n\nABSTRACT.METHODS.\nFive hundred and thirty-four, glucose-6-phosphate dehydrogenase (G6PD) normal children were randomised in blocks of 15 to the AS+AQ, AL or AS+CD groups. Administration of study drugs was supervised by project staff and the children were followed up at r home on days 1,2,3,7,14 and 28 post treatment. Parasitological and clinical failures and adverse events were compared between the study groups.\n\nABSTRACT.MAIN FINDINGS.\nIn a per-protocol analysis, the parasitological and clinical failure rate at day 28 post treatment (PCF28) was lower in the AS+AQ group compared to the AL or AS+CD groups (corrected for re-infections: 6.6% vs 13.8% and 13.8% respectively, p = 0.08; uncorrected: 14.6% vs 27.6% and 28.1% respectively, p = 0.005). In the intention to treat analysis, the rate of early treatment failure was high in all three groups (AS+AQ 13.3%; AL 15.2%; and AS+CD 9.3%, p = 0.2) primarily due to vomiting. However, the PCF28 corrected for re-infection was lower, though not significantly, in the AS+AQ group compared to the AL or the AS+CD groups (AS+AQ 18.3%; AL 24.2%; AS+CD 20.8%, p = 0.4) The incidence of adverse events was comparable between the groups.\n\nABSTRACT.CONCLUSIONS.\nAS+AQ is an appropriate first line treatment for uncomplicated malaria in Ghana and possibly in the neighbouring countries in West Africa. The effectiveness of AL in routine programme conditions needs to be studied further in West Africa.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov NCT00119145",
+        "target": "Doctors are trying to find the best medicine for a type of illness called malaria. So, they did a study where they gave different combinations of medicine to 534 healthy children and observed how well the medicines worked. They also watched for any bad reactions to the medications. They found out that one of the combinations (AS+AQ) seemed to work better than the others. This might be the best option for treating malaria in places like Ghana and West Africa. But the other combination (AL) still needs to be studied more.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        899,
+                        1183
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1361,
+                        1548
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nArtesunate+amodiaquine (AS+AQ) and artemether-lumefantrine (AL) are now the most frequently recommended first line treatments for uncomplicated malaria in Africa. Artesunate+chlorproguanil-dapsone (AS+CD) was a potential alternative for treatment of uncomplicated malaria. A comparison of the efficacy and safety of these three drug combinations was necessary to make evidence based drug treatment policies.\n\nABSTRACT.METHODS.\nFive hundred and thirty-four, glucose-6-phosphate dehydrogenase (G6PD) normal children were randomised in blocks of 15 to the AS+AQ, AL or AS+CD groups. Administration of study drugs was supervised by project staff and the children were followed up at r home on days 1,2,3,7,14 and 28 post treatment. Parasitological and clinical failures and adverse events were compared between the study groups.\n\nABSTRACT.MAIN FINDINGS.\nIn a per-protocol analysis, the parasitological and clinical failure rate at day 28 post treatment (PCF28) was lower in the AS+AQ group compared to the AL or AS+CD groups (corrected for re-infections: 6.6% vs 13.8% and 13.8% respectively, p = 0.08; uncorrected: 14.6% vs 27.6% and 28.1% respectively, p = 0.005). In the intention to treat analysis, the rate of early treatment failure was high in all three groups (AS+AQ 13.3%; AL 15.2%; and AS+CD 9.3%, p = 0.2) primarily due to vomiting. However, the PCF28 corrected for re-infection was lower, though not significantly, in the AS+AQ group compared to the AL or the AS+CD groups (AS+AQ 18.3%; AL 24.2%; AS+CD 20.8%, p = 0.4) The incidence of adverse events was comparable between the groups.\n\nABSTRACT.CONCLUSIONS.\nAS+AQ is an appropriate first line treatment for uncomplicated malaria in Ghana and possibly in the neighbouring countries in West Africa. The effectiveness of AL in routine programme conditions needs to be studied further in West Africa.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov NCT00119145",
+        "target": "\nThe study compared three different treatments for malaria in children. The first treatment is called Artesunate+amodiaquine (AS+AQ). The second treatment is called Artemether-lumefantrine (AL). The third treatment is called Artesunate+chlorproguanil-dapsone (AS+CD). The researchers wanted to know which treatment works best to cure malaria.\nThey randomly divided 534 children into three groups and gave them one of the three treatments. They followed the children for 28 days to see if the malaria came back. They found that the children who got the Artesunate+amodiaquine treatment were less likely to have malaria come back compared to the other two groups.\nThe researchers also found that the children in all three groups had a lot of vomiting, which made it hard to compare the results. But overall, the Artesunate+amodiaquine treatment seemed to work best to cure malaria.\nThis study was done in Ghana, but the researchers think it might be useful for other countries in West Africa too.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Giovanni\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\naban\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0144skiej\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\n\n\n\nMSG\n\n\n\nMS\n\nMS-\n\n\nMS MS-\nMS-\nMS-\n\n\n\n\nMS-\n\n\nMS-MS-\n\n\n\n\n\n\nMS-\nMS-\n\n\n\n\n\n\n\n\n\n\nMS-MS-\nMS-\n\n\n\n\nMS-\nMS-\n\n\n\n\nMS-MS-\n\n\n\n\n\nMS-\n\n\nMS-\nMS-\n\n\n\n\n\n\nMS-\n\n\n\n\n\nMS-\n\n\n\n\nMS-MS-\n\n\n\n\n\n\n\n MS-\n\n\n MS-\n\n\n\n\n\n MS-MS-\n\n\n\n\n\n\n\nMS-MS-\n\n\n\n\n\n\n\nMS- MS-\n\n\n\n\n\n\n\n\n MS-\n\n\n\n\n\n\n MS-\n\n\n\n\n\nMS-\n\n\n MS-\n\n\n\n\n\n\n\n MS- MS-\n\n\n\n\n\n\n MS-\n\n\n\n\n\n\n MS-\n\n\n\nMS-\n\n\n\n\n\n\n\n\nMS-\n\n\n\nMS-\n\n\n\nMS-\nMS-\n\n\n\n\n\n\n\n MS-\n\n\n\n\n\nMS-\n\n\n\n\n\n\n MS-\n\n\n\n\n\n MS-\n\n\n\n\n\n\n\n\nMS-\n\n\nMS-\n\n\n\n\n\n\nMS-\n\n\n\nMS-\n\n\n\n\nMS-\n\n\n\n\n\nMS-\nMS-\n\n\n\n\n\nMS-\n\n\n\n\n\nMS-\n\n\n\n MS-\n\nMS-\n\n\n\n\n\n\nMS-\nMS- MS-\n\n\n\n\n\n\n\n\n\n MS- MS-MS-MS-MS\n\n\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        899,
+                        1183
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1361,
+                        1548
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nEmergency department (ED) overcrowding is a ubiquitous problem with serious public health implications. The fast track area is a novel method which aims to reduce waiting time, patient dissatisfaction and morbidity. |The study objective was to determine the impact of a fast track area (FTA) on both effectiveness measures (i.e. waiting times [WT] and length of stay [LOS]) and quality measures (i.e. LWBS rates and mortality rates) in non-urgent patients. The secondary objective was to assess if a FTA negatively impacted on urgent patients entering the ED.\n\nABSTRACT.METHODS.\nThe study took place in a 500 bed, urban, tertiary care hospital in Abu Dhabi, United Arab Emirates. This was a quasi-experimental, which examined the impact of a FTA on a pre-intervention control group (January 2005) (n = 4,779) versus a post-intervention study group (January 2006) (n = 5,706).\n\nABSTRACT.RESULTS.\nMean WTs of Canadian Triage Acuity Scale (CTAS) 4 patients decreased by 22 min (95% CI 21 min to 24 min, P &lt; 0.001). Similarly, mean WTs of CTAS 5 patients decreased by 28 min (95% CI 19 min to 37 min, P &lt; 0.001) post FTA. The mean WTs of urgent patients (CTAS 2/3) were also significantly reduced after the FTA was opened (P &lt; 0.001). The LWBS rate was reduced from 4.7% to 0.7% (95% CI 3.37 to 4.64; P &lt; 0.001). Opening a FTA had no significant impact on mortality rates (P = 0.88).\n\nABSTRACT.CONCLUSION.\nThe FTA improved ED effectiveness (WTs and LOS) and quality measures (LWBS rates) whereas mortality rate remained unchanged.",
+        "target": "This study examined the impact of a Fast Track Area (FTA) on the effectiveness and quality of care in a non-urgent patient population in an urban, tertiary care hospital in Abu Dhabi, United Arab Emirates. The FTA was found to reduce waiting times and length of stay, as well as lower the rate of patients who leave without being seen (LWBS). There was no significant impact on mortality rates. These results suggest that FTAs can be beneficial for hospitals looking to reduce waiting times and improve the quality of care for non-urgent patients.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1145,
+                        1260
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1261,
+                        1340
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1342,
+                        1412
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        916,
+                        1035
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 10,
+                "input_idx": [
+                    [
+                        1036,
+                        1144
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nEmergency department (ED) overcrowding is a ubiquitous problem with serious public health implications. The fast track area is a novel method which aims to reduce waiting time, patient dissatisfaction and morbidity. |The study objective was to determine the impact of a fast track area (FTA) on both effectiveness measures (i.e. waiting times [WT] and length of stay [LOS]) and quality measures (i.e. LWBS rates and mortality rates) in non-urgent patients. The secondary objective was to assess if a FTA negatively impacted on urgent patients entering the ED.\n\nABSTRACT.METHODS.\nThe study took place in a 500 bed, urban, tertiary care hospital in Abu Dhabi, United Arab Emirates. This was a quasi-experimental, which examined the impact of a FTA on a pre-intervention control group (January 2005) (n = 4,779) versus a post-intervention study group (January 2006) (n = 5,706).\n\nABSTRACT.RESULTS.\nMean WTs of Canadian Triage Acuity Scale (CTAS) 4 patients decreased by 22 min (95% CI 21 min to 24 min, P &lt; 0.001). Similarly, mean WTs of CTAS 5 patients decreased by 28 min (95% CI 19 min to 37 min, P &lt; 0.001) post FTA. The mean WTs of urgent patients (CTAS 2/3) were also significantly reduced after the FTA was opened (P &lt; 0.001). The LWBS rate was reduced from 4.7% to 0.7% (95% CI 3.37 to 4.64; P &lt; 0.001). Opening a FTA had no significant impact on mortality rates (P = 0.88).\n\nABSTRACT.CONCLUSION.\nThe FTA improved ED effectiveness (WTs and LOS) and quality measures (LWBS rates) whereas mortality rate remained unchanged.",
+        "target": "This study is about a test done in a hospital in Abu Dhabi to see if having a \"fast track area\" in the emergency room would help make things run more smoothly. The fast track area is supposed to help people with non-emergency issues get treated faster, so the serious cases can get direct attention.\n\nThey tested this out for a year and found that it did make a difference! People with less serious issues had to wait less time and fewer people left without being seen by a doctor. But it didn't make any difference in the number of deaths in the emergency room. So, to keep it simple, the fast track area did help things move faster, but it didn't change how many people lived or died in the hospital.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1145,
+                        1260
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1261,
+                        1340
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1342,
+                        1412
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        916,
+                        1035
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 10,
+                "input_idx": [
+                    [
+                        1036,
+                        1144
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nEmergency department (ED) overcrowding is a ubiquitous problem with serious public health implications. The fast track area is a novel method which aims to reduce waiting time, patient dissatisfaction and morbidity. |The study objective was to determine the impact of a fast track area (FTA) on both effectiveness measures (i.e. waiting times [WT] and length of stay [LOS]) and quality measures (i.e. LWBS rates and mortality rates) in non-urgent patients. The secondary objective was to assess if a FTA negatively impacted on urgent patients entering the ED.\n\nABSTRACT.METHODS.\nThe study took place in a 500 bed, urban, tertiary care hospital in Abu Dhabi, United Arab Emirates. This was a quasi-experimental, which examined the impact of a FTA on a pre-intervention control group (January 2005) (n = 4,779) versus a post-intervention study group (January 2006) (n = 5,706).\n\nABSTRACT.RESULTS.\nMean WTs of Canadian Triage Acuity Scale (CTAS) 4 patients decreased by 22 min (95% CI 21 min to 24 min, P &lt; 0.001). Similarly, mean WTs of CTAS 5 patients decreased by 28 min (95% CI 19 min to 37 min, P &lt; 0.001) post FTA. The mean WTs of urgent patients (CTAS 2/3) were also significantly reduced after the FTA was opened (P &lt; 0.001). The LWBS rate was reduced from 4.7% to 0.7% (95% CI 3.37 to 4.64; P &lt; 0.001). Opening a FTA had no significant impact on mortality rates (P = 0.88).\n\nABSTRACT.CONCLUSION.\nThe FTA improved ED effectiveness (WTs and LOS) and quality measures (LWBS rates) whereas mortality rate remained unchanged.",
+        "target": "\nThe passage is talking about a new area in an emergency room called a \"fast track area.\" This area is meant to help reduce the time it takes for people to get medical attention. The study looked at how well this area worked and found that it helped reduce the time it took for people to get medical attention and made the emergency room a safer place for everyone.\n\nIs there anything else I can help you with?",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1145,
+                        1260
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1261,
+                        1340
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1342,
+                        1412
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        916,
+                        1035
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 10,
+                "input_idx": [
+                    [
+                        1036,
+                        1144
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:.\nPrimary therapeutic aim in treatment of osteoarthritis of the knee is to relieve the pain of osteoarthritis. The aim of this study was to compare the efficacy of intra-articular triamcinolone with intra-articular morphine in pain relief due to osteoarthritis of the knee in the elderly population.\n\nABSTRACT.MATERIALS AND METHODS:.\nPatients between 50 and 80 years of age were randomized into three groups. Group M received morphine plus bupivacaine intra-articularly, Group T received triamcinolone plus bupivacaine intra-articularly, and Group C received saline plus bupivacaine intra-articularly. Patients were evaluated before injection and in 2nd, 4th, 6th, and 12th weeks after injection. First-line supplementary analgesic was oral paracetamol 1500 mg/day. If analgesia was insufficient with paracetamol, oral dexketoprofen trometamol 50 mg/day was recommended to patients.\n\nABSTRACT.RESULTS:.\nAfter the intra-articular injection, there was statistically significant decrease in visual analog scale (VAS) scores in Groups M and T, when compared to Group C. The decrease of VAS scores seen at the first 2 weeks continued steadily up to the end of 12th week. There was a significant decrease in Groups M and T in the WOMAC scores, when compared to Group C. There was no significant difference in the WOMAC scores between morphine and steroid groups. Significantly less supplementary analgesics was used in the morphine and steroid groups.\n\nABSTRACT.CONCLUSION:.\nIntra-articular morphine was as effective as intra-articular triamcinolone for analgesia in patients with osteoarthritis knee. Intra-articular morphine is possibly a better option than intra-articular steroid as it has lesser side effects.",
+        "target": "This study compared the efficacy of intra-articular morphine with intra-articular triamcinolone for pain relief in elderly patients with osteoarthritis of the knee. The results showed that both treatments were effective in reducing pain, with morphine being as effective as triamcinolone. In addition, morphine was associated with fewer side effects than triamcinolone. Therefore, intra-articular morphine is a possible option for pain relief in elderly patients with osteoarthritis of the knee.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        925,
+                        1187
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1379,
+                        1467
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:.\nPrimary therapeutic aim in treatment of osteoarthritis of the knee is to relieve the pain of osteoarthritis. The aim of this study was to compare the efficacy of intra-articular triamcinolone with intra-articular morphine in pain relief due to osteoarthritis of the knee in the elderly population.\n\nABSTRACT.MATERIALS AND METHODS:.\nPatients between 50 and 80 years of age were randomized into three groups. Group M received morphine plus bupivacaine intra-articularly, Group T received triamcinolone plus bupivacaine intra-articularly, and Group C received saline plus bupivacaine intra-articularly. Patients were evaluated before injection and in 2nd, 4th, 6th, and 12th weeks after injection. First-line supplementary analgesic was oral paracetamol 1500 mg/day. If analgesia was insufficient with paracetamol, oral dexketoprofen trometamol 50 mg/day was recommended to patients.\n\nABSTRACT.RESULTS:.\nAfter the intra-articular injection, there was statistically significant decrease in visual analog scale (VAS) scores in Groups M and T, when compared to Group C. The decrease of VAS scores seen at the first 2 weeks continued steadily up to the end of 12th week. There was a significant decrease in Groups M and T in the WOMAC scores, when compared to Group C. There was no significant difference in the WOMAC scores between morphine and steroid groups. Significantly less supplementary analgesics was used in the morphine and steroid groups.\n\nABSTRACT.CONCLUSION:.\nIntra-articular morphine was as effective as intra-articular triamcinolone for analgesia in patients with osteoarthritis knee. Intra-articular morphine is possibly a better option than intra-articular steroid as it has lesser side effects.",
+        "target": "This study is trying to figure out the best way to help old people relieve their knee pain due to a disease called osteoarthritis. They gave patients three different types of injections directly into their knees. The first group got morphine, the second got something called triamcinolone, and the third group got a saline solution. They checked the patients' pain levels before the injection and at several weeks after.\n\nAfter the injections, the patients who got morphine or triamcinolone reported less pain compared to the ones who got saline. The pain kept decreasing up till the 12th week. Also, these patients had to take less extra, oral painkillers. The study concluded that both morphine and triamcinolone are useful, but morphine might be better as it has fewer side effects. So, if granny or grandpa is having pain because of osteoarthritis, an injection with morphine could help them better.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        925,
+                        1187
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1379,
+                        1467
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:.\nPrimary therapeutic aim in treatment of osteoarthritis of the knee is to relieve the pain of osteoarthritis. The aim of this study was to compare the efficacy of intra-articular triamcinolone with intra-articular morphine in pain relief due to osteoarthritis of the knee in the elderly population.\n\nABSTRACT.MATERIALS AND METHODS:.\nPatients between 50 and 80 years of age were randomized into three groups. Group M received morphine plus bupivacaine intra-articularly, Group T received triamcinolone plus bupivacaine intra-articularly, and Group C received saline plus bupivacaine intra-articularly. Patients were evaluated before injection and in 2nd, 4th, 6th, and 12th weeks after injection. First-line supplementary analgesic was oral paracetamol 1500 mg/day. If analgesia was insufficient with paracetamol, oral dexketoprofen trometamol 50 mg/day was recommended to patients.\n\nABSTRACT.RESULTS:.\nAfter the intra-articular injection, there was statistically significant decrease in visual analog scale (VAS) scores in Groups M and T, when compared to Group C. The decrease of VAS scores seen at the first 2 weeks continued steadily up to the end of 12th week. There was a significant decrease in Groups M and T in the WOMAC scores, when compared to Group C. There was no significant difference in the WOMAC scores between morphine and steroid groups. Significantly less supplementary analgesics was used in the morphine and steroid groups.\n\nABSTRACT.CONCLUSION:.\nIntra-articular morphine was as effective as intra-articular triamcinolone for analgesia in patients with osteoarthritis knee. Intra-articular morphine is possibly a better option than intra-articular steroid as it has lesser side effects.",
+        "target": "\nThe study looked at how well two different medicines, morphine and triamcinolone, worked to relieve pain in people with osteoarthritis of the knee. The study found that both medicines worked equally well to relieve pain, but morphine had fewer side effects. So, either medicine could be used to help people with osteoarthritis knee pain, but morphine might be a better choice because it has fewer side effects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSG\n\n\n\n\n\n\n\n\nMSGMTK",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        925,
+                        1187
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1379,
+                        1467
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThe purpose is to assess cardiopulmonary function outcomes and quality of life values in inactive people that participated in the Physical Activity Promotion Programme (PAPP) against the control group that did not perform this program.\n\nABSTRACT.METHOD.\nA total of 100 subjects of both genders participated in the randomized controlled trial with systematic random sampling; all were aged 55 and older, from Torremolinos, Spain. Participants either received (n = 50) the PAPP for 60 minutes, twice a week during three months or (n = 50) they received health education. The effectiveness of the intervention was measured by general state of health the Short Form 12 health survey questionnaire, and the quality of life was determined with the EuroQoL-5D questionnaire. Cardiopulmonary function was measured with a spirometry and a walking test according to the Bruce protocol.\n\nABSTRACT.RESULTS.\nThis pilot study had a significant impact on the quality of life (p = 0.05) in men, which increased. However, the quality of life in women did not improve. The average changes in the lung and cardiovascular function was not significant between groups.\n\nABSTRACT.CONCLUSIONS.\nChanges in the quality of life measured with EQ-5D in the group of men who carried out the PAPP were statistically significant when comparing between groups. However changes in cardiopulmonary function were not as relevant when comparing between groups. There was a significant effect within each group in the pulmonary outcomes of values in men, within the experimental group.\n\nABSTRACT.TRIAL REGISTRATION.\nDeveloped by the University of Ma\u0301laga. ClinicalTrials.gov ID: NCT01172483.",
+        "target": "This study compared the effects of a physical activity promotion program (PAPP) with a control group that did not perform the program. A total of 100 participants, both genders, aged 55 and older from Torremolinos, Spain, were randomly selected and divided into two groups of 50 each. The PAPP group received the program for 60 minutes, twice a week, for three months. The control group received health education. The effectiveness of the intervention was measured by the Short Form 12 health survey questionnaire and the EuroQoL-5D questionnaire. Cardiopulmonary function was measured with a spirometry and a walking test according to the Bruce protocol.\n\nThe results showed that the PAPP had a significant impact on the quality of life in men, leading to an increase. However, the quality of life in women did not improve. The average changes in the lung and cardiovascular function were not significant between groups.\n\nIn conclusion, the PAPP had a positive effect on the quality of life in men, while the cardiopulmonary function results were not as relevant.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        916,
+                        1015
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1017,
+                        1071
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThe purpose is to assess cardiopulmonary function outcomes and quality of life values in inactive people that participated in the Physical Activity Promotion Programme (PAPP) against the control group that did not perform this program.\n\nABSTRACT.METHOD.\nA total of 100 subjects of both genders participated in the randomized controlled trial with systematic random sampling; all were aged 55 and older, from Torremolinos, Spain. Participants either received (n = 50) the PAPP for 60 minutes, twice a week during three months or (n = 50) they received health education. The effectiveness of the intervention was measured by general state of health the Short Form 12 health survey questionnaire, and the quality of life was determined with the EuroQoL-5D questionnaire. Cardiopulmonary function was measured with a spirometry and a walking test according to the Bruce protocol.\n\nABSTRACT.RESULTS.\nThis pilot study had a significant impact on the quality of life (p = 0.05) in men, which increased. However, the quality of life in women did not improve. The average changes in the lung and cardiovascular function was not significant between groups.\n\nABSTRACT.CONCLUSIONS.\nChanges in the quality of life measured with EQ-5D in the group of men who carried out the PAPP were statistically significant when comparing between groups. However changes in cardiopulmonary function were not as relevant when comparing between groups. There was a significant effect within each group in the pulmonary outcomes of values in men, within the experimental group.\n\nABSTRACT.TRIAL REGISTRATION.\nDeveloped by the University of Ma\u0301laga. ClinicalTrials.gov ID: NCT01172483.",
+        "target": "Some scientists from Spain wanted to see if an exercise program could help older people feel better and breathe better. They had 100 people, who were all 55 or older, join the study. Half of them did the exercise program and the other half learned about health but didn't do the exercise program. After three months, they found that the men who did the exercise program felt better although there was no change in how they breathed or how their hearts worked. The women did not feel any better. These results are just from a small study, so more research is needed.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        916,
+                        1015
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1017,
+                        1071
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThe purpose is to assess cardiopulmonary function outcomes and quality of life values in inactive people that participated in the Physical Activity Promotion Programme (PAPP) against the control group that did not perform this program.\n\nABSTRACT.METHOD.\nA total of 100 subjects of both genders participated in the randomized controlled trial with systematic random sampling; all were aged 55 and older, from Torremolinos, Spain. Participants either received (n = 50) the PAPP for 60 minutes, twice a week during three months or (n = 50) they received health education. The effectiveness of the intervention was measured by general state of health the Short Form 12 health survey questionnaire, and the quality of life was determined with the EuroQoL-5D questionnaire. Cardiopulmonary function was measured with a spirometry and a walking test according to the Bruce protocol.\n\nABSTRACT.RESULTS.\nThis pilot study had a significant impact on the quality of life (p = 0.05) in men, which increased. However, the quality of life in women did not improve. The average changes in the lung and cardiovascular function was not significant between groups.\n\nABSTRACT.CONCLUSIONS.\nChanges in the quality of life measured with EQ-5D in the group of men who carried out the PAPP were statistically significant when comparing between groups. However changes in cardiopulmonary function were not as relevant when comparing between groups. There was a significant effect within each group in the pulmonary outcomes of values in men, within the experimental group.\n\nABSTRACT.TRIAL REGISTRATION.\nDeveloped by the University of Ma\u0301laga. ClinicalTrials.gov ID: NCT01172483.",
+        "target": "\nThe researchers wanted to see if a program called Physical Activity Promotion Programme (PAPP) could help people over 55 years old improve their quality of\u00f6m life and cardiopulmonary function. They divided the participants into two groups: one group did the PAPP for three months and the other group did not. They found out that the group that did the PAPP had a small but significant improvement in their quality of life, but the improvement in their cardiopulmonary function was not as big as they expected.\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        916,
+                        1015
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1017,
+                        1071
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nKnee pain in children with Joint Hypermobility Syndrome (JHS) is traditionally managed with exercise, however the supporting evidence for this is scarce. No trial has previously examined whether exercising to neutral or into the hypermobile range affects outcomes. This study aimed to (i) determine if a physiotherapist-prescribed exercise programme focused on knee joint strength and control is effective in reducing knee pain in children with JHS compared to no treatment, and (ii) whether the range in which these exercises are performed affects outcomes.\n\nABSTRACT.METHODS:\nA prospective, parallel-group, randomised controlled trial conducted in a tertiary hospital in Sydney, Australia compared an 8 week exercise programme performed into either the full hypermobile range or only to neutral knee extension, following a minimum 2 week baseline period without treatment. Randomisation was computer-generated, with allocation concealed by sequentially numbered opaque sealed envelopes. Knee pain was the primary outcome. Quality of life, thigh muscle strength, and function were also measured at (i) initial assessment, (ii) following the baseline period and (iii) post treatment. Assessors were blinded to the participants\u2019 treatment allocation and participants blinded to the difference in the treatments.\n\nABSTRACT.RESULTS:\nChildren with JHS and knee pain (n=26) aged 7-16 years were randomly assigned to the hypermobile (n=12) or neutral (n=14) treatment group. Significant improvements in child-reported maximal knee pain were found following treatment, regardless of group allocation with a mean 14.5 mm reduction on the visual analogue scale (95% CI 5.2 \u2013 23.8 mm, p=0.003). Significant differences between treatment groups were noted for parent-reported overall psychosocial health (p=0.009), specifically self-esteem (p=0.034), mental health (p=0.001) and behaviour (p=0.019), in favour of exercising into the hypermobile range (n=11) compared to neutral only (n=14). Conversely, parent-reported overall physical health significantly favoured exercising only to neutral (p=0.037). No other differences were found between groups and no adverse events occurred.\n\nABSTRACT.CONCLUSIONS:\nParents perceive improved child psychosocial health when children exercise into the hypermobile range, while exercising to neutral only is perceived to favour the child\u2019s physical health. A physiotherapist prescribed, supervised, individualised and progressed exercise programme effectively reduces knee pain in children with JHS.\n\nABSTRACT.TRIAL REGISTRATION:\nAustralia & New Zealand Clinical Trials Registry; ACTRN12606000109505.",
+        "target": "This study aimed to determine the effectiveness of a physiotherapist-prescribed exercise programme focused on knee joint strength and control in reducing knee pain in children with Joint Hypermobility Syndrome (JHS). The study also looked at whether the range in which these exercises are performed affects outcomes.\n\nThe results showed that children with JHS and knee pain, who were randomly assigned to the hypermobile range exercise group, experienced significant improvements in knee pain, as measured by a visual analogue scale. In addition, parents of these children reported improved psychosocial health, specifically self-esteem, mental health and behaviour, when compared to the neutral range exercise group. No adverse events occurred and no other differences were found between groups.\n\nThe study concluded that a physiotherapist-prescribed, supervised, individualised and progressed exercise programme focused on knee joint strength and control is effective in reducing knee pain in children with JHS, and that exercising into the hypermobile range may be beneficial for psychosocial health, while exercising to neutral only may be beneficial for physical health.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1490,
+                        1705
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        2114,
+                        2192
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nKnee pain in children with Joint Hypermobility Syndrome (JHS) is traditionally managed with exercise, however the supporting evidence for this is scarce. No trial has previously examined whether exercising to neutral or into the hypermobile range affects outcomes. This study aimed to (i) determine if a physiotherapist-prescribed exercise programme focused on knee joint strength and control is effective in reducing knee pain in children with JHS compared to no treatment, and (ii) whether the range in which these exercises are performed affects outcomes.\n\nABSTRACT.METHODS:\nA prospective, parallel-group, randomised controlled trial conducted in a tertiary hospital in Sydney, Australia compared an 8 week exercise programme performed into either the full hypermobile range or only to neutral knee extension, following a minimum 2 week baseline period without treatment. Randomisation was computer-generated, with allocation concealed by sequentially numbered opaque sealed envelopes. Knee pain was the primary outcome. Quality of life, thigh muscle strength, and function were also measured at (i) initial assessment, (ii) following the baseline period and (iii) post treatment. Assessors were blinded to the participants\u2019 treatment allocation and participants blinded to the difference in the treatments.\n\nABSTRACT.RESULTS:\nChildren with JHS and knee pain (n=26) aged 7-16 years were randomly assigned to the hypermobile (n=12) or neutral (n=14) treatment group. Significant improvements in child-reported maximal knee pain were found following treatment, regardless of group allocation with a mean 14.5 mm reduction on the visual analogue scale (95% CI 5.2 \u2013 23.8 mm, p=0.003). Significant differences between treatment groups were noted for parent-reported overall psychosocial health (p=0.009), specifically self-esteem (p=0.034), mental health (p=0.001) and behaviour (p=0.019), in favour of exercising into the hypermobile range (n=11) compared to neutral only (n=14). Conversely, parent-reported overall physical health significantly favoured exercising only to neutral (p=0.037). No other differences were found between groups and no adverse events occurred.\n\nABSTRACT.CONCLUSIONS:\nParents perceive improved child psychosocial health when children exercise into the hypermobile range, while exercising to neutral only is perceived to favour the child\u2019s physical health. A physiotherapist prescribed, supervised, individualised and progressed exercise programme effectively reduces knee pain in children with JHS.\n\nABSTRACT.TRIAL REGISTRATION:\nAustralia & New Zealand Clinical Trials Registry; ACTRN12606000109505.",
+        "target": "This study is about children who have a condition that makes their joints extra flexible, which sometimes causes knee pain. The researchers wanted to test if certain exercises would help reduce the pain. The exercises were of two types: one that uses the normal range of knee movement, and other that goes into the extra flexible range. \n\n26 kids aged between 7-16 years old participated in an 8-week exercise program. The researchers found out that both types of exercises helped reduce the knee pain. But interestingly, kids that exercised their knees to the maximum flexibility had improvements in their mental health and behavior, as observed by their parents. On the other hand, parents felt that the physical health of the kids improved more if they kept their exercises to the normal range of knee movement. \n\nNo child had any problem or issue due to the exercises. Thus, the study proved that these exercises prescribed by a therapist, can successfully reduce knee pain in kids with this condition.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1490,
+                        1705
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        2114,
+                        2192
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nKnee pain in children with Joint Hypermobility Syndrome (JHS) is traditionally managed with exercise, however the supporting evidence for this is scarce. No trial has previously examined whether exercising to neutral or into the hypermobile range affects outcomes. This study aimed to (i) determine if a physiotherapist-prescribed exercise programme focused on knee joint strength and control is effective in reducing knee pain in children with JHS compared to no treatment, and (ii) whether the range in which these exercises are performed affects outcomes.\n\nABSTRACT.METHODS:\nA prospective, parallel-group, randomised controlled trial conducted in a tertiary hospital in Sydney, Australia compared an 8 week exercise programme performed into either the full hypermobile range or only to neutral knee extension, following a minimum 2 week baseline period without treatment. Randomisation was computer-generated, with allocation concealed by sequentially numbered opaque sealed envelopes. Knee pain was the primary outcome. Quality of life, thigh muscle strength, and function were also measured at (i) initial assessment, (ii) following the baseline period and (iii) post treatment. Assessors were blinded to the participants\u2019 treatment allocation and participants blinded to the difference in the treatments.\n\nABSTRACT.RESULTS:\nChildren with JHS and knee pain (n=26) aged 7-16 years were randomly assigned to the hypermobile (n=12) or neutral (n=14) treatment group. Significant improvements in child-reported maximal knee pain were found following treatment, regardless of group allocation with a mean 14.5 mm reduction on the visual analogue scale (95% CI 5.2 \u2013 23.8 mm, p=0.003). Significant differences between treatment groups were noted for parent-reported overall psychosocial health (p=0.009), specifically self-esteem (p=0.034), mental health (p=0.001) and behaviour (p=0.019), in favour of exercising into the hypermobile range (n=11) compared to neutral only (n=14). Conversely, parent-reported overall physical health significantly favoured exercising only to neutral (p=0.037). No other differences were found between groups and no adverse events occurred.\n\nABSTRACT.CONCLUSIONS:\nParents perceive improved child psychosocial health when children exercise into the hypermobile range, while exercising to neutral only is perceived to favour the child\u2019s physical health. A physiotherapist prescribed, supervised, individualised and progressed exercise programme effectively reduces knee pain in children with JHS.\n\nABSTRACT.TRIAL REGISTRATION:\nAustralia & New Zealand Clinical Trials Registry; ACTRN12606000109505.",
+        "target": "\nThis study looked at how exercising can help kids with a condition called Joint Hypermobility Syndrome (JHS) that makes their knees move too much. Some kids did exercises that stretched their knees to a really flexible range, while others did exercises that only stretched their knees to a neutral position (where they don't bend too far). The study found that both groups of kids got better after doing exercises for 8 weeks, but the kids who did exercises in the hypermobile range (meaning they stretched their knees a lot) had better results in terms of how much pain they felt. The study also found that the kids' parents thought that exercising in the hypermobile range was better for their overall psychosocial health (meaning how they feel about themselves and their relationships), while the kids who only did exercises to neutral (meaning they didn't stretch their knees too far) had better results in terms of their physical health (meaning how their body works).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n mi\u0119dzy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u043d\u043e\u043c\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\n\n\n\n\n\nMS\n\n\n\n\n\nMSMS\n\nMS\n\n\n\n\n\nMSMS\n\nMS\n\nMS\n\nMSGY\n\n\n\n\n\n\nMSGYellowhat MSGYellowhat MSG Yellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGY history MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MSGYellowhat MS",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1490,
+                        1705
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        2114,
+                        2192
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nArtemisinin combination therapies are available in private outlets, but patient adherence might be compromised by poor advice from dispensers. In this cluster randomized trial in drug shops in Tanzania, 42 of 82 selected shops were randomized to receive text message reminders about what advice to provide when dispensing artemether-lumefantrine (AL). Eligible patients purchasing AL at shops in both arms were followed up at home and questioned about each dose taken. Dispensers were interviewed regarding knowledge of AL dispensing practices and receipt of the malaria-related text messages. We interviewed 904 patients and 110 dispensers from 77 shops. Although there was some improvement in dispenser knowledge, there was no difference between arms in adherence measured as completion of all doses (intervention 68.3%, control 69.8%, p [adjusted] = 0.6), or as completion of each dose at the correct time (intervention 33.1%, control 32.6%, p [adjusted] = 0.9). Further studies on the potential of text messages to improve adherence are needed.",
+        "target": "This study looked at the effect of text messages on the adherence of patients to artemether-lumefantrine (AL) in drug shops in Tanzania. 42 of 82 selected shops were randomized to receive the messages, while 42 shops acted as the control group. The messages were aimed at improving dispenser knowledge of AL dispensing practices. 904 patients and 110 dispensers from 77 shops were interviewed. The results showed that there was no difference between the arms in terms of adherence, as measured by completion of all doses (intervention 68.3%, control 69.8%, p [adjusted] = 0.6) or completion of each dose at the correct time (intervention 33.1%, control 32.6%, p [adjusted] = 0.9). Further studies on the potential of text messages to improve adherence are needed.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        726,
+                        974
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nArtemisinin combination therapies are available in private outlets, but patient adherence might be compromised by poor advice from dispensers. In this cluster randomized trial in drug shops in Tanzania, 42 of 82 selected shops were randomized to receive text message reminders about what advice to provide when dispensing artemether-lumefantrine (AL). Eligible patients purchasing AL at shops in both arms were followed up at home and questioned about each dose taken. Dispensers were interviewed regarding knowledge of AL dispensing practices and receipt of the malaria-related text messages. We interviewed 904 patients and 110 dispensers from 77 shops. Although there was some improvement in dispenser knowledge, there was no difference between arms in adherence measured as completion of all doses (intervention 68.3%, control 69.8%, p [adjusted] = 0.6), or as completion of each dose at the correct time (intervention 33.1%, control 32.6%, p [adjusted] = 0.9). Further studies on the potential of text messages to improve adherence are needed.",
+        "target": "This passage talks about a science experiment. There's a kind of medicine called artemisinin that's used to help people with malaria, a really bad sickness. Some people, especially in Tanzania, get this medicine from local drug shops. But the scientists were worried that the shop keepers were not giving the right advice about how to take the medicine, which could possibly make the medicine not work as well. So, they decided to do a test. Some shop keepers were sent text messages reminding them what advice to give. Then, the scientists checked with the people who bought the medicine, and the shop keepers, to see if doing this made any difference. The messages did make shop keepers a little more knowledgeable, but it didn\u2019t really change the way people took their medicine. The scientists think more studies are needed to see if text messages can really help.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        726,
+                        974
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nArtemisinin combination therapies are available in private outlets, but patient adherence might be compromised by poor advice from dispensers. In this cluster randomized trial in drug shops in Tanzania, 42 of 82 selected shops were randomized to receive text message reminders about what advice to provide when dispensing artemether-lumefantrine (AL). Eligible patients purchasing AL at shops in both arms were followed up at home and questioned about each dose taken. Dispensers were interviewed regarding knowledge of AL dispensing practices and receipt of the malaria-related text messages. We interviewed 904 patients and 110 dispensers from 77 shops. Although there was some improvement in dispenser knowledge, there was no difference between arms in adherence measured as completion of all doses (intervention 68.3%, control 69.8%, p [adjusted] = 0.6), or as completion of each dose at the correct time (intervention 33.1%, control 32.6%, p [adjusted] = 0.9). Further studies on the potential of text messages to improve adherence are needed.",
+        "target": "\nThis study looked at how well dispensers (people who sell medicine at drug shops) in Tanzania gave advice to patients when they bought medicine to treat malaria. Some dispensers got a special message on their phone that reminded them what advice to give, and some didn't. The study found that the dispensers who got the message didn't do any better at giving good advice than the ones who didn't get the message. The study also found that patients who got the message from the dispensers were just as likely to take their medicine correctly as those who didn't get the message. So, more research is needed to see if text messages can help people take their medicine better.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        726,
+                        974
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nDietary intake/status of the trace mineral Se may affect the risk of developing hypertensive conditions of pregnancy, i.e. pre-eclampsia and pregnancy-induced hypertension (PE/PIH). In the present study, we evaluated Se status in UK pregnant women to establish whether pre-pregnant Se status or Se supplementation affected the risk of developing PE/PIH. The samples originated from the SPRINT (Selenium in PRegnancy INTervention) study that randomised 230 UK primiparous women to treatment with Se (60 \u03bcg/d) or placebo from 12 weeks of gestation. Whole-blood Se concentration was measured at 12 and 35 weeks, toenail Se concentration at 16 weeks, plasma selenoprotein P (SEPP1) concentration at 35 weeks and plasma glutathione peroxidase (GPx3) activity at 12, 20 and 35 weeks. Demographic data were collected at baseline. Participants completed a FFQ. UK pregnant women had whole-blood Se concentration lower than the mid-range of other populations, toenail Se concentration considerably lower than US women, GPx3 activity considerably lower than US and Australian pregnant women, and low baseline SEPP1 concentration (median 3\u00b700, range 0\u00b790\u20135\u00b780 mg/l). Maternal age, education and social class were positively associated with Se status. After adjustment, whole-blood Se concentration was higher in women consuming Brazil nuts (P= 0\u00b7040) and in those consuming more than two seafood portions per week (P= 0\u00b7054). A stepwise logistic regression model revealed that among the Se-related risk factors, only toenail Se (OR 0\u00b738, 95 % CI 0\u00b717, 0\u00b787, P= 0\u00b7021) significantly affected the OR for PE/PIH. On excluding non-compliers with Se treatment, Se supplementation also significantly reduced the OR for PE/PIH (OR 0\u00b730, 95 % CI 0\u00b709, 1\u00b700, P= 0\u00b7049). In conclusion, UK women have low Se status that increases their risk of developing PE/PIH. Therefore, UK women of childbearing age need to improve their Se status.",
+        "target": "This study looked at the dietary intake and status of the trace mineral Se in pregnant women in the UK, to determine whether this could affect the risk of developing hypertensive conditions of pregnancy, such as pre-eclampsia and pregnancy-induced hypertension (PE/PIH). The results showed that UK pregnant women have lower Se status than the mid-range of other populations, as well as lower levels of the selenoprotein P (SEPP1) and glutathione peroxidase (GPx3) which are involved in Se metabolism. Women consuming Brazil nuts and more than two seafood portions per week had higher Se status. After adjusting for other factors, it was found that lower levels of Se in the toenails was associated with an increased risk of PE/PIH. Additionally, Se supplementation was found to reduce the risk of PE/PIH. These results suggest that UK pregnant women need to improve their Se status in order to reduce their risk of developing hypertensive conditions of pregnancy.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1250,
+                        1424
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1609,
+                        1759
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nDietary intake/status of the trace mineral Se may affect the risk of developing hypertensive conditions of pregnancy, i.e. pre-eclampsia and pregnancy-induced hypertension (PE/PIH). In the present study, we evaluated Se status in UK pregnant women to establish whether pre-pregnant Se status or Se supplementation affected the risk of developing PE/PIH. The samples originated from the SPRINT (Selenium in PRegnancy INTervention) study that randomised 230 UK primiparous women to treatment with Se (60 \u03bcg/d) or placebo from 12 weeks of gestation. Whole-blood Se concentration was measured at 12 and 35 weeks, toenail Se concentration at 16 weeks, plasma selenoprotein P (SEPP1) concentration at 35 weeks and plasma glutathione peroxidase (GPx3) activity at 12, 20 and 35 weeks. Demographic data were collected at baseline. Participants completed a FFQ. UK pregnant women had whole-blood Se concentration lower than the mid-range of other populations, toenail Se concentration considerably lower than US women, GPx3 activity considerably lower than US and Australian pregnant women, and low baseline SEPP1 concentration (median 3\u00b700, range 0\u00b790\u20135\u00b780 mg/l). Maternal age, education and social class were positively associated with Se status. After adjustment, whole-blood Se concentration was higher in women consuming Brazil nuts (P= 0\u00b7040) and in those consuming more than two seafood portions per week (P= 0\u00b7054). A stepwise logistic regression model revealed that among the Se-related risk factors, only toenail Se (OR 0\u00b738, 95 % CI 0\u00b717, 0\u00b787, P= 0\u00b7021) significantly affected the OR for PE/PIH. On excluding non-compliers with Se treatment, Se supplementation also significantly reduced the OR for PE/PIH (OR 0\u00b730, 95 % CI 0\u00b709, 1\u00b700, P= 0\u00b7049). In conclusion, UK women have low Se status that increases their risk of developing PE/PIH. Therefore, UK women of childbearing age need to improve their Se status.",
+        "target": "This passage is talking about a scientific study on pregnant women in the UK. The study looked at how much of a mineral called Selenium (Se), which is found in food, they had in their body. Selenium is important because not having enough of it might make it more likely for pregnant women to get high blood pressure, which can be dangerous during pregnancy. \n\nThe researchers found out that these women had less Selenium in their bodies compared to pregnant women in other countries. Things like their age, education, and social class played a role in how much Selenium they had. Eating Brazil nuts and having more than two servings of seafood per week helped increase Selenium levels in their bodies.\n\nThe most interesting point was that women with higher Selenium in their toenails seemed to have a lower risk of getting high blood pressure during pregnancy. Also, taking Selenium supplements, or extra doses of the mineral, helped reduce this risk even more. \n\nSo, the conclusion of the study was that women in the UK who could get pregnant should try to have more Selenium in their bodies to lessen the risk of getting high blood pressure during pregnancy.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1250,
+                        1424
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1609,
+                        1759
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nDietary intake/status of the trace mineral Se may affect the risk of developing hypertensive conditions of pregnancy, i.e. pre-eclampsia and pregnancy-induced hypertension (PE/PIH). In the present study, we evaluated Se status in UK pregnant women to establish whether pre-pregnant Se status or Se supplementation affected the risk of developing PE/PIH. The samples originated from the SPRINT (Selenium in PRegnancy INTervention) study that randomised 230 UK primiparous women to treatment with Se (60 \u03bcg/d) or placebo from 12 weeks of gestation. Whole-blood Se concentration was measured at 12 and 35 weeks, toenail Se concentration at 16 weeks, plasma selenoprotein P (SEPP1) concentration at 35 weeks and plasma glutathione peroxidase (GPx3) activity at 12, 20 and 35 weeks. Demographic data were collected at baseline. Participants completed a FFQ. UK pregnant women had whole-blood Se concentration lower than the mid-range of other populations, toenail Se concentration considerably lower than US women, GPx3 activity considerably lower than US and Australian pregnant women, and low baseline SEPP1 concentration (median 3\u00b700, range 0\u00b790\u20135\u00b780 mg/l). Maternal age, education and social class were positively associated with Se status. After adjustment, whole-blood Se concentration was higher in women consuming Brazil nuts (P= 0\u00b7040) and in those consuming more than two seafood portions per week (P= 0\u00b7054). A stepwise logistic regression model revealed that among the Se-related risk factors, only toenail Se (OR 0\u00b738, 95 % CI 0\u00b717, 0\u00b787, P= 0\u00b7021) significantly affected the OR for PE/PIH. On excluding non-compliers with Se treatment, Se supplementation also significantly reduced the OR for PE/PIH (OR 0\u00b730, 95 % CI 0\u00b709, 1\u00b700, P= 0\u00b7049). In conclusion, UK women have low Se status that increases their risk of developing PE/PIH. Therefore, UK women of childbearing age need to improve their Se status.",
+        "target": "This study looked at how much selenium (Se) women in the UK have in their bodies during pregnancy. Selenium is an important mineral that helps keep the body healthy. The study found that women in the UK have lower levels of selenium than other people in other countries. This could be a problem because it might make it harder for them to have a healthy pregnancy. The study also found that eating foods with selenium, like Brazil nuts, and eating seafood more than twice a week can help improve selenium levels. This means that women in the UK might be able to reduce their risk of getting a serious pregnancy problem called pre-eclampsia and pregnancy-induced hypertension (PE/PIH) by eating these foods.\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1250,
+                        1424
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1609,
+                        1759
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nAcute administration of the primary psychoactive constituent of cannabis, \u0394-9-tetrahydrocannabinol (THC), impairs human facial affect recognition, implicating the endocannabinoid system in emotional processing. Another main constituent of cannabis, cannabidiol (CBD), has seemingly opposite functional effects on the brain. This study aimed to determine the effects of THC and CBD, both alone and in combination on emotional facial affect recognition. 48 volunteers, selected for high and low frequency of cannabis use and schizotypy, were administered, THC (8 mg), CBD (16 mg), THC+CBD (8 mg+16 mg) and placebo, by inhalation, in a 4-way, double-blind, placebo-controlled crossover design. They completed an emotional facial affect recognition task including fearful, angry, happy, sad, surprise and disgust faces varying in intensity from 20% to 100%. A visual analogue scale (VAS) of feeling 'stoned' was also completed. In comparison to placebo, CBD improved emotional facial affect recognition at 60% emotional intensity; THC was detrimental to the recognition of ambiguous faces of 40% intensity. The combination of THC+CBD produced no impairment. Relative to placebo, both THC alone and combined THC+CBD equally increased feelings of being 'stoned'. CBD did not influence feelings of 'stoned'. No effects of frequency of use or schizotypy were found. In conclusion, CBD improves recognition of emotional facial affect and attenuates the impairment induced by THC. This is the first human study examining the effects of different cannabinoids on emotional processing. It provides preliminary evidence that different pharmacological agents acting upon the endocannabinoid system can both improve and impair recognition of emotional faces.",
+        "target": "This study examined the effects of THC, CBD and their combination on emotional facial affect recognition in humans. THC alone impaired recognition, while CBD improved it. The combination of THC and CBD had no effect. Additionally, THC and CBD both increased feelings of being 'stoned', but CBD did not influence feelings of 'stoned'ness. No effects of frequency of cannabis use or schizotypy were found. These results suggest that CBD can improve emotional facial affect recognition, while THC can impair it. The combination of THC and CBD had no effect.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1037,
+                        1266
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        934,
+                        1163
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1267,
+                        1310
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nAcute administration of the primary psychoactive constituent of cannabis, \u0394-9-tetrahydrocannabinol (THC), impairs human facial affect recognition, implicating the endocannabinoid system in emotional processing. Another main constituent of cannabis, cannabidiol (CBD), has seemingly opposite functional effects on the brain. This study aimed to determine the effects of THC and CBD, both alone and in combination on emotional facial affect recognition. 48 volunteers, selected for high and low frequency of cannabis use and schizotypy, were administered, THC (8 mg), CBD (16 mg), THC+CBD (8 mg+16 mg) and placebo, by inhalation, in a 4-way, double-blind, placebo-controlled crossover design. They completed an emotional facial affect recognition task including fearful, angry, happy, sad, surprise and disgust faces varying in intensity from 20% to 100%. A visual analogue scale (VAS) of feeling 'stoned' was also completed. In comparison to placebo, CBD improved emotional facial affect recognition at 60% emotional intensity; THC was detrimental to the recognition of ambiguous faces of 40% intensity. The combination of THC+CBD produced no impairment. Relative to placebo, both THC alone and combined THC+CBD equally increased feelings of being 'stoned'. CBD did not influence feelings of 'stoned'. No effects of frequency of use or schizotypy were found. In conclusion, CBD improves recognition of emotional facial affect and attenuates the impairment induced by THC. This is the first human study examining the effects of different cannabinoids on emotional processing. It provides preliminary evidence that different pharmacological agents acting upon the endocannabinoid system can both improve and impair recognition of emotional faces.",
+        "target": "The study is about how the two main parts of cannabis (a plant that is often used as a drug) affect how well we can recognize people's facial expressions. THC is the part of cannabis that makes people feel 'high' and it makes it harder for people to understand facial expressions, especially if they are not very strong or clear. But CBD, another part of cannabis, actually helps us recognize these expressions better, especially if they are somewhat strong. What's interesting is that when THC and CBD are used together, they don't bring any negative effects on understanding faces. The study also found that how often someone uses cannabis or their mental health status doesn't change these results. So, in general, this research found that CBD can help us understand people's feelings better from their faces and also reduces the negative effects of THC. And it's the first study of its kind to look at how these parts of cannabis affect our understanding of emotional faces.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1037,
+                        1266
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        934,
+                        1163
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1267,
+                        1310
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nAcute administration of the primary psychoactive constituent of cannabis, \u0394-9-tetrahydrocannabinol (THC), impairs human facial affect recognition, implicating the endocannabinoid system in emotional processing. Another main constituent of cannabis, cannabidiol (CBD), has seemingly opposite functional effects on the brain. This study aimed to determine the effects of THC and CBD, both alone and in combination on emotional facial affect recognition. 48 volunteers, selected for high and low frequency of cannabis use and schizotypy, were administered, THC (8 mg), CBD (16 mg), THC+CBD (8 mg+16 mg) and placebo, by inhalation, in a 4-way, double-blind, placebo-controlled crossover design. They completed an emotional facial affect recognition task including fearful, angry, happy, sad, surprise and disgust faces varying in intensity from 20% to 100%. A visual analogue scale (VAS) of feeling 'stoned' was also completed. In comparison to placebo, CBD improved emotional facial affect recognition at 60% emotional intensity; THC was detrimental to the recognition of ambiguous faces of 40% intensity. The combination of THC+CBD produced no impairment. Relative to placebo, both THC alone and combined THC+CBD equally increased feelings of being 'stoned'. CBD did not influence feelings of 'stoned'. No effects of frequency of use or schizotypy were found. In conclusion, CBD improves recognition of emotional facial affect and attenuates the impairment induced by THC. This is the first human study examining the effects of different cannabinoids on emotional processing. It provides preliminary evidence that different pharmacological agents acting upon the endocannabinoid system can both improve and impair recognition of emotional faces.",
+        "target": "So, there are different things in marijuana that can affect how people feel and think. One of them, called THC, can make it harder to recognize how people are feeling, like if they are happy or sad. Another thing in marijuana, called CBD, can actually help people recognize how people are feeling better. They did some experiments where they gave people different amounts of THC and CBD and asked them to look at pictures of people's faces and try to figure out how they were feeling. They found out that CBD helps people recognize how people are feeling better, but THC makes it harder. It's like CBD is a superhero for recognizing emotions, and THC is like a bad guy that tries to make it harder.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1037,
+                        1266
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        934,
+                        1163
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1267,
+                        1310
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nThe physiologic stress induced by physical activity is reflected in immune system perturbations, oxidative stress, muscle injury, and inflammation. We investigated the effect of astaxanthin (Asx) supplementation on salivary IgA (sIgA) and oxidative stress status in plasma, along with changes in biochemical parameters and total/differential white cell counts. Forty trained male soccer players were randomly assigned to Asx and placebo groups. Asx group was supplemented with 4 mg of Asx. Saliva and blood samples were collected at the baseline and after 90 days of supplementation in preexercise conditions. We observed a rise of sIgA levels at rest after 90 days of Asx supplementation, which was accompanied with a decrease in prooxidant-antioxidant balance. The plasma muscle enzymes levels were reduced significantly by Asx supplementation and by regular training. The increase in neutrophil count and hs-CRP level was found only in placebo group, indicating a significant blunting of the systemic inflammatory response in the subjects taking Asx. This study indicates that Asx supplementation improves sIgA response and attenuates muscle damage, thus preventing inflammation induced by rigorous physical training. Our findings also point that Asx could show significant physiologic modulation in individuals with mucosal immunity impairment or under conditions of increased oxidative stress and inflammation.",
+        "target": "This study investigated the effects of astaxanthin (Asx) supplementation on salivary immunoglobulin A (sIgA) levels, oxidative stress status, and inflammation in trained male soccer players. Forty players were randomly assigned to either a placebo or Asx group. The Asx group was supplemented with 4 mg of Asx per day for 90 days. At the end of the study, sIgA levels were found to have increased in the Asx group, while prooxidant-antioxidant balance and muscle enzyme levels were reduced. Additionally, neutrophil count and high-sensitivity C-reactive protein (hs-CRP) levels were found to have increased only in the placebo group. These results suggest that Asx supplementation can reduce inflammation and muscle damage, as well as improve sIgA levels, in trained athletes. Furthermore, the findings suggest that Asx could have a significant effect in individuals with mucosal immunity impairment or in conditions of increased oxidative stress and inflammation.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        879,
+                        965
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nThe physiologic stress induced by physical activity is reflected in immune system perturbations, oxidative stress, muscle injury, and inflammation. We investigated the effect of astaxanthin (Asx) supplementation on salivary IgA (sIgA) and oxidative stress status in plasma, along with changes in biochemical parameters and total/differential white cell counts. Forty trained male soccer players were randomly assigned to Asx and placebo groups. Asx group was supplemented with 4 mg of Asx. Saliva and blood samples were collected at the baseline and after 90 days of supplementation in preexercise conditions. We observed a rise of sIgA levels at rest after 90 days of Asx supplementation, which was accompanied with a decrease in prooxidant-antioxidant balance. The plasma muscle enzymes levels were reduced significantly by Asx supplementation and by regular training. The increase in neutrophil count and hs-CRP level was found only in placebo group, indicating a significant blunting of the systemic inflammatory response in the subjects taking Asx. This study indicates that Asx supplementation improves sIgA response and attenuates muscle damage, thus preventing inflammation induced by rigorous physical training. Our findings also point that Asx could show significant physiologic modulation in individuals with mucosal immunity impairment or under conditions of increased oxidative stress and inflammation.",
+        "target": "This study is all about how exercising hard can make your body stressed, which can show up in different ways like interrupting your immune system and causing inflammation. The scientists wanted to see if a supplement called astaxanthin (Asx for short) could help control these negative effects. \n\nThey had 40 trained soccer players take this supplement or a placebo (a pill that doesn't do anything) and kept track of a lot of different measurements from their saliva and blood. After 90 days, they found that the players taking Asx had more of a certain helpful thing in their saliva, less stress on their body as shown in their blood, and less signs of muscle damage. They also didn't have as many signs of inflammation in their body as the players taking the placebo. \n\nThis makes the scientists think that Asx might be really good at keeping your body from getting too overly stressed and inflamed from rigorous exercise. It might also have similar benefits for people who have weakened immune systems or who, for different reasons, have more inflammation and oxidative stress in their bodies.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        879,
+                        965
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nThe physiologic stress induced by physical activity is reflected in immune system perturbations, oxidative stress, muscle injury, and inflammation. We investigated the effect of astaxanthin (Asx) supplementation on salivary IgA (sIgA) and oxidative stress status in plasma, along with changes in biochemical parameters and total/differential white cell counts. Forty trained male soccer players were randomly assigned to Asx and placebo groups. Asx group was supplemented with 4 mg of Asx. Saliva and blood samples were collected at the baseline and after 90 days of supplementation in preexercise conditions. We observed a rise of sIgA levels at rest after 90 days of Asx supplementation, which was accompanied with a decrease in prooxidant-antioxidant balance. The plasma muscle enzymes levels were reduced significantly by Asx supplementation and by regular training. The increase in neutrophil count and hs-CRP level was found only in placebo group, indicating a significant blunting of the systemic inflammatory response in the subjects taking Asx. This study indicates that Asx supplementation improves sIgA response and attenuates muscle damage, thus preventing inflammation induced by rigorous physical training. Our findings also point that Asx could show significant physiologic modulation in individuals with mucosal immunity impairment or under conditions of increased oxidative stress and inflammation.",
+        "target": "\nThe study looked at how a special supplement called astaxanthin affects the body when someone is doing a lot of physical activity. The researchers found that taking this supplement can help protect the body from damage caused by exercise, such as inflammation and muscle injury. They also found that the supplement can help boost the immune system and reduce the amount of oxidative stress in the body. Oxidative stress is like when your body is trying to fight off bad guys, but they keep coming back and it gets really tired. The study showed that taking astaxanthin can help the body fight off these bad guys and make it stronger.\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        879,
+                        965
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND AND AIMS:.\nThis study aimed to determine whether a separate written consent form improved the efficacy of the informed consent process for anesthesia in adult patients undergoing elective surgery at a tertiary care teaching hospital.\n\nABSTRACT.MATERIAL AND METHODS:.\nWe randomized patients into two groups prospectively. The first group (Group A) signed the hospital's standard Consent for Operation form only while the second group (Group B) signed a separate Consent for Anesthesia form additionally. Patients were interviewed postoperatively with an eight-item questionnaire with responses in a 5-point Likert scale. A composite adequacy of consent index was generated from the responses and analyzed.\n\nABSTRACT.RESULTS:.\nTwo hundred patients (100 in each group) were studied. All patients indicated that the anesthesiologist(s) had their permission to proceed with their anesthesia care. The mean adequacy of consent index score in Group B was higher than that of Group A (30.6 \u00b1 4.6 [standard deviation (SD)] vs. 27.9 \u00b1 5.2 [SD]) (P &lt; 0.001). The separate written consent had a positive impact on the patients' understanding of the nature and purpose of the intended anesthesia procedures (P = 0.04), satisfaction with the adequacy of information provided about common side effects (P &lt; 0.001) and rare but serious complications (P = 0.008).\n\nABSTRACT.CONCLUSIONS:.\nA separate written consent for anesthesia improved the efficacy of the informed consent process with respect to better information about the nature and purpose of anesthesia, common side effects, and rare but serious complications.",
+        "target": "This study aimed to determine whether a separate written consent form improved the efficacy of the informed consent process for anesthesia in adult patients undergoing elective surgery at a tertiary care teaching hospital.\n\nWe randomized patients into two groups prospectively. The first group (Group A) signed the hospital's standard Consent for Operation form only while the second group (Group B) signed a separate Consent for Anesthesia form additionally. Patients were interviewed postoperatively with an eight-item questionnaire with responses in a 5-point Likert scale. A composite adequacy of consent index was generated from the responses and analyzed.\n\nTwo hundred patients (100 in each group) were studied. All patients indicated that the anesthesiologist(s) had their permission to proceed with their anesthesia care. The mean adequacy of consent index score in Group B was higher than that of Group A (30.6 \u00b1 4.6 [standard deviation (SD)] vs. 27.9 \u00b1 5.2 [SD]) (P &lt; 0.001). The separate written consent had a positive impact on the patients' understanding of the nature and purpose of the intended anesthesia procedures (P = 0.04), satisfaction with the adequacy of information provided about common side effects (P &lt; 0.001) and rare but serious complications (P = 0.008).\n\nA separate written consent for anesthesia improved the efficacy of the informed consent process with respect to better information about the nature and purpose of anesthesia, common side effects, and rare but serious complications.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        912,
+                        1070
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1071,
+                        1372
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND AND AIMS:.\nThis study aimed to determine whether a separate written consent form improved the efficacy of the informed consent process for anesthesia in adult patients undergoing elective surgery at a tertiary care teaching hospital.\n\nABSTRACT.MATERIAL AND METHODS:.\nWe randomized patients into two groups prospectively. The first group (Group A) signed the hospital's standard Consent for Operation form only while the second group (Group B) signed a separate Consent for Anesthesia form additionally. Patients were interviewed postoperatively with an eight-item questionnaire with responses in a 5-point Likert scale. A composite adequacy of consent index was generated from the responses and analyzed.\n\nABSTRACT.RESULTS:.\nTwo hundred patients (100 in each group) were studied. All patients indicated that the anesthesiologist(s) had their permission to proceed with their anesthesia care. The mean adequacy of consent index score in Group B was higher than that of Group A (30.6 \u00b1 4.6 [standard deviation (SD)] vs. 27.9 \u00b1 5.2 [SD]) (P &lt; 0.001). The separate written consent had a positive impact on the patients' understanding of the nature and purpose of the intended anesthesia procedures (P = 0.04), satisfaction with the adequacy of information provided about common side effects (P &lt; 0.001) and rare but serious complications (P = 0.008).\n\nABSTRACT.CONCLUSIONS:.\nA separate written consent for anesthesia improved the efficacy of the informed consent process with respect to better information about the nature and purpose of anesthesia, common side effects, and rare but serious complications.",
+        "target": "This study was trying to see if adding an extra permission form for the part of surgery where they make you sleep (called anesthesia) helped adults understand what was going to happen during their operation better. They had two groups of people - one only signed the usual form before surgery, and the other group signed the usual form and an extra one for the sleep portion specifically.\n\nAfter the surgeries, they asked a few questions to see how well both groups understood details about the surgery and how satisfied they were with the information they were given. They found that the group who signed the extra form understood better about what would happen during the anesthesia, what common side effects might be, and what serious but rare complications could occur. So, it seemed that the extra form served its purpose.  \n\nIn simpler words, they found out that giving you a second form to sign specifically about the part where they make you unconscious helps you understand what's going on better and makes you feel better informed.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        912,
+                        1070
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1071,
+                        1372
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND AND AIMS:.\nThis study aimed to determine whether a separate written consent form improved the efficacy of the informed consent process for anesthesia in adult patients undergoing elective surgery at a tertiary care teaching hospital.\n\nABSTRACT.MATERIAL AND METHODS:.\nWe randomized patients into two groups prospectively. The first group (Group A) signed the hospital's standard Consent for Operation form only while the second group (Group B) signed a separate Consent for Anesthesia form additionally. Patients were interviewed postoperatively with an eight-item questionnaire with responses in a 5-point Likert scale. A composite adequacy of consent index was generated from the responses and analyzed.\n\nABSTRACT.RESULTS:.\nTwo hundred patients (100 in each group) were studied. All patients indicated that the anesthesiologist(s) had their permission to proceed with their anesthesia care. The mean adequacy of consent index score in Group B was higher than that of Group A (30.6 \u00b1 4.6 [standard deviation (SD)] vs. 27.9 \u00b1 5.2 [SD]) (P &lt; 0.001). The separate written consent had a positive impact on the patients' understanding of the nature and purpose of the intended anesthesia procedures (P = 0.04), satisfaction with the adequacy of information provided about common side effects (P &lt; 0.001) and rare but serious complications (P = 0.008).\n\nABSTRACT.CONCLUSIONS:.\nA separate written consent for anesthesia improved the efficacy of the informed consent process with respect to better information about the nature and purpose of anesthesia, common side effects, and rare but serious complications.",
+        "target": "\nThis study looked at how using a separate form to get consent for anesthesia affects how well patients understand what will happen during their surgery. The study found that using a separate form to get consent improved how well patients understood what would happen during their surgery.\nSo, the study showed that using a separate form to get consent for anesthesia helps patients better understand what will happen during their surgery.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        912,
+                        1070
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1071,
+                        1372
+                    ]
+                ]
+            }
+        ]
+    }
+]
