@@ -19,7 +19,7 @@ interface_text:
 prepend_instructions: true
 
 gdrive_save:
-  folder_id: "155FeaIKFjiJiq_t6L3mP1sP8AA8p42dG"
+  folder_id: "155FeaIKFjiJiq_t6L3mP1sP8AA8p42dG
   file_prefix: "anno2_split2"
 
 
@@ -198,6 +198,8 @@ edits:
         options:
         - name: r_1
           label: "Accurate"
+        - name: r_vague_2 
+          label: "Vague/Slightly inaccurate"
         - name: r_2
           label: "Inaccurate"
         - name: r_3
