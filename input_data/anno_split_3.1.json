@@ -1,0 +1,1562 @@
+[
+    {
+        "source": "ABSTRACT.BACKGROUND.\nA population of breast cancer patients exists who, for various reasons, never received adjuvant post-operative tamoxifen (TAM). This study was aimed to evaluate the role of late TAM in these patients.\n\nABSTRACT.METHODS.\nFrom 1997 to 2003, patients aged 35 to 75 years, operated more than 2 years previously for monolateral breast cancer without adjuvant TAM, with no signs of metastases and no contraindication to TAM were randomized to TAM 20 mg/day orally for 2 years or follow-up alone. Events were categorized as locoregional relapse, distant metastases, metachronous breast cancer, tumours other than breast cancer and death from any causes, whichever occurred first. The sample size (197 patients per arm, plus 10% allowance) was based on the assumption of a 30% decrease in the number of events occurring at a rate of 5% annually in the 10 years following randomization. Four hundred and thirty-three patients were randomized in the study (TAM 217, follow-up 216). Patients characteristics (TAM/follow-up) included: median age 55/55 years, median time from surgery 25/25 months (range, 25-288/25-294), in situ carcinoma 18/24, oestrogen receptor (ER) positive in 75/68, negative in 70/57, unknown in 72/91 patients. Previous adjuvant treatment included chemotherapy in 131/120 and an LHRH analogue in 11/13 patients.\n\nABSTRACT.RESULTS.\nThirty-six patients prematurely discontinued TAM after a median of 1 month, mostly because of subjective intolerance. Eighty-three events (TAM 39, follow-up 44) occurred: locoregional relapse in 10/8, distant metastases in 14/16, metachronous breast cancer in 4/10, other tumours in 11/10 patients. Less ER-positive secondary breast cancers occurred in the TAM treated patients than in follow-up patients (1 vs 10, p = 0.005). Event-free survival was similar in both groups of patients.\n\nABSTRACT.CONCLUSIONS.\nThis 5-year analysis revealed significantly less metachronous ER-positive breast cancers in the TAM treated patients. No other statistically significant differences have emerged thus far.",
+        "target": "This study was aimed to evaluate the role of late tamoxifen (TAM) in a population of breast cancer patients who had not received adjuvant post-operative TAM. From 1997 to 2003, 433 patients were randomized to receive TAM 20 mg/day orally for 2 years or follow-up alone. The results showed that TAM had a similar effect on event-free survival, but significantly less metachronous ER-positive secondary breast cancers in the TAM treated patients. No other statistically significant differences have emerged thus far.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1791,
+                        1850
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nA population of breast cancer patients exists who, for various reasons, never received adjuvant post-operative tamoxifen (TAM). This study was aimed to evaluate the role of late TAM in these patients.\n\nABSTRACT.METHODS.\nFrom 1997 to 2003, patients aged 35 to 75 years, operated more than 2 years previously for monolateral breast cancer without adjuvant TAM, with no signs of metastases and no contraindication to TAM were randomized to TAM 20 mg/day orally for 2 years or follow-up alone. Events were categorized as locoregional relapse, distant metastases, metachronous breast cancer, tumours other than breast cancer and death from any causes, whichever occurred first. The sample size (197 patients per arm, plus 10% allowance) was based on the assumption of a 30% decrease in the number of events occurring at a rate of 5% annually in the 10 years following randomization. Four hundred and thirty-three patients were randomized in the study (TAM 217, follow-up 216). Patients characteristics (TAM/follow-up) included: median age 55/55 years, median time from surgery 25/25 months (range, 25-288/25-294), in situ carcinoma 18/24, oestrogen receptor (ER) positive in 75/68, negative in 70/57, unknown in 72/91 patients. Previous adjuvant treatment included chemotherapy in 131/120 and an LHRH analogue in 11/13 patients.\n\nABSTRACT.RESULTS.\nThirty-six patients prematurely discontinued TAM after a median of 1 month, mostly because of subjective intolerance. Eighty-three events (TAM 39, follow-up 44) occurred: locoregional relapse in 10/8, distant metastases in 14/16, metachronous breast cancer in 4/10, other tumours in 11/10 patients. Less ER-positive secondary breast cancers occurred in the TAM treated patients than in follow-up patients (1 vs 10, p = 0.005). Event-free survival was similar in both groups of patients.\n\nABSTRACT.CONCLUSIONS.\nThis 5-year analysis revealed significantly less metachronous ER-positive breast cancers in the TAM treated patients. No other statistically significant differences have emerged thus far.",
+        "target": "This is a study about a medicine called \"TAM.\" It's given to some people after they have surgery for breast cancer. The researchers wanted to see if this medicine could help people who didn't get it right after their surgery. They looked at patients who had surgery 2 years ago and weren't showing signs of more cancer. Some of these people were then given TAM, while others weren't.\n\nThe researchers were watching for any signs of cancer returning or new cancer appearing. They found that the people who took the TAM medicine had fewer cases of a certain type of breast cancer coming back than those who didn't take the medicine. But other than that, the two groups - the ones who took the medicine and the one who didn't - didn't seem to have different outcomes.\n\nSo in simple terms, this study is saying that for this specific group of people, taking TAM seemed to help a bit with preventing a certain type of breast cancer from returning, but otherwise didn't change much.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1791,
+                        1850
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nA population of breast cancer patients exists who, for various reasons, never received adjuvant post-operative tamoxifen (TAM). This study was aimed to evaluate the role of late TAM in these patients.\n\nABSTRACT.METHODS.\nFrom 1997 to 2003, patients aged 35 to 75 years, operated more than 2 years previously for monolateral breast cancer without adjuvant TAM, with no signs of metastases and no contraindication to TAM were randomized to TAM 20 mg/day orally for 2 years or follow-up alone. Events were categorized as locoregional relapse, distant metastases, metachronous breast cancer, tumours other than breast cancer and death from any causes, whichever occurred first. The sample size (197 patients per arm, plus 10% allowance) was based on the assumption of a 30% decrease in the number of events occurring at a rate of 5% annually in the 10 years following randomization. Four hundred and thirty-three patients were randomized in the study (TAM 217, follow-up 216). Patients characteristics (TAM/follow-up) included: median age 55/55 years, median time from surgery 25/25 months (range, 25-288/25-294), in situ carcinoma 18/24, oestrogen receptor (ER) positive in 75/68, negative in 70/57, unknown in 72/91 patients. Previous adjuvant treatment included chemotherapy in 131/120 and an LHRH analogue in 11/13 patients.\n\nABSTRACT.RESULTS.\nThirty-six patients prematurely discontinued TAM after a median of 1 month, mostly because of subjective intolerance. Eighty-three events (TAM 39, follow-up 44) occurred: locoregional relapse in 10/8, distant metastases in 14/16, metachronous breast cancer in 4/10, other tumours in 11/10 patients. Less ER-positive secondary breast cancers occurred in the TAM treated patients than in follow-up patients (1 vs 10, p = 0.005). Event-free survival was similar in both groups of patients.\n\nABSTRACT.CONCLUSIONS.\nThis 5-year analysis revealed significantly less metachronous ER-positive breast cancers in the TAM treated patients. No other statistically significant differences have emerged thus far.",
+        "target": "\nThis study looked at a group of breast cancer patients who didn't take tamoxifen after their surgery. The researchers wanted to see if taking tamoxifen later on would help prevent the cancer from coming back. They randomly divided the patients into two groups: one group took tamoxifen for two years, and the other group just received regular follow-up care. They found that the group that took tamoxifen had fewer secondary breast cancers that were positive for the hormone estrogen. However, there were no other significant differences between the two groups.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Christiansen et al. (2006).",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1791,
+                        1850
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThis study was designed to determine whether small diameter needles for oocyte retrieval alter oocyte yields in patients undergoing IVF in comparison to standard large diameter needles.\n\nABSTRACT.METHODS.\nWe conducted a prospective pilot study of 21 consecutive favorable prognosis patients. In each patient one ovary was randomly allocated to retrieval with either a 20 G/ 35 mm (thin) or 17 G/ 35 mm (standard) needle, the other ovary was then retrieved with the opposite needle.\n\nABSTRACT.RESULTS.\nThe standard diameter needle was used to collect a total of 215 oocytes from 355 aspirated follicles (60.6%) compared to 203 oocytes from 352 aspirated follicles (57.7%) with the thinner needle (p = 0.23). Stratifying outcomes by anti-Mu\u0308llerian hormone (AMH), as indicator of ovarian reserve, and by body mass index (BMI) the oocyte yields, still, did not differ (AMH, r (17) = \u22120.20, p = 0.44; BMI, r (17) =0.02, p = 0.96). Outcomes also did not vary among women with diminished ovarian reserve (p = 0.17) and in women with normal ovarian reserve (p = 1.00). Operating time was, however, significantly increased by 3.3 minutes per ovary (z = \u22123.08, p = 0.002) with the thinner needle.\n\nABSTRACT.CONCLUSIONS.\nNeedle diameter does not affect oocyte yield, including in obese patients and patients with diminished ovarian reserve. Thinner needles appear to significantly prolong operating time.",
+        "target": "This study was conducted to determine whether using small diameter needles for oocyte retrieval would affect the number of oocytes retrieved in patients undergoing IVF.\n\nWe conducted a pilot study with 21 consecutive patients with a favorable prognosis. For each patient, one ovary was randomly allocated to retrieval with either a 20-gauge/35-mm (thin) needle or a 17-gauge/35-mm (standard) needle. The other ovary was then retrieved with the opposite needle.\n\nThe results showed that the standard diameter needle was used to collect a total of 215 oocytes from 355 aspirated follicles (60.6%) compared to 203 oocytes from 352 aspirated follicles (57.7%) with the thinner needle (p = 0.23). There were no significant differences in oocyte yields based on anti-M\u00fcllerian hormone (AMH) levels, a marker of ovarian reserve, or body mass index (BMI).\n\nThe thinner needle also appeared to significantly prolong operating time by 3.3 minutes per ovary (z = -3.08, p = 0.002).\n\nIn conclusion, needle diameter does not affect oocyte yield, including in obese patients and patients with diminished ovarian reserve. Thinner needles appear to significantly prolong operating time.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        522,
+                        727
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        728,
+                        947
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1083,
+                        1208
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThis study was designed to determine whether small diameter needles for oocyte retrieval alter oocyte yields in patients undergoing IVF in comparison to standard large diameter needles.\n\nABSTRACT.METHODS.\nWe conducted a prospective pilot study of 21 consecutive favorable prognosis patients. In each patient one ovary was randomly allocated to retrieval with either a 20 G/ 35 mm (thin) or 17 G/ 35 mm (standard) needle, the other ovary was then retrieved with the opposite needle.\n\nABSTRACT.RESULTS.\nThe standard diameter needle was used to collect a total of 215 oocytes from 355 aspirated follicles (60.6%) compared to 203 oocytes from 352 aspirated follicles (57.7%) with the thinner needle (p = 0.23). Stratifying outcomes by anti-Mu\u0308llerian hormone (AMH), as indicator of ovarian reserve, and by body mass index (BMI) the oocyte yields, still, did not differ (AMH, r (17) = \u22120.20, p = 0.44; BMI, r (17) =0.02, p = 0.96). Outcomes also did not vary among women with diminished ovarian reserve (p = 0.17) and in women with normal ovarian reserve (p = 1.00). Operating time was, however, significantly increased by 3.3 minutes per ovary (z = \u22123.08, p = 0.002) with the thinner needle.\n\nABSTRACT.CONCLUSIONS.\nNeedle diameter does not affect oocyte yield, including in obese patients and patients with diminished ovarian reserve. Thinner needles appear to significantly prolong operating time.",
+        "target": "This passage is about a study conducted by scientists who wanted to know if using thinner needles to extract eggs from a woman's ovary during a process called IVF would give more eggs than using the standard thicker needles. \n\nThey tested on 21 women by using a thin needle on one ovary and a thick needle on the other ovary. They found that the thicker needle collected 215 eggs from 355 tries (about 61%) while the thinner needle collected 203 eggs from 352 tries (about 58%). \n\nThe scientists also checked if the woman's hormone levels or body weight affected the number of eggs collected, but found no connection. \n\nThey noticed that using the thinner needle took an extra 3.3 minutes per ovary. \n\nThe conclusion of this study is that the size of the needle does not affect the number of eggs collected during IVF, but using thinner needles takes more time.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        522,
+                        727
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        728,
+                        947
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1083,
+                        1208
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThis study was designed to determine whether small diameter needles for oocyte retrieval alter oocyte yields in patients undergoing IVF in comparison to standard large diameter needles.\n\nABSTRACT.METHODS.\nWe conducted a prospective pilot study of 21 consecutive favorable prognosis patients. In each patient one ovary was randomly allocated to retrieval with either a 20 G/ 35 mm (thin) or 17 G/ 35 mm (standard) needle, the other ovary was then retrieved with the opposite needle.\n\nABSTRACT.RESULTS.\nThe standard diameter needle was used to collect a total of 215 oocytes from 355 aspirated follicles (60.6%) compared to 203 oocytes from 352 aspirated follicles (57.7%) with the thinner needle (p = 0.23). Stratifying outcomes by anti-Mu\u0308llerian hormone (AMH), as indicator of ovarian reserve, and by body mass index (BMI) the oocyte yields, still, did not differ (AMH, r (17) = \u22120.20, p = 0.44; BMI, r (17) =0.02, p = 0.96). Outcomes also did not vary among women with diminished ovarian reserve (p = 0.17) and in women with normal ovarian reserve (p = 1.00). Operating time was, however, significantly increased by 3.3 minutes per ovary (z = \u22123.08, p = 0.002) with the thinner needle.\n\nABSTRACT.CONCLUSIONS.\nNeedle diameter does not affect oocyte yield, including in obese patients and patients with diminished ovarian reserve. Thinner needles appear to significantly prolong operating time.",
+        "target": "\nThis study wanted to know if using smaller needles to collect eggs during in vitro fertilization (IVF) makes a difference in how many eggs are collected compared to using larger needles. They looked at 21 women and used one ovary with a smaller needle and the other ovary with a larger needle. They found that the number of eggs collected didn't change whether they used a smaller or larger needle. They also looked at how well the women's ovaries worked and found that the number of eggs collected didn't change based on how well the ovaries worked. They did find that using the smaller needle took a little longer to collect the eggs.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        522,
+                        727
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        728,
+                        947
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1083,
+                        1208
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThe present studies evaluated the effects of cryoprotectants, the vitrification procedure and time in the warming solution containing sucrose on cleavage and embryo development of immature (GV stage) bovine cumulus-oocyte complexes (COCs).\n\nABSTRACT.METHODS.\nTwo experiments were conducted. In Experiment 1, COCs (n = 420) were randomly assigned to four groups: 1) Control group: no treatment; 2) VS1 group: COCs were exposed to vitrification solution 1 (VS1) containing 7.5% ethylene glycol [EG] + 7.5% dimethyl sulfoxide [DMSO] + 20% calf serum [CS] in TCM-199 at 37 C for 5 min; 3) VS1 + VS2 group: COCs were exposed to VS1 for 5 min followed by VS2 (15% EG + 15% DMSO + 17.1% sucrose + 20% CS) at 37 C for 45\u201360 sec; and 4) Vitrified group: COCs were exposed to VS1 and VS2, loaded on cryotops, vitrified in liquid nitrogen and then warmed in TCM-199 + 17.1% sucrose + 20% CS at 37 C for 1 min. In Experiment 2, COCs (n = 581) were assigned to the same groups, but those in VS1, VS1 + VS2 and Vitrified groups were sub-divided and exposed to the warming solution for either 1 or 5 min. After treatment and/or warming, all COCs in both experiments underwent in vitro maturation, in vitro fertilization and in vitro culture.\n\nABSTRACT.RESULTS.\nCleavage and blastocyst rates did not differ among Control, VS1 and VS1 + VS2 groups in either experiment. In Experiment 2, there was no effect of time in the warming solution.  However, both cleavage and blastocyst rates were lower (P &lt; 0.001) in the Vitrified group than in the Control, VS1 and VS1 + VS2 groups (40.9 and 1.6% vs 92.2 and 34.4%, 79.4 and 25.2%, and 80.2 and 20.8%, respectively in Experiment 1, and 25.0 and 1.7% vs 75.3 and 27.2%, 67.9 and 19.5%, and 62.7 and 22.5%, respectively in Experiment 2).\n\nABSTRACT.CONCLUSIONS.\nThe permeating cryoprotectants (EG and DMSO) present in VS1 and VS2 solutions and the time in the warming solution containing sucrose had no adverse effects on cleavage and blastocyst rates of immature bovine COCs. However, cleavage rate and early embryo development were reduced following the vitrification and warming.",
+        "target": "This study evaluated the effects of cryoprotectants, the vitrification procedure and time in a warming solution containing sucrose on the cleavage and embryo development of immature bovine cumulus-oocyte complexes (COCs).\n\nTwo experiments were conducted. In the first experiment, 420 COCs were randomly assigned to four groups: a control group that did not receive any treatment, a vitrification solution 1 (VS1) group that was exposed to 7.5% ethylene glycol (EG) and 7.5% dimethyl sulfoxide (DMSO) plus 20% calf serum (CS) in TCM-199 at 37\u00b0C for 5 minutes, a VS1 + VS2 group that was exposed to both VS1 and vitrification solution 2 (VS2) containing 15% EG, 15% DMSO and 17.1% sucrose plus 20% CS at 37\u00b0C for 45-60 seconds, and a vitrified group that was exposed to both VS1 and VS2, loaded on cryotops, vitrified in liquid nitrogen and then warmed in TCM-199 plus 17.1% sucrose plus 20% CS at 37\u00b0C for 1 minute.\n\nIn the second experiment, 581 COCs were randomly assigned to the same four groups, but those in the VS1, VS1 + VS2 and vitrified groups were subdivided and exposed to the warming solution for either 1 or 5 minutes.\n\nThe results showed that there were no significant differences in the cleavage and blastocyst rates among the control, VS1, VS1 + VS2 and vitrified groups in either experiment. However, both cleavage and blastocyst rates were lower (P &lt; 0.001) in the vitrified group than in the control, VS1 and VS1 + VS2 groups (40.9 and 1.6% vs 92.2 and 34.4%, 79.4 and 25.2%, and 80.2 and 20.8%, respectively in Experiment 1, and 25.0 and 1.7% vs 75.3 and 27.2%, 67.9 and 19.5%, and 62.7 and 22.5%, respectively in Experiment 2).\n\nThe permeating cryoprotectants (EG and DMSO) present in VS1 and VS2 solutions and the time in the warming solution containing sucrose had no adverse effects on cleavage and blastocyst rates of immature bovine COCs. However, cleavage rate and early embryo development were reduced following the vitrification and warming.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1445,
+                        1787
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThe present studies evaluated the effects of cryoprotectants, the vitrification procedure and time in the warming solution containing sucrose on cleavage and embryo development of immature (GV stage) bovine cumulus-oocyte complexes (COCs).\n\nABSTRACT.METHODS.\nTwo experiments were conducted. In Experiment 1, COCs (n = 420) were randomly assigned to four groups: 1) Control group: no treatment; 2) VS1 group: COCs were exposed to vitrification solution 1 (VS1) containing 7.5% ethylene glycol [EG] + 7.5% dimethyl sulfoxide [DMSO] + 20% calf serum [CS] in TCM-199 at 37 C for 5 min; 3) VS1 + VS2 group: COCs were exposed to VS1 for 5 min followed by VS2 (15% EG + 15% DMSO + 17.1% sucrose + 20% CS) at 37 C for 45\u201360 sec; and 4) Vitrified group: COCs were exposed to VS1 and VS2, loaded on cryotops, vitrified in liquid nitrogen and then warmed in TCM-199 + 17.1% sucrose + 20% CS at 37 C for 1 min. In Experiment 2, COCs (n = 581) were assigned to the same groups, but those in VS1, VS1 + VS2 and Vitrified groups were sub-divided and exposed to the warming solution for either 1 or 5 min. After treatment and/or warming, all COCs in both experiments underwent in vitro maturation, in vitro fertilization and in vitro culture.\n\nABSTRACT.RESULTS.\nCleavage and blastocyst rates did not differ among Control, VS1 and VS1 + VS2 groups in either experiment. In Experiment 2, there was no effect of time in the warming solution.  However, both cleavage and blastocyst rates were lower (P &lt; 0.001) in the Vitrified group than in the Control, VS1 and VS1 + VS2 groups (40.9 and 1.6% vs 92.2 and 34.4%, 79.4 and 25.2%, and 80.2 and 20.8%, respectively in Experiment 1, and 25.0 and 1.7% vs 75.3 and 27.2%, 67.9 and 19.5%, and 62.7 and 22.5%, respectively in Experiment 2).\n\nABSTRACT.CONCLUSIONS.\nThe permeating cryoprotectants (EG and DMSO) present in VS1 and VS2 solutions and the time in the warming solution containing sucrose had no adverse effects on cleavage and blastocyst rates of immature bovine COCs. However, cleavage rate and early embryo development were reduced following the vitrification and warming.",
+        "target": "The scientists were checking out what happens when you freeze cow egg cells (oocytes) and thaw them out again. This is called \"vitrification\" - sort of like turning them into glass, to keep them safe. For this, they used special solutions (like magic formulas) with ingredients like ethylene glycol, which is used in antifreeze, and sucrose, which is a type of sugar. \n\nThey divided the eggs into four groups. The first group was a control group, which got no treatment at all - the eggs were just left to do their thing. The other three groups got different combinations of the special solutions. After that, all the cells were let to mature and fertilize and grow, right in a lab dish.\n\nThe control group and the ones that only got the special solutions did okay. But the eggs that got frozen (vitrified group) and then later warmed up again didn't do so well - fewer of them managed to split and grow into embryos. \n\nSo, their conclusion was that the freezing and warming process might have a negative effect on cow egg cells and their ability to grow into embryos.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1445,
+                        1787
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThe present studies evaluated the effects of cryoprotectants, the vitrification procedure and time in the warming solution containing sucrose on cleavage and embryo development of immature (GV stage) bovine cumulus-oocyte complexes (COCs).\n\nABSTRACT.METHODS.\nTwo experiments were conducted. In Experiment 1, COCs (n = 420) were randomly assigned to four groups: 1) Control group: no treatment; 2) VS1 group: COCs were exposed to vitrification solution 1 (VS1) containing 7.5% ethylene glycol [EG] + 7.5% dimethyl sulfoxide [DMSO] + 20% calf serum [CS] in TCM-199 at 37 C for 5 min; 3) VS1 + VS2 group: COCs were exposed to VS1 for 5 min followed by VS2 (15% EG + 15% DMSO + 17.1% sucrose + 20% CS) at 37 C for 45\u201360 sec; and 4) Vitrified group: COCs were exposed to VS1 and VS2, loaded on cryotops, vitrified in liquid nitrogen and then warmed in TCM-199 + 17.1% sucrose + 20% CS at 37 C for 1 min. In Experiment 2, COCs (n = 581) were assigned to the same groups, but those in VS1, VS1 + VS2 and Vitrified groups were sub-divided and exposed to the warming solution for either 1 or 5 min. After treatment and/or warming, all COCs in both experiments underwent in vitro maturation, in vitro fertilization and in vitro culture.\n\nABSTRACT.RESULTS.\nCleavage and blastocyst rates did not differ among Control, VS1 and VS1 + VS2 groups in either experiment. In Experiment 2, there was no effect of time in the warming solution.  However, both cleavage and blastocyst rates were lower (P &lt; 0.001) in the Vitrified group than in the Control, VS1 and VS1 + VS2 groups (40.9 and 1.6% vs 92.2 and 34.4%, 79.4 and 25.2%, and 80.2 and 20.8%, respectively in Experiment 1, and 25.0 and 1.7% vs 75.3 and 27.2%, 67.9 and 19.5%, and 62.7 and 22.5%, respectively in Experiment 2).\n\nABSTRACT.CONCLUSIONS.\nThe permeating cryoprotectants (EG and DMSO) present in VS1 and VS2 solutions and the time in the warming solution containing sucrose had no adverse effects on cleavage and blastocyst rates of immature bovine COCs. However, cleavage rate and early embryo development were reduced following the vitrification and warming.",
+        "target": "\nThe study looked at how different things can affect the development of eggs in cows. The researchers tried different things to see if they could help the eggs develop better. They found out that some things didn't help, but others actually hurt the eggs. They think that the eggs might be too sensitive to some things, so they need to be more careful when they're working with them.\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1445,
+                        1787
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE:.\nTo determine whether droxidopa, an oral norepinephrine precursor, improves symptomatic neurogenic orthostatic hypotension (nOH).\n\nABSTRACT.METHODS:.\nPatients with symptomatic nOH due to Parkinson disease, multiple system atrophy, pure autonomic failure, or nondiabetic autonomic neuropathy underwent open-label droxidopa dose optimization (100\u2013600 mg 3 times daily), followed, in responders, by 7-day washout and then a 7-day double-blind trial of droxidopa vs placebo. Outcome measures included patient self-ratings on the Orthostatic Hypotension Questionnaire (OHQ), a validated, nOH-specific tool that assesses symptom severity and symptom impact on daily activities.\n\nABSTRACT.RESULTS:.\nFrom randomization to endpoint (n = 162), improvement in mean OHQ composite score favored droxidopa over placebo by 0.90 units (p = 0.003). Improvement in OHQ symptom subscore favored droxidopa by 0.73 units (p = 0.010), with maximum change in \"dizziness/lightheadedness.\" Improvement in symptom-impact subscore favored droxidopa by 1.06 units (p = 0.003), with maximum change for \"standing a long time.\" Mean standing systolic blood pressure (BP) increased by 11.2 vs 3.9 mm Hg (p &lt; 0.001), and mean supine systolic BP by 7.6 vs 0.8 mm Hg (p &lt; 0.001). At endpoint, supine systolic BP &gt;180 mm Hg was observed in 4.9% of droxidopa and 2.5% of placebo recipients. Adverse events reported in \u22653% of double-blind droxidopa recipients were headache (7.4%) and dizziness (3.7%). No patients discontinued double-blind treatment because of adverse events.\n\nABSTRACT.CONCLUSIONS:.\nIn patients with symptomatic nOH, droxidopa improved symptoms and symptom impact on daily activities, with an associated increase in standing systolic BP, and was generally well tolerated.\n\nABSTRACT.CLASSIFICATION OF EVIDENCE:.\nThis study provides Class I evidence that in patients with symptomatic nOH who respond to open-label droxidopa, droxidopa improves subjective and objective manifestation of nOH at 7 days.",
+        "target": "This study provides evidence that droxidopa is effective in treating neurogenic Orthostatic Hypotension (nOH). Symptoms of nOH, such as dizziness and lightheadedness, improved significantly in patients who took droxidopa compared to those who took a placebo. Additionally, droxidopa increased standing systolic blood pressure, which is an important measure in treating nOH. The study was well-tolerated and no patients discontinued treatment due to adverse events.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        985,
+                        1116
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1117,
+                        1270
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1494,
+                        1568
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        852,
+                        985
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 10,
+                "input_idx": [
+                    [
+                        712,
+                        851
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE:.\nTo determine whether droxidopa, an oral norepinephrine precursor, improves symptomatic neurogenic orthostatic hypotension (nOH).\n\nABSTRACT.METHODS:.\nPatients with symptomatic nOH due to Parkinson disease, multiple system atrophy, pure autonomic failure, or nondiabetic autonomic neuropathy underwent open-label droxidopa dose optimization (100\u2013600 mg 3 times daily), followed, in responders, by 7-day washout and then a 7-day double-blind trial of droxidopa vs placebo. Outcome measures included patient self-ratings on the Orthostatic Hypotension Questionnaire (OHQ), a validated, nOH-specific tool that assesses symptom severity and symptom impact on daily activities.\n\nABSTRACT.RESULTS:.\nFrom randomization to endpoint (n = 162), improvement in mean OHQ composite score favored droxidopa over placebo by 0.90 units (p = 0.003). Improvement in OHQ symptom subscore favored droxidopa by 0.73 units (p = 0.010), with maximum change in \"dizziness/lightheadedness.\" Improvement in symptom-impact subscore favored droxidopa by 1.06 units (p = 0.003), with maximum change for \"standing a long time.\" Mean standing systolic blood pressure (BP) increased by 11.2 vs 3.9 mm Hg (p &lt; 0.001), and mean supine systolic BP by 7.6 vs 0.8 mm Hg (p &lt; 0.001). At endpoint, supine systolic BP &gt;180 mm Hg was observed in 4.9% of droxidopa and 2.5% of placebo recipients. Adverse events reported in \u22653% of double-blind droxidopa recipients were headache (7.4%) and dizziness (3.7%). No patients discontinued double-blind treatment because of adverse events.\n\nABSTRACT.CONCLUSIONS:.\nIn patients with symptomatic nOH, droxidopa improved symptoms and symptom impact on daily activities, with an associated increase in standing systolic BP, and was generally well tolerated.\n\nABSTRACT.CLASSIFICATION OF EVIDENCE:.\nThis study provides Class I evidence that in patients with symptomatic nOH who respond to open-label droxidopa, droxidopa improves subjective and objective manifestation of nOH at 7 days.",
+        "target": "This passage talks about an experiment done with a medicine called droxidopa. This medicine is tested on people who feel dizzy or faint when they stand up because of certain illnesses. The test found out that this medicine helps reduce these symptoms and helps these people perform their daily activities better. It also improves their blood pressure readings when they stand up. Some people experienced minor side effects but overall, the medicine was safe to use. So, the study concludes that this medicine is helpful for people with these symptoms.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        985,
+                        1116
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1117,
+                        1270
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1494,
+                        1568
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        852,
+                        985
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 10,
+                "input_idx": [
+                    [
+                        712,
+                        851
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE:.\nTo determine whether droxidopa, an oral norepinephrine precursor, improves symptomatic neurogenic orthostatic hypotension (nOH).\n\nABSTRACT.METHODS:.\nPatients with symptomatic nOH due to Parkinson disease, multiple system atrophy, pure autonomic failure, or nondiabetic autonomic neuropathy underwent open-label droxidopa dose optimization (100\u2013600 mg 3 times daily), followed, in responders, by 7-day washout and then a 7-day double-blind trial of droxidopa vs placebo. Outcome measures included patient self-ratings on the Orthostatic Hypotension Questionnaire (OHQ), a validated, nOH-specific tool that assesses symptom severity and symptom impact on daily activities.\n\nABSTRACT.RESULTS:.\nFrom randomization to endpoint (n = 162), improvement in mean OHQ composite score favored droxidopa over placebo by 0.90 units (p = 0.003). Improvement in OHQ symptom subscore favored droxidopa by 0.73 units (p = 0.010), with maximum change in \"dizziness/lightheadedness.\" Improvement in symptom-impact subscore favored droxidopa by 1.06 units (p = 0.003), with maximum change for \"standing a long time.\" Mean standing systolic blood pressure (BP) increased by 11.2 vs 3.9 mm Hg (p &lt; 0.001), and mean supine systolic BP by 7.6 vs 0.8 mm Hg (p &lt; 0.001). At endpoint, supine systolic BP &gt;180 mm Hg was observed in 4.9% of droxidopa and 2.5% of placebo recipients. Adverse events reported in \u22653% of double-blind droxidopa recipients were headache (7.4%) and dizziness (3.7%). No patients discontinued double-blind treatment because of adverse events.\n\nABSTRACT.CONCLUSIONS:.\nIn patients with symptomatic nOH, droxidopa improved symptoms and symptom impact on daily activities, with an associated increase in standing systolic BP, and was generally well tolerated.\n\nABSTRACT.CLASSIFICATION OF EVIDENCE:.\nThis study provides Class I evidence that in patients with symptomatic nOH who respond to open-label droxidopa, droxidopa improves subjective and objective manifestation of nOH at 7 days.",
+        "target": "\nThis is a study about a medicine called droxidopa. It helps people with a condition called neurogenic orthostatic hypotension (nOH). This means their body can't keep their blood pressure up when they stand up. The study looked at how well droxidopa works and if it is safe to use. They gave some people droxidopa and some people a pretend medicine (placebo). They found that the people who got droxidopa felt better and their blood pressure went up more than the people who got the pretend medicine. They also found that the medicine was generally safe to use, but some people got a headache or felt dizzy.\n\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        985,
+                        1116
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1117,
+                        1270
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1494,
+                        1568
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        852,
+                        985
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 10,
+                "input_idx": [
+                    [
+                        712,
+                        851
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nDexmedetomidine is a useful sedative drug with various uses. We designed this study to investigate the clinical effects and complications of different loading doses, 0.5 and 1.0 \u03bcg/kg.\n\nABSTRACT.METHODS.\nForty six patients, of American Society of Anesthesiologists physical status I and II, who required elective and emergency operation under spinal anesthesia were randomly assigned to group L or group H. Group L received a loading dose of 0.5 \u03bcg/kg for 10 minutes while group H received 1.0 \u03bcg/kg. Bispectral index (BIS), systolic blood pressure, heart rate, and Ramsay score were recorded at T0 (before loading), TL (just after loading) and T10, 20, 30 (10, 20, 30 minutes after TL). Complications, drug use, lowest BIS and time to reach BIS 80 after termination of dexmedetomidine were recorded during this study.\n\nABSTRACT.RESULTS.\nIn group H, BIS value decreased significantly after TL compared to the baseline (T0), while in group L after T10. Between two groups, BIS values showed a significant differences only at T10, BIS of group H was lower than that of group L. Ramsay score showed no significant differences except in TL; the score of group L was significantly lower than that of group H. Other vital signs and complications showed a minimal differences between two groups.\n\nABSTRACT.CONCLUSIONS.\nHigher loading dose (1.0 \u03bcg/kg) of dexmedetomidine can lead to faster sedation without any severe complications.",
+        "target": "This study investigated the effects and complications of two different loading doses of dexmedetomidine, 0.5 and 1.0 \u03bcg/kg, in patients requiring elective and emergency surgery under spinal anesthesia. Forty-six patients were randomly assigned to either group L, which received a loading dose of 0.5 \u03bcg/kg for 10 minutes, or group H, which received 1.0 \u03bcg/kg. Bispectral index (BIS), systolic blood pressure, heart rate, and Ramsay score were recorded at T0 (before loading), TL (just after loading), and T10, 20, 30 minutes after TL. Complications, drug use, lowest BIS and time to reach BIS 80 after termination of dexmedetomidine were also recorded. \n\nThe results showed that group H had significantly lower BIS values after TL compared to T0, while group L had lower BIS values after T10. Ramsay score also showed a significant difference between the two groups at TL, with group L having a significantly lower score than group H. Other vital signs and complications showed minimal differences between the two groups. In conclusion, higher loading dose (1.0 \u03bcg/kg) of dexmedetomidine can lead to faster sedation without any severe complications.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1225,
+                        1309
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        973,
+                        1096
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nDexmedetomidine is a useful sedative drug with various uses. We designed this study to investigate the clinical effects and complications of different loading doses, 0.5 and 1.0 \u03bcg/kg.\n\nABSTRACT.METHODS.\nForty six patients, of American Society of Anesthesiologists physical status I and II, who required elective and emergency operation under spinal anesthesia were randomly assigned to group L or group H. Group L received a loading dose of 0.5 \u03bcg/kg for 10 minutes while group H received 1.0 \u03bcg/kg. Bispectral index (BIS), systolic blood pressure, heart rate, and Ramsay score were recorded at T0 (before loading), TL (just after loading) and T10, 20, 30 (10, 20, 30 minutes after TL). Complications, drug use, lowest BIS and time to reach BIS 80 after termination of dexmedetomidine were recorded during this study.\n\nABSTRACT.RESULTS.\nIn group H, BIS value decreased significantly after TL compared to the baseline (T0), while in group L after T10. Between two groups, BIS values showed a significant differences only at T10, BIS of group H was lower than that of group L. Ramsay score showed no significant differences except in TL; the score of group L was significantly lower than that of group H. Other vital signs and complications showed a minimal differences between two groups.\n\nABSTRACT.CONCLUSIONS.\nHigher loading dose (1.0 \u03bcg/kg) of dexmedetomidine can lead to faster sedation without any severe complications.",
+        "target": "This is a study to see how a sleep drug called Dexmedetomidine works at two different doses. They gave a group of patients either a smaller or a larger dose before an operation. They then checked their sleepiness level, blood pressure, and heartbeat at different times. The results showed that a larger dose makes people fall asleep faster without causing any serious problems.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1225,
+                        1309
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        973,
+                        1096
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nDexmedetomidine is a useful sedative drug with various uses. We designed this study to investigate the clinical effects and complications of different loading doses, 0.5 and 1.0 \u03bcg/kg.\n\nABSTRACT.METHODS.\nForty six patients, of American Society of Anesthesiologists physical status I and II, who required elective and emergency operation under spinal anesthesia were randomly assigned to group L or group H. Group L received a loading dose of 0.5 \u03bcg/kg for 10 minutes while group H received 1.0 \u03bcg/kg. Bispectral index (BIS), systolic blood pressure, heart rate, and Ramsay score were recorded at T0 (before loading), TL (just after loading) and T10, 20, 30 (10, 20, 30 minutes after TL). Complications, drug use, lowest BIS and time to reach BIS 80 after termination of dexmedetomidine were recorded during this study.\n\nABSTRACT.RESULTS.\nIn group H, BIS value decreased significantly after TL compared to the baseline (T0), while in group L after T10. Between two groups, BIS values showed a significant differences only at T10, BIS of group H was lower than that of group L. Ramsay score showed no significant differences except in TL; the score of group L was significantly lower than that of group H. Other vital signs and complications showed a minimal differences between two groups.\n\nABSTRACT.CONCLUSIONS.\nHigher loading dose (1.0 \u03bcg/kg) of dexmedetomidine can lead to faster sedation without any severe complications.",
+        "target": "\nThe study looked at how two different doses of a drug called dexmedetomidine affected people who were having surgery under local anesthesia. One group got a dose of 0.5 micrograms per kilogram of body weight for 10 minutes, and the other group got a dose of 1.0 micrograms per kilogram for the same amount of time. The researchers found that the higher dose made the patients feel more relaxed and sleepy faster, but there were no major side effects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0441\u0442.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nintegraty.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u0445\u043e\u0434\u044f.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSMSMS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSMSMS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSMSMS MSMSMS MSG\n\nMSG\n\nMSGMSG\n\n\n\nMSG\nMSGMSGMSG\n\nMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSG Generated by MSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSGMSG",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1225,
+                        1309
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        973,
+                        1096
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nSacroiliac (SI) joint pain is a prevalent, underdiagnosed cause of lower back pain. SI joint fusion can relieve pain and improve quality of life in patients who have failed nonoperative care. To date, no study has concurrently compared surgical and non-surgical treatments for chronic SI joint dysfunction.\n\nABSTRACT.METHODS:\nWe conducted a prospective randomized controlled trial of 148 subjects with SI joint dysfunction due to degenerative sacroiliitis or sacroiliac joint disruptions who were assigned to either minimally invasive SI joint fusion with triangular titanium implants (N=102) or non-surgical management (NSM, n=46). SI joint pain scores, Oswestry Disability Index (ODI), Short-Form 36 (SF-36) and EuroQol-5D (EQ-5D) were collected at baseline and at 1, 3 and 6 months after treatment commencement. Six-month success rates, defined as the proportion of treated subjects with a 20-mm improvement in SI joint pain in the absence of severe device-related or neurologic SI joint-related adverse events or surgical revision, were compared using Bayesian methods.\n\nABSTRACT.RESULTS:\nSubjects (mean age 51, 70% women) were highly debilitated at baseline (mean SI joint VAS pain score 82, mean ODI score 62). Six-month follow-up was obtained in 97.3%. By 6 months, success rates were 81.4% in the surgical group vs. 23.9% in the NSM group (difference of 56.6%, 95% posterior credible interval 41.4-70.0%, posterior probability of superiority &gt;0.999). Clinically important (\u226515 point) ODI improvement at 6 months occurred in 75% of surgery subjects vs. 27.3% of NSM subjects. At six months, quality of life improved more in the surgery group and satisfaction rates were high. The mean number of adverse events in the first six months was slightly higher in the surgical group compared to the non-surgical group (1.3 vs. 1.0 events per subject, p=0.1857).\n\nABSTRACT.CONCLUSIONS:\nSix-month follow-up from this level 1 study showed that minimally invasive SI joint fusion using triangular titanium implants was more effective than non-surgical management in relieving pain, improving function and improving quality of life in patients with SI joint dysfunction due to degenerative sacroiliitis or SI joint disruptions.\n\nABSTRACT.CLINICAL RELEVANCE:\nMinimally invasive SI joint fusion is an acceptable option for patients with chronic SI joint dysfunction due to degenerative sacroiliitis and sacroiliac joint disruptions unresponsive to non-surgical treatments.",
+        "target": "This study found that minimally invasive SI joint fusion was more effective than non-surgical management in relieving pain, improving function and improving quality of life in patients with SI joint dysfunction due to degenerative sacroiliitis or SI joint disruptions. This indicates that surgery should be considered as an option for these patients who have not responded to non-surgical treatments.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1707,
+                        1885
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nSacroiliac (SI) joint pain is a prevalent, underdiagnosed cause of lower back pain. SI joint fusion can relieve pain and improve quality of life in patients who have failed nonoperative care. To date, no study has concurrently compared surgical and non-surgical treatments for chronic SI joint dysfunction.\n\nABSTRACT.METHODS:\nWe conducted a prospective randomized controlled trial of 148 subjects with SI joint dysfunction due to degenerative sacroiliitis or sacroiliac joint disruptions who were assigned to either minimally invasive SI joint fusion with triangular titanium implants (N=102) or non-surgical management (NSM, n=46). SI joint pain scores, Oswestry Disability Index (ODI), Short-Form 36 (SF-36) and EuroQol-5D (EQ-5D) were collected at baseline and at 1, 3 and 6 months after treatment commencement. Six-month success rates, defined as the proportion of treated subjects with a 20-mm improvement in SI joint pain in the absence of severe device-related or neurologic SI joint-related adverse events or surgical revision, were compared using Bayesian methods.\n\nABSTRACT.RESULTS:\nSubjects (mean age 51, 70% women) were highly debilitated at baseline (mean SI joint VAS pain score 82, mean ODI score 62). Six-month follow-up was obtained in 97.3%. By 6 months, success rates were 81.4% in the surgical group vs. 23.9% in the NSM group (difference of 56.6%, 95% posterior credible interval 41.4-70.0%, posterior probability of superiority &gt;0.999). Clinically important (\u226515 point) ODI improvement at 6 months occurred in 75% of surgery subjects vs. 27.3% of NSM subjects. At six months, quality of life improved more in the surgery group and satisfaction rates were high. The mean number of adverse events in the first six months was slightly higher in the surgical group compared to the non-surgical group (1.3 vs. 1.0 events per subject, p=0.1857).\n\nABSTRACT.CONCLUSIONS:\nSix-month follow-up from this level 1 study showed that minimally invasive SI joint fusion using triangular titanium implants was more effective than non-surgical management in relieving pain, improving function and improving quality of life in patients with SI joint dysfunction due to degenerative sacroiliitis or SI joint disruptions.\n\nABSTRACT.CLINICAL RELEVANCE:\nMinimally invasive SI joint fusion is an acceptable option for patients with chronic SI joint dysfunction due to degenerative sacroiliitis and sacroiliac joint disruptions unresponsive to non-surgical treatments.",
+        "target": "We did a study to find out if a special surgery helps with pain in the lower back that comes from a joint near your hip called the SI joint. This joint can hurt a lot in some people and regular treatment doesn't always help. So, we compared two groups: one where people got the surgery and another where people didn't get the surgery. The surgery we used was a small one, where little pieces of metal, shaped like triangles, were put into the joint. \n\nWe found out that the surgery works really well - much better than not having surgery. After six months, 8 out of 10 people felt a lot better, compared to only about 2 out of 10 people who didn't have surgery. People who had the surgery were also more active and happier. \n\nThere were a few more problems with the surgery group, like a higher chance of hurting or needing more surgery, but these were not common and did not affect the overall results. \n\nFinally, it means that the special surgery is a good choice for people who have tried regular treatments for their painful SI joint, but are still in pain.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1707,
+                        1885
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nSacroiliac (SI) joint pain is a prevalent, underdiagnosed cause of lower back pain. SI joint fusion can relieve pain and improve quality of life in patients who have failed nonoperative care. To date, no study has concurrently compared surgical and non-surgical treatments for chronic SI joint dysfunction.\n\nABSTRACT.METHODS:\nWe conducted a prospective randomized controlled trial of 148 subjects with SI joint dysfunction due to degenerative sacroiliitis or sacroiliac joint disruptions who were assigned to either minimally invasive SI joint fusion with triangular titanium implants (N=102) or non-surgical management (NSM, n=46). SI joint pain scores, Oswestry Disability Index (ODI), Short-Form 36 (SF-36) and EuroQol-5D (EQ-5D) were collected at baseline and at 1, 3 and 6 months after treatment commencement. Six-month success rates, defined as the proportion of treated subjects with a 20-mm improvement in SI joint pain in the absence of severe device-related or neurologic SI joint-related adverse events or surgical revision, were compared using Bayesian methods.\n\nABSTRACT.RESULTS:\nSubjects (mean age 51, 70% women) were highly debilitated at baseline (mean SI joint VAS pain score 82, mean ODI score 62). Six-month follow-up was obtained in 97.3%. By 6 months, success rates were 81.4% in the surgical group vs. 23.9% in the NSM group (difference of 56.6%, 95% posterior credible interval 41.4-70.0%, posterior probability of superiority &gt;0.999). Clinically important (\u226515 point) ODI improvement at 6 months occurred in 75% of surgery subjects vs. 27.3% of NSM subjects. At six months, quality of life improved more in the surgery group and satisfaction rates were high. The mean number of adverse events in the first six months was slightly higher in the surgical group compared to the non-surgical group (1.3 vs. 1.0 events per subject, p=0.1857).\n\nABSTRACT.CONCLUSIONS:\nSix-month follow-up from this level 1 study showed that minimally invasive SI joint fusion using triangular titanium implants was more effective than non-surgical management in relieving pain, improving function and improving quality of life in patients with SI joint dysfunction due to degenerative sacroiliitis or SI joint disruptions.\n\nABSTRACT.CLINICAL RELEVANCE:\nMinimally invasive SI joint fusion is an acceptable option for patients with chronic SI joint dysfunction due to degenerative sacroiliitis and sacroiliac joint disruptions unresponsive to non-surgical treatments.",
+        "target": "\nThe study found that people who had surgery to fix their SI joints were more likely to feel better and have a better quality of life than those who did not have surgery. The surgery was done using a special kind of implant called a triangular titanium implant. The study showed that the surgery was safe and effective in relieving pain and improving function in people with SI joint dysfunction.\n\nI hope this helps! Let me know if you have any other questions.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1707,
+                        1885
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nStep-reduction (SR) in older adults results in muscle atrophy and an attenuated rise in postprandial muscle protein synthesis (MPS): anabolic resistance. Knowing that resistance exercise (RT) can enhance MPS, we examined whether RT could enhance MPS following 2 weeks of SR. In addition, as we postulated that SR may impair feeding-induced vasodilation limiting nutrient delivery to muscle, we also examined whether citrulline (CIT), as an arginine and nitric oxide precursor, could attenuate muscle anabolic resistance accompanying SR. We used a unilateral leg model to compare older subjects' who had undergone SR to a loaded condition of SR plus RT (SR + RT). Thirty older men (70 \u00b1 1 years) underwent 14 days of SR (&lt;1500 steps/day) with supplementation of either 5 g/day CIT or glycine placebo. Throughout SR, subjects performed unilateral low-load RT thrice weekly. We assessed muscle protein synthesis in the postabsorptive and postprandial state (20 g whey isolate plus 15 g glycine or as micellar-whey with 5 g CIT or 15 g glycine, n = 10/group). As MPS was similar after ingestion of either whey isolate, micellar-whey, or micellar-whey + CIT data related to different dietary groups were collapsed to compare SR and SR + RT legs. Subjects' daily steps were reduced by 80 \u00b1 2% during SR (P &lt; 0.001) compared with baseline. Leg fat-free mass decreased with SR (\u2212124 \u00b1 61 g) and increased in the SR + RT (+126 \u00b1 68 g; P = 0.003). Myofibrillar FSR was lower (P &lt; 0.0001) in the SR as compared with the SR + RT leg in the postabsorptive (0.026 \u00b1 0.001%/h vs. 0.045 \u00b1 0.001%/h) and postprandial states (0.055 \u00b1 0.002%/h vs. 0.115 \u00b1 0.003%/h). We conclude that low-load RT, but not supplementation with CIT, can attenuate the deleterious effects of SR in aging muscle.",
+        "target": "Older adults who reduce their daily steps by 80% compared to their baseline level experience muscle atrophy and a reduced rise in postprandial muscle protein synthesis (MPS). Low-load resistance exercise (RT) can enhance MPS, but it is not known whether this can be achieved with older adults who have undergone step-reduction (SR). We examined the effects of SR and SR with RT on muscle anabolic resistance in older adults. We found that SR alone resulted in decreased muscle mass and impaired MPS, while SR with RT was able to attenuate these effects. We also found that citrulline, an arginine and nitric oxide precursor, could attenuate muscle anabolic resistance accompanying SR. These results suggest that low-load RT can be an effective strategy to counteract muscle atrophy and anabolic resistance accompanying SR in older adults.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1349,
+                        1453
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1454,
+                        1666
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nStep-reduction (SR) in older adults results in muscle atrophy and an attenuated rise in postprandial muscle protein synthesis (MPS): anabolic resistance. Knowing that resistance exercise (RT) can enhance MPS, we examined whether RT could enhance MPS following 2 weeks of SR. In addition, as we postulated that SR may impair feeding-induced vasodilation limiting nutrient delivery to muscle, we also examined whether citrulline (CIT), as an arginine and nitric oxide precursor, could attenuate muscle anabolic resistance accompanying SR. We used a unilateral leg model to compare older subjects' who had undergone SR to a loaded condition of SR plus RT (SR + RT). Thirty older men (70 \u00b1 1 years) underwent 14 days of SR (&lt;1500 steps/day) with supplementation of either 5 g/day CIT or glycine placebo. Throughout SR, subjects performed unilateral low-load RT thrice weekly. We assessed muscle protein synthesis in the postabsorptive and postprandial state (20 g whey isolate plus 15 g glycine or as micellar-whey with 5 g CIT or 15 g glycine, n = 10/group). As MPS was similar after ingestion of either whey isolate, micellar-whey, or micellar-whey + CIT data related to different dietary groups were collapsed to compare SR and SR + RT legs. Subjects' daily steps were reduced by 80 \u00b1 2% during SR (P &lt; 0.001) compared with baseline. Leg fat-free mass decreased with SR (\u2212124 \u00b1 61 g) and increased in the SR + RT (+126 \u00b1 68 g; P = 0.003). Myofibrillar FSR was lower (P &lt; 0.0001) in the SR as compared with the SR + RT leg in the postabsorptive (0.026 \u00b1 0.001%/h vs. 0.045 \u00b1 0.001%/h) and postprandial states (0.055 \u00b1 0.002%/h vs. 0.115 \u00b1 0.003%/h). We conclude that low-load RT, but not supplementation with CIT, can attenuate the deleterious effects of SR in aging muscle.",
+        "target": "This passage talks about a study done on older adults. It looks at the effects of not moving around a lot (step-reduction) on their muscles. Step-reduction can make their muscles weaker and affect how well their body can use the protein they eat to build and repair muscle (anabolic resistance).\n\nThe researchers looked at whether resistance exercise could help improve the way the body uses protein to build muscles after step-reduction. They were also interested in whether a supplement called citrulline could help, as it's thought to help increase blood flow and help deliver nutrients to muscles.\n\nThey studied 30 older men who reduced their daily steps to less than 1500 for two weeks. Some of them took citrulline, and some did resistance exercise whilst others didn't take or do either. They measured muscle protein levels in the subjects in both their resting state and after they'd eaten.\n\nThey found that doing resistance exercises could help improve muscle health after step-reduction, but taking citrulline didn't seem to have any effect.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1349,
+                        1453
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1454,
+                        1666
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nStep-reduction (SR) in older adults results in muscle atrophy and an attenuated rise in postprandial muscle protein synthesis (MPS): anabolic resistance. Knowing that resistance exercise (RT) can enhance MPS, we examined whether RT could enhance MPS following 2 weeks of SR. In addition, as we postulated that SR may impair feeding-induced vasodilation limiting nutrient delivery to muscle, we also examined whether citrulline (CIT), as an arginine and nitric oxide precursor, could attenuate muscle anabolic resistance accompanying SR. We used a unilateral leg model to compare older subjects' who had undergone SR to a loaded condition of SR plus RT (SR + RT). Thirty older men (70 \u00b1 1 years) underwent 14 days of SR (&lt;1500 steps/day) with supplementation of either 5 g/day CIT or glycine placebo. Throughout SR, subjects performed unilateral low-load RT thrice weekly. We assessed muscle protein synthesis in the postabsorptive and postprandial state (20 g whey isolate plus 15 g glycine or as micellar-whey with 5 g CIT or 15 g glycine, n = 10/group). As MPS was similar after ingestion of either whey isolate, micellar-whey, or micellar-whey + CIT data related to different dietary groups were collapsed to compare SR and SR + RT legs. Subjects' daily steps were reduced by 80 \u00b1 2% during SR (P &lt; 0.001) compared with baseline. Leg fat-free mass decreased with SR (\u2212124 \u00b1 61 g) and increased in the SR + RT (+126 \u00b1 68 g; P = 0.003). Myofibrillar FSR was lower (P &lt; 0.0001) in the SR as compared with the SR + RT leg in the postabsorptive (0.026 \u00b1 0.001%/h vs. 0.045 \u00b1 0.001%/h) and postprandial states (0.055 \u00b1 0.002%/h vs. 0.115 \u00b1 0.003%/h). We conclude that low-load RT, but not supplementation with CIT, can attenuate the deleterious effects of SR in aging muscle.",
+        "target": "\nSo, there are some things called steps that we take every day. When we take fewer steps than usual, it's called \"step reduction\" or \"SR\". This can happen when we're old, and it can make our muscles smaller and less strong. We wanted to know if doing exercises like weightlifting could help make our muscles stronger again after step reduction. We also wanted to know if taking a special supplement called citrulline could help. We had some older men do step reduction for two weeks and then we gave them either citrulline or a placebo (a fake supplement) to see if it made a difference. We found out that doing weightlifting exercises after step reduction can make the muscles in the leg bigger and stronger again, but taking citrulline didn't seem to make a difference.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1349,
+                        1453
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1454,
+                        1666
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVES.\nThe optimal treatment of hepatitis C virus (HCV) genotype 6 is unclear owing to its limited geographic distribution. Because of a high predictive value of rapid virological response (RVR) for sustained virological response (SVR), we conducted an open-label randomized controlled trial to compare 24- and 48-week peginterferon/ribavirin combination therapy for patients with HCV genotype 6 in Southern China who achieved an RVR.\n\nABSTRACT.METHODS AND FINDINGS.\nTreatment-naive, non-cirrhotic patients with chronic hepatitis C genotype 6 were treated with pegylated interferon \u03b1-2a (180 \u03bcg/week) and ribavirin (800\u20131,200 mg, according to weight) for 4 weeks. Patients who achieved an RVR, which was defined as HCV RNA negativity at week 4 (&lt;50 IU), were randomized to receive either an additional 20 or 44 weeks of treatment (24- and 48-week treatment groups, respectively). The primary outcome measure was SVR. From January 2011 to June 2014, 152(152/210, 72.4%) patients with HCV genotype 6a and RVR were randomized 1:1 to the 24- or 48-week treatment group. The SVR rates in the 24- and 48-week groups in the intention-to-treat analysis were 90.8% (69/76) and 88.2% (67/76), respectively; those in the per-protocol analysis were 95.7% (67/70) and 97.0% (64/66), respectively. More patients in the 48-week group had anemia (46.1% vs. 28.9%, P = 0.03), but other adverse events were comparable between the groups. The limitation of the present study was that only patients from Southern China were enrolled which may inhibit the extensive application of the findings.\n\nABSTRACT.CONCLUSION.\nTwenty-four weeks of peginterferon/ribavirin combination therapy was non-inferior to 48 weeks in patients with HCV genotype 6a in Southern China who achieved an RVR.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov NCT01263860",
+        "target": "This study evaluated the effectiveness of two different treatment regimens for hepatitis C virus (HCV) genotype 6 in Southern China. The study included 152 patients who had an RVR (rapid virological response) and were randomly assigned to either a 24-week or 48-week treatment regimen. The primary outcome measure was sustained virological response (SVR), which was defined as HCV RNA negativity at week 4 (&lt;50 IU). The results of the study showed that both treatment regimens were effective, with an SVR rate of 90.8% (69/76) for the 24-week regimen and 88.2% (67/76) for the 48-week regimen. There were no significant differences in terms of adverse events between the two regimens. In conclusion, the study showed that 24 weeks of peginterferon/ribavirin combination therapy was non-inferior to 48 weeks in patients with HCV genotype 6a in Southern China who achieved an RVR.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1301,
+                        1374
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVES.\nThe optimal treatment of hepatitis C virus (HCV) genotype 6 is unclear owing to its limited geographic distribution. Because of a high predictive value of rapid virological response (RVR) for sustained virological response (SVR), we conducted an open-label randomized controlled trial to compare 24- and 48-week peginterferon/ribavirin combination therapy for patients with HCV genotype 6 in Southern China who achieved an RVR.\n\nABSTRACT.METHODS AND FINDINGS.\nTreatment-naive, non-cirrhotic patients with chronic hepatitis C genotype 6 were treated with pegylated interferon \u03b1-2a (180 \u03bcg/week) and ribavirin (800\u20131,200 mg, according to weight) for 4 weeks. Patients who achieved an RVR, which was defined as HCV RNA negativity at week 4 (&lt;50 IU), were randomized to receive either an additional 20 or 44 weeks of treatment (24- and 48-week treatment groups, respectively). The primary outcome measure was SVR. From January 2011 to June 2014, 152(152/210, 72.4%) patients with HCV genotype 6a and RVR were randomized 1:1 to the 24- or 48-week treatment group. The SVR rates in the 24- and 48-week groups in the intention-to-treat analysis were 90.8% (69/76) and 88.2% (67/76), respectively; those in the per-protocol analysis were 95.7% (67/70) and 97.0% (64/66), respectively. More patients in the 48-week group had anemia (46.1% vs. 28.9%, P = 0.03), but other adverse events were comparable between the groups. The limitation of the present study was that only patients from Southern China were enrolled which may inhibit the extensive application of the findings.\n\nABSTRACT.CONCLUSION.\nTwenty-four weeks of peginterferon/ribavirin combination therapy was non-inferior to 48 weeks in patients with HCV genotype 6a in Southern China who achieved an RVR.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov NCT01263860",
+        "target": "Researchers in Southern China were trying to figure out the best way to treat a specific type of hepatitis C. They tested two treatments, one that lasted 24 weeks and another that lasted 48 weeks, on people who hadn't been treated before. Both treatments worked well, but the shorter one seemed to cause fewer problems like anemia. The researchers caution that they only tested people from Southern China, so the results might not be the same for everyone. They concluded that the 24-week treatment was as good as the longer 48-week one for patients who responded quickly to the treatment.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1301,
+                        1374
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVES.\nThe optimal treatment of hepatitis C virus (HCV) genotype 6 is unclear owing to its limited geographic distribution. Because of a high predictive value of rapid virological response (RVR) for sustained virological response (SVR), we conducted an open-label randomized controlled trial to compare 24- and 48-week peginterferon/ribavirin combination therapy for patients with HCV genotype 6 in Southern China who achieved an RVR.\n\nABSTRACT.METHODS AND FINDINGS.\nTreatment-naive, non-cirrhotic patients with chronic hepatitis C genotype 6 were treated with pegylated interferon \u03b1-2a (180 \u03bcg/week) and ribavirin (800\u20131,200 mg, according to weight) for 4 weeks. Patients who achieved an RVR, which was defined as HCV RNA negativity at week 4 (&lt;50 IU), were randomized to receive either an additional 20 or 44 weeks of treatment (24- and 48-week treatment groups, respectively). The primary outcome measure was SVR. From January 2011 to June 2014, 152(152/210, 72.4%) patients with HCV genotype 6a and RVR were randomized 1:1 to the 24- or 48-week treatment group. The SVR rates in the 24- and 48-week groups in the intention-to-treat analysis were 90.8% (69/76) and 88.2% (67/76), respectively; those in the per-protocol analysis were 95.7% (67/70) and 97.0% (64/66), respectively. More patients in the 48-week group had anemia (46.1% vs. 28.9%, P = 0.03), but other adverse events were comparable between the groups. The limitation of the present study was that only patients from Southern China were enrolled which may inhibit the extensive application of the findings.\n\nABSTRACT.CONCLUSION.\nTwenty-four weeks of peginterferon/ribavirin combination therapy was non-inferior to 48 weeks in patients with HCV genotype 6a in Southern China who achieved an RVR.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov NCT01263860",
+        "target": "\nThe study looked at how well a treatment works for a type of virus called hepatitis C. The treatment is a combination of two medicines called pegylated interferon and ribavirin. The study found that taking these medicines for 24 weeks (half a year) is as good as taking them for 48 weeks (almost a year) for some people with hepatitis C. But, some people who took the medicines for 48 weeks had more anemia (a condition where the body doesn't have enough red blood cells). So, the doctors think that 24 weeks of treatment might be a good option for some people with hepatitis C.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1301,
+                        1374
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nDespite the growing evidence in the literature there is still a lack of consensus regarding the use of minimally invasive surgical technique (MIS) in total knee arthroplasty (TKA).\n\nABSTRACT.METHODS.\nA prospective, randomized, international multicentre trial including 69 patients was performed to compare computer-assisted TKA (CAS-TKA) using either mini-midvastus (MIS group) or standard medial parapatellar approach (conventional group).  Patients from 3 centers (Maastricht, Zwickau, Adelaide) with end-stage osteoarthritis of the knee were randomized to either an MIS group with dedicated instrumentation or a conventional group to receive cruciate retaining CAS-TKA without patella resurfacing. The primary outcome was to compare post operative pain and range of motion (ROM). The secondary outcome was to measure the duration of surgery, blood loss, chair rise test, quadriceps strength, anterior knee pain, Knee Society Score (KSS),WOMAC scores, mechanical leg axis and component alignment.\n\nABSTRACT.RESULTS.\nPatients in the MIS group (3.97 \u00b1 2.16) had significant more pain at 2 weeks than patients in the conventional group (2.77 \u00b1 1.43) p = 0.003. There was no significant difference in any of the other primary outcome parameters. Surgery time was significantly longer (p &lt; 0.001) and there were significantly higher blood loss (p = 0.002) in the MIS group as compared to the conventional group. The difference of the mean mechanical leg alignment between the groups was not statistically significant (\u20130.43\u00b0 (95 % CI \u20131.50 \u2013 0.64); p = 0.43).  There was no significant difference of component alignment between the two surgical groups with respect to flexion/extension (p = 0.269), varus/valgus (p = 0.653) or rotational alignment (p = 0.485) of the femur component and varus valgus alignment (p = 0.778) or posterior slope (p = 0.164) of the tibial component.\n\nABSTRACT.CONCLUSION.\nThere was no advantage of the MIS approach compared to a conventional approach CAS-TKA in any of the primary outcome measurements assessed, however the MIS approach was associated with longer surgical time and greater blood loss. MIS-TKA in combination with computer navigation is safe in terms of implant positioning.\n\nABSTRACT.TRIAL REGISTRATION NUMBER.\nClinicalTrials.gov NCT02625311 8 December 2015",
+        "target": "Despite the growing evidence in the literature, there is still a lack of consensus regarding the use of minimally invasive surgical technique (MIS) in total knee arthroplasty (TKA). A prospective, randomized, international multicentre trial including 69 patients was performed to compare computer-assisted TKA (CAS-TKA) using either mini-midvastus (MIS group) or standard medial parapatellar approach (conventional group). Patients from 3 centers (Maastricht, Zwickau, Adelaide) with end-stage osteoarthritis of the knee were randomized to either an MIS group with dedicated instrumentation or a conventional group to receive cruciate retaining CAS-TKA without patella resurfacing. The primary outcome was to compare post operative pain and range of motion (ROM). The secondary outcome was to measure the duration of surgery, blood loss, chair rise test, quadriceps strength, anterior knee pain, Knee Society Score (KSS),WOMAC scores, mechanical leg axis and component alignment. \n\nPatients in the MIS group (3.97 \u00b1 2.16) had significant more pain at 2 weeks than patients in the conventional group (2.77 \u00b1 1.43) p = 0.003. There was no significant difference in any of the other primary outcome parameters. Surgery time was significantly longer (p &lt; 0.001) and there were significantly higher blood loss (p = 0.002) in the MIS group as compared to the conventional group. The difference of the mean mechanical leg alignment between the groups was not statistically significant (\u20130.43\u00b0 (95 % CI \u20131.50 \u2013 0.64); p = 0.43). There was no significant difference of component alignment between the two surgical groups with respect to flexion/extension (p = 0.269), varus/valgus (p = 0.653) or rotational alignment (p = 0.485) of the femur component and varus valgus alignment (p = 0.778) or posterior slope (p = 0.164) of the tibial component. \n\nIn conclusion, there was no advantage of the MIS approach compared to a conventional approach CAS-TKA in any of the primary outcome measurements assessed, however the MIS approach was associated with longer surgical time and greater blood loss. MIS-TKA in combination with computer navigation is safe in terms of implant positioning.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1265,
+                        1432
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1582,
+                        1898
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1039,
+                        1179
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nDespite the growing evidence in the literature there is still a lack of consensus regarding the use of minimally invasive surgical technique (MIS) in total knee arthroplasty (TKA).\n\nABSTRACT.METHODS.\nA prospective, randomized, international multicentre trial including 69 patients was performed to compare computer-assisted TKA (CAS-TKA) using either mini-midvastus (MIS group) or standard medial parapatellar approach (conventional group).  Patients from 3 centers (Maastricht, Zwickau, Adelaide) with end-stage osteoarthritis of the knee were randomized to either an MIS group with dedicated instrumentation or a conventional group to receive cruciate retaining CAS-TKA without patella resurfacing. The primary outcome was to compare post operative pain and range of motion (ROM). The secondary outcome was to measure the duration of surgery, blood loss, chair rise test, quadriceps strength, anterior knee pain, Knee Society Score (KSS),WOMAC scores, mechanical leg axis and component alignment.\n\nABSTRACT.RESULTS.\nPatients in the MIS group (3.97 \u00b1 2.16) had significant more pain at 2 weeks than patients in the conventional group (2.77 \u00b1 1.43) p = 0.003. There was no significant difference in any of the other primary outcome parameters. Surgery time was significantly longer (p &lt; 0.001) and there were significantly higher blood loss (p = 0.002) in the MIS group as compared to the conventional group. The difference of the mean mechanical leg alignment between the groups was not statistically significant (\u20130.43\u00b0 (95 % CI \u20131.50 \u2013 0.64); p = 0.43).  There was no significant difference of component alignment between the two surgical groups with respect to flexion/extension (p = 0.269), varus/valgus (p = 0.653) or rotational alignment (p = 0.485) of the femur component and varus valgus alignment (p = 0.778) or posterior slope (p = 0.164) of the tibial component.\n\nABSTRACT.CONCLUSION.\nThere was no advantage of the MIS approach compared to a conventional approach CAS-TKA in any of the primary outcome measurements assessed, however the MIS approach was associated with longer surgical time and greater blood loss. MIS-TKA in combination with computer navigation is safe in terms of implant positioning.\n\nABSTRACT.TRIAL REGISTRATION NUMBER.\nClinicalTrials.gov NCT02625311 8 December 2015",
+        "target": "Doctors did a study to see if a newer kind of knee surgery was better than the old kind. They looked at 69 patients from around the world who needed knee replacements due to serious arthritis. Some patients got the new surgery, while others got the old one. After the surgeries, they compared the two groups. \n\nThey found that the new surgery didn't really help patients get better any faster or have less pain. In fact, those who got the new surgery had a bit more pain after two weeks and also lost more blood. Plus, the new surgery took longer to do. But, the new way is just as safe as the old way when it comes to putting in the knee implant.\n\nSo, in the end, they didn't find any major advantage in using the new surgical method over the old one. This doesn't make the new method bad, it just means doctors need to be aware of the differences when choosing the best option for their patients.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1265,
+                        1432
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1582,
+                        1898
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1039,
+                        1179
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nDespite the growing evidence in the literature there is still a lack of consensus regarding the use of minimally invasive surgical technique (MIS) in total knee arthroplasty (TKA).\n\nABSTRACT.METHODS.\nA prospective, randomized, international multicentre trial including 69 patients was performed to compare computer-assisted TKA (CAS-TKA) using either mini-midvastus (MIS group) or standard medial parapatellar approach (conventional group).  Patients from 3 centers (Maastricht, Zwickau, Adelaide) with end-stage osteoarthritis of the knee were randomized to either an MIS group with dedicated instrumentation or a conventional group to receive cruciate retaining CAS-TKA without patella resurfacing. The primary outcome was to compare post operative pain and range of motion (ROM). The secondary outcome was to measure the duration of surgery, blood loss, chair rise test, quadriceps strength, anterior knee pain, Knee Society Score (KSS),WOMAC scores, mechanical leg axis and component alignment.\n\nABSTRACT.RESULTS.\nPatients in the MIS group (3.97 \u00b1 2.16) had significant more pain at 2 weeks than patients in the conventional group (2.77 \u00b1 1.43) p = 0.003. There was no significant difference in any of the other primary outcome parameters. Surgery time was significantly longer (p &lt; 0.001) and there were significantly higher blood loss (p = 0.002) in the MIS group as compared to the conventional group. The difference of the mean mechanical leg alignment between the groups was not statistically significant (\u20130.43\u00b0 (95 % CI \u20131.50 \u2013 0.64); p = 0.43).  There was no significant difference of component alignment between the two surgical groups with respect to flexion/extension (p = 0.269), varus/valgus (p = 0.653) or rotational alignment (p = 0.485) of the femur component and varus valgus alignment (p = 0.778) or posterior slope (p = 0.164) of the tibial component.\n\nABSTRACT.CONCLUSION.\nThere was no advantage of the MIS approach compared to a conventional approach CAS-TKA in any of the primary outcome measurements assessed, however the MIS approach was associated with longer surgical time and greater blood loss. MIS-TKA in combination with computer navigation is safe in terms of implant positioning.\n\nABSTRACT.TRIAL REGISTRATION NUMBER.\nClinicalTrials.gov NCT02625311 8 December 2015",
+        "target": "\nThe study compared two different ways of doing knee surgery. One way is called minimally invasive surgery (MIS). The other way is called computer-assisted surgery (CAS). The study found that there was no difference in how well the knee healed or how much pain the patients had after the surgery between the two groups. However, the group that had MIS surgery took longer to do and had more bleeding during the surgery. The study also found that the way the implant was placed in the knee did not differ between the two groups.\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1265,
+                        1432
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1582,
+                        1898
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1039,
+                        1179
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:.\nThere is debate on renal graft stenting during ureteroneocystostomy, patients with ureteral stents may encounter several complications such as encrustation, stent crustation which can lead to loss of kidney, and complications related to stent extraction: pain and UTI increasing related to cystoscopy for stent extraction accompanying excess expenses. This study designed to reduce complications related to stent extraction.\n\nABSTRACT.MATERIAL AND METHODS:.\n90 patients prepared for renal transplantation during 1 year randomly classified to groups, study group: patients with attached stent to Foley catheter, control group: patients with conventional technique (stent separated from Foley) then in their follow up; UTI, stent crustation, luts severity compared to each other.\n\nABSTRACT.RESULTS:.\nSecond week and fourth week UTI reported 25.6%, 2.3% in study group versus 34.9%, 4.7% in control group (P value 0.48 and 0.5). Urinary leakage was 3.3% overall, that all of them occurred in separate stent group, 37.5% vs. 0% in the linked stent group. Stent crustation in separate stent was 25% compared with 0% in the linked stent.\n\nABSTRACT.CONCLUSION:.\nLow complications rate in linked stent group, despite the lack of significant statistical differences, but indicate the effectiveness and success of the new technique.",
+        "target": "This study compared two different techniques for removing ureteral stents after kidney transplant surgery. The study found that the linked stent technique had a lower complication rate than the separate stent technique, despite there being no significant statistical differences between the two. This suggests that the linked stent technique is effective and successful.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        950,
+                        1155
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        822,
+                        949
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1179,
+                        1281
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:.\nThere is debate on renal graft stenting during ureteroneocystostomy, patients with ureteral stents may encounter several complications such as encrustation, stent crustation which can lead to loss of kidney, and complications related to stent extraction: pain and UTI increasing related to cystoscopy for stent extraction accompanying excess expenses. This study designed to reduce complications related to stent extraction.\n\nABSTRACT.MATERIAL AND METHODS:.\n90 patients prepared for renal transplantation during 1 year randomly classified to groups, study group: patients with attached stent to Foley catheter, control group: patients with conventional technique (stent separated from Foley) then in their follow up; UTI, stent crustation, luts severity compared to each other.\n\nABSTRACT.RESULTS:.\nSecond week and fourth week UTI reported 25.6%, 2.3% in study group versus 34.9%, 4.7% in control group (P value 0.48 and 0.5). Urinary leakage was 3.3% overall, that all of them occurred in separate stent group, 37.5% vs. 0% in the linked stent group. Stent crustation in separate stent was 25% compared with 0% in the linked stent.\n\nABSTRACT.CONCLUSION:.\nLow complications rate in linked stent group, despite the lack of significant statistical differences, but indicate the effectiveness and success of the new technique.",
+        "target": "Sure, this may be a better explanation for a fifth grader: \n\nThis research was about a common kidney operation where they sometimes use something called a 'stent' - it's like a small tube to make sure everything runs smoothly. However, this stent sometimes can get something like 'crust' on it which can make it difficult to remove later and it can even cause other problems. \n\nSo, the researchers were trying to find a better way to use the stent that would cause fewer problems for the patient. They divided people that were going to get this operation into two groups. One group got the operation in the regular, old way. The other group got the operation in a new way where they attached the stent to another tube called a 'Foley catheter'.\n\nWhat they found was that the people who had the stent attached to the Foley catheter had less 'crust' on their stent and also less infection. There was also less of a scary thing called 'urinary leakage' in the group with the new operation method.\n\nSo, even though the differences between the two groups weren't super big, it still seems like the new way of doing the operation could be better because it caused fewer problems.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        950,
+                        1155
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        822,
+                        949
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1179,
+                        1281
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:.\nThere is debate on renal graft stenting during ureteroneocystostomy, patients with ureteral stents may encounter several complications such as encrustation, stent crustation which can lead to loss of kidney, and complications related to stent extraction: pain and UTI increasing related to cystoscopy for stent extraction accompanying excess expenses. This study designed to reduce complications related to stent extraction.\n\nABSTRACT.MATERIAL AND METHODS:.\n90 patients prepared for renal transplantation during 1 year randomly classified to groups, study group: patients with attached stent to Foley catheter, control group: patients with conventional technique (stent separated from Foley) then in their follow up; UTI, stent crustation, luts severity compared to each other.\n\nABSTRACT.RESULTS:.\nSecond week and fourth week UTI reported 25.6%, 2.3% in study group versus 34.9%, 4.7% in control group (P value 0.48 and 0.5). Urinary leakage was 3.3% overall, that all of them occurred in separate stent group, 37.5% vs. 0% in the linked stent group. Stent crustation in separate stent was 25% compared with 0% in the linked stent.\n\nABSTRACT.CONCLUSION:.\nLow complications rate in linked stent group, despite the lack of significant statistical differences, but indicate the effectiveness and success of the new technique.",
+        "target": "\nThe study looked at two groups of people who were having a kidney transplant. One group had a special kind of tube called a stent inside their bladder to help their new kidney work properly. The other group had a different kind of tube that was not attached to their bladder. The study found that the group with the special stent inside their bladder had fewer problems with urine leaking and less crusting inside their bladder compared to the other group.\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        950,
+                        1155
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        822,
+                        949
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1179,
+                        1281
+                    ]
+                ]
+            }
+        ]
+    }
+]

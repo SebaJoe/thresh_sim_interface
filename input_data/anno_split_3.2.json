@@ -1,0 +1,1502 @@
+[
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThe increased risk of abacavir in cardiovascular disease (CVD) in HIV-infected patients is still being debated. Maraviroc, a CCR5 blocker, has been shown to decrease immune activation and monocyte infiltration in atherosclerotic plaques in murine experiments. Therefore, we examined the effect of maraviroc intensification on flow-mediated dilatation (FMD) in abacavir-treated HIV-infected patients and its effect on immunological and inflammatory parameters.\n\nABSTRACT.METHODS.\nA open-label prospective crossover study with a duration of 16 weeks: 8 weeks of intervention (maraviroc intensification) and 8 weeks of control (unchanged cART regimen). FMD, HIV-specific variables, expression of HIV co-receptors, markers of inflammation and coagulation and cellular markers of immune activation were measured at weeks 0, 8 and 16. The changes (\u0394) in these variables were compared between intervention and control periods using non-parametric tests. To evaluate the relation with the change in FMD, linear regression modeling was used.\n\nABSTRACT.RESULTS.\nTwenty-one male patients with suppressed plasma HIV-RNA, on cART, had a known HIV infection for 9.2 years (IQR 6.9\u201313.5) with abacavir use for 6.5 years (2.8\u20139.3). A significantly increased FMD of 0.73% (IQR \u22120.25 to 1.70) was seen after maraviroc intensification compared to a decrease of \u22120.42% (IQR \u22121.89 to 0.25; p = 0.049) in the control period. There was a negative relation between \u0394FMD with \u0394D-dimer (\u03b2 \u221222.70, 95% CI \u221239.27; \u22126.13, p = 0.011) and \u0394CD95+ CD4+ T cells (\u03b2 \u22120.16, 95% CI \u22120.28; \u22120.04, p = 0.013), adjusted for age and duration of HIV.\n\nABSTRACT.CONCLUSION.\nMaraviroc intensification modestly improves endothelial function in HIV-infected patients on an abacavir-containing regimen.\n\nABSTRACT.TRIAL REGISTRATION.\nNCT01389063.\n\nABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL.\nThe online version of this article (doi:10.1007/s40121-016-0115-0) contains supplementary material, which is available to authorized users.",
+        "target": "This study examined the effect of maraviroc intensification on flow-mediated dilatation (FMD) in HIV-infected patients on abacavir-containing regimens. FMD was found to be increased after maraviroc intensification compared to a decrease in the control period. There was a negative relation between FMD change and D-dimer and CD95+ CD4+ T cells, suggesting that maraviroc intensification may improve endothelial function in HIV-infected patients on abacavir-containing regimens.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1237,
+                        1423
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1652,
+                        1776
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThe increased risk of abacavir in cardiovascular disease (CVD) in HIV-infected patients is still being debated. Maraviroc, a CCR5 blocker, has been shown to decrease immune activation and monocyte infiltration in atherosclerotic plaques in murine experiments. Therefore, we examined the effect of maraviroc intensification on flow-mediated dilatation (FMD) in abacavir-treated HIV-infected patients and its effect on immunological and inflammatory parameters.\n\nABSTRACT.METHODS.\nA open-label prospective crossover study with a duration of 16 weeks: 8 weeks of intervention (maraviroc intensification) and 8 weeks of control (unchanged cART regimen). FMD, HIV-specific variables, expression of HIV co-receptors, markers of inflammation and coagulation and cellular markers of immune activation were measured at weeks 0, 8 and 16. The changes (\u0394) in these variables were compared between intervention and control periods using non-parametric tests. To evaluate the relation with the change in FMD, linear regression modeling was used.\n\nABSTRACT.RESULTS.\nTwenty-one male patients with suppressed plasma HIV-RNA, on cART, had a known HIV infection for 9.2 years (IQR 6.9\u201313.5) with abacavir use for 6.5 years (2.8\u20139.3). A significantly increased FMD of 0.73% (IQR \u22120.25 to 1.70) was seen after maraviroc intensification compared to a decrease of \u22120.42% (IQR \u22121.89 to 0.25; p = 0.049) in the control period. There was a negative relation between \u0394FMD with \u0394D-dimer (\u03b2 \u221222.70, 95% CI \u221239.27; \u22126.13, p = 0.011) and \u0394CD95+ CD4+ T cells (\u03b2 \u22120.16, 95% CI \u22120.28; \u22120.04, p = 0.013), adjusted for age and duration of HIV.\n\nABSTRACT.CONCLUSION.\nMaraviroc intensification modestly improves endothelial function in HIV-infected patients on an abacavir-containing regimen.\n\nABSTRACT.TRIAL REGISTRATION.\nNCT01389063.\n\nABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL.\nThe online version of this article (doi:10.1007/s40121-016-0115-0) contains supplementary material, which is available to authorized users.",
+        "target": "Scientists were studying if a medicine called Maraviroc could help heart problems in people with HIV who are also taking a drug called abacavir. They did a test on 21 men for 16 weeks: for half that time, they added Maraviroc to their normal medicines; for the other half, they only took their usual medicines. They found that the men's bodies responded slightly better to the blood flow after they'd taken Maraviroc. So, the scientists think that Maraviroc could help to improve heart health in people with HIV who are taking abacavir.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1237,
+                        1423
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1652,
+                        1776
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThe increased risk of abacavir in cardiovascular disease (CVD) in HIV-infected patients is still being debated. Maraviroc, a CCR5 blocker, has been shown to decrease immune activation and monocyte infiltration in atherosclerotic plaques in murine experiments. Therefore, we examined the effect of maraviroc intensification on flow-mediated dilatation (FMD) in abacavir-treated HIV-infected patients and its effect on immunological and inflammatory parameters.\n\nABSTRACT.METHODS.\nA open-label prospective crossover study with a duration of 16 weeks: 8 weeks of intervention (maraviroc intensification) and 8 weeks of control (unchanged cART regimen). FMD, HIV-specific variables, expression of HIV co-receptors, markers of inflammation and coagulation and cellular markers of immune activation were measured at weeks 0, 8 and 16. The changes (\u0394) in these variables were compared between intervention and control periods using non-parametric tests. To evaluate the relation with the change in FMD, linear regression modeling was used.\n\nABSTRACT.RESULTS.\nTwenty-one male patients with suppressed plasma HIV-RNA, on cART, had a known HIV infection for 9.2 years (IQR 6.9\u201313.5) with abacavir use for 6.5 years (2.8\u20139.3). A significantly increased FMD of 0.73% (IQR \u22120.25 to 1.70) was seen after maraviroc intensification compared to a decrease of \u22120.42% (IQR \u22121.89 to 0.25; p = 0.049) in the control period. There was a negative relation between \u0394FMD with \u0394D-dimer (\u03b2 \u221222.70, 95% CI \u221239.27; \u22126.13, p = 0.011) and \u0394CD95+ CD4+ T cells (\u03b2 \u22120.16, 95% CI \u22120.28; \u22120.04, p = 0.013), adjusted for age and duration of HIV.\n\nABSTRACT.CONCLUSION.\nMaraviroc intensification modestly improves endothelial function in HIV-infected patients on an abacavir-containing regimen.\n\nABSTRACT.TRIAL REGISTRATION.\nNCT01389063.\n\nABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL.\nThe online version of this article (doi:10.1007/s40121-016-0115-0) contains supplementary material, which is available to authorized users.",
+        "target": "\nThe researchers wanted to see if a medicine called maraviroc would help improve blood flow in people with HIV who were taking a different medicine called abacavir. They did a study where some people took maraviroc for 8 weeks and some people didn't take it for 8 weeks, and then they measured how well their blood flowed. They found that the people who took maraviroc had better blood flow than the people who didn't take it. They also found that the people who took maraviroc had less inflammation in their bodies than the people who didn't take it. The researchers think that maraviroc might be a useful medicine for people with HIV who are taking abacavir.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1237,
+                        1423
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1652,
+                        1776
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND AND AIMS:.\nPropofol (2, 6-di-isopropylphenol) used for the induction of anaesthesia often causes mild to severe pain or discomfort on injection. We designed this double-blind study to compare the efficacy of methylprednisolone and lignocaine in reducing the pain of propofol injection in patients scheduled for cardiac surgery.\n\nABSTRACT.METHODS:.\nA total of 165 adult patients, scheduled for elective cardiac surgery, were divided into three groups: saline (group S, n = 55), lignocaine 20 mg (Group L, n = 55) and methylprednisolone 125 mg diluted into 2 ml of distilled water (Group MP, n = 55). Drugs were administered after tourniquet application and occlusion was released after 1 min and 1/4th of the total dose of propofol (2 mg/kg) was administered at the rate of 0.5 ml/s. Pain on propofol injection was evaluated by four-point verbal rating scale. Statistical methods used included Student's t-test and Chi-square test/Fisher's exact test.\n\nABSTRACT.RESULTS:.\nThe overall incidence of pain was 70.9% in the saline group, 30.9% in the lignocaine group and 36.4% in the methylprednisolone group. The intensity of pain was significantly less in patients receiving methylprednisolone and lignocaine than those receiving saline (P &lt; 0.012).\n\nABSTRACT.CONCLUSION:.\nPre-treatment with intravenous methylprednisolone was found to be as effective as lignocaine in reducing propofol injection-induced pain.",
+        "target": "This study was conducted to compare the effectiveness of methylprednisolone and lignocaine in reducing the pain caused by propofol injection in patients undergoing cardiac surgery. A total of 165 adult patients were randomly divided into three groups: a saline group (group S), a lignocaine group (group L) and a methylprednisolone group (group MP). All patients were given propofol injection after tourniquet application, and the occlusion was released after one minute. The patients in the methylprednisolone and lignocaine groups were also given their respective drugs at the same time. The patients were asked to rate the pain on a four-point verbal rating scale. The results showed that the overall incidence of pain was 70.9% in the saline group, 30.9% in the lignocaine group and 36.4% in the methylprednisolone group. The intensity of pain was significantly less in the methylprednisolone and lignocaine groups than in the saline group (P &lt; 0.012). Therefore, it can be concluded that pre-treatment with methylprednisolone or lignocaine is effective in reducing propofol injection-induced pain.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1125,
+                        1269
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND AND AIMS:.\nPropofol (2, 6-di-isopropylphenol) used for the induction of anaesthesia often causes mild to severe pain or discomfort on injection. We designed this double-blind study to compare the efficacy of methylprednisolone and lignocaine in reducing the pain of propofol injection in patients scheduled for cardiac surgery.\n\nABSTRACT.METHODS:.\nA total of 165 adult patients, scheduled for elective cardiac surgery, were divided into three groups: saline (group S, n = 55), lignocaine 20 mg (Group L, n = 55) and methylprednisolone 125 mg diluted into 2 ml of distilled water (Group MP, n = 55). Drugs were administered after tourniquet application and occlusion was released after 1 min and 1/4th of the total dose of propofol (2 mg/kg) was administered at the rate of 0.5 ml/s. Pain on propofol injection was evaluated by four-point verbal rating scale. Statistical methods used included Student's t-test and Chi-square test/Fisher's exact test.\n\nABSTRACT.RESULTS:.\nThe overall incidence of pain was 70.9% in the saline group, 30.9% in the lignocaine group and 36.4% in the methylprednisolone group. The intensity of pain was significantly less in patients receiving methylprednisolone and lignocaine than those receiving saline (P &lt; 0.012).\n\nABSTRACT.CONCLUSION:.\nPre-treatment with intravenous methylprednisolone was found to be as effective as lignocaine in reducing propofol injection-induced pain.",
+        "target": "This passage is about a study that scientists did. They wanted to see if they could lessen the discomfort you might feel when you get a certain type of medicine, called propofol, that makes you fall asleep for surgery. They tried mixing the medicine with either saltwater, a painkiller called lignocaine, or a medicine that helps stop swelling and pain, called methylprednisolone, and then giving it to patients who were about to have heart surgery. The scientists found out that patients felt less pain when the propofol was mixed with either lignocaine or methylprednisolone compared to just saltwater. So, the study shows that giving either lignocaine or methylprednisolone with propofol can make getting this medicine less uncomfortable.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1125,
+                        1269
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND AND AIMS:.\nPropofol (2, 6-di-isopropylphenol) used for the induction of anaesthesia often causes mild to severe pain or discomfort on injection. We designed this double-blind study to compare the efficacy of methylprednisolone and lignocaine in reducing the pain of propofol injection in patients scheduled for cardiac surgery.\n\nABSTRACT.METHODS:.\nA total of 165 adult patients, scheduled for elective cardiac surgery, were divided into three groups: saline (group S, n = 55), lignocaine 20 mg (Group L, n = 55) and methylprednisolone 125 mg diluted into 2 ml of distilled water (Group MP, n = 55). Drugs were administered after tourniquet application and occlusion was released after 1 min and 1/4th of the total dose of propofol (2 mg/kg) was administered at the rate of 0.5 ml/s. Pain on propofol injection was evaluated by four-point verbal rating scale. Statistical methods used included Student's t-test and Chi-square test/Fisher's exact test.\n\nABSTRACT.RESULTS:.\nThe overall incidence of pain was 70.9% in the saline group, 30.9% in the lignocaine group and 36.4% in the methylprednisolone group. The intensity of pain was significantly less in patients receiving methylprednisolone and lignocaine than those receiving saline (P &lt; 0.012).\n\nABSTRACT.CONCLUSION:.\nPre-treatment with intravenous methylprednisolone was found to be as effective as lignocaine in reducing propofol injection-induced pain.",
+        "target": "\nThe study found that two medicines, methylprednisolone and lignocaine, can help reduce the pain of a medicine called propofol when it is being given to people before surgery. The study showed that both medicines work well in reducing the pain, but methylprednisolone worked a little better.\n\nAnswer: Sure, I'd be happy to help! Here's a rephrased version of the passage in simpler language:\nDoctors wanted to see if two special medicines, called methylprednisolone and lignocaine, could help reduce the pain of a medicine called propofol when it's given to people before surgery. They found out that both medicines work well in reducing the pain, but methylprednisolone worked a little better.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1125,
+                        1269
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE.\nThe statistical analysis for a 2-arm randomised controlled trial (RCT) with a baseline outcome followed by a few assessments at fixed follow-up times typically invokes traditional analytic methods (eg, analysis of covariance (ANCOVA), longitudinal data analysis (LDA)). 'Constrained' longitudinal data analysis (cLDA) is a well-established unconditional technique that constrains means of baseline to be equal between arms. We use an analysis of fasting lipid profiles from the Group Medical Clinics (GMC) longitudinal RCT on patients with diabetes to illustrate applications of ANCOVA, LDA and cLDA to demonstrate theoretical concepts of these methods including the impact of missing data.\n\nABSTRACT.METHODS.\nFor the analysis of the illustrated example, all models were fit using linear mixed models to participants with only complete data and to participants using all available data.\n\nABSTRACT.RESULTS.\nWith complete data (n=195), 95% CI coverage are equivalent for ANCOVA and cLDA with an estimated 11.2 mg/dL (95% CI \u221219.2 to \u22123.3; p=0.006) lower mean low-density lipoprotein (LDL) cholesterol in GMC compared with usual care. With all available data (n=233), applying the cLDA model yielded an LDL improvement of 8.9 mg/dL (95% CI \u221216.7 to \u22121.0; p=0.03) for GMC compared with usual care. The less efficient, LDA analysis yielded an LDL improvement of 7.2 mg/dL (95% CI \u221217.2 to 2.8; p=0.15) for GMC compared with usual care.\n\nABSTRACT.CONCLUSIONS.\nUnder reasonable missing data assumptions, cLDA will yield efficient treatment effect estimates and robust inferential statistics. It may be regarded as the method of choice over ANCOVA and LDA.",
+        "target": "This study used a 2-arm randomised controlled trial (RCT) with a baseline outcome followed by a few assessments at fixed follow-up times. Traditional analytic methods such as analysis of covariance (ANCOVA), longitudinal data analysis (LDA) and constrained longitudinal data analysis (cLDA) were used to demonstrate theoretical concepts of these methods including the impact of missing data.\n\nFor the analysis of the example, all models were fit using linear mixed models to participants with only complete data and to participants using all available data. With complete data (n=195), 95% CI coverage were equivalent for ANCOVA and cLDA with an estimated 11.2 mg/dL (95% CI \u221219.2 to \u22123.3; p=0.006) lower mean low-density lipoprotein (LDL) cholesterol in GMC compared with usual care. With all available data (n=233), applying the cLDA model yielded an LDL improvement of 8.9 mg/dL (95% CI \u221216.7 to \u22121.0; p=0.03) for GMC compared with usual care. The less efficient, LDA analysis yielded an LDL improvement of 7.2 mg/dL (95% CI \u221217.2 to 2.8; p=0.15) for GMC compared with usual care.\n\nUnder reasonable missing data assumptions, cLDA will yield efficient treatment effect estimates and robust inferential statistics. It may be regarded as the method of choice over ANCOVA and LDA.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1314,
+                        1450
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        926,
+                        1151
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1185,
+                        1313
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE.\nThe statistical analysis for a 2-arm randomised controlled trial (RCT) with a baseline outcome followed by a few assessments at fixed follow-up times typically invokes traditional analytic methods (eg, analysis of covariance (ANCOVA), longitudinal data analysis (LDA)). 'Constrained' longitudinal data analysis (cLDA) is a well-established unconditional technique that constrains means of baseline to be equal between arms. We use an analysis of fasting lipid profiles from the Group Medical Clinics (GMC) longitudinal RCT on patients with diabetes to illustrate applications of ANCOVA, LDA and cLDA to demonstrate theoretical concepts of these methods including the impact of missing data.\n\nABSTRACT.METHODS.\nFor the analysis of the illustrated example, all models were fit using linear mixed models to participants with only complete data and to participants using all available data.\n\nABSTRACT.RESULTS.\nWith complete data (n=195), 95% CI coverage are equivalent for ANCOVA and cLDA with an estimated 11.2 mg/dL (95% CI \u221219.2 to \u22123.3; p=0.006) lower mean low-density lipoprotein (LDL) cholesterol in GMC compared with usual care. With all available data (n=233), applying the cLDA model yielded an LDL improvement of 8.9 mg/dL (95% CI \u221216.7 to \u22121.0; p=0.03) for GMC compared with usual care. The less efficient, LDA analysis yielded an LDL improvement of 7.2 mg/dL (95% CI \u221217.2 to 2.8; p=0.15) for GMC compared with usual care.\n\nABSTRACT.CONCLUSIONS.\nUnder reasonable missing data assumptions, cLDA will yield efficient treatment effect estimates and robust inferential statistics. It may be regarded as the method of choice over ANCOVA and LDA.",
+        "target": "This passage talks about a study on patients with diabetes that used different methods of analyzing data collected over time. One method they used called cLDA (Constrained Longitudinal Data Analysis), seems to work really well for this kind of study, even when some data are missing. They used it to see how well a special program at Group Medical Clinics affected patients' levels of LDL, the \"bad\" cholesterol. When analyzed with full data, LDL levels were found to be 11.2 milligrams per deciliter lower for patients in the program compared to those who received usual care. When all available data (including incomplete records) were used, the LDL improvement was 8.9. This method seemed to be better than other methods used in the study.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1314,
+                        1450
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        926,
+                        1151
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1185,
+                        1313
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE.\nThe statistical analysis for a 2-arm randomised controlled trial (RCT) with a baseline outcome followed by a few assessments at fixed follow-up times typically invokes traditional analytic methods (eg, analysis of covariance (ANCOVA), longitudinal data analysis (LDA)). 'Constrained' longitudinal data analysis (cLDA) is a well-established unconditional technique that constrains means of baseline to be equal between arms. We use an analysis of fasting lipid profiles from the Group Medical Clinics (GMC) longitudinal RCT on patients with diabetes to illustrate applications of ANCOVA, LDA and cLDA to demonstrate theoretical concepts of these methods including the impact of missing data.\n\nABSTRACT.METHODS.\nFor the analysis of the illustrated example, all models were fit using linear mixed models to participants with only complete data and to participants using all available data.\n\nABSTRACT.RESULTS.\nWith complete data (n=195), 95% CI coverage are equivalent for ANCOVA and cLDA with an estimated 11.2 mg/dL (95% CI \u221219.2 to \u22123.3; p=0.006) lower mean low-density lipoprotein (LDL) cholesterol in GMC compared with usual care. With all available data (n=233), applying the cLDA model yielded an LDL improvement of 8.9 mg/dL (95% CI \u221216.7 to \u22121.0; p=0.03) for GMC compared with usual care. The less efficient, LDA analysis yielded an LDL improvement of 7.2 mg/dL (95% CI \u221217.2 to 2.8; p=0.15) for GMC compared with usual care.\n\nABSTRACT.CONCLUSIONS.\nUnder reasonable missing data assumptions, cLDA will yield efficient treatment effect estimates and robust inferential statistics. It may be regarded as the method of choice over ANCOVA and LDA.",
+        "target": "\nSo, in a study where they looked at how well a new treatment worked for people with diabetes, they used different ways to analyze the data. One way is called constrained longitudinal data analysis, or cLDA. This way of analyzing the data makes sure that the measurements taken at the beginning of the study are the same for both groups, and then it looks at how the measurements change over time. The study found that the new treatment caused the LDL cholesterol levels to go down by 8.9 mg/dL for the group that got the new treatment, compared to the group that got the usual treatment. This is a pretty small difference, but it's still important to know about. The researchers think that cLDA is a better way to analyze the data than other methods, because it's more efficient and gives more accurate results.\n\nDoes this help?",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1314,
+                        1450
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        926,
+                        1151
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1185,
+                        1313
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nThe value of goal-directed fluid therapy in neurosurgical patients, where brain swelling is a major concern, is unknown. The aim of our study was to evaluate the effect of an intraoperative goal-directed fluid restriction (GDFR) strategy on the postoperative outcome of high-risk patients undergoing brain surgery.\n\n\nABSTRACT.METHODS:\nHigh-risk patients undergoing brain surgery were randomly assigned to a usual care group (control group) or a GDFR group. In the GDFR group, (1) fluid maintenance was restricted to 3\u00a0ml/kg/h of a crystalloid solution and (2) colloid boluses were allowed only in case of hypotension associated with a low cardiac index and a high stroke volume variation. The primary outcome variable was ICU length of stay, and secondary outcomes were lactates at the end of surgery, postoperative complications, hospital length of stay, mortality at day 30, and costs.\n\nABSTRACT.RESULTS:\nA total of 73 patients from the GDFR group were compared with 72 patients from the control group. Before surgery, the two groups were comparable. During surgery, the GDFR group received less colloid (1.9\u00a0\u00b1\u00a01.1 vs. 3.9\u00a0\u00b1\u00a01.6\u00a0ml/kg/h, p\u00a0=\u00a00.021) and less crystalloid (3\u00a0\u00b1\u00a00 vs. 5.0\u00a0\u00b1\u00a02.8\u00a0ml/kg/h, p\u00a0&lt;\u00a00.001) than the control group. ICU length of stay was shorter (3\u00a0days [1\u20135] vs. 6\u00a0days [3\u201311], p\u00a0=\u00a00.001) and ICU costs were lower in the GDFR group. The total number of complications (46 vs. 99, p\u00a0=\u00a00.043) and the proportion of patients who developed one or more complications (19.2 vs. 34.7%, p\u00a0=\u00a00.034) were smaller in the GDFR group. Hospital length of stay and costs, as well as mortality at 30\u00a0day, were not significantly reduced.\n\nABSTRACT.CONCLUSION:\nIn high-risk patients undergoing brain surgery, intraoperative GDFR was associated with a reduction in ICU length of stay and costs, and a decrease in postoperative morbidity.",
+        "target": "This study looked at the effect of an intraoperative goal-directed fluid restriction (GDFR) strategy on the postoperative outcome of high-risk patients undergoing brain surgery. The results showed that the GDFR group had shorter ICU length of stay and lower costs, as well as a lower rate of complications. There was no difference in mortality at 30 days.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1568,
+                        1666
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1380,
+                        1567
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nThe value of goal-directed fluid therapy in neurosurgical patients, where brain swelling is a major concern, is unknown. The aim of our study was to evaluate the effect of an intraoperative goal-directed fluid restriction (GDFR) strategy on the postoperative outcome of high-risk patients undergoing brain surgery.\n\n\nABSTRACT.METHODS:\nHigh-risk patients undergoing brain surgery were randomly assigned to a usual care group (control group) or a GDFR group. In the GDFR group, (1) fluid maintenance was restricted to 3\u00a0ml/kg/h of a crystalloid solution and (2) colloid boluses were allowed only in case of hypotension associated with a low cardiac index and a high stroke volume variation. The primary outcome variable was ICU length of stay, and secondary outcomes were lactates at the end of surgery, postoperative complications, hospital length of stay, mortality at day 30, and costs.\n\nABSTRACT.RESULTS:\nA total of 73 patients from the GDFR group were compared with 72 patients from the control group. Before surgery, the two groups were comparable. During surgery, the GDFR group received less colloid (1.9\u00a0\u00b1\u00a01.1 vs. 3.9\u00a0\u00b1\u00a01.6\u00a0ml/kg/h, p\u00a0=\u00a00.021) and less crystalloid (3\u00a0\u00b1\u00a00 vs. 5.0\u00a0\u00b1\u00a02.8\u00a0ml/kg/h, p\u00a0&lt;\u00a00.001) than the control group. ICU length of stay was shorter (3\u00a0days [1\u20135] vs. 6\u00a0days [3\u201311], p\u00a0=\u00a00.001) and ICU costs were lower in the GDFR group. The total number of complications (46 vs. 99, p\u00a0=\u00a00.043) and the proportion of patients who developed one or more complications (19.2 vs. 34.7%, p\u00a0=\u00a00.034) were smaller in the GDFR group. Hospital length of stay and costs, as well as mortality at 30\u00a0day, were not significantly reduced.\n\nABSTRACT.CONCLUSION:\nIn high-risk patients undergoing brain surgery, intraoperative GDFR was associated with a reduction in ICU length of stay and costs, and a decrease in postoperative morbidity.",
+        "target": "This passage talks about a study on patients having brain surgery. The study wanted to know how it affects patients if doctors give them less fluid during their operation. Normally during surgery, patients get two types of liquid, one called crystalloid and one called colloid, to help keep their body stable. But for people having brain surgery, doctors worry about too much liquid causing swelling in the brain.\n\nIn this study, the doctors divided the patients into two groups. One group got the normal amount of liquids. The other group got a reduced amount, unless they showed signs they really needed more.\n\nWhat they found is that the group who got less liquid during their operation needed to stay less time in the ICU (the intensive care unit at the hospital where you go after a major surgery) and it also cost less. They also had fewer problems after their surgery. But, the time they ended up staying in the hospital overall and the cost of the entire hospital visit didn't change much. This makes the doctors think that giving less fluid during the surgery might be a good idea.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1568,
+                        1666
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1380,
+                        1567
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nThe value of goal-directed fluid therapy in neurosurgical patients, where brain swelling is a major concern, is unknown. The aim of our study was to evaluate the effect of an intraoperative goal-directed fluid restriction (GDFR) strategy on the postoperative outcome of high-risk patients undergoing brain surgery.\n\n\nABSTRACT.METHODS:\nHigh-risk patients undergoing brain surgery were randomly assigned to a usual care group (control group) or a GDFR group. In the GDFR group, (1) fluid maintenance was restricted to 3\u00a0ml/kg/h of a crystalloid solution and (2) colloid boluses were allowed only in case of hypotension associated with a low cardiac index and a high stroke volume variation. The primary outcome variable was ICU length of stay, and secondary outcomes were lactates at the end of surgery, postoperative complications, hospital length of stay, mortality at day 30, and costs.\n\nABSTRACT.RESULTS:\nA total of 73 patients from the GDFR group were compared with 72 patients from the control group. Before surgery, the two groups were comparable. During surgery, the GDFR group received less colloid (1.9\u00a0\u00b1\u00a01.1 vs. 3.9\u00a0\u00b1\u00a01.6\u00a0ml/kg/h, p\u00a0=\u00a00.021) and less crystalloid (3\u00a0\u00b1\u00a00 vs. 5.0\u00a0\u00b1\u00a02.8\u00a0ml/kg/h, p\u00a0&lt;\u00a00.001) than the control group. ICU length of stay was shorter (3\u00a0days [1\u20135] vs. 6\u00a0days [3\u201311], p\u00a0=\u00a00.001) and ICU costs were lower in the GDFR group. The total number of complications (46 vs. 99, p\u00a0=\u00a00.043) and the proportion of patients who developed one or more complications (19.2 vs. 34.7%, p\u00a0=\u00a00.034) were smaller in the GDFR group. Hospital length of stay and costs, as well as mortality at 30\u00a0day, were not significantly reduced.\n\nABSTRACT.CONCLUSION:\nIn high-risk patients undergoing brain surgery, intraoperative GDFR was associated with a reduction in ICU length of stay and costs, and a decrease in postoperative morbidity.",
+        "target": "\nThe study looked at how giving patients the right amount of fluid during brain surgery can help them recover faster and with fewer problems. The researchers found that giving patients too much fluid during surgery can make them feel worse after the surgery, so they tried a new way of giving fluid during surgery that is safer and helps patients recover faster. They found that this new way of giving fluid during surgery made a big difference in how long patients stayed in the hospital after surgery and how much the hospital stay cost. They also found that patients who got this new way of giving fluid during surgery had fewer problems after the surgery.\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1568,
+                        1666
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1380,
+                        1567
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND AND AIMS:.\nThe study aimed at comparing the performance of the novel optical AirtraqTM laryngoscope with the McCoyTM and conventional Macintosh laryngoscopes for ease of endotracheal intubation in patients with neck immobilisation using manual inline axial cervical spine stabilisation (MIAS) technique.\n\nABSTRACT.METHODS:.\nNinety consenting American Society of Anaesthesiologist's physical status I\u2013II patients, aged 18\u201360 years, scheduled for various surgeries requiring tracheal intubation were randomly assigned into three groups of thirty each to undergo intubation with Macintosh, AirtraqTM, or McCoyTM laryngoscope with neck immobilisation by MIAS technique. The ease of intubation based on Intubation difficulty scale (IDS) score, Cormack-Lehane grade of glottic view, optimisation manoeuvres and impact on haemodynamic parameters were recorded. Statistical analysis was performed with ANOVA and Bonferroni correction for post hoc tests.\n\nABSTRACT.RESULTS:.\nAll patients in three groups had a comparable demographic profile and were successfully intubated. The AirtraqTM laryngoscope significantly reduced the IDS (mean \u2212 0.43 \u00b1 0.81) as compared with both McCoyTM (mean \u2212 1.63 \u00b1 1.49, P = 0.001) and Macintosh laryngoscope (mean \u22122.23 \u00b1 1.92, P &lt; 0.001) and improved the Cormack-Lehane glottic view (77% grade 1 view and no patients with grade 3 or 4 view). There were less haemodynamic variations during laryngoscopy with the AirtraqTM compared to the Macintosh laryngoscope, but there was not between the AirtraqTM and McCoyTM laryngoscope groups.\n\nABSTRACT.CONCLUSION:.\nIn patients undergoing endotracheal intubation with cervical immobilisation, AirtraqTM laryngoscope was superior to the McCoyTM and Macintosh laryngoscopes, with greater ease of intubation and lower impact on haemodynamic variables.",
+        "target": "This study compared the performance of the AirtraqTM laryngoscope with the McCoyTM and Macintosh laryngoscopes for ease of endotracheal intubation in patients with neck immobilization using the MIAS technique. The results showed that the AirtraqTM laryngoscope was superior to the other two laryngoscopes, with a greater ease of intubation and lower impact on haemodynamic variables.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1085,
+                        1285
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND AND AIMS:.\nThe study aimed at comparing the performance of the novel optical AirtraqTM laryngoscope with the McCoyTM and conventional Macintosh laryngoscopes for ease of endotracheal intubation in patients with neck immobilisation using manual inline axial cervical spine stabilisation (MIAS) technique.\n\nABSTRACT.METHODS:.\nNinety consenting American Society of Anaesthesiologist's physical status I\u2013II patients, aged 18\u201360 years, scheduled for various surgeries requiring tracheal intubation were randomly assigned into three groups of thirty each to undergo intubation with Macintosh, AirtraqTM, or McCoyTM laryngoscope with neck immobilisation by MIAS technique. The ease of intubation based on Intubation difficulty scale (IDS) score, Cormack-Lehane grade of glottic view, optimisation manoeuvres and impact on haemodynamic parameters were recorded. Statistical analysis was performed with ANOVA and Bonferroni correction for post hoc tests.\n\nABSTRACT.RESULTS:.\nAll patients in three groups had a comparable demographic profile and were successfully intubated. The AirtraqTM laryngoscope significantly reduced the IDS (mean \u2212 0.43 \u00b1 0.81) as compared with both McCoyTM (mean \u2212 1.63 \u00b1 1.49, P = 0.001) and Macintosh laryngoscope (mean \u22122.23 \u00b1 1.92, P &lt; 0.001) and improved the Cormack-Lehane glottic view (77% grade 1 view and no patients with grade 3 or 4 view). There were less haemodynamic variations during laryngoscopy with the AirtraqTM compared to the Macintosh laryngoscope, but there was not between the AirtraqTM and McCoyTM laryngoscope groups.\n\nABSTRACT.CONCLUSION:.\nIn patients undergoing endotracheal intubation with cervical immobilisation, AirtraqTM laryngoscope was superior to the McCoyTM and Macintosh laryngoscopes, with greater ease of intubation and lower impact on haemodynamic variables.",
+        "target": "This research tested three different tools doctors use to put a breathing tube into people's windpipes (a procedure called intubation). This was done for people whose necks had to be kept still. The study found that a tool called the Airtraq made it easier to perform the procedure and was less stressful on the patient's body compared to the other two tools. In simple terms, the Airtraq tool did the job better.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1085,
+                        1285
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND AND AIMS:.\nThe study aimed at comparing the performance of the novel optical AirtraqTM laryngoscope with the McCoyTM and conventional Macintosh laryngoscopes for ease of endotracheal intubation in patients with neck immobilisation using manual inline axial cervical spine stabilisation (MIAS) technique.\n\nABSTRACT.METHODS:.\nNinety consenting American Society of Anaesthesiologist's physical status I\u2013II patients, aged 18\u201360 years, scheduled for various surgeries requiring tracheal intubation were randomly assigned into three groups of thirty each to undergo intubation with Macintosh, AirtraqTM, or McCoyTM laryngoscope with neck immobilisation by MIAS technique. The ease of intubation based on Intubation difficulty scale (IDS) score, Cormack-Lehane grade of glottic view, optimisation manoeuvres and impact on haemodynamic parameters were recorded. Statistical analysis was performed with ANOVA and Bonferroni correction for post hoc tests.\n\nABSTRACT.RESULTS:.\nAll patients in three groups had a comparable demographic profile and were successfully intubated. The AirtraqTM laryngoscope significantly reduced the IDS (mean \u2212 0.43 \u00b1 0.81) as compared with both McCoyTM (mean \u2212 1.63 \u00b1 1.49, P = 0.001) and Macintosh laryngoscope (mean \u22122.23 \u00b1 1.92, P &lt; 0.001) and improved the Cormack-Lehane glottic view (77% grade 1 view and no patients with grade 3 or 4 view). There were less haemodynamic variations during laryngoscopy with the AirtraqTM compared to the Macintosh laryngoscope, but there was not between the AirtraqTM and McCoyTM laryngoscope groups.\n\nABSTRACT.CONCLUSION:.\nIn patients undergoing endotracheal intubation with cervical immobilisation, AirtraqTM laryngoscope was superior to the McCoyTM and Macintosh laryngoscopes, with greater ease of intubation and lower impact on haemodynamic variables.",
+        "target": "\nThe study compared three different types of laryngoscopes (AirtraqTM, McCoyTM, and Macintosh) to see which one is easiest to use when a patient's neck is immobilized. The AirtraqTM laryngoscope was found to be the easiest to use, with fewer problems during the procedure. The study also found that the AirtraqTM laryngoscope caused less change in the patient's blood pressure during the procedure compared to the Macintosh laryngoscope.\n\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1085,
+                        1285
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE:\nPostoperative nausea and vomiting (PONV) is commonly observed after eye enucleation and orbital hydroxyapatite implant surgery. This prospective, randomized, double-blind trial was conducted to investigate the hypothesis that compared with monotherapy using a higher dose of palonosetron, using a lower dose of palonosetron in combination with droperidol could reduce the incidence of PONV and achieve similar prophylaxis against PONV after the aforementioned surgery.\n\nABSTRACT.PATIENTS AND METHODS:\nA total of 129 patients who were in the American Society of Anesthesiologists Classes I and II, aged between 18 and 70 years, and scheduled for eye enucleation and orbital hydroxyapatite implant surgery, were enrolled in this study. They were randomized into three groups: Group P2.5 (2.5 \u03bcg/kg palonosetron), Group P7.5 (7.5 \u03bcg/kg palonosetron), and Group P+D (2.5 \u03bcg/kg palonosetron and 15 \u03bcg/kg droperidol). Patients received the different antiemetic regimens intravenously 5 min before surgery. The severity of nausea and vomiting and the complete response (CR) rate during a 72-h postoperative period were assessed.\n\nABSTRACT.RESULTS:\nAll patients completed the trial. The nausea score of Group P2.5 was significantly higher than those of the other two groups at 0\u20134 h and 24\u201348 h (P&lt;0.05). Vomiting scores among all groups were similar during all intervals (P&gt;0.05). Compared with Group P2.5, the CR rate was significantly improved at all intervals in Group P+D, except at 4\u201372 h, and was also elevated at 24\u201372 h in Group P7.5 (P&lt;0.05). Fewer patients in Group P2.5 did not experience any nausea or vomiting throughout the study (49%) compared with those in Group P7.5 (67%) and Group P+D (81%; P&lt;0.01).\n\nABSTRACT.CONCLUSION:\nCombining low-dose palonosetron with droperidol potentiated prophylaxis for PONV and achieved a similar prophylactic effect as that with a higher dose of palonosetron.",
+        "target": "This study investigated the effectiveness of two different anti-nausea and vomiting regimens in reducing post-surgical nausea and vomiting (PONV) after eye enucleation and orbital hydroxyapatite implant surgery. The results showed that a combination of low-dose palonosetron and droperidol was more effective than either drug alone in reducing PONV. Furthermore, the combination was as effective as a higher dose of palonosetron in preventing PONV. These findings suggest that the combination of low-dose palonosetron and droperidol is an effective and potentially cost-saving alternative to a higher dose of palonosetron for preventing PONV after eye enucleation and orbital hydroxyapatite implant surgery.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1574,
+                        1743
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1320,
+                        1399
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1400,
+                        1494
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE:\nPostoperative nausea and vomiting (PONV) is commonly observed after eye enucleation and orbital hydroxyapatite implant surgery. This prospective, randomized, double-blind trial was conducted to investigate the hypothesis that compared with monotherapy using a higher dose of palonosetron, using a lower dose of palonosetron in combination with droperidol could reduce the incidence of PONV and achieve similar prophylaxis against PONV after the aforementioned surgery.\n\nABSTRACT.PATIENTS AND METHODS:\nA total of 129 patients who were in the American Society of Anesthesiologists Classes I and II, aged between 18 and 70 years, and scheduled for eye enucleation and orbital hydroxyapatite implant surgery, were enrolled in this study. They were randomized into three groups: Group P2.5 (2.5 \u03bcg/kg palonosetron), Group P7.5 (7.5 \u03bcg/kg palonosetron), and Group P+D (2.5 \u03bcg/kg palonosetron and 15 \u03bcg/kg droperidol). Patients received the different antiemetic regimens intravenously 5 min before surgery. The severity of nausea and vomiting and the complete response (CR) rate during a 72-h postoperative period were assessed.\n\nABSTRACT.RESULTS:\nAll patients completed the trial. The nausea score of Group P2.5 was significantly higher than those of the other two groups at 0\u20134 h and 24\u201348 h (P&lt;0.05). Vomiting scores among all groups were similar during all intervals (P&gt;0.05). Compared with Group P2.5, the CR rate was significantly improved at all intervals in Group P+D, except at 4\u201372 h, and was also elevated at 24\u201372 h in Group P7.5 (P&lt;0.05). Fewer patients in Group P2.5 did not experience any nausea or vomiting throughout the study (49%) compared with those in Group P7.5 (67%) and Group P+D (81%; P&lt;0.01).\n\nABSTRACT.CONCLUSION:\nCombining low-dose palonosetron with droperidol potentiated prophylaxis for PONV and achieved a similar prophylactic effect as that with a higher dose of palonosetron.",
+        "target": "Scientists did a study to see if two different medicines could help prevent people from getting sick to their stomach after a certain type of eye surgery. They tested three groups: one with a big dose of one medicine, one with a small dose, and one with a small dose plus a second medicine. They found that the mix of two medicines worked better than just a small dose of one. It also worked as well as the big dose of one medicine.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1574,
+                        1743
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1320,
+                        1399
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1400,
+                        1494
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE:\nPostoperative nausea and vomiting (PONV) is commonly observed after eye enucleation and orbital hydroxyapatite implant surgery. This prospective, randomized, double-blind trial was conducted to investigate the hypothesis that compared with monotherapy using a higher dose of palonosetron, using a lower dose of palonosetron in combination with droperidol could reduce the incidence of PONV and achieve similar prophylaxis against PONV after the aforementioned surgery.\n\nABSTRACT.PATIENTS AND METHODS:\nA total of 129 patients who were in the American Society of Anesthesiologists Classes I and II, aged between 18 and 70 years, and scheduled for eye enucleation and orbital hydroxyapatite implant surgery, were enrolled in this study. They were randomized into three groups: Group P2.5 (2.5 \u03bcg/kg palonosetron), Group P7.5 (7.5 \u03bcg/kg palonosetron), and Group P+D (2.5 \u03bcg/kg palonosetron and 15 \u03bcg/kg droperidol). Patients received the different antiemetic regimens intravenously 5 min before surgery. The severity of nausea and vomiting and the complete response (CR) rate during a 72-h postoperative period were assessed.\n\nABSTRACT.RESULTS:\nAll patients completed the trial. The nausea score of Group P2.5 was significantly higher than those of the other two groups at 0\u20134 h and 24\u201348 h (P&lt;0.05). Vomiting scores among all groups were similar during all intervals (P&gt;0.05). Compared with Group P2.5, the CR rate was significantly improved at all intervals in Group P+D, except at 4\u201372 h, and was also elevated at 24\u201372 h in Group P7.5 (P&lt;0.05). Fewer patients in Group P2.5 did not experience any nausea or vomiting throughout the study (49%) compared with those in Group P7.5 (67%) and Group P+D (81%; P&lt;0.01).\n\nABSTRACT.CONCLUSION:\nCombining low-dose palonosetron with droperidol potentiated prophylaxis for PONV and achieved a similar prophylactic effect as that with a higher dose of palonosetron.",
+        "target": "\nThe study looked at how well three different medicines worked to prevent nausea and vomiting after eye surgery. One medicine was given alone, and the other two were given together. The medicine that worked the best was the one that was given together with another medicine called droperidol. This combination helped prevent nausea and vomiting just as well as a higher dose of the same medicine given alone.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1574,
+                        1743
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1320,
+                        1399
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1400,
+                        1494
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nSince the prognosis of advanced biliary tract cancer (aBTC) still remains very poor, new therapeutic approaches, including immunotherapies, need to be developed. In the current study, we conducted an open\u2010label randomized phase II study to test whether low dose cyclophosphamide (CPA) could improve antigen\u2010specific immune responses and clinical efficacy of personalized peptide vaccination (PPV) in 49 previously treated aBTC patients. Patients with aBTC refractory to at least one regimen of chemotherapies were randomly assigned to receive PPV with low dose CPA (100 mg/day for 7 days before vaccination) (PPV/CPA, n = 24) or PPV alone (n = 25). A maximum of four HLA\u2010matched peptides were selected based on the pre\u2010existing peptide\u2010specific IgG responses, followed by subcutaneous administration. T cell responses to the vaccinated peptides in the PPV/CPA arm tended to be greater than those in the PPV alone arm. The PPV/CPA arm showed significantly better progression\u2010free survival (median time: 6.1 vs 2.9 months; hazard ratio (HR): 0.427; P = 0.008) and overall survival (median time: 12.1 vs 5.9 months; HR: 0.376; P = 0.004), compared to the PPV alone arm. The PPV alone arm, but not the PPV/CPA arm, showed significant increase in plasma IL\u20106 after vaccinations, which might be associated with inhibition of antigen\u2010specific T cell responses. These results suggested that combined treatment with low dose CPA could provide clinical benefits in aBTC patients under PPV, possibly through prevention of IL\u20106\u2010mediated immune suppression. Further clinical studies would be recommended to clarify the clinical efficacy of PPV/CPA in aBTC patients.",
+        "target": "This study looked at the effectiveness of combining low dose cyclophosphamide (CPA) with personalized peptide vaccination (PPV) in treating advanced biliary tract cancer (aBTC). The results showed that the combination of CPA and PPV was more effective than PPV alone, with improved progression-free survival and overall survival in aBTC patients. This suggests that CPA could be a promising approach for treating aBTC. Further studies are recommended to clarify the clinical efficacy of PPV/CPA in aBTC patients.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        928,
+                        1177
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1177,
+                        1282
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nSince the prognosis of advanced biliary tract cancer (aBTC) still remains very poor, new therapeutic approaches, including immunotherapies, need to be developed. In the current study, we conducted an open\u2010label randomized phase II study to test whether low dose cyclophosphamide (CPA) could improve antigen\u2010specific immune responses and clinical efficacy of personalized peptide vaccination (PPV) in 49 previously treated aBTC patients. Patients with aBTC refractory to at least one regimen of chemotherapies were randomly assigned to receive PPV with low dose CPA (100 mg/day for 7 days before vaccination) (PPV/CPA, n = 24) or PPV alone (n = 25). A maximum of four HLA\u2010matched peptides were selected based on the pre\u2010existing peptide\u2010specific IgG responses, followed by subcutaneous administration. T cell responses to the vaccinated peptides in the PPV/CPA arm tended to be greater than those in the PPV alone arm. The PPV/CPA arm showed significantly better progression\u2010free survival (median time: 6.1 vs 2.9 months; hazard ratio (HR): 0.427; P = 0.008) and overall survival (median time: 12.1 vs 5.9 months; HR: 0.376; P = 0.004), compared to the PPV alone arm. The PPV alone arm, but not the PPV/CPA arm, showed significant increase in plasma IL\u20106 after vaccinations, which might be associated with inhibition of antigen\u2010specific T cell responses. These results suggested that combined treatment with low dose CPA could provide clinical benefits in aBTC patients under PPV, possibly through prevention of IL\u20106\u2010mediated immune suppression. Further clinical studies would be recommended to clarify the clinical efficacy of PPV/CPA in aBTC patients.",
+        "target": "Scientists were trying to find a better way to treat a tough type of cancer that happens in the tubes that carry bile in our body. They did a study to see if a cancer medicine at a small dose could make a special type of new, personalized vaccine treatment better at fighting this cancer. \n\nThe scientists split the cancer patients into two groups. Some got just the vaccine, and others got the vaccine plus the cancer medicine. They picked specific ingredients for the vaccine based on what they already knew about the patient's body. \n\nThe results showed that adding the cancer medication made the vaccine work better at getting the body to fight the cancer, and these patients lived longer without the cancer getting worse. The group with just the vaccine showed increased levels of a substance called 'IL-6' in their blood, which might prevent the body from fighting off the cancer effectively. \n\nSo, the medicine seems to be helping the vaccine work better to fight this type of cancer. But, the scientists say we need more research studies to be sure of how well it works and how it should be used.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        928,
+                        1177
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1177,
+                        1282
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nSince the prognosis of advanced biliary tract cancer (aBTC) still remains very poor, new therapeutic approaches, including immunotherapies, need to be developed. In the current study, we conducted an open\u2010label randomized phase II study to test whether low dose cyclophosphamide (CPA) could improve antigen\u2010specific immune responses and clinical efficacy of personalized peptide vaccination (PPV) in 49 previously treated aBTC patients. Patients with aBTC refractory to at least one regimen of chemotherapies were randomly assigned to receive PPV with low dose CPA (100 mg/day for 7 days before vaccination) (PPV/CPA, n = 24) or PPV alone (n = 25). A maximum of four HLA\u2010matched peptides were selected based on the pre\u2010existing peptide\u2010specific IgG responses, followed by subcutaneous administration. T cell responses to the vaccinated peptides in the PPV/CPA arm tended to be greater than those in the PPV alone arm. The PPV/CPA arm showed significantly better progression\u2010free survival (median time: 6.1 vs 2.9 months; hazard ratio (HR): 0.427; P = 0.008) and overall survival (median time: 12.1 vs 5.9 months; HR: 0.376; P = 0.004), compared to the PPV alone arm. The PPV alone arm, but not the PPV/CPA arm, showed significant increase in plasma IL\u20106 after vaccinations, which might be associated with inhibition of antigen\u2010specific T cell responses. These results suggested that combined treatment with low dose CPA could provide clinical benefits in aBTC patients under PPV, possibly through prevention of IL\u20106\u2010mediated immune suppression. Further clinical studies would be recommended to clarify the clinical efficacy of PPV/CPA in aBTC patients.",
+        "target": "The doctors wanted to see if giving patients a special vaccine called personalized peptide vaccination (PPV) along with a medicine called cyclophosphamide (CPA) would help them fight cancer better. They tested this on 49 patients who had cancer in their bile ducts and had tried other treatments before. They found that the patients who got the vaccine and CPA did better than the patients who just got the vaccine alone. They lived longer and the cancer did not grow as fast. The doctors think that the CPA might have helped the immune system (the body's defense against germs and cancer) work better by stopping a protein called IL-6 from making the immune system weak. They want to do more studies to see if this is really true.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        928,
+                        1177
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1177,
+                        1282
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.AIM.\nAlthough cardiac rehabilitation improves physical fitness after a cardiac event, many eligible patients do not participate in cardiac rehabilitation and the beneficial effects of cardiac rehabilitation are often not maintained over time. Home-based training with telemonitoring guidance could improve participation rates and enhance long-term effectiveness.\n\nABSTRACT.METHODS AND RESULTS.\nWe randomised 90 low-to-moderate cardiac risk patients entering cardiac rehabilitation to three months of either home-based training with telemonitoring guidance or centre-based training. Although training adherence was similar between groups, satisfaction was higher in the home-based group (p = 0.02). Physical fitness improved at discharge (p &lt; 0.01) and at one-year follow-up (p &lt; 0.01) in both groups, without differences between groups (home-based p = 0.31 and centre-based p = 0.87). Physical activity levels did not change during the one-year study period (centre-based p = 0.38, home-based p = 0.80). Healthcare costs were statistically non-significantly lower in the home-based group (\u20ac437 per patient, 95% confidence interval \u2013562 to 1436, p = 0.39). From a societal perspective, a statistically non-significant difference of \u20ac3160 per patient in favour of the home-based group was found (95% confidence interval \u2013460 to 6780, p = 0.09) and the probability that it was more cost-effective varied between 97% and 75% (willingness-to-pay of \u20ac0 and \u20ac100,000 per quality-adjusted life-years, respectively).\n\nABSTRACT.CONCLUSION.\nWe found no differences between home-based training with telemonitoring guidance and centre-based training on physical fitness, physical activity level or health-related quality of life. However, home-based training was associated with a higher patient satisfaction and appears to be more cost-effective than centre-based training. We conclude that home-based training with telemonitoring guidance can be used as an alternative to centre-based training for low-to-moderate cardiac risk patients entering cardiac rehabilitation.",
+        "target": "This study compared the effects of home-based training with telemonitoring guidance to centre-based training on physical fitness, physical activity level and health-related quality of life in low-to-moderate cardiac risk patients entering cardiac rehabilitation. The results showed that both training methods improved physical fitness and physical activity level at discharge and one-year follow-up, without any differences between the two groups. However, the home-based training was associated with a higher patient satisfaction and appeared to be more cost-effective than centre-based training. The probability that it was more cost-effective varied between 97% and 75% (willingness-to-pay of \u20ac0 and \u20ac100,000 per quality-adjusted life-years, respectively). In conclusion, home-based training with telemonitoring guidance can be used as an alternative to centre-based training for low-to-moderate cardiac risk patients entering cardiac rehabilitation.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1019,
+                        1356
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        707,
+                        898
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1545,
+                        1731
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        591,
+                        706
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.AIM.\nAlthough cardiac rehabilitation improves physical fitness after a cardiac event, many eligible patients do not participate in cardiac rehabilitation and the beneficial effects of cardiac rehabilitation are often not maintained over time. Home-based training with telemonitoring guidance could improve participation rates and enhance long-term effectiveness.\n\nABSTRACT.METHODS AND RESULTS.\nWe randomised 90 low-to-moderate cardiac risk patients entering cardiac rehabilitation to three months of either home-based training with telemonitoring guidance or centre-based training. Although training adherence was similar between groups, satisfaction was higher in the home-based group (p = 0.02). Physical fitness improved at discharge (p &lt; 0.01) and at one-year follow-up (p &lt; 0.01) in both groups, without differences between groups (home-based p = 0.31 and centre-based p = 0.87). Physical activity levels did not change during the one-year study period (centre-based p = 0.38, home-based p = 0.80). Healthcare costs were statistically non-significantly lower in the home-based group (\u20ac437 per patient, 95% confidence interval \u2013562 to 1436, p = 0.39). From a societal perspective, a statistically non-significant difference of \u20ac3160 per patient in favour of the home-based group was found (95% confidence interval \u2013460 to 6780, p = 0.09) and the probability that it was more cost-effective varied between 97% and 75% (willingness-to-pay of \u20ac0 and \u20ac100,000 per quality-adjusted life-years, respectively).\n\nABSTRACT.CONCLUSION.\nWe found no differences between home-based training with telemonitoring guidance and centre-based training on physical fitness, physical activity level or health-related quality of life. However, home-based training was associated with a higher patient satisfaction and appears to be more cost-effective than centre-based training. We conclude that home-based training with telemonitoring guidance can be used as an alternative to centre-based training for low-to-moderate cardiac risk patients entering cardiac rehabilitation.",
+        "target": "This scientific study is about helping people who have had heart problems get better. Usually, they go to a special center to do exercise and get stronger, but not everyone can do this, and sometimes people stop going after a while. So, this study tried to see if doing exercises at home, with a special program that the doctors can monitor over the internet, would work just as well. They had some people do the exercises at the center and others did them at home.\n\nThey made sure the same amount of exercise was done by both groups and found out that both groups of people got stronger and healthier. But, those who did the exercises at home were happier with the program. Even though they didn't find a big difference in cost between the two, there's a possibility that the home program might save some money in the long run. \n\nIn the end, they feel that the home program might be a good option for people who have had heart problems because they can do it comfortably from home, still get stronger, and are happier doing it.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1019,
+                        1356
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        707,
+                        898
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1545,
+                        1731
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        591,
+                        706
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.AIM.\nAlthough cardiac rehabilitation improves physical fitness after a cardiac event, many eligible patients do not participate in cardiac rehabilitation and the beneficial effects of cardiac rehabilitation are often not maintained over time. Home-based training with telemonitoring guidance could improve participation rates and enhance long-term effectiveness.\n\nABSTRACT.METHODS AND RESULTS.\nWe randomised 90 low-to-moderate cardiac risk patients entering cardiac rehabilitation to three months of either home-based training with telemonitoring guidance or centre-based training. Although training adherence was similar between groups, satisfaction was higher in the home-based group (p = 0.02). Physical fitness improved at discharge (p &lt; 0.01) and at one-year follow-up (p &lt; 0.01) in both groups, without differences between groups (home-based p = 0.31 and centre-based p = 0.87). Physical activity levels did not change during the one-year study period (centre-based p = 0.38, home-based p = 0.80). Healthcare costs were statistically non-significantly lower in the home-based group (\u20ac437 per patient, 95% confidence interval \u2013562 to 1436, p = 0.39). From a societal perspective, a statistically non-significant difference of \u20ac3160 per patient in favour of the home-based group was found (95% confidence interval \u2013460 to 6780, p = 0.09) and the probability that it was more cost-effective varied between 97% and 75% (willingness-to-pay of \u20ac0 and \u20ac100,000 per quality-adjusted life-years, respectively).\n\nABSTRACT.CONCLUSION.\nWe found no differences between home-based training with telemonitoring guidance and centre-based training on physical fitness, physical activity level or health-related quality of life. However, home-based training was associated with a higher patient satisfaction and appears to be more cost-effective than centre-based training. We conclude that home-based training with telemonitoring guidance can be used as an alternative to centre-based training for low-to-moderate cardiac risk patients entering cardiac rehabilitation.",
+        "target": "\nThe study looked at two different ways to do cardiac rehabilitation (exercise and other activities to help your heart get stronger after a heart problem). One way was to do it at home with special equipment and guidance from a doctor or nurse, and the other way was to do it at a hospital or clinic. The study found that both ways worked about the same in terms of how much your physical fitness improved, but the way you did it at home was more fun for you and might be cheaper too!\nSo, the doctors think that doing cardiac rehabilitation at home with special equipment and guidance might be a good option for some people, especially if they don't like going to a hospital or clinic for it.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1019,
+                        1356
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        707,
+                        898
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1545,
+                        1731
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        591,
+                        706
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nInhalation of particulate matter, as part of air pollution, is associated with increased morbidity and mortality. Nanoparticles (&lt; 100 nm) are likely candidates for triggering inflammatory responses and activation of coagulation pathways because of their ability to enter lung cells and pass bronchial mucosa. We tested the hypothesis that bronchial segmental instillation of carbon nanoparticles causes inflammation and activation of coagulation pathways in healthy humans in vivo.\n\nABSTRACT.METHODS.\nThis was an investigator-initiated, randomized controlled, dose-escalation study in 26 healthy males. Participants received saline (control) in one lung segment and saline (placebo) or carbon nanoparticles 10 \u03bcg, 50 \u03bcg, or 100 \u03bcg in the contra-lateral lung. Six hours later, blood and bronchoalveolar lavage fluid (BALF) was collected for inflammation and coagulation parameters.\n\nABSTRACT.RESULTS.\nThere was a significant dose-dependent increase in blood neutrophils (p = 0.046) after challenge with carbon nanoparticles. The individual top-dose of 100 \u03bcg showed a significant (p = 0.05) increase in terms of percentage neutrophils in blood as compared to placebo.\n\nABSTRACT.CONCLUSIONS.\nThis study shows a dose-dependent effect of bronchial segmental challenge with carbon nanoparticles on circulating neutrophils of healthy volunteers. This suggests that nanoparticles in the respiratory tract induce systemic inflammation.\n\nABSTRACT.TRIAL REGISTRATION.\nDutch Trial Register no. 2976. 11 July 2011. http://www.trialregister.nl/trialreg/admin/rctview.asp?TC=2976\n\n\nABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL.\nThe online version of this article (10.1186/s12890-017-0463-x) contains supplementary material, which is available to authorized users.",
+        "target": "This study tested the hypothesis that bronchial segmental instillation of carbon nanoparticles causes inflammation and activation of coagulation pathways in healthy humans in vivo. Sixty hours after instillation, participants' blood and bronchoalveolar lavage fluid (BALF) was collected for inflammation and coagulation parameters. The results showed a significant dose-dependent increase in blood neutrophils, suggesting that nanoparticles in the respiratory tract induce systemic inflammation.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        925,
+                        1191
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nInhalation of particulate matter, as part of air pollution, is associated with increased morbidity and mortality. Nanoparticles (&lt; 100 nm) are likely candidates for triggering inflammatory responses and activation of coagulation pathways because of their ability to enter lung cells and pass bronchial mucosa. We tested the hypothesis that bronchial segmental instillation of carbon nanoparticles causes inflammation and activation of coagulation pathways in healthy humans in vivo.\n\nABSTRACT.METHODS.\nThis was an investigator-initiated, randomized controlled, dose-escalation study in 26 healthy males. Participants received saline (control) in one lung segment and saline (placebo) or carbon nanoparticles 10 \u03bcg, 50 \u03bcg, or 100 \u03bcg in the contra-lateral lung. Six hours later, blood and bronchoalveolar lavage fluid (BALF) was collected for inflammation and coagulation parameters.\n\nABSTRACT.RESULTS.\nThere was a significant dose-dependent increase in blood neutrophils (p = 0.046) after challenge with carbon nanoparticles. The individual top-dose of 100 \u03bcg showed a significant (p = 0.05) increase in terms of percentage neutrophils in blood as compared to placebo.\n\nABSTRACT.CONCLUSIONS.\nThis study shows a dose-dependent effect of bronchial segmental challenge with carbon nanoparticles on circulating neutrophils of healthy volunteers. This suggests that nanoparticles in the respiratory tract induce systemic inflammation.\n\nABSTRACT.TRIAL REGISTRATION.\nDutch Trial Register no. 2976. 11 July 2011. http://www.trialregister.nl/trialreg/admin/rctview.asp?TC=2976\n\n\nABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL.\nThe online version of this article (10.1186/s12890-017-0463-x) contains supplementary material, which is available to authorized users.",
+        "target": "Scientists did an experiment where they gave some healthy men tiny particles called nanoparticles to breathe in. These nanoparticles can enter our lungs, and they wanted to see if they caused inflammation (which is like swelling and redness you get from a scrape but inside our body) and blood clotting. They also checked how the body reacted to different amounts of these particles. They found that more particles caused more inflammation. This suggests that when we breathe in these tiny particles in the air, it can cause our body to react in a way that is not healthy.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        925,
+                        1191
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nInhalation of particulate matter, as part of air pollution, is associated with increased morbidity and mortality. Nanoparticles (&lt; 100 nm) are likely candidates for triggering inflammatory responses and activation of coagulation pathways because of their ability to enter lung cells and pass bronchial mucosa. We tested the hypothesis that bronchial segmental instillation of carbon nanoparticles causes inflammation and activation of coagulation pathways in healthy humans in vivo.\n\nABSTRACT.METHODS.\nThis was an investigator-initiated, randomized controlled, dose-escalation study in 26 healthy males. Participants received saline (control) in one lung segment and saline (placebo) or carbon nanoparticles 10 \u03bcg, 50 \u03bcg, or 100 \u03bcg in the contra-lateral lung. Six hours later, blood and bronchoalveolar lavage fluid (BALF) was collected for inflammation and coagulation parameters.\n\nABSTRACT.RESULTS.\nThere was a significant dose-dependent increase in blood neutrophils (p = 0.046) after challenge with carbon nanoparticles. The individual top-dose of 100 \u03bcg showed a significant (p = 0.05) increase in terms of percentage neutrophils in blood as compared to placebo.\n\nABSTRACT.CONCLUSIONS.\nThis study shows a dose-dependent effect of bronchial segmental challenge with carbon nanoparticles on circulating neutrophils of healthy volunteers. This suggests that nanoparticles in the respiratory tract induce systemic inflammation.\n\nABSTRACT.TRIAL REGISTRATION.\nDutch Trial Register no. 2976. 11 July 2011. http://www.trialregister.nl/trialreg/admin/rctview.asp?TC=2976\n\n\nABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL.\nThe online version of this article (10.1186/s12890-017-0463-x) contains supplementary material, which is available to authorized users.",
+        "target": "\nThis study looked at how tiny particles in the air can make people sick. The researchers wanted to know if these tiny particles, called carbon nanoparticles, can cause inflammation and trigger coagulation pathways in healthy people. They did an experiment where they put these particles in one of the lungs of 26 healthy men, and then took blood and fluid from their lungs to see if there were any changes. They found that the amount of neutrophils (a type of white blood cell) in the blood increased with the amount of particles used. This suggests that the particles in the lungs can cause inflammation in the rest of the body.\nThe study was done in the Netherlands and was registered on a website called Dutch Trial Register. The researchers used a randomized controlled design, which means they divided the participants into groups at random and gave them either a saline solution or the carbon nanoparticles. They took blood and fluid from the lungs six hours after the particles were given to see if there were any changes.\nThe study found that there was a dose-dependent increase in the number of neutrophils in the blood, which means that the number of neutrophils increased as the amount of particles given increased. This suggests that the particles in the lungs can cause inflammation in the rest of the body.\nSo, in simple terms, this study showed that tiny particles in the air can make people sick by causing inflammation in the body.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        925,
+                        1191
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nAging is associated with sarcopenia and dynapenia, with both processes contributing to functional dependence and mortality in older adults. Resistance training (RT) and increased protein intake are strategies that may contribute to health improvements in older adults. Therefore, the aim was to investigate the effects of whey protein (WP) supplementation consumed either immediately pre- or post-RT on skeletal muscle mass (SMM), muscular strength, and functional capacity in pre-conditioned older women. Seventy older women participated in this investigation and were randomly assigned to one of three groups: whey protein pre-RT and placebo post-RT (WP-PLA, n = 24), placebo pre-RT and whey protein post-RT (PLA-WP, n = 23), and placebo pre- and post-RT (PLA-PLA, n = 23). Each group ingested 35 g of WP or PLA. The RT program was carried out over 12 weeks (three times per week; 3 \u00d7 8\u201312 repetition maximum). Body composition, muscular strength, functional capacity, and dietary intake were assessed pre- and post-intervention. Two-way analysis of covariance (ANCOVA) for repeated measures, with baseline scores as covariates were used for data analysis. A time vs. group interaction (p &lt; 0.05) was observed with WP-PLA and PLA-WP presenting greater increases compared with PLA-PLA for SMM (WP-PLA = 3.4%; PLA-WP = 4.2%; PLA-PLA = 2.0%), strength (WP-PLA = 8.1%; PLA-WP = 8.3%; PLA-PLA = 7.0%), and the 10-m walk test (WP-PLA = \u221210.8%; PLA-WP = \u221211.8%; PLA-PLA = \u22124.3%). Whey protein supplementation was effective in promoting increases in SMM, muscular strength, and functional capacity in pre-conditioned older women, regardless of supplementation timing. This trial was registered at ClinicalTrials.gov: NCT03247192.",
+        "target": "This study looked at the effects of whey protein supplementation on older women who were pre-conditioned. The study found that whey protein supplementation was effective in promoting increases in skeletal muscle mass, muscular strength, and functional capacity. This suggests that whey protein supplementation can be beneficial for older adults who are looking to improve their health.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1230,
+                        1353
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nAging is associated with sarcopenia and dynapenia, with both processes contributing to functional dependence and mortality in older adults. Resistance training (RT) and increased protein intake are strategies that may contribute to health improvements in older adults. Therefore, the aim was to investigate the effects of whey protein (WP) supplementation consumed either immediately pre- or post-RT on skeletal muscle mass (SMM), muscular strength, and functional capacity in pre-conditioned older women. Seventy older women participated in this investigation and were randomly assigned to one of three groups: whey protein pre-RT and placebo post-RT (WP-PLA, n = 24), placebo pre-RT and whey protein post-RT (PLA-WP, n = 23), and placebo pre- and post-RT (PLA-PLA, n = 23). Each group ingested 35 g of WP or PLA. The RT program was carried out over 12 weeks (three times per week; 3 \u00d7 8\u201312 repetition maximum). Body composition, muscular strength, functional capacity, and dietary intake were assessed pre- and post-intervention. Two-way analysis of covariance (ANCOVA) for repeated measures, with baseline scores as covariates were used for data analysis. A time vs. group interaction (p &lt; 0.05) was observed with WP-PLA and PLA-WP presenting greater increases compared with PLA-PLA for SMM (WP-PLA = 3.4%; PLA-WP = 4.2%; PLA-PLA = 2.0%), strength (WP-PLA = 8.1%; PLA-WP = 8.3%; PLA-PLA = 7.0%), and the 10-m walk test (WP-PLA = \u221210.8%; PLA-WP = \u221211.8%; PLA-PLA = \u22124.3%). Whey protein supplementation was effective in promoting increases in SMM, muscular strength, and functional capacity in pre-conditioned older women, regardless of supplementation timing. This trial was registered at ClinicalTrials.gov: NCT03247192.",
+        "target": "This study wanted to see if drinking whey protein shakes (a type of protein drink) before or after workout exercises can help older women build more muscle and be stronger. They found out that it can! The women who had the protein shake either before or after workout had better results than those who didn't. They got more muscles, they were stronger and they could walk faster. So, drinking whey protein shake and doing workout can help older women feel better and healthier.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1230,
+                        1353
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nAging is associated with sarcopenia and dynapenia, with both processes contributing to functional dependence and mortality in older adults. Resistance training (RT) and increased protein intake are strategies that may contribute to health improvements in older adults. Therefore, the aim was to investigate the effects of whey protein (WP) supplementation consumed either immediately pre- or post-RT on skeletal muscle mass (SMM), muscular strength, and functional capacity in pre-conditioned older women. Seventy older women participated in this investigation and were randomly assigned to one of three groups: whey protein pre-RT and placebo post-RT (WP-PLA, n = 24), placebo pre-RT and whey protein post-RT (PLA-WP, n = 23), and placebo pre- and post-RT (PLA-PLA, n = 23). Each group ingested 35 g of WP or PLA. The RT program was carried out over 12 weeks (three times per week; 3 \u00d7 8\u201312 repetition maximum). Body composition, muscular strength, functional capacity, and dietary intake were assessed pre- and post-intervention. Two-way analysis of covariance (ANCOVA) for repeated measures, with baseline scores as covariates were used for data analysis. A time vs. group interaction (p &lt; 0.05) was observed with WP-PLA and PLA-WP presenting greater increases compared with PLA-PLA for SMM (WP-PLA = 3.4%; PLA-WP = 4.2%; PLA-PLA = 2.0%), strength (WP-PLA = 8.1%; PLA-WP = 8.3%; PLA-PLA = 7.0%), and the 10-m walk test (WP-PLA = \u221210.8%; PLA-WP = \u221211.8%; PLA-PLA = \u22124.3%). Whey protein supplementation was effective in promoting increases in SMM, muscular strength, and functional capacity in pre-conditioned older women, regardless of supplementation timing. This trial was registered at ClinicalTrials.gov: NCT03247192.",
+        "target": "\nThis study looked at how older women's bodies change when they do resistance training (lifting weights) and take whey protein (a special kind of food) before or after their workouts. The researchers found that taking whey protein before or after resistance training helped the women build more muscle, get stronger, and walk farther than they could before. They also found that the timing of when the women took the whey protein made a difference in how much it helped.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1230,
+                        1353
+                    ]
+                ]
+            }
+        ]
+    }
+]
