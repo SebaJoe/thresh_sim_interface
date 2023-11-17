@@ -1,0 +1,82 @@
+[
+    {
+        "source": "hello world",
+        "target": "This study looked at the effectiveness of combining low dose cyclophosphamide (CPA) with personalized peptide vaccination (PPV) in treating advanced biliary tract cancer (aBTC). The results showed that the combination of CPA and PPV was more effective than PPV alone, with improved progression-free survival and overall survival in aBTC patients. This suggests that CPA could be a promising approach for treating aBTC. Further studies are recommended to clarify the clinical efficacy of PPV/CPA in aBTC patients.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nSince the prognosis of advanced biliary tract cancer (aBTC) still remains very poor, new therapeutic approaches, including immunotherapies, need to be developed. In the current study, we conducted an open-label randomized phase II study to test whether low dose cyclophosphamide (CPA) could improve antigen-specific immune responses and clinical efficacy of personalized peptide vaccination (PPV) in 49 previously treated aBTC patients. Patients with aBTC refractory to at least one regimen of chemotherapies were randomly assigned to receive PPV with low dose CPA (100 mg/day for 7 days before vaccination) (PPV/CPA, n = 24) or PPV alone (n = 25). A maximum of four HLA-matched peptides were selected based on the pre-existing peptide-specific IgG responses, followed by subcutaneous administration. T cell responses to the vaccinated peptides in the PPV/CPA arm tended to be greater than those in the PPV alone arm. The PPV/CPA arm showed significantly better progression-free survival (median time: 6.1 vs 2.9 months; hazard ratio (HR): 0.427; P = 0.008) and overall survival (median time: 12.1 vs 5.9 months; HR: 0.376; P = 0.004), compared to the PPV alone arm. The PPV alone arm, but not the PPV/CPA arm, showed significant increase in plasma IL-6 after vaccinations, which might be associated with inhibition of antigen-specific T cell responses. These results suggested that combined treatment with low dose CPA could provide clinical benefits in aBTC patients under PPV, possibly through prevention of IL-6-mediated immune suppression. Further clinical studies would be recommended to clarify the clinical efficacy of PPV/CPA in aBTC patients.",
+        "target": "The doctors wanted to see if giving patients a special vaccine called personalized peptide vaccination (PPV) along with a medicine called cyclophosphamide (CPA) would help them fight cancer better. They tested this on 49 patients who had cancer in their bile ducts and had tried other treatments before. They found that the patients who got the vaccine and CPA did better than the patients who just got the vaccine alone. They lived longer and the cancer did not grow as fast. The doctors think that the CPA might have helped the immune system (the body's defense against germs and cancer) work better by stopping a protein called IL-6 from making the immune system weak. They want to do more studies to see if this is really true.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        928,
+                        1177
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1177,
+                        1282
+                    ]
+                ]
+            }
+        ]
+    }
+]
