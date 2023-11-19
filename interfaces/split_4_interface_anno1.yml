@@ -1,0 +1,226 @@
+instructions: | 
+  ## Instructions (Anno1)
+
+  Please follow the instructions [here](https://docs.google.com/document/d/1rM7Rq5RBmevRalXK5Dc_8iGQGpAxeQV2e4uNW98BRt0/edit#heading=h.11mbgz5eqdsc).
+
+  For each of the documents, please answer the questions (annotations) present already. Afterwards, click on **"Add Edit"** to annotate for added information and contradictions if there are any. Please do not forget to **annotate** after highlighting by clicking on the associated **pencil icon**.
+
+  Click on the pencil icon to start annotating. However, please do not click on the pencil icon when trying to close the question. Use the cancel button instead. Doing so will break the interface and cause you to restart your work. 
+
+template_name: simplification_anno
+template_label: Simplification Annotation Interface
+template_description: Interface for annotating model generated simplifications
+
+interface_text: 
+  typology:
+    source_label: "Original Abstract"
+    target_label: "Generated Summary/Simplfication"
+
+prepend_instructions: true
+
+gdrive_save:
+  folder_id: "10_QBgCc2anq408JHQvem8mDDIKLI0WI6"
+  file_prefix: "anno1_split4"
+
+
+font_size:
+  source: 16
+  target: 16
+
+display: 
+- side-by-side
+- text-side-by-side
+- disable-lines
+
+edits:
+  - name: hol_eval
+    label: "Holistic Evaluation"
+    color: red
+    icon: fa-apple-whole
+
+    annotation:
+      - name: hol_question_1
+        label: "Question 1"
+        question: "How useful is the generated summary/simplification?"
+        options: 
+        - name: hol_child_1
+          label: "1 - not useful at all"
+        
+        - name: hol_child_2
+          label: "2 - in the middle"
+    
+        - name: hol_child_3
+          label: "3 - very useful"
+        
+  
+  - name: add_info
+    label: "Added Information"
+    color: blue
+    enable_output: true
+    icon: fa-plus
+
+    annotation:
+      - name: factual
+        label: "factual"
+        question: "Is the added information factual?"
+        options: binary
+
+      - name: hal_rationale
+        label: "Question 2.2"
+        question: "Rationale:"
+        options: textarea
+
+  - name: contradictions
+    label: "Contradictions"
+    color: "#9173C7"
+    enable_input: true
+    enable_output: true
+    icon: fa-right-left
+
+    annotation:
+      - name: con_rationale
+        label: "Question 3"
+        question: "Rationale:"
+        options: textarea
+
+  - name: pico_pop
+    label: "PICO: Population"
+    color: teal
+    icon: fa-person
+
+    annotation:
+      - name: pico_pop_anno
+        label: "Question 4"
+        question: "Choose one of the following:"
+        options:
+        - name: q4_1	
+          label: "The population is mentioned, and described accurately"
+        - name: q4_2
+          label: "The population is mentioned, but described somewhat inaccurately or vaguely"
+        - name: q4_3	
+          label: "The population is mentioned, but described inaccurately or missing critical descriptors"
+        - name: q4_4	
+          label: "The population is missing in the model summary"
+        - name: q4_5	
+          label: "N/A"
+      - name: pico_pop_rat
+        label: "Question 4 Rationale"
+        question: "Please briefly explain your choice:"
+        options: textarea
+  
+  - name: pico_inter
+    label: "PICO: Interventions"
+    color: orange
+    icon: fa-syringe
+
+    annotation:
+      - name: pico_pop_inter
+        label: "Question 5"
+        question: "Choose one of the following:"
+        options:
+        - name: q4_1	
+          label: "The interventions are mentioned, and described accurately"
+        - name: q4_2
+          label: "The interventions are mentioned, but described somewhat inaccurately or vaguely"
+        - name: q4_3	
+          label: "The interventions are mentioned, but described inaccurately or missing critical descriptors"
+        - name: q4_4	
+          label: "The interventions are missing in the model summary"
+        - name: q4_5	
+          label: "N/A"
+      - name: pico_inter_rat
+        label: "Question 4 Rationale"
+        question: "Please briefly explain your choice:"
+        options: textarea
+  - name: pico_comp
+    label: "PICO: Comparator"
+    color: "#bb73b0"
+    icon: fa-less-than-equal
+
+    annotation:
+      - name: pico_pop_comp
+        label: "Question 6"
+        question: "Choose one of the following:"
+        options:
+        - name: q4_1	
+          label: "The comparator is mentioned, and described accurately"
+        - name: q4_2
+          label: "The comparator is mentioned, but described somewhat inaccurately or vaguely"
+        - name: q4_3	
+          label: "The comparator is mentioned, but described inaccurately or missing critical descriptors"
+        - name: q4_4	
+          label: "The comparator is missing in the model summary"
+        - name: q4_5	
+          label: "N/A"
+      - name: pico_comp_rat
+        label: "Question 4 Rationale"
+        question: "Please briefly explain your choice:"
+        options: textarea  
+  - name: pico_out
+    label: "PICO: Outcomes"
+    color: "#33a6f6"
+    icon: fa-ruler
+
+    annotation:
+      - name: pico_out_exhaustive
+        label: "Exhaustive"
+        question: "Are all the outcomes in the abstract mentioned in the summary?"
+        options: binary
+      - name: pico_pop_out
+        label: "Question 7"
+        question: "Choose one of the following:"
+        options:
+        - name: q4_1	
+          label: "The outcome is mentioned, and described accurately"
+        - name: q4_2
+          label: "The outcome is mentioned, but described somewhat inaccurately or vaguely"
+        - name: q4_3	
+          label: "The outcome is mentioned, but described inaccurately or missing critical descriptors"
+        - name: q4_4	
+          label: "The outcome is missing in the model summary"
+        - name: q4_5	
+          label: "N/A"
+      - name: pico_out_rat
+        label: "Question 4 Rationale"
+        question: "Please briefly explain your choice:"
+        options: textarea
+
+  - name: results
+    label: "Result Inferences"
+    color: "#009ebe"
+    icon: fa-square-poll-vertical
+    enable_input: true
+
+    annotation:
+      - name: results_anno
+        label: "Results Annotation"
+        question: "Is the highlighted result or inference mentioned in the summary? If so, is it accurate?"
+        options:
+        - name: r_1
+          label: "Accurate"
+        - name: r_vague_2
+          label: "Vague/Slightly inaccurate"
+        - name: r_2
+          label: "Inaccurate"
+        - name: r_3
+          label: "Not Mentioned"
+      - name: results_rat
+        label: "Results Rationale"
+        question: "Comments or Rationale:"
+        options: textarea
+        required: false
+  
+  - name: final_q
+    label: "Commands and Comments"
+    color: grey
+    icon: fa-comment-dots
+    
+    annotation: 	
+      - name: final_commands
+        label: "Question 8"
+        question: "Write down any commands that would help simplify this further if it were possible to interact with a model:"
+        options: textarea
+      - name: final_comments
+        question: "Write down any additional comments (optional):"
+        options: textarea
+        required: false

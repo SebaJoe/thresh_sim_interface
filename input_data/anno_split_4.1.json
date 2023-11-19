@@ -1,0 +1,1412 @@
+[
+    {
+        "source": "ABSTRACT.\nThe apparent rationale for the popular use of high doses of neuroleptics in psychotic patients is to increase the degree and speed of therapeutic response .However, several recent reports have questioned these claims. The present study was undertaken with the aim to compare the efficacy of high and low oral doses of haloperidol in the treatment of acute and transient psychotic disorders. The sample comprised of forty patients of both sexes diagnosed as acute and transient psychotic disorder who were randomly assigned to high dose (20 mg/day) and low dose (5 mg /day) haloperidol groups with equal number of subjects (n=20) in both groups. Weekly assessment was done on Brief Psychiatric Rating Scale and Haloperidol Side-effects Check List (day 7, 14, 21, 28, 35 & 42). Both groups showed significant improvement in BPRS from baseline scores on all assessments. Comparison of the improvement rate in both study groups revealed no significant difference.",
+        "target": "This study compared the effectiveness of high and low doses of haloperidol in the treatment of psychotic disorders. Forty patients were randomly assigned to either a high dose (20 mg/day) or low dose (5 mg/day) group. Both groups showed significant improvement on the Brief Psychiatric Rating Scale (BPRS) on all assessments, with no significant difference between the two groups. The results of this study suggest that both high and low doses of haloperidol are effective in treating psychotic disorders.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        878,
+                        969
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nThe apparent rationale for the popular use of high doses of neuroleptics in psychotic patients is to increase the degree and speed of therapeutic response .However, several recent reports have questioned these claims. The present study was undertaken with the aim to compare the efficacy of high and low oral doses of haloperidol in the treatment of acute and transient psychotic disorders. The sample comprised of forty patients of both sexes diagnosed as acute and transient psychotic disorder who were randomly assigned to high dose (20 mg/day) and low dose (5 mg /day) haloperidol groups with equal number of subjects (n=20) in both groups. Weekly assessment was done on Brief Psychiatric Rating Scale and Haloperidol Side-effects Check List (day 7, 14, 21, 28, 35 & 42). Both groups showed significant improvement in BPRS from baseline scores on all assessments. Comparison of the improvement rate in both study groups revealed no significant difference.",
+        "target": "This passage is about a study where they wanted to see if giving bigger or smaller amounts of a medicine (called haloperidol) would work better to help people who had a certain type of brain sickness. They had 40 people, some were given more medicine and others were given less medicine. They checked on the patients every week to see how they were doing. The result was that both groups of people started to feel better, and it didn't seem to matter if they took more medicine or less medicine, they still got better at about the same rate. So, the amount of medicine didn't really make a big difference.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        878,
+                        969
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nThe apparent rationale for the popular use of high doses of neuroleptics in psychotic patients is to increase the degree and speed of therapeutic response .However, several recent reports have questioned these claims. The present study was undertaken with the aim to compare the efficacy of high and low oral doses of haloperidol in the treatment of acute and transient psychotic disorders. The sample comprised of forty patients of both sexes diagnosed as acute and transient psychotic disorder who were randomly assigned to high dose (20 mg/day) and low dose (5 mg /day) haloperidol groups with equal number of subjects (n=20) in both groups. Weekly assessment was done on Brief Psychiatric Rating Scale and Haloperidol Side-effects Check List (day 7, 14, 21, 28, 35 & 42). Both groups showed significant improvement in BPRS from baseline scores on all assessments. Comparison of the improvement rate in both study groups revealed no significant difference.",
+        "target": "\n\"Scientists did an experiment to see if giving people with psychotic disorders very high or very low doses of a medicine called haloperidol would help them feel better faster. They divided the patients into two groups and gave them either a lot or a little of the medicine. They checked on the patients every week to see how they were doing and found that both groups got better, but there was no big difference between the two groups.\"\n\nAnswer: The passage is describing the results of a study comparing the effectiveness of high and low doses of a medicine called haloperidol in treating acute and transient psychotic disorders. The study found that both groups showed significant improvement in their symptoms, but there was no significant difference in the improvement rate between the two groups. In other words, giving patients either a\u0252 lot or a little of haloperidol did not make a big difference in how quickly they got better.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        878,
+                        969
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nAlthough early reviews of clinical findings were mostly negative, there is still a widespread belief for the efficacy of preemptive analgesia among clinicians. In this study, we evaluated whether the preemptive use of ketamine decreases post operative pain in patients undergoing appendectomy.\n\nABSTRACT.METHODS.\nIn double-blind, randomized clinical trials, 80 adult male patients undergoing an operation for acute appendicitis were studied. Patients were randomly assigned to two groups. In the operating room, patients in the ketamine group received 0.5 mg/kg of ketamine IV 10 minutes before the surgical incision. In the control group, 0.5 mg/kg of normal saline was injected. The pain intensity was assessed at time 0 (immediately after arousal) and 4, 12, and 24 hours postoperatively using the 10 points visual analogue scale (VAS).\n\nABSTRACT.RESULTS.\nEighty patients (40 for both groups) were enrolled in this study. For all of the evaluated times, the VAS score was significantly lower in the ketamine group compared to the control. The interval time for the first analgesic request was 23.1 \u00b1 6.7 minutes for the case group and 18.1 \u00b1 7.3 minutes for the control (P = 0.02). The total number of pethidine injections in the first 24 hours postoperatively was 0.6 \u00b1 0.6 for the case group and 2.0 \u00b1 0.8 for the controls (P = 0.032). There were no drug side effects for the case group.\n\nABSTRACT.CONCLUSIONS.\nA low dose of intravenously administered ketamine had a preemptive effect in reducing pain after appendectomy.",
+        "target": "This study investigated whether preemptive use of ketamine decreases post-operative pain in patients undergoing appendectomy. \n\nIn double-blind, randomized clinical trials, 80 adult male patients were studied. Patients were randomly assigned to two groups. In the operating room, patients in the ketamine group received 0.5 mg/kg of ketamine IV 10 minutes before the surgical incision. In the control group, 0.5 mg/kg of normal saline was injected. \n\nThe pain intensity was assessed at time 0 (immediately after arousal) and 4, 12, and 24 hours postoperatively using the 10 points visual analogue scale (VAS). \n\nFor all of the evaluated times, the VAS score was significantly lower in the ketamine group compared to the control. The interval time for the first analgesic request was 23.1 \u00b1 6.7 minutes for the case group and 18.1 \u00b1 7.3 minutes for the control (P = 0.02). The total number of pethidine injections in the first 24 hours postoperatively was 0.6 \u00b1 0.6 for the case group and 2.0 \u00b1 0.8 for the controls (P = 0.032). \n\nThere were no drug side effects for the case group. \n\nIn conclusion, a low dose of intravenously administered ketamine had a preemptive effect in reducing pain after appendectomy.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1204,
+                        1361
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        946,
+                        1062
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nAlthough early reviews of clinical findings were mostly negative, there is still a widespread belief for the efficacy of preemptive analgesia among clinicians. In this study, we evaluated whether the preemptive use of ketamine decreases post operative pain in patients undergoing appendectomy.\n\nABSTRACT.METHODS.\nIn double-blind, randomized clinical trials, 80 adult male patients undergoing an operation for acute appendicitis were studied. Patients were randomly assigned to two groups. In the operating room, patients in the ketamine group received 0.5 mg/kg of ketamine IV 10 minutes before the surgical incision. In the control group, 0.5 mg/kg of normal saline was injected. The pain intensity was assessed at time 0 (immediately after arousal) and 4, 12, and 24 hours postoperatively using the 10 points visual analogue scale (VAS).\n\nABSTRACT.RESULTS.\nEighty patients (40 for both groups) were enrolled in this study. For all of the evaluated times, the VAS score was significantly lower in the ketamine group compared to the control. The interval time for the first analgesic request was 23.1 \u00b1 6.7 minutes for the case group and 18.1 \u00b1 7.3 minutes for the control (P = 0.02). The total number of pethidine injections in the first 24 hours postoperatively was 0.6 \u00b1 0.6 for the case group and 2.0 \u00b1 0.8 for the controls (P = 0.032). There were no drug side effects for the case group.\n\nABSTRACT.CONCLUSIONS.\nA low dose of intravenously administered ketamine had a preemptive effect in reducing pain after appendectomy.",
+        "target": "This passage is about a study or experiment that doctors did to see if giving a certain medicine (ketamine) before an appendectomy (a surgery to remove the appendix) can help reduce pain after the operation.\n\nThe researchers had two groups: one group got the medicine before surgery and the other group got a harmless liquid (a placebo) and both groups didn't know what they were getting.\n\nThe doctors measured the pain the patients felt after their operations at different time points: right after they woke up and at 4, 12, and 24 hours after surgery. They found that the group that got the medicine felt less pain and also took longer to request for more pain killers. The group that got the medicine also used fewer additional doses of painkillers within the first day after surgery, and no one had any secondary effects from the medicine.\n\nIn simple terms, the doctors found out that a small dose of the medicine given before surgery helped to lessen the pain the patients felt after the surgery.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1204,
+                        1361
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        946,
+                        1062
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nAlthough early reviews of clinical findings were mostly negative, there is still a widespread belief for the efficacy of preemptive analgesia among clinicians. In this study, we evaluated whether the preemptive use of ketamine decreases post operative pain in patients undergoing appendectomy.\n\nABSTRACT.METHODS.\nIn double-blind, randomized clinical trials, 80 adult male patients undergoing an operation for acute appendicitis were studied. Patients were randomly assigned to two groups. In the operating room, patients in the ketamine group received 0.5 mg/kg of ketamine IV 10 minutes before the surgical incision. In the control group, 0.5 mg/kg of normal saline was injected. The pain intensity was assessed at time 0 (immediately after arousal) and 4, 12, and 24 hours postoperatively using the 10 points visual analogue scale (VAS).\n\nABSTRACT.RESULTS.\nEighty patients (40 for both groups) were enrolled in this study. For all of the evaluated times, the VAS score was significantly lower in the ketamine group compared to the control. The interval time for the first analgesic request was 23.1 \u00b1 6.7 minutes for the case group and 18.1 \u00b1 7.3 minutes for the control (P = 0.02). The total number of pethidine injections in the first 24 hours postoperatively was 0.6 \u00b1 0.6 for the case group and 2.0 \u00b1 0.8 for the controls (P = 0.032). There were no drug side effects for the case group.\n\nABSTRACT.CONCLUSIONS.\nA low dose of intravenously administered ketamine had a preemptive effect in reducing pain after appendectomy.",
+        "target": "\nSo, in this study, doctors wanted to know if giving a special medicine called ketamine before an operation for appendicitis would help reduce how much pain the patient feels after the operation. They tested this medicine on 80 grown men and found out that it really does help reduce the pain! The men who got the medicine didn't feel as much pain as the men who didn't get it. And,\ufffd/or the men who got the medicine didn't need to take as many pain medicines to feel better.\nIsn't that cool?",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1204,
+                        1361
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        946,
+                        1062
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nPostprandial hyperglycemia is associated with platelet activation. We thus investigated if meal-induced platelet activation could be attenuated by meal insulin. A randomized, double-blind, cross-over study was performed to compare postprandial platelet activation after premeal injections of placebo or insulin aspart (0.1 and 0.2 units/kg) in 18 patients with type 2 diabetes mellitus (T2DM). Platelet activation was assessed by flow cytometry, without and with stimulation by the thromboxane analog U46619 or ADP. Measurements were before and after premeal blood glucose standardization (to 6\u20137 mmol/L by insulin infusion, if needed) and at 90 min after the meal. Premeal insulin reduced postprandial hyperglycemia by 2\u20133 mmol/L compared with placebo. Postmeal insulin levels were doubled with placebo and further elevated with insulin injections. The standardized meal enhanced U46619-induced platelet P-selectin expression by 23% after placebo; this response was more than doubled after premeal insulin. U46619-induced fibrinogen binding was unchanged after meal intake with placebo but was markedly enhanced (by \u223c50\u201360%) after premeal insulin. Postprandial platelet activation correlated positively to postprandial insulin levels and inversely to glucose levels. Premeal insulin infusion was also associated with platelet activation. Our results suggest that postprandial insulin rather than glucose accounts for postprandial platelet activation in T2DM patients.",
+        "target": "This study investigated the effect of meal-induced platelet activation in type 2 diabetes mellitus (T2DM) patients and whether this could be attenuated by meal-induced insulin. A randomized, double-blind, cross-over study was conducted with 18 participants who were given either a placebo or insulin aspart (0.1 or 0.2 units/kg) before a meal. Platelet activation was measured by flow cytometry both before and after the meal, with or without the presence of the thromboxane analog U46619 or adenosine diphosphate (ADP). The results showed that premeal insulin reduced postprandial hyperglycemia by 2-3 mmol/L compared to placebo. Postmeal insulin levels were doubled with placebo and further increased with insulin injections. The standardized meal enhanced U46619-induced P-selectin expression by 23% after placebo, which was more than doubled after premeal insulin. U46619-induced fibrinogen binding was unchanged after meal intake with placebo but was markedly enhanced (by 50-60%) after premeal insulin. Postprandial platelet activation correlated positively with postprandial insulin levels and inversely with glucose levels. Premeal insulin infusion was also associated with platelet activation. These results suggest that postprandial insulin rather than glucose accounts for postprandial platelet activation in T2DM patients.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1018,
+                        1158
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        861,
+                        1016
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nPostprandial hyperglycemia is associated with platelet activation. We thus investigated if meal-induced platelet activation could be attenuated by meal insulin. A randomized, double-blind, cross-over study was performed to compare postprandial platelet activation after premeal injections of placebo or insulin aspart (0.1 and 0.2 units/kg) in 18 patients with type 2 diabetes mellitus (T2DM). Platelet activation was assessed by flow cytometry, without and with stimulation by the thromboxane analog U46619 or ADP. Measurements were before and after premeal blood glucose standardization (to 6\u20137 mmol/L by insulin infusion, if needed) and at 90 min after the meal. Premeal insulin reduced postprandial hyperglycemia by 2\u20133 mmol/L compared with placebo. Postmeal insulin levels were doubled with placebo and further elevated with insulin injections. The standardized meal enhanced U46619-induced platelet P-selectin expression by 23% after placebo; this response was more than doubled after premeal insulin. U46619-induced fibrinogen binding was unchanged after meal intake with placebo but was markedly enhanced (by \u223c50\u201360%) after premeal insulin. Postprandial platelet activation correlated positively to postprandial insulin levels and inversely to glucose levels. Premeal insulin infusion was also associated with platelet activation. Our results suggest that postprandial insulin rather than glucose accounts for postprandial platelet activation in T2DM patients.",
+        "target": "Sure, this passage is talking about an experiment that doctors did to learn how food and insulin affect blood sugar and blood platelets in people with type 2 diabetes. \n\nPeople with diabetes have more sugar in their blood after they eat a meal, and this can make their blood platelets (tiny particles in our blood that help it clot or stick together) more active. The doctors wanted to see if giving insulin before the meal could change this. They tried giving some patients insulin and others a placebo, which is like a fake medicine, before they ate. \n\nThey found out that insulin did lower the amount of sugar in the blood after eating. Still, it also made the platelets even more active than before. The sugar didn't seem to be the cause for this, it was the insulin. \n\nSo, this study helps us understand that it's the insulin, not just the sugar, that can make platelets more active in people with type 2 diabetes after they eat. \n\nIt's like if you put a bunch of hyper kids in a room - if you give them candy (sugar), they get hyper, but if you add in some more intense games too (insulin), they get even more hyper. In this case, the blood platelets are the hyper kids.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1018,
+                        1158
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        861,
+                        1016
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nPostprandial hyperglycemia is associated with platelet activation. We thus investigated if meal-induced platelet activation could be attenuated by meal insulin. A randomized, double-blind, cross-over study was performed to compare postprandial platelet activation after premeal injections of placebo or insulin aspart (0.1 and 0.2 units/kg) in 18 patients with type 2 diabetes mellitus (T2DM). Platelet activation was assessed by flow cytometry, without and with stimulation by the thromboxane analog U46619 or ADP. Measurements were before and after premeal blood glucose standardization (to 6\u20137 mmol/L by insulin infusion, if needed) and at 90 min after the meal. Premeal insulin reduced postprandial hyperglycemia by 2\u20133 mmol/L compared with placebo. Postmeal insulin levels were doubled with placebo and further elevated with insulin injections. The standardized meal enhanced U46619-induced platelet P-selectin expression by 23% after placebo; this response was more than doubled after premeal insulin. U46619-induced fibrinogen binding was unchanged after meal intake with placebo but was markedly enhanced (by \u223c50\u201360%) after premeal insulin. Postprandial platelet activation correlated positively to postprandial insulin levels and inversely to glucose levels. Premeal insulin infusion was also associated with platelet activation. Our results suggest that postprandial insulin rather than glucose accounts for postprandial platelet activation in T2DM patients.",
+        "target": "This study found that eating food can make your blood sugar levels go up, and it can also make your blood platelets more active. The researchers gave some people insulin before they ate a meal, and they found that this made the platelets less active. They also found that the platelets were more active when the people had a lot of insulin in their blood. So, the researchers think that the insulin in the blood might be causing the platelets to become more active after eating.\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1018,
+                        1158
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        861,
+                        1016
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nInduction of labour (IOL) is one of the commonest obstetric interventions, with significant impact on both the individual woman and health service delivery. Outpatient IOL is an attractive option to reduce these impacts. To date there is little data comparing outpatient and inpatient IOL methods, and potential safety concerns (hyperstimulation) if prostaglandins, the standard inpatient IOL medications, are used in the outpatient setting. The purpose of this study was to assess feasibility, clinical effectiveness and patient acceptability of outpatient Foley catheter (OPC) vs. inpatient vaginal PGE2 (IP) for induction of labour (IOL) at term.\n\nABSTRACT.METHODS.\nWomen with an unfavourable cervix requiring IOL at term (N = 101) were randomised to outpatient care using Foley catheter (OPC, n = 50) or inpatient care using vaginal PGE2 (IP, n = 51). OPC group had Foley catheter inserted and were discharged overnight following a reassuring cardiotocograph. IP group received 2 mg/1 mg vaginal PGE2 if nulliparous or 1 mg/1 mg if multiparous. Main outcome measures were inpatient stay (prior to birth, in Birthing Unit, total), mode of birth, induction to delivery interval, adverse reactions and patient satisfaction.\n\nABSTRACT.RESULTS.\nOPC group had shorter hospital stay prior to birth (21.3 vs. 32.4 hrs, p &lt; .001), IP were more likely to achieve vaginal birth within 12 hours of presenting to Birthing Unit (53% vs. 28%, p = .01). Vaginal birth rates (66% OPC Vs. 71% IP), total induction to delivery time (33.5 hrs vs. 31.3 hrs) and total inpatient times (96 hrs OPC Vs. 105 hrs IP) were similar. OPC group felt less pain (significant discomfort 26% Vs 58%, p = .003), and had more sleep (5.8 Vs 3.4 hours, p &lt; .001), during cervical preparation, but were more likely to require oxytocin IOL (88 Vs 59%, p = .001).\n\nABSTRACT.CONCLUSIONS.\nOPC was feasible and acceptable for IOL of women with an unfavourable cervix at term compared to IP, however did not show a statistically significant reduction in total inpatient stay and was associated with increased oxytocin IOL.\n\nABSTRACT.TRIAL REGISTRATION.\nAustralian New Zealand Clinical Trials Registry, ACTRN:12609000420246.",
+        "target": "This study compared outpatient Foley catheter induction of labour (OPC IOL) with inpatient vaginal prostaglandin induction of labour (IP PGE2 IOL) for women with an unfavourable cervix at term. The OPC IOL group had a shorter hospital stay prior to birth, but was more likely to require oxytocin IOL. There were no significant differences in total induction to delivery time, total inpatient stay, or discomfort or sleep during cervical preparation.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1633,
+                        1853
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1265,
+                        1465
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nInduction of labour (IOL) is one of the commonest obstetric interventions, with significant impact on both the individual woman and health service delivery. Outpatient IOL is an attractive option to reduce these impacts. To date there is little data comparing outpatient and inpatient IOL methods, and potential safety concerns (hyperstimulation) if prostaglandins, the standard inpatient IOL medications, are used in the outpatient setting. The purpose of this study was to assess feasibility, clinical effectiveness and patient acceptability of outpatient Foley catheter (OPC) vs. inpatient vaginal PGE2 (IP) for induction of labour (IOL) at term.\n\nABSTRACT.METHODS.\nWomen with an unfavourable cervix requiring IOL at term (N = 101) were randomised to outpatient care using Foley catheter (OPC, n = 50) or inpatient care using vaginal PGE2 (IP, n = 51). OPC group had Foley catheter inserted and were discharged overnight following a reassuring cardiotocograph. IP group received 2 mg/1 mg vaginal PGE2 if nulliparous or 1 mg/1 mg if multiparous. Main outcome measures were inpatient stay (prior to birth, in Birthing Unit, total), mode of birth, induction to delivery interval, adverse reactions and patient satisfaction.\n\nABSTRACT.RESULTS.\nOPC group had shorter hospital stay prior to birth (21.3 vs. 32.4 hrs, p &lt; .001), IP were more likely to achieve vaginal birth within 12 hours of presenting to Birthing Unit (53% vs. 28%, p = .01). Vaginal birth rates (66% OPC Vs. 71% IP), total induction to delivery time (33.5 hrs vs. 31.3 hrs) and total inpatient times (96 hrs OPC Vs. 105 hrs IP) were similar. OPC group felt less pain (significant discomfort 26% Vs 58%, p = .003), and had more sleep (5.8 Vs 3.4 hours, p &lt; .001), during cervical preparation, but were more likely to require oxytocin IOL (88 Vs 59%, p = .001).\n\nABSTRACT.CONCLUSIONS.\nOPC was feasible and acceptable for IOL of women with an unfavourable cervix at term compared to IP, however did not show a statistically significant reduction in total inpatient stay and was associated with increased oxytocin IOL.\n\nABSTRACT.TRIAL REGISTRATION.\nAustralian New Zealand Clinical Trials Registry, ACTRN:12609000420246.",
+        "target": "A group of doctors are studying the best way to help pregnant women who are having trouble going into labor naturally. They randomly put some women in a home treatment group, where the women had a little device called a Foley catheter put in and then were sent home. The rest of the women were put in a hospital group where they were given a medicine to make labor start.\n\nThe study found out that the home treatment group stayed less time in the hospital before the baby was born, they felt less pain, and also got more sleep. But, they had to get more medicine to help their labor progress. The hospital group women delivered a bit faster after they went into active labor. But, overall both groups were pretty close in how long it took from the time labor was started until the baby was born, and the number of women who had vaginal births wasn't very different.\n\nSo, the doctors concluded that both treatments are acceptable and safe. However, the study found the home treatment group didn't significantly reduce the total time spent in the hospital and they more often needed additional labour inducing medicine.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1633,
+                        1853
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1265,
+                        1465
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nInduction of labour (IOL) is one of the commonest obstetric interventions, with significant impact on both the individual woman and health service delivery. Outpatient IOL is an attractive option to reduce these impacts. To date there is little data comparing outpatient and inpatient IOL methods, and potential safety concerns (hyperstimulation) if prostaglandins, the standard inpatient IOL medications, are used in the outpatient setting. The purpose of this study was to assess feasibility, clinical effectiveness and patient acceptability of outpatient Foley catheter (OPC) vs. inpatient vaginal PGE2 (IP) for induction of labour (IOL) at term.\n\nABSTRACT.METHODS.\nWomen with an unfavourable cervix requiring IOL at term (N = 101) were randomised to outpatient care using Foley catheter (OPC, n = 50) or inpatient care using vaginal PGE2 (IP, n = 51). OPC group had Foley catheter inserted and were discharged overnight following a reassuring cardiotocograph. IP group received 2 mg/1 mg vaginal PGE2 if nulliparous or 1 mg/1 mg if multiparous. Main outcome measures were inpatient stay (prior to birth, in Birthing Unit, total), mode of birth, induction to delivery interval, adverse reactions and patient satisfaction.\n\nABSTRACT.RESULTS.\nOPC group had shorter hospital stay prior to birth (21.3 vs. 32.4 hrs, p &lt; .001), IP were more likely to achieve vaginal birth within 12 hours of presenting to Birthing Unit (53% vs. 28%, p = .01). Vaginal birth rates (66% OPC Vs. 71% IP), total induction to delivery time (33.5 hrs vs. 31.3 hrs) and total inpatient times (96 hrs OPC Vs. 105 hrs IP) were similar. OPC group felt less pain (significant discomfort 26% Vs 58%, p = .003), and had more sleep (5.8 Vs 3.4 hours, p &lt; .001), during cervical preparation, but were more likely to require oxytocin IOL (88 Vs 59%, p = .001).\n\nABSTRACT.CONCLUSIONS.\nOPC was feasible and acceptable for IOL of women with an unfavourable cervix at term compared to IP, however did not show a statistically significant reduction in total inpatient stay and was associated with increased oxytocin IOL.\n\nABSTRACT.TRIAL REGISTRATION.\nAustralian New Zealand Clinical Trials Registry, ACTRN:12609000420246.",
+        "target": "\nThis study looked at how two different ways of inducing labor (IOL) compare. One way is called outpatient IOL and the other is called inpatient IOL. The study found that the outpatient way is just as good as the inpatient way, but it doesn't make you stay in the hospital as long. The outpatient way also makes you feel less pain and sleep more during the preparation time, but you are more likely to need extra medicine to help labor progress.\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1633,
+                        1853
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1265,
+                        1465
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nThe current study aimed to observe the effects of sufentanil and remifentanil combined with propofol in target-controlled infusion (TCI) on perioperative stress reaction in elderly patients. A total of 80 elderly patients requiring general anesthesia were recruited. They were divided into four groups (each n=20) according to different target concentrations of remifentanil and sufentanil. These target concentrations were: 4 ng/ml remifentanil + 0.2 ng/ml sufentanil for group I; 3 ng/ml remifentanil + 0.3 ng/ml sufentanil for group II; 2 ng/ml remifentanil + 0.5 ng/ml sufentanil for anesthesia induction and post-intubation 3 ng/ml remifentanil + 0.2 ng/ml sufentanil for anesthesia maintenance for group III; and 5 ng/ml remifentanil for anesthesia induction and post-intubation 4 ng/ml remifentanil for anesthesia maintenance for group IV. Norepinephrine (NE), epinephrine (E) and angiotensin II (Ang II) levels in plasma were measured prior to the induction of anesthesia, as well as at several different time-points following surgery. The numbers of intraoperative severe hemodynamic fluctuation, postoperative eye-opening and extubation time, and post-extubation restlessness and pain scores were recorded. Group IV had a larger circulation fluctuation control number and higher levels of NE, E and Ang II at 3 h after surgery than any other group (P&lt;0.01). Although group IV had shorter postoperative eye-opening and extubation times compared with the other groups (P&lt;0.05), it also had higher restlessness and pain scores (P&lt;0.01). The combined use of sufentanil and remifentanil stabilizes perioperative hemodynamics and reduces stress hormone levels.",
+        "target": "This study looked at the effects of combining sufentanil and remifentanil with propofol in target-controlled infusions (TCI) on elderly patients' stress reactions during surgery. A total of 80 elderly patients requiring general anesthesia were recruited and divided into four groups of 20 each. The target concentrations for remifentanil and sufentanil were 4 ng/ml for group I, 3 ng/ml for group II, 2 ng/ml for anesthesia induction and post-intubation 3 ng/ml for group III, and 5 ng/ml for anesthesia induction and post-intubation 4 ng/ml for group IV. Norepinephrine (NE), epinephrine (E) and angiotensin II (Ang II) levels in plasma were measured prior to the induction of anesthesia, as well as at several different time-points following surgery. The numbers of intraoperative severe hemodynamic fluctuations, postoperative eye-opening and extubation time, and post-extubation restlessness and pain scores were recorded. Group IV had a larger circulation fluctuation control number and higher levels of NE, E and Ang II at 3 h after surgery than any other group (P&lt;0.01). Although group IV had shorter postoperative eye-opening and extubation times compared with the other groups (P&lt;0.05), it also had higher restlessness and pain scores (P&lt;0.01). The combined use of sufentanil and remifentanil stabilizes perioperative hemodynamics and reduces stress hormone levels.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1381,
+                        1561
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nThe current study aimed to observe the effects of sufentanil and remifentanil combined with propofol in target-controlled infusion (TCI) on perioperative stress reaction in elderly patients. A total of 80 elderly patients requiring general anesthesia were recruited. They were divided into four groups (each n=20) according to different target concentrations of remifentanil and sufentanil. These target concentrations were: 4 ng/ml remifentanil + 0.2 ng/ml sufentanil for group I; 3 ng/ml remifentanil + 0.3 ng/ml sufentanil for group II; 2 ng/ml remifentanil + 0.5 ng/ml sufentanil for anesthesia induction and post-intubation 3 ng/ml remifentanil + 0.2 ng/ml sufentanil for anesthesia maintenance for group III; and 5 ng/ml remifentanil for anesthesia induction and post-intubation 4 ng/ml remifentanil for anesthesia maintenance for group IV. Norepinephrine (NE), epinephrine (E) and angiotensin II (Ang II) levels in plasma were measured prior to the induction of anesthesia, as well as at several different time-points following surgery. The numbers of intraoperative severe hemodynamic fluctuation, postoperative eye-opening and extubation time, and post-extubation restlessness and pain scores were recorded. Group IV had a larger circulation fluctuation control number and higher levels of NE, E and Ang II at 3 h after surgery than any other group (P&lt;0.01). Although group IV had shorter postoperative eye-opening and extubation times compared with the other groups (P&lt;0.05), it also had higher restlessness and pain scores (P&lt;0.01). The combined use of sufentanil and remifentanil stabilizes perioperative hemodynamics and reduces stress hormone levels.",
+        "target": "Scientists did a study to see how two drugs, sufentanil and remifentanil, used with another drug called propofol, affect stress reactions in old people during surgery. To do this, they tested four groups with different amounts of these drugs and checked things like their heart rates and stress hormones. They found that combining the two drugs helped keep the patient's heart rate stable and reduced their stress. However, one group that got more remifentanil had quicker wake-up times after surgery but also felt more restless and pain.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1381,
+                        1561
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nThe current study aimed to observe the effects of sufentanil and remifentanil combined with propofol in target-controlled infusion (TCI) on perioperative stress reaction in elderly patients. A total of 80 elderly patients requiring general anesthesia were recruited. They were divided into four groups (each n=20) according to different target concentrations of remifentanil and sufentanil. These target concentrations were: 4 ng/ml remifentanil + 0.2 ng/ml sufentanil for group I; 3 ng/ml remifentanil + 0.3 ng/ml sufentanil for group II; 2 ng/ml remifentanil + 0.5 ng/ml sufentanil for anesthesia induction and post-intubation 3 ng/ml remifentanil + 0.2 ng/ml sufentanil for anesthesia maintenance for group III; and 5 ng/ml remifentanil for anesthesia induction and post-intubation 4 ng/ml remifentanil for anesthesia maintenance for group IV. Norepinephrine (NE), epinephrine (E) and angiotensin II (Ang II) levels in plasma were measured prior to the induction of anesthesia, as well as at several different time-points following surgery. The numbers of intraoperative severe hemodynamic fluctuation, postoperative eye-opening and extubation time, and post-extubation restlessness and pain scores were recorded. Group IV had a larger circulation fluctuation control number and higher levels of NE, E and Ang II at 3 h after surgery than any other group (P&lt;0.01). Although group IV had shorter postoperative eye-opening and extubation times compared with the other groups (P&lt;0.05), it also had higher restlessness and pain scores (P&lt;0.01). The combined use of sufentanil and remifentanil stabilizes perioperative hemodynamics and reduces stress hormone levels.",
+        "target": "\nThis study looked at how two different drugs, sufentanil and remifentanil, can help control a patient's blood pressure during surgery. The researchers gave these drugs to 80 elderly patients in different combinations and measured how well their blood pressure was controlled. They also looked at how well the patients were able to open their eyes after surgery and how long it took them to stop breathing with a machine. The study found that the combination of these two drugs helped keep the patients' blood pressure stable and reduced the levels of stress hormones in their bodies. However, the patients in the highest dose group had more trouble opening their eyes after surgery and were more restless and in pain.\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1381,
+                        1561
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.PURPOSE.\nTo compare the short term effects of bevacizumab and ranibizumab injections on the regression of corneal neovascularization (NV).\n\nABSTRACT.METHODS.\nSixteen eyes of 16 patients with corneal NV were randomly assigned for an injection with 2.5 mg of bevacizumab (group 1, n = 8) or 1 mg of ranibizumab (group 2, n = 8) through subconjunctival and intrastromal routes. The patients were prospectively followed-up for one month after the injections. Corneal NV areas, as shown on corneal slit-lamp photographs stored in JPEG format, were calculated using Image J software before the injection, one week after the injection, and one month after the injection. The corneal NV areas were compared before and after the injections.\n\nABSTRACT.RESULTS.\nSeven women and nine men, with an average age of 51 years, presented with corneal NV secondary to herpetic keratitis (7 cases), graft rejection (6), chemical burn (1), pemphigoid (1), and recurrent ulcer (1). In group I, the preoperative corneal NV area (8.75 \u00b1 4.33%) was significantly decreased to 5.62 \u00b1 3.86% one week after the injection and to 6.35 \u00b1 3.02% one month after the injection (p = 0.012, 0.012, respectively). The corneal NV area in group 2 also exhibited a significant change, from 7.37 \u00b1 4.33% to 6.72 \u00b1 4.16% one week after the injection (p = 0.012). However, no significant change was observed one month after the injection. The mean decrease in corneal NV area one month after injection in group 1 (28.4 \u00b1 9.01%) was significantly higher than in group 2 (4.51 \u00b1 11.64%, p = 0.001).\n\nABSTRACT.CONCLUSIONS.\nBevacizumab injection resulted in a more effective and stable regression of corneal NV compared to the ranibizumab injection. The potency and dose of these two drugs for the regression of corneal NV require further investigation.",
+        "target": "Sixteen eyes of 16 patients with corneal neovascularization (NV) were randomly assigned to receive either 2.5 mg of bevacizumab or 1 mg of ranibizumab through subconjunctival and intrastromal routes. The patients were prospectively followed up for one month after the injections. The corneal NV areas, as seen on corneal slit-lamp photographs stored as JPEG files, were calculated before the injections, one week after the injections, and one month after the injections. The corneal NV areas were compared before and after the injections.\n\nThe results showed that seven women and nine men, with an average age of 51 years, presented with corneal NV secondary to herpetic keratitis (7 cases), graft rejection (6), chemical burn (1), pemphigoid (1), and recurrent ulcer (1). In group 1, the preoperative corneal NV area (8.75 \u00b1 4.33%) was significantly decreased to 5.62 \u00b1 3.86% one week after the injection and to 6.35 \u00b1 3.02% one month after the injection (p = 0.012, 0.012, respectively). The corneal NV area in group 2 also exhibited a significant change, from 7.37 \u00b1 4.33% to 6.72 \u00b1 4.16% one week after the injection (p = 0.012). However, no significant change was observed one month after the injection. The mean decrease in corneal NV area one month after injection in group 1 (28.4 \u00b1 9.01%) was significantly higher than in group 2 (4.51 \u00b1 11.64%, p = 0.001).\n\nThese results suggest that bevacizumab injection is more effective and stable in the regression of corneal NV compared to ranibizumab. The potency and dose of these two drugs for the regression of corneal NV require further investigation.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        969,
+                        1185
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.PURPOSE.\nTo compare the short term effects of bevacizumab and ranibizumab injections on the regression of corneal neovascularization (NV).\n\nABSTRACT.METHODS.\nSixteen eyes of 16 patients with corneal NV were randomly assigned for an injection with 2.5 mg of bevacizumab (group 1, n = 8) or 1 mg of ranibizumab (group 2, n = 8) through subconjunctival and intrastromal routes. The patients were prospectively followed-up for one month after the injections. Corneal NV areas, as shown on corneal slit-lamp photographs stored in JPEG format, were calculated using Image J software before the injection, one week after the injection, and one month after the injection. The corneal NV areas were compared before and after the injections.\n\nABSTRACT.RESULTS.\nSeven women and nine men, with an average age of 51 years, presented with corneal NV secondary to herpetic keratitis (7 cases), graft rejection (6), chemical burn (1), pemphigoid (1), and recurrent ulcer (1). In group I, the preoperative corneal NV area (8.75 \u00b1 4.33%) was significantly decreased to 5.62 \u00b1 3.86% one week after the injection and to 6.35 \u00b1 3.02% one month after the injection (p = 0.012, 0.012, respectively). The corneal NV area in group 2 also exhibited a significant change, from 7.37 \u00b1 4.33% to 6.72 \u00b1 4.16% one week after the injection (p = 0.012). However, no significant change was observed one month after the injection. The mean decrease in corneal NV area one month after injection in group 1 (28.4 \u00b1 9.01%) was significantly higher than in group 2 (4.51 \u00b1 11.64%, p = 0.001).\n\nABSTRACT.CONCLUSIONS.\nBevacizumab injection resulted in a more effective and stable regression of corneal NV compared to the ranibizumab injection. The potency and dose of these two drugs for the regression of corneal NV require further investigation.",
+        "target": "This passage is about a test where doctors were trying to see which of two medicines, called bevacizumab and ranibizumab, is better at treating an eye condition where extra blood vessels grow in the cornea (the clear front part of the eye), which is not supposed to happen. \n\nThey tested these treatments on 16 people and gave half of them one drug and the other half the other drug. The medicines were injected in a very specific way into the eye and they checked their progress after one week and then after a month.\n\nThe people who got bevacizumab saw a decrease in the extra blood vessels, and it was even lower after a month. But for the people who got ranibizumab, there was a slight decrease in these extra vessels after a week, but no notable change after a month. \n\nSo, from this one test, it looked like bevacizumab might do a better job than ranibizumab in treating this condition. However, the doctors said that they still have to look into it more to know the exact amount and strength of each medicine needed to best treat this condition.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        969,
+                        1185
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.PURPOSE.\nTo compare the short term effects of bevacizumab and ranibizumab injections on the regression of corneal neovascularization (NV).\n\nABSTRACT.METHODS.\nSixteen eyes of 16 patients with corneal NV were randomly assigned for an injection with 2.5 mg of bevacizumab (group 1, n = 8) or 1 mg of ranibizumab (group 2, n = 8) through subconjunctival and intrastromal routes. The patients were prospectively followed-up for one month after the injections. Corneal NV areas, as shown on corneal slit-lamp photographs stored in JPEG format, were calculated using Image J software before the injection, one week after the injection, and one month after the injection. The corneal NV areas were compared before and after the injections.\n\nABSTRACT.RESULTS.\nSeven women and nine men, with an average age of 51 years, presented with corneal NV secondary to herpetic keratitis (7 cases), graft rejection (6), chemical burn (1), pemphigoid (1), and recurrent ulcer (1). In group I, the preoperative corneal NV area (8.75 \u00b1 4.33%) was significantly decreased to 5.62 \u00b1 3.86% one week after the injection and to 6.35 \u00b1 3.02% one month after the injection (p = 0.012, 0.012, respectively). The corneal NV area in group 2 also exhibited a significant change, from 7.37 \u00b1 4.33% to 6.72 \u00b1 4.16% one week after the injection (p = 0.012). However, no significant change was observed one month after the injection. The mean decrease in corneal NV area one month after injection in group 1 (28.4 \u00b1 9.01%) was significantly higher than in group 2 (4.51 \u00b1 11.64%, p = 0.001).\n\nABSTRACT.CONCLUSIONS.\nBevacizumab injection resulted in a more effective and stable regression of corneal NV compared to the ranibizumab injection. The potency and dose of these two drugs for the regression of corneal NV require further investigation.",
+        "target": "\nThis study compared two different medicines for treating a condition called corneal neovascularization (NV). Corneal NV is when new blood vessels grow into the cornea, which is the clear part of the eye. The two medicines used in this study were bevacizumab and ranibizumab. The researchers found that bevacizumab worked better and faster than ranibizumab in reducing the size of the corneal NV. Bevacizumab also kept working better after one month, while ranibizumab did not. This means that doctors may want to use bevacizumab more often to treat corneal NV.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        969,
+                        1185
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nThe purpose of this study was to determine the effects of a pre-exercise meal on the plasma human growth hormone (hGH) response and fat oxidation during walking. Subjects (n=8) were randomly provided with either 1 g/kg body weight of glucose in 200 mL water (CHO) or 200 mL water alone (CON) 30 min prior to exercise and subsequently walked on a treadmill at 50% of VO2max for 60 min. Plasma hGH concentrations were significantly higher in subjects who received CHO compared to those who received CON at 15 and 30 min. The fat oxidation rate in the CHO was significantly lower than the CON while walking for 5~15, 25~35 and 45~55 min. Plasma FFA levels were also significantly lower in the CHO compared to the CON at 30, 45 and 60 min. Plasma glucose levels in the CHO were significantly lower while plasma insulin levels were significantly higher than in the CON at 15 and 30 min. Therefore, the results of this study suggest that the elevation of plasma hGH levels due to the intake of a pre-exercise meal may not be strongly related to fat oxidation and plasma free fatty acid (FFA) levels during low-intensity exercise.",
+        "target": "This study looked at the effects of a pre-exercise meal on the body's response to walking exercise. Eight people took part in the study, with half of them given a drink containing 1 gram of glucose per kilogram of body weight 30 minutes before the exercise began. The other half were given a drink containing no sugar. The researchers measured the participants' hormone levels and fat oxidation rates every 15 minutes during the exercise. \n\nThe results showed that the hormone levels of the participants who had the sugar drink were higher than those who had the sugar-free drink at 15 and 30 minutes. The sugar drink also caused the fat oxidation rate to be lower than the control group during the exercise. The sugar drink also caused the participants' plasma free fatty acid levels to be lower than the control group at 30, 45, and 60 minutes. The sugar drink also lowered the participants' plasma glucose levels at 15 and 30 minutes, while increasing their plasma insulin levels at the same time. \n\nIn conclusion, the results of this study suggest that the elevation of hormone levels due to the intake of a pre-exercise meal may not be strongly related to fat oxidation and plasma free fatty acid levels during low-intensity exercise.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        529,
+                        644
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        645,
+                        745
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        393,
+                        528
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        746,
+                        891
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nThe purpose of this study was to determine the effects of a pre-exercise meal on the plasma human growth hormone (hGH) response and fat oxidation during walking. Subjects (n=8) were randomly provided with either 1 g/kg body weight of glucose in 200 mL water (CHO) or 200 mL water alone (CON) 30 min prior to exercise and subsequently walked on a treadmill at 50% of VO2max for 60 min. Plasma hGH concentrations were significantly higher in subjects who received CHO compared to those who received CON at 15 and 30 min. The fat oxidation rate in the CHO was significantly lower than the CON while walking for 5~15, 25~35 and 45~55 min. Plasma FFA levels were also significantly lower in the CHO compared to the CON at 30, 45 and 60 min. Plasma glucose levels in the CHO were significantly lower while plasma insulin levels were significantly higher than in the CON at 15 and 30 min. Therefore, the results of this study suggest that the elevation of plasma hGH levels due to the intake of a pre-exercise meal may not be strongly related to fat oxidation and plasma free fatty acid (FFA) levels during low-intensity exercise.",
+        "target": "This study wanted to understand what happens to our body when we eat before exercising. They studied 8 people, half of them given food (sugar from glucose dissolved in water) and half of them just water before they walked on a treadmill for an hour. They found that people who had food before exercising had more growth hormones in their blood than those who only had water. However, they also found that people who ate before exercising burned less fat during exercise. They also found that their blood sugar was lower, and insulin (a hormone that controls blood sugar levels) was higher. This suggests that eating before you do light exercise doesn't necessarily help you burn more fat, even though it might increase growth hormones in your blood.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        529,
+                        644
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        645,
+                        745
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        393,
+                        528
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        746,
+                        891
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nThe purpose of this study was to determine the effects of a pre-exercise meal on the plasma human growth hormone (hGH) response and fat oxidation during walking. Subjects (n=8) were randomly provided with either 1 g/kg body weight of glucose in 200 mL water (CHO) or 200 mL water alone (CON) 30 min prior to exercise and subsequently walked on a treadmill at 50% of VO2max for 60 min. Plasma hGH concentrations were significantly higher in subjects who received CHO compared to those who received CON at 15 and 30 min. The fat oxidation rate in the CHO was significantly lower than the CON while walking for 5~15, 25~35 and 45~55 min. Plasma FFA levels were also significantly lower in the CHO compared to the CON at 30, 45 and 60 min. Plasma glucose levels in the CHO were significantly lower while plasma insulin levels were significantly higher than in the CON at 15 and 30 min. Therefore, the results of this study suggest that the elevation of plasma hGH levels due to the intake of a pre-exercise meal may not be strongly related to fat oxidation and plasma free fatty acid (FFA) levels during low-intensity exercise.",
+        "target": "\nThis study looked at how eating something before exercising affects the body's hormone levels and how much fat it burns during exercise. The researchers found that eating a meal before exercise doesn't always make the body burn more fat, even though it does raise the level of a hormone called human growth hormone (hGH). They also found that the body's insulin levels went up after eating the meal, which might explain why the body didn't burn as much fat as expected.\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        529,
+                        644
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        645,
+                        745
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        393,
+                        528
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        746,
+                        891
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nTo evaluate the effects of probiotic (VSL#3) and omega-3 fatty acid on insulin sensitivity, blood lipids, and inflammation, we conducted a clinical trial in 60 overweight (BMI &gt; 25), healthy adults, aged 40\u201360 years. After initial screening the subjects were randomized into four groups with 15 per group. The four groups received, respectively, placebo, omega-3 fatty acid, probiotic VSL#3, or both omega-3 and probiotic, for 6 weeks. Blood and fecal samples were collected at baseline and after 6 weeks. The probiotic (VSL#3) supplemented group had significant reduction in total cholesterol, triglyceride, LDL, and VLDL and had increased HDL (P &lt; 0.05) value. VSL#3 improved insulin sensitivity (P &lt; 0.01), decreased hsCRP, and favorably affected the composition of gut microbiota. Omega-3 had significant effect on insulin sensitivity and hsCRP but had no effect on gut microbiota. Addition of omega-3 fatty acid with VSL#3 had more pronounced effect on HDL, insulin sensitivity and hsCRP. Subjects with low HDL, insulin resistance, and high hsCRP had significantly lower total lactobacilli and bifidobacteria count and higher E. coli and bacteroides count.",
+        "target": "This study examined the effects of a probiotic supplement (VSL#3) and omega-3 fatty acid on insulin sensitivity, blood lipids, and inflammation in overweight adults. Sixty participants were randomly assigned to one of four groups: placebo, omega-3 fatty acid, probiotic VSL#3, or both omega-3 and probiotic. After six weeks, the probiotic group had significantly reduced levels of total cholesterol, triglyceride, LDL, and VLDL, and increased HDL levels. The probiotic supplement also improved insulin sensitivity, decreased high-sensitivity C-reactive protein (hsCRP), and altered the composition of the gut microbiome. The omega-3 fatty acid had significant effects on insulin sensitivity and hsCRP, but no effect on the gut microbiome. Adding omega-3 fatty acid to the probiotic supplement had more pronounced effects on HDL, insulin sensitivity, and hsCRP. Participants with low HDL, insulin resistance, and high hsCRP had lower total lactobacilli and bifidobacteria counts and higher Escherichia coli and Bacteroides counts.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        519,
+                        677
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nTo evaluate the effects of probiotic (VSL#3) and omega-3 fatty acid on insulin sensitivity, blood lipids, and inflammation, we conducted a clinical trial in 60 overweight (BMI &gt; 25), healthy adults, aged 40\u201360 years. After initial screening the subjects were randomized into four groups with 15 per group. The four groups received, respectively, placebo, omega-3 fatty acid, probiotic VSL#3, or both omega-3 and probiotic, for 6 weeks. Blood and fecal samples were collected at baseline and after 6 weeks. The probiotic (VSL#3) supplemented group had significant reduction in total cholesterol, triglyceride, LDL, and VLDL and had increased HDL (P &lt; 0.05) value. VSL#3 improved insulin sensitivity (P &lt; 0.01), decreased hsCRP, and favorably affected the composition of gut microbiota. Omega-3 had significant effect on insulin sensitivity and hsCRP but had no effect on gut microbiota. Addition of omega-3 fatty acid with VSL#3 had more pronounced effect on HDL, insulin sensitivity and hsCRP. Subjects with low HDL, insulin resistance, and high hsCRP had significantly lower total lactobacilli and bifidobacteria count and higher E. coli and bacteroides count.",
+        "target": "Scientists did an experiment with 60 healthy adults who are a little overweight. They divided them into 4 groups. One group took a fake pill, one took some oil from fish (omega-3), one took a special healthy bacteria (probiotic VSL#3), and one took both the fish oil and the bacteria. They did this for 6 weeks. After 6 weeks, they found that the group taking the special bacteria had better levels of fat in their blood, better sugar control, and less inflammation. The fish oil also helped with sugar control and inflammation but not with bacteria in the gut. When both the fish oil and bacteria were taken together, they worked even better. Also, those people who had bad fat levels, bad sugar control and more inflammation had less good bacteria and more bad bacteria in their gut.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        519,
+                        677
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nTo evaluate the effects of probiotic (VSL#3) and omega-3 fatty acid on insulin sensitivity, blood lipids, and inflammation, we conducted a clinical trial in 60 overweight (BMI &gt; 25), healthy adults, aged 40\u201360 years. After initial screening the subjects were randomized into four groups with 15 per group. The four groups received, respectively, placebo, omega-3 fatty acid, probiotic VSL#3, or both omega-3 and probiotic, for 6 weeks. Blood and fecal samples were collected at baseline and after 6 weeks. The probiotic (VSL#3) supplemented group had significant reduction in total cholesterol, triglyceride, LDL, and VLDL and had increased HDL (P &lt; 0.05) value. VSL#3 improved insulin sensitivity (P &lt; 0.01), decreased hsCRP, and favorably affected the composition of gut microbiota. Omega-3 had significant effect on insulin sensitivity and hsCRP but had no effect on gut microbiota. Addition of omega-3 fatty acid with VSL#3 had more pronounced effect on HDL, insulin sensitivity and hsCRP. Subjects with low HDL, insulin resistance, and high hsCRP had significantly lower total lactobacilli and bifidobacteria count and higher E. coli and bacteroides count.",
+        "target": "\nSo, scientists wanted to know if taking probiotics (good bacteria) and omega-3 fatty acids (found in fish oil) would help people who are overweight and have high blood fats (cholesterol and triglycerides). They tested these supplements on 60 healthy adults between the ages of 40 and 60. They divided the participants into four groups and gave each group a different supplement for six weeks. They took blood and stool samples before and after the six weeks to see how the supplements affected the body. The group that took probiotics (VSL#3) had lower levels of bad cholesterol (LDL and VLDL) and higher levels of good cholesterol (HDL). They also had better insulin sensitivity, which means their body used insulin (a hormone that helps regulate blood sugar) better. The group that took omega-3 fatty acids had better insulin sensitivity and lower levels of a protein called C-reactive protein (hsCRP), which is a sign of inflammation in the body. When they added omega-3 fatty acids to the probiotics, the combination had an even greater effect on HDL cholesterol, insulin sensitivity, and hsCRP. The study also found that people with low levels of good bacteria in their gut and high levels of bad bacteria had more health problems.\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        519,
+                        677
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nDue to increasing resistance to antibiotics and rising incidence of oral diseases, there is a need for alternative treatment modalities to combat oral diseases. The aim of the present study was to access the effect of Aloe vera mouthwash on the dental plaque in the experimental period of 4 days and to compare it with the bench mark control chlorhexidine and placebo (saline water).\n\nABSTRACT.MATERIAL AND METHODS.\nA total of 300 systemically healthy subjects were randomly allocated into 3 groups: Aloe vera mouthwash group (n=100), control group (=100)-chlorhexidene group and saline water-Placebo (n=100). To begin with, Gingival index (GI) and plaque index (PI) were recorded. Then, baseline plaque scores were brought to zero by professionally cleaning the teeth with scaling and polishing. After randomization of the participants into three groups they were refrained from regular mechanical oral hygiene measures. Subjects were asked to swish with respective mouthwash (Aloe vera mouthwash, 0.2%chlorhexidine gluconate mouthwash, or normal saline) as per therapeutic dose for 4 days.\n\nABSTRACT.RESULTS.\nThe results showed that Aloe vera mouthrinse is equally effective in reducing plaque as Chlorhexidine compared to placebo over a period of 4 days. There was a significant reduction on plaque in Aloe vera and chlorhexidine groups and no statistically significant difference was observed among them (p&gt;0.05). Aloe vera mouthwash showed no side effects.\n\nABSTRACT.CONCLUSION.\nThe results of the present study indicated that Aloe vera may prove an effective mouthwash due to its ability in reducing dental plaque.",
+        "target": "This study looked at the effect of Aloe vera mouthwash on dental plaque compared to a placebo (saline water) and chlorhexidine, a common antiseptic mouthwash. The results showed that Aloe vera mouthwash was equally effective in reducing plaque as chlorhexidine, and there was no statistically significant difference between the two. The study concluded that Aloe vera mouthwash may prove to be an effective alternative to chlorhexidine for reducing plaque.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1279,
+                        1441
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nDue to increasing resistance to antibiotics and rising incidence of oral diseases, there is a need for alternative treatment modalities to combat oral diseases. The aim of the present study was to access the effect of Aloe vera mouthwash on the dental plaque in the experimental period of 4 days and to compare it with the bench mark control chlorhexidine and placebo (saline water).\n\nABSTRACT.MATERIAL AND METHODS.\nA total of 300 systemically healthy subjects were randomly allocated into 3 groups: Aloe vera mouthwash group (n=100), control group (=100)-chlorhexidene group and saline water-Placebo (n=100). To begin with, Gingival index (GI) and plaque index (PI) were recorded. Then, baseline plaque scores were brought to zero by professionally cleaning the teeth with scaling and polishing. After randomization of the participants into three groups they were refrained from regular mechanical oral hygiene measures. Subjects were asked to swish with respective mouthwash (Aloe vera mouthwash, 0.2%chlorhexidine gluconate mouthwash, or normal saline) as per therapeutic dose for 4 days.\n\nABSTRACT.RESULTS.\nThe results showed that Aloe vera mouthrinse is equally effective in reducing plaque as Chlorhexidine compared to placebo over a period of 4 days. There was a significant reduction on plaque in Aloe vera and chlorhexidine groups and no statistically significant difference was observed among them (p&gt;0.05). Aloe vera mouthwash showed no side effects.\n\nABSTRACT.CONCLUSION.\nThe results of the present study indicated that Aloe vera may prove an effective mouthwash due to its ability in reducing dental plaque.",
+        "target": "This research was about trying out something new to fight off tooth diseases because the old stuff, like antibiotics, doesn't work so well anymore. The scientists wanted to see if swishing Aloe vera (a plant that's good for soothing) in your mouth can help get rid of the hard stuff on your teeth called plaque. They tested this method over 4 days and compared it against a common mouthwash named chlorhexidine and against just plain salty water (that was like a fake mouthwash they used just to compare).\n\nThey had 300 healthy people split into 3 groups for this experiment. Each group used a different mouthwash: one with Aloe vera, one with chlorhexidine, and one with salty water. Before this, the scientists cleaned every person's teeth professionally so that everyone would start off with the same, clean slate. The people were then asked not to clean their teeth and to only use the given mouthwash for 4 days.\n\nAt the end of the experiment, the scientists saw that the Aloe vera mouthwash worked just as well as the common chlorhexidine mouthwash in getting rid of plaque. The people using either the Aloe vera or chlorhexidine had less plaque than those using the plain salty water. Also, no one had any problems using the Aloe vera mouthwash.\n\nSo, the scientists concluded that Aloe vera could be a good alternative to the commonly used mouthwash because it helps get rid of plaque in the mouth without causing any trouble.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1279,
+                        1441
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nDue to increasing resistance to antibiotics and rising incidence of oral diseases, there is a need for alternative treatment modalities to combat oral diseases. The aim of the present study was to access the effect of Aloe vera mouthwash on the dental plaque in the experimental period of 4 days and to compare it with the bench mark control chlorhexidine and placebo (saline water).\n\nABSTRACT.MATERIAL AND METHODS.\nA total of 300 systemically healthy subjects were randomly allocated into 3 groups: Aloe vera mouthwash group (n=100), control group (=100)-chlorhexidene group and saline water-Placebo (n=100). To begin with, Gingival index (GI) and plaque index (PI) were recorded. Then, baseline plaque scores were brought to zero by professionally cleaning the teeth with scaling and polishing. After randomization of the participants into three groups they were refrained from regular mechanical oral hygiene measures. Subjects were asked to swish with respective mouthwash (Aloe vera mouthwash, 0.2%chlorhexidine gluconate mouthwash, or normal saline) as per therapeutic dose for 4 days.\n\nABSTRACT.RESULTS.\nThe results showed that Aloe vera mouthrinse is equally effective in reducing plaque as Chlorhexidine compared to placebo over a period of 4 days. There was a significant reduction on plaque in Aloe vera and chlorhexidine groups and no statistically significant difference was observed among them (p&gt;0.05). Aloe vera mouthwash showed no side effects.\n\nABSTRACT.CONCLUSION.\nThe results of the present study indicated that Aloe vera may prove an effective mouthwash due to its ability in reducing dental plaque.",
+        "target": "\nThe study found that a special mouthwash made from Aloe vera is as good as a medicine called chlorhexidine at removing plaque from teeth. Plaque is a sticky film of bacteria that can cause tooth decay and gum disease. The study showed that both the Aloe vera mouthwash and the chlorhexidine mouthwash were effective in removing plaque from teeth, but they didn't find any difference between the two. The good news is that the Aloe vera mouthwash didn't cause any side effects.\n\nI hope this helps! Let me know if you have any other questions.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1279,
+                        1441
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND::\nThe aim of this study was to examine the effects of preoperatively administered i.v. hypertonic saline on hypotension following induction of general anesthesia.\n\nABSTRACT.MATERIALS AND METHODS::\nFifty-four patients who scheduled for elective surgery were randomly allocated to two groups of 27 patients who received hypertonic saline 5% (2.3 ml/kg) or received normal saline (13 ml/kg). Infusion of hypertonic saline was done half an hour before induction of anesthesia during 30 minutes. Anesthesia was conducted in a standard protocol for all patients. Age, sex, body mass index (BMI), systolic and diastolic blood pressure (SBP, DBP), heart rate (HR) and mean arterial pressure (MAP) were assessed in all patients.\n\nABSTRACT.RESULTS::\nThe mean age of patients was 36.68 \u00b1 10.8 years. Forty percent of patients were male. The mean SBP at min 2 and min 5, mean of DBP at min 2, 5, and 15, mean of HR at all time points and mean of MAP at min 2 and 15 between groups were no significantly different (P &gt; 0.05), but mean of SBP at min 10 and 15, mean of DBP at min 10, and mean of MAP at min 5 and 10 in hypertonic saline group was significantly more than the normal group (P &lt; 0.05). Trend of SBP, DBP, HR and MAP between groups were not significantly different (P &gt; 0.05).\n\nABSTRACT.CONCLUSIONS::\nInfusion of hypertonic saline 5% (2.3 mg/kg) before the general anesthesia led to a useful reduction in MAP and reduced heart rate, with no episodes of severe hypotension.",
+        "target": "This study examined the effects of preoperatively administered intravenous (i.v.) hypertonic saline on hypotension following induction of general anesthesia. Fifty-four patients were randomly allocated to either a hypertonic saline 5% (2.3 ml/kg) or a normal saline (13 ml/kg) group. Infusion of hypertonic saline was done half an hour before induction of anesthesia during 30 minutes. Age, sex, body mass index (BMI), systolic and diastolic blood pressure (SBP, DBP), heart rate (HR) and mean arterial pressure (MAP) were assessed in all patients.\n\nThe mean age of patients was 36.68 \u00b1 10.8 years. Forty percent of patients were male. The mean SBP at min 2 and min 5, mean of DBP at min 2, 5, and 15, mean of HR at all time points and mean of MAP at min 2 and 15 between groups were no significantly different (P &gt; 0.05). However, mean of SBP at min 10 and 15, mean of DBP at min 10, and mean of MAP at min 5 and 10 in the hypertonic saline group was significantly more than the normal group (P &lt; 0.05). Trend of SBP, DBP, HR and MAP between groups were not significantly different (P &gt; 0.05).\n\nIn conclusion, infusion of hypertonic saline 5% (2.3 ml/kg) before the general anesthesia led to a useful reduction in MAP and reduced heart rate, with no episodes of severe hypotension.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        846,
+                        1035
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1036,
+                        1210
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND::\nThe aim of this study was to examine the effects of preoperatively administered i.v. hypertonic saline on hypotension following induction of general anesthesia.\n\nABSTRACT.MATERIALS AND METHODS::\nFifty-four patients who scheduled for elective surgery were randomly allocated to two groups of 27 patients who received hypertonic saline 5% (2.3 ml/kg) or received normal saline (13 ml/kg). Infusion of hypertonic saline was done half an hour before induction of anesthesia during 30 minutes. Anesthesia was conducted in a standard protocol for all patients. Age, sex, body mass index (BMI), systolic and diastolic blood pressure (SBP, DBP), heart rate (HR) and mean arterial pressure (MAP) were assessed in all patients.\n\nABSTRACT.RESULTS::\nThe mean age of patients was 36.68 \u00b1 10.8 years. Forty percent of patients were male. The mean SBP at min 2 and min 5, mean of DBP at min 2, 5, and 15, mean of HR at all time points and mean of MAP at min 2 and 15 between groups were no significantly different (P &gt; 0.05), but mean of SBP at min 10 and 15, mean of DBP at min 10, and mean of MAP at min 5 and 10 in hypertonic saline group was significantly more than the normal group (P &lt; 0.05). Trend of SBP, DBP, HR and MAP between groups were not significantly different (P &gt; 0.05).\n\nABSTRACT.CONCLUSIONS::\nInfusion of hypertonic saline 5% (2.3 mg/kg) before the general anesthesia led to a useful reduction in MAP and reduced heart rate, with no episodes of severe hypotension.",
+        "target": "This study was checking if giving a special type of salt water to patients before surgery could prevent their blood pressure from dropping too low when they are put to sleep for the operation. They found that the extra salty water did stop some patients' blood pressure from getting too low, and also kept their heart rate steady, without causing any major problems. This might help patients do better during and after surgery.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        846,
+                        1035
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1036,
+                        1210
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND::\nThe aim of this study was to examine the effects of preoperatively administered i.v. hypertonic saline on hypotension following induction of general anesthesia.\n\nABSTRACT.MATERIALS AND METHODS::\nFifty-four patients who scheduled for elective surgery were randomly allocated to two groups of 27 patients who received hypertonic saline 5% (2.3 ml/kg) or received normal saline (13 ml/kg). Infusion of hypertonic saline was done half an hour before induction of anesthesia during 30 minutes. Anesthesia was conducted in a standard protocol for all patients. Age, sex, body mass index (BMI), systolic and diastolic blood pressure (SBP, DBP), heart rate (HR) and mean arterial pressure (MAP) were assessed in all patients.\n\nABSTRACT.RESULTS::\nThe mean age of patients was 36.68 \u00b1 10.8 years. Forty percent of patients were male. The mean SBP at min 2 and min 5, mean of DBP at min 2, 5, and 15, mean of HR at all time points and mean of MAP at min 2 and 15 between groups were no significantly different (P &gt; 0.05), but mean of SBP at min 10 and 15, mean of DBP at min 10, and mean of MAP at min 5 and 10 in hypertonic saline group was significantly more than the normal group (P &lt; 0.05). Trend of SBP, DBP, HR and MAP between groups were not significantly different (P &gt; 0.05).\n\nABSTRACT.CONCLUSIONS::\nInfusion of hypertonic saline 5% (2.3 mg/kg) before the general anesthesia led to a useful reduction in MAP and reduced heart rate, with no episodes of severe hypotension.",
+        "target": "\nThis study looked at how giving a special kind of salt called hypertonic saline before anesthesia affected people's blood pressure and heart rate during surgery. The study found that giving hypertonic saline before anesthesia helped keep blood pressure and heart rate stable, and didn't cause dangerous drops in blood pressure.\n\nI hope this helps! Let me know if you have any other questions.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        846,
+                        1035
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1036,
+                        1210
+                    ]
+                ]
+            }
+        ]
+    }
+]
