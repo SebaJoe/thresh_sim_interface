@@ -1,0 +1,1532 @@
+[
+    {
+        "source": "ABSTRACT.BACKGROUND.\nAlirocumab undergoes target\u2010mediated clearance via binding of proprotein convertase subtilisin/kexin type 9 (PCSK9). Statins increase PCSK9 levels; the effects of nonstatin lipid\u2010lowering therapies are unclear. Every\u20104\u2010weeks dosing of alirocumab may be appropriate for some patients in absence of background statin but is not yet approved.\n\nABSTRACT.METHODS AND RESULTS.\nLow\u2010density lipoprotein cholesterol (LDL\u2010C), PCSK9, and alirocumab levels were assessed in subjects (LDL\u2010C &gt;130 mg/dL, n=24/group) after a 4\u2010week run\u2010in taking oral ezetimibe, fenofibrate, or ezetimibe placebo, when alirocumab 150 mg every 4 weeks (days 1, 29, and 57) was added. Maximal mean LDL\u2010C reductions from day \u22121 baseline (prealirocumab) occurred on day 71 in all groups: alirocumab plus placebo, 47.4%; alirocumab plus ezetimibe, 56.6%; and alirocumab plus fenofibrate, 54.3%. LDL\u2010C reductions were sustained through day 85 with alirocumab plus placebo (47.0%); the duration of effect was slightly diminished at day 85 versus day 71 with ezetimibe (49.6%) or fenofibrate combinations (43.2%). Free PCSK9 concentrations were lowest at day 71 in all groups, then increased over time; by day 85, free PCSK9 concentrations were higher, and alirocumab levels lower, with alirocumab plus fenofibrate, and to a lesser extent alirocumab plus ezetimibe, versus alirocumab plus placebo.\n\nABSTRACT.CONCLUSIONS.\nAlirocumab 150 mg every 4 weeks produced maximal LDL\u2010C reductions of 47% in combination with placebo and 54% to 57% in combination with ezetimibe or fenofibrate. The oral lipid\u2010lowering therapies appear to increase PCSK9 levels, leading to increased alirocumab clearance. Although the duration of effect was modestly diminished with alirocumab plus ezetimibe/fenofibrate versus placebo, the effect was less than observed in trials with background statins, and it would not preclude the use of alirocumab every 4 weeks in patients taking these nonstatin lipid\u2010lowering therapies concomitantly.\n\nABSTRACT.CLINICAL TRIAL REGISTRATION.",
+        "target": "Alirocumab 150 mg every 4 weeks produced maximal LDL\u2010C reductions of 47% in combination with placebo and 54% to 57% in combination with ezetimibe or fenofibrate. The oral lipid\u2010lowering therapies appear to increase PCSK9 levels, leading to increased alirocumab clearance. Although the duration of effect was modestly diminished with alirocumab plus ezetimibe/fenofibrate versus placebo, the effect was less than observed in trials with background statins, and it would not preclude the use of alirocumab every 4 weeks in patients taking these nonstatin lipid\u2010lowering therapies concomitantly. This study was registered at clinicaltrials.gov as NCT02435645.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        675,
+                        880
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nAlirocumab undergoes target\u2010mediated clearance via binding of proprotein convertase subtilisin/kexin type 9 (PCSK9). Statins increase PCSK9 levels; the effects of nonstatin lipid\u2010lowering therapies are unclear. Every\u20104\u2010weeks dosing of alirocumab may be appropriate for some patients in absence of background statin but is not yet approved.\n\nABSTRACT.METHODS AND RESULTS.\nLow\u2010density lipoprotein cholesterol (LDL\u2010C), PCSK9, and alirocumab levels were assessed in subjects (LDL\u2010C &gt;130 mg/dL, n=24/group) after a 4\u2010week run\u2010in taking oral ezetimibe, fenofibrate, or ezetimibe placebo, when alirocumab 150 mg every 4 weeks (days 1, 29, and 57) was added. Maximal mean LDL\u2010C reductions from day \u22121 baseline (prealirocumab) occurred on day 71 in all groups: alirocumab plus placebo, 47.4%; alirocumab plus ezetimibe, 56.6%; and alirocumab plus fenofibrate, 54.3%. LDL\u2010C reductions were sustained through day 85 with alirocumab plus placebo (47.0%); the duration of effect was slightly diminished at day 85 versus day 71 with ezetimibe (49.6%) or fenofibrate combinations (43.2%). Free PCSK9 concentrations were lowest at day 71 in all groups, then increased over time; by day 85, free PCSK9 concentrations were higher, and alirocumab levels lower, with alirocumab plus fenofibrate, and to a lesser extent alirocumab plus ezetimibe, versus alirocumab plus placebo.\n\nABSTRACT.CONCLUSIONS.\nAlirocumab 150 mg every 4 weeks produced maximal LDL\u2010C reductions of 47% in combination with placebo and 54% to 57% in combination with ezetimibe or fenofibrate. The oral lipid\u2010lowering therapies appear to increase PCSK9 levels, leading to increased alirocumab clearance. Although the duration of effect was modestly diminished with alirocumab plus ezetimibe/fenofibrate versus placebo, the effect was less than observed in trials with background statins, and it would not preclude the use of alirocumab every 4 weeks in patients taking these nonstatin lipid\u2010lowering therapies concomitantly.\n\nABSTRACT.CLINICAL TRIAL REGISTRATION.",
+        "target": "This passage talks about a heart medicine called alirocumab. It's like a sponge that soaks up a bad protein (PCSK9) in your body that can make your heart sick. Usually, people use this medicine with another type of medicine called statins, but scientists aren't sure how it works with other types of heart medicine.\n\nSo, they did a test where they gave people different types of heart medicines, along with alirocumab, and then checked their blood to see how much bad protein was left. They found that all the medicines helped to reduce the bad protein, but when used with some other heart medicines (ezetimibe, fenofibrate), it seemed like alirocumab wasn't lasting as long in the body as it should. However, it still worked well and could still be used every 4 weeks, even with those other medicines.\n\nThis means, if you have a bad heart protein and need medication, you could potentially use alirocumab with different types of heart medicines, not just statins.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        675,
+                        880
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nAlirocumab undergoes target\u2010mediated clearance via binding of proprotein convertase subtilisin/kexin type 9 (PCSK9). Statins increase PCSK9 levels; the effects of nonstatin lipid\u2010lowering therapies are unclear. Every\u20104\u2010weeks dosing of alirocumab may be appropriate for some patients in absence of background statin but is not yet approved.\n\nABSTRACT.METHODS AND RESULTS.\nLow\u2010density lipoprotein cholesterol (LDL\u2010C), PCSK9, and alirocumab levels were assessed in subjects (LDL\u2010C &gt;130 mg/dL, n=24/group) after a 4\u2010week run\u2010in taking oral ezetimibe, fenofibrate, or ezetimibe placebo, when alirocumab 150 mg every 4 weeks (days 1, 29, and 57) was added. Maximal mean LDL\u2010C reductions from day \u22121 baseline (prealirocumab) occurred on day 71 in all groups: alirocumab plus placebo, 47.4%; alirocumab plus ezetimibe, 56.6%; and alirocumab plus fenofibrate, 54.3%. LDL\u2010C reductions were sustained through day 85 with alirocumab plus placebo (47.0%); the duration of effect was slightly diminished at day 85 versus day 71 with ezetimibe (49.6%) or fenofibrate combinations (43.2%). Free PCSK9 concentrations were lowest at day 71 in all groups, then increased over time; by day 85, free PCSK9 concentrations were higher, and alirocumab levels lower, with alirocumab plus fenofibrate, and to a lesser extent alirocumab plus ezetimibe, versus alirocumab plus placebo.\n\nABSTRACT.CONCLUSIONS.\nAlirocumab 150 mg every 4 weeks produced maximal LDL\u2010C reductions of 47% in combination with placebo and 54% to 57% in combination with ezetimibe or fenofibrate. The oral lipid\u2010lowering therapies appear to increase PCSK9 levels, leading to increased alirocumab clearance. Although the duration of effect was modestly diminished with alirocumab plus ezetimibe/fenofibrate versus placebo, the effect was less than observed in trials with background statins, and it would not preclude the use of alirocumab every 4 weeks in patients taking these nonstatin lipid\u2010lowering therapies concomitantly.\n\nABSTRACT.CLINICAL TRIAL REGISTRATION.",
+        "target": "\nThe researchers looked at how well a medicine called alirocumab works when taken with different medicines to lower cholesterol. They found that alirocumab works best when taken with a placebo (no medicine) or with medicines called ezetimibe or fenofibrate Begrudgingly, I realized that my son's confusion was not just limited to the passage. He looked at me with a furrowed brow and asked, \"Why do we need so many words to say something simple?\"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\n\nMS\n\n\n\n\n\nMS\n\n\n\n\n\n\n\nMS\n\n\nMSG\nMSG\nMSG\n\nMSGMSGMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\nMSGMSG\n\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\nMSGMSG\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSG\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSG\n\n\n\n\n\n\nMSGMSG\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n assemblies, but\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSG\n\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\nMSGMSG\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\nMSGMSG\nMSG\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\n\nMSGMSG\n\n\n\n\n\n\nMSGMSG\nMSG\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\nMSJobsGMSGMS swap MSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\nMSGMSGMSG\n\n\n\nMSGMSGMSG\n\n\n\n\nMSGMSGMSG\n\n\n\nMSGMSGMSG\n\n\n\nMSGMSGMSG\n\n\n\nMSGMSGMSG\n\n\n\nMSGMSGMSG\n\n\n\nMSGMSGMSG\n\n\nMSGMSGMSG\n\n\nMSGMSGMSG\n\n\nMSGMSGMSG\n\n\nMSGMSGMSG\n\n\n\n\n\nMSGMSGMSG\n\n\nMSGMSGMSG\n\n\n\nMSGMSG\n\n\nMSGMSGMSG\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSG\n\n\n\n\n\n\nMSGMSG\nMSG\n\n\n\n\n\n\n\nMSGMSG\nMSG\n\n\n\n\n\n\n\nMSGMSG\nMSG\nMSG\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\nMSGMSG costa MSG\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\nMSGMSG\nMSG\n\n\n\n\n\n\nMSGMSG\n\n\n\n\n\n\n\n\nMSGMSG\n\n\n\n\n\n\n\n\n\nMSGMSG\n\n\n\n\n\n\nMSGMSG\nMSG\n\n\n\n\n\n\n\n\nMSGMSG\nMSG\n\n\n\n\n\n\n\n\n\nMSGMSG\nMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        675,
+                        880
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nProgrammes based on the World Health Organization\u2019s Health Promoting Schools framework (HPS) have been implemented in several countries but for evidence-based policy-making more research is required to determine the effectiveness of the HPS approach.\n\nABSTRACT.METHODS:\nWe conducted a cluster randomised controlled trial. The units of randomisation were primary school classes recruited in May 2010. Eligible participants were Year 3 primary school classes in Lower Austria that had not participated in a similar programme during the last two years. After baseline assessment in September 2010, 53 classes from 45 primary schools in Lower Austria were randomly assigned to an intervention (n\u2009=\u200926 classes, 432 children) or waiting control arm (n\u2009=\u200927 classes, 493 children aged 8.7\u00a0years +/- 4\u00a0months). Over the course of 1.5 academic years, participating teachers received on-the-job training (20\u00a0h) and two workshops (8\u00a0h) to promote health related behaviour in students such as physical activity during the school day and to improve the quality of regular physical education classes. We assessed 15 outcomes grouped into five categories: Emotional and Social Experience in School, Physical Activity, Well-being, and Attention Performance measured by validated and standardised questionnaire and Motor Skills measured by validated and standardised motoric and coordination tests in the school gym. The primary outcome was Classroom Climate and part of the outcomecategory Emotional and Social Experience in School. The final assessment took place in April 2012. All assessors were blinded to the allocation of classes. Multilevel growth modelling was used to investigate programme effectiveness.\n\nABSTRACT.RESULTS:\nWe could not detect any statistically significant differences between groups for the outcomecategories Emotional and Social Experience in school (p\u2009=\u20090.22 to 0.78), Physical Activity, Well-being, and Attention Performance. Significant differences between groups were limited to the outcomecategory Motor Skills (Complex Reaction Ability, Spatial Orientation Skills, Coordination with Precision) which were higher in the intervention group (P\u2009&lt;\u2009.05).\n\nABSTRACT.CONCLUSIONS:\nDespite small statistically significant differences in Motor Skills, our study could not detect any clinically relevant improvements in the Emotional and Social Experience at School (including the primary outcome ClassroomClimate), Physical Activity, Well-being, Motor Skills and Attention Performance of students.\n\nABSTRACT.TRIAL REGISTRATION:\nGerman register of clinical studies: DRKS00000622. Retrospectively registered: 03.12.2010. Approved by the Ethics Committee of Lower Austria (GS4-EK-4/107-2010).",
+        "target": "This study evaluated the effectiveness of a World Health Organization's Health Promoting Schools framework (HPS) approach in primary schools. The study included 432 students from 26 classes in Lower Austria who were randomly assigned to an intervention or waiting control arm. The intervention consisted of on-the-job training and two workshops for teachers to promote health-related behaviors in students and improve the quality of regular physical education classes. The study found no significant differences between groups for outcomes such as emotional and social experience in school, physical activity, well-being, and attention performance. However, there were small statistically significant differences in motor skills, with the intervention group having higher scores in Complex Reaction Ability, Spatial Orientation Skills, and Coordination with Precision. In conclusion, the study did not find any clinically relevant improvements in the outcomes measured.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1961,
+                        2190
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1738,
+                        1960
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nProgrammes based on the World Health Organization\u2019s Health Promoting Schools framework (HPS) have been implemented in several countries but for evidence-based policy-making more research is required to determine the effectiveness of the HPS approach.\n\nABSTRACT.METHODS:\nWe conducted a cluster randomised controlled trial. The units of randomisation were primary school classes recruited in May 2010. Eligible participants were Year 3 primary school classes in Lower Austria that had not participated in a similar programme during the last two years. After baseline assessment in September 2010, 53 classes from 45 primary schools in Lower Austria were randomly assigned to an intervention (n\u2009=\u200926 classes, 432 children) or waiting control arm (n\u2009=\u200927 classes, 493 children aged 8.7\u00a0years +/- 4\u00a0months). Over the course of 1.5 academic years, participating teachers received on-the-job training (20\u00a0h) and two workshops (8\u00a0h) to promote health related behaviour in students such as physical activity during the school day and to improve the quality of regular physical education classes. We assessed 15 outcomes grouped into five categories: Emotional and Social Experience in School, Physical Activity, Well-being, and Attention Performance measured by validated and standardised questionnaire and Motor Skills measured by validated and standardised motoric and coordination tests in the school gym. The primary outcome was Classroom Climate and part of the outcomecategory Emotional and Social Experience in School. The final assessment took place in April 2012. All assessors were blinded to the allocation of classes. Multilevel growth modelling was used to investigate programme effectiveness.\n\nABSTRACT.RESULTS:\nWe could not detect any statistically significant differences between groups for the outcomecategories Emotional and Social Experience in school (p\u2009=\u20090.22 to 0.78), Physical Activity, Well-being, and Attention Performance. Significant differences between groups were limited to the outcomecategory Motor Skills (Complex Reaction Ability, Spatial Orientation Skills, Coordination with Precision) which were higher in the intervention group (P\u2009&lt;\u2009.05).\n\nABSTRACT.CONCLUSIONS:\nDespite small statistically significant differences in Motor Skills, our study could not detect any clinically relevant improvements in the Emotional and Social Experience at School (including the primary outcome ClassroomClimate), Physical Activity, Well-being, Motor Skills and Attention Performance of students.\n\nABSTRACT.TRIAL REGISTRATION:\nGerman register of clinical studies: DRKS00000622. Retrospectively registered: 03.12.2010. Approved by the Ethics Committee of Lower Austria (GS4-EK-4/107-2010).",
+        "target": "Researchers wanted to see if a program by the World Health Organization that makes schools healthier could be effective. To test this, they picked some school classes to participate in the program and other classes to not participate, to see if there was any difference. They then tried to see if this program made any changes in how the students felt socially and emotionally, how active they were, and how well they paid attention in class.\n\nAfter some time, they checked to see if there were any changes. They found out that significant differences were only seen in the students' motor skills like their reaction time or coordination. Basically, the classes who did the program didn't really show any huge, noticeable differences in their feelings, activity, or attention compared to the classes that didn't do the program.\n\nIn simple words, the program did not make as big a difference as they had hoped it would make in the overall school experience beyond just improving certain motor skills.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1961,
+                        2190
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1738,
+                        1960
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nProgrammes based on the World Health Organization\u2019s Health Promoting Schools framework (HPS) have been implemented in several countries but for evidence-based policy-making more research is required to determine the effectiveness of the HPS approach.\n\nABSTRACT.METHODS:\nWe conducted a cluster randomised controlled trial. The units of randomisation were primary school classes recruited in May 2010. Eligible participants were Year 3 primary school classes in Lower Austria that had not participated in a similar programme during the last two years. After baseline assessment in September 2010, 53 classes from 45 primary schools in Lower Austria were randomly assigned to an intervention (n\u2009=\u200926 classes, 432 children) or waiting control arm (n\u2009=\u200927 classes, 493 children aged 8.7\u00a0years +/- 4\u00a0months). Over the course of 1.5 academic years, participating teachers received on-the-job training (20\u00a0h) and two workshops (8\u00a0h) to promote health related behaviour in students such as physical activity during the school day and to improve the quality of regular physical education classes. We assessed 15 outcomes grouped into five categories: Emotional and Social Experience in School, Physical Activity, Well-being, and Attention Performance measured by validated and standardised questionnaire and Motor Skills measured by validated and standardised motoric and coordination tests in the school gym. The primary outcome was Classroom Climate and part of the outcomecategory Emotional and Social Experience in School. The final assessment took place in April 2012. All assessors were blinded to the allocation of classes. Multilevel growth modelling was used to investigate programme effectiveness.\n\nABSTRACT.RESULTS:\nWe could not detect any statistically significant differences between groups for the outcomecategories Emotional and Social Experience in school (p\u2009=\u20090.22 to 0.78), Physical Activity, Well-being, and Attention Performance. Significant differences between groups were limited to the outcomecategory Motor Skills (Complex Reaction Ability, Spatial Orientation Skills, Coordination with Precision) which were higher in the intervention group (P\u2009&lt;\u2009.05).\n\nABSTRACT.CONCLUSIONS:\nDespite small statistically significant differences in Motor Skills, our study could not detect any clinically relevant improvements in the Emotional and Social Experience at School (including the primary outcome ClassroomClimate), Physical Activity, Well-being, Motor Skills and Attention Performance of students.\n\nABSTRACT.TRIAL REGISTRATION:\nGerman register of clinical studies: DRKS00000622. Retrospectively registered: 03.12.2010. Approved by the Ethics Committee of Lower Austria (GS4-EK-4/107-2010).",
+        "target": "\nThe passage is talking about a research study that looked at a program calledastrong&gt;Health Promoting Schools&lt;/a&gt; to see if it worked. The program was given to some classes in Austria and the rest were left as usual. The researchers looked at how the students in the program did compared to the students who didn't get the program. They found that the students in the program did a little bit better in one area, which is called Motor Skills. This means they were a little bit better at things like catching a ball or jumping. But they didn't do much better in any of the other areas, like being happy or paying attention in class. The researchers think the program might be helpful, but they need to do more research to know for sure.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1961,
+                        2190
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1738,
+                        1960
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.PURPOSE.\nPatients with glaucoma who do not keep their follow-up eye care appointments are at risk for developing more severe ocular disease. The primary aim of the current study was to evaluate whether the use of a patient navigator altered adherence to follow-up eye care appointments in community-versus office-based settings.\n\nABSTRACT.PATIENTS AND METHODS.\nPatients diagnosed with a glaucoma-related condition following a comprehensive eye examination at 43 community sites in Philadelphia, PA, USA, were enrolled in this prospective, randomized, controlled trial. Patients were randomized into three groups for a 1-year period: Group 1 (G1) received follow-up eye care in a community-based setting with assistance from a patient navigator; Group 2 (G2) received follow-up eye care in an office-based setting with assistance from a patient navigator; and Group 3 (G3) received follow-up eye care in an office-based setting without a patient navigator (usual care). Adherence rates were compared among these three groups using a chi-squared test at a significance level of 0.05.\n\nABSTRACT.RESULTS.\nA total of 155 patients with glaucoma-related diagnoses were enrolled. The mean age (\u00b1standard deviation) was 71.2 (\u00b110.0) years. Patients were predominantly female (65.8%, n=102/155) and African-American (71.6%, n=111/155). The mean (\u00b1standard deviation) number of follow-up visits during the 1-year study period was 1.3 (\u00b11.3) for G1, 1.6 (\u00b11.3) for G2, and 1.3 (\u00b11.1) for G3 (P=0.48). Appointment adherence, defined as attendance of \u22651 follow-up visit, was 69.8% (n=37/53) for G1, 82.5% (n=47/57) for G2, and 73.3% (n=33/45) for G3, (P=0.28). Sub-analysis of adherence rates for patients who attended \u22652 follow-up visits were 91.3% (n=21/23) for G1, 74.3% (n=26/35) for G2, and 66.7% (n=18/27) for G3, (P=0.11).\n\nABSTRACT.CONCLUSION.\nHelp from a patient navigator did not increase the likelihood of keeping \u22651 follow-up appointment in an office-based setting. Adherence rates for follow-up appointments reached close to 70% or above in a self-selected patient population.",
+        "target": "The purpose of this study was to evaluate the effect of a patient navigator on adherence to follow-up eye care appointments in community- versus office-based settings. A total of 155 patients with glaucoma-related diagnoses were enrolled. The mean age was 71.2 years, and the majority were female (65.8%) and African-American (71.6%). The mean number of follow-up visits during the 1-year study period was 1.3 for the patient navigator group, 1.6 for the office-based setting with a patient navigator, and 1.3 for the office-based setting without a patient navigator. Adherence to follow-up appointments, defined as attendance of \u22651 follow-up visit, was 69.8% for the patient navigator group, 82.5% for the office-based setting with a patient navigator, and 73.3% for the office-based setting without a patient navigator. Sub-analysis of adherence rates for patients who attended \u22652 follow-up visits were 91.3% for the patient navigator group, 74.3% for the office-based setting with a patient navigator, and 66.7% for the office-based setting without a patient navigator. In conclusion, the presence of a patient navigator did not increase the likelihood of keeping \u22651 follow-up appointment in an office-based setting. Adherence rates for follow-up appointments reached close to 70% or above in a self-selected patient population.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1498,
+                        1655
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1335,
+                        1497
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.PURPOSE.\nPatients with glaucoma who do not keep their follow-up eye care appointments are at risk for developing more severe ocular disease. The primary aim of the current study was to evaluate whether the use of a patient navigator altered adherence to follow-up eye care appointments in community-versus office-based settings.\n\nABSTRACT.PATIENTS AND METHODS.\nPatients diagnosed with a glaucoma-related condition following a comprehensive eye examination at 43 community sites in Philadelphia, PA, USA, were enrolled in this prospective, randomized, controlled trial. Patients were randomized into three groups for a 1-year period: Group 1 (G1) received follow-up eye care in a community-based setting with assistance from a patient navigator; Group 2 (G2) received follow-up eye care in an office-based setting with assistance from a patient navigator; and Group 3 (G3) received follow-up eye care in an office-based setting without a patient navigator (usual care). Adherence rates were compared among these three groups using a chi-squared test at a significance level of 0.05.\n\nABSTRACT.RESULTS.\nA total of 155 patients with glaucoma-related diagnoses were enrolled. The mean age (\u00b1standard deviation) was 71.2 (\u00b110.0) years. Patients were predominantly female (65.8%, n=102/155) and African-American (71.6%, n=111/155). The mean (\u00b1standard deviation) number of follow-up visits during the 1-year study period was 1.3 (\u00b11.3) for G1, 1.6 (\u00b11.3) for G2, and 1.3 (\u00b11.1) for G3 (P=0.48). Appointment adherence, defined as attendance of \u22651 follow-up visit, was 69.8% (n=37/53) for G1, 82.5% (n=47/57) for G2, and 73.3% (n=33/45) for G3, (P=0.28). Sub-analysis of adherence rates for patients who attended \u22652 follow-up visits were 91.3% (n=21/23) for G1, 74.3% (n=26/35) for G2, and 66.7% (n=18/27) for G3, (P=0.11).\n\nABSTRACT.CONCLUSION.\nHelp from a patient navigator did not increase the likelihood of keeping \u22651 follow-up appointment in an office-based setting. Adherence rates for follow-up appointments reached close to 70% or above in a self-selected patient population.",
+        "target": "This study is about helping people with glaucoma, a serious eye disease, remember to go to their follow-up eye doctor appointments. They wanted to know if a helper, called a patient navigator, would make people more likely to go to these check-ups in different settings. They found out that the patient navigator didn't really make people more likely to go to their appointments in a doctor's office, compared to those who didn't have a helper. But most people in the study, about 70% or more, did go to their follow-up appointments.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1498,
+                        1655
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1335,
+                        1497
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.PURPOSE.\nPatients with glaucoma who do not keep their follow-up eye care appointments are at risk for developing more severe ocular disease. The primary aim of the current study was to evaluate whether the use of a patient navigator altered adherence to follow-up eye care appointments in community-versus office-based settings.\n\nABSTRACT.PATIENTS AND METHODS.\nPatients diagnosed with a glaucoma-related condition following a comprehensive eye examination at 43 community sites in Philadelphia, PA, USA, were enrolled in this prospective, randomized, controlled trial. Patients were randomized into three groups for a 1-year period: Group 1 (G1) received follow-up eye care in a community-based setting with assistance from a patient navigator; Group 2 (G2) received follow-up eye care in an office-based setting with assistance from a patient navigator; and Group 3 (G3) received follow-up eye care in an office-based setting without a patient navigator (usual care). Adherence rates were compared among these three groups using a chi-squared test at a significance level of 0.05.\n\nABSTRACT.RESULTS.\nA total of 155 patients with glaucoma-related diagnoses were enrolled. The mean age (\u00b1standard deviation) was 71.2 (\u00b110.0) years. Patients were predominantly female (65.8%, n=102/155) and African-American (71.6%, n=111/155). The mean (\u00b1standard deviation) number of follow-up visits during the 1-year study period was 1.3 (\u00b11.3) for G1, 1.6 (\u00b11.3) for G2, and 1.3 (\u00b11.1) for G3 (P=0.48). Appointment adherence, defined as attendance of \u22651 follow-up visit, was 69.8% (n=37/53) for G1, 82.5% (n=47/57) for G2, and 73.3% (n=33/45) for G3, (P=0.28). Sub-analysis of adherence rates for patients who attended \u22652 follow-up visits were 91.3% (n=21/23) for G1, 74.3% (n=26/35) for G2, and 66.7% (n=18/27) for G3, (P=0.11).\n\nABSTRACT.CONCLUSION.\nHelp from a patient navigator did not increase the likelihood of keeping \u22651 follow-up appointment in an office-based setting. Adherence rates for follow-up appointments reached close to 70% or above in a self-selected patient population.",
+        "target": "\nThe researchers looked at how well patients with glaucoma kept their follow-up appointments with their eye doctor. They found that having a patient navigator (someone who helps patients with their medical care) did not make a big difference in how well patients kept their appointments. Even without a patient navigator, most patients kept at least one follow-up appointment with their eye doctor.\n\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1498,
+                        1655
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1335,
+                        1497
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nDexmedetomidine, a selective alpha-2 agonist, has sedative, analgesic, and anxiolytic effects without respiratory depression. Dexmedetomidine can cause a biphasic cardiovascular response, and induce transient hypertension. Hypotension is a common complication of spinal anesthesia. Decreasing anxiety of patients before procedure is important for high quality of procedure. This study aimed to compare the incidence of hypotension and patients' anxiety and comfort levels when dexmedetomidine was intravenously administered before and after spinal anesthesia.\n\nABSTRACT.METHODS.\nSeventy-four patients with American Society of Anesthesiologists physical status classification I or II were randomly allocated into two groups. Spinal anesthesia was performed using 12 mg of 0.5% heavy bupivacaine. In Group A, 1 \u03bcg/kg of dexmedetomidine was intravenously administered for 10 min, followed by the maintenance infusion of dexmedetomidine 0.2 \u03bcg/kg/hr after 5 min of intrathecal bupivacaine injection. Patients in Group B received same dose of dexmedetomidine by intravenous administration before 5 min of intrathecal bupivacaine injection. Perioperative vital signs, anxiety (using the Spielberger's State-Trait Anxiety Inventory) and comfort (using the numerical rating scale) were evaluated.\n\nABSTRACT.RESULTS.\nThe incidence of hypotension was significantly lower in Group A (16.1%) than in Group B (48.4%) during infusion of dexmedetomidine (p = 0.01). The need for treatment of hypotension is higher in Group B than Group A (p = 0.02). The incidence of bradycardia and desaturation did not significantly differ between the two groups. There were no statistically significant differences regarding the patients' anxiety and comfort.\n\nABSTRACT.CONCLUSIONS.\nHypotension is more frequently occurred, and the treatment of hypotension is more needed in Group B. The intravenously administration of dexmedetomidine before spinal anesthesia has no advantages in hemodynamic status and patients' comfort compared to that after spinal anesthesia during lower limb surgery.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov number, NCT02155010. Retrospectively registered on May 22, 2014.",
+        "target": "This study compared the effects of intravenously administering dexmedetomidine before or after spinal anesthesia for lower limb surgery. The results showed that hypotension was more likely to occur when dexmedetomidine was administered before spinal anesthesia, and the need for treatment of hypotension was also higher in this group. There were no significant differences in patients' anxiety and comfort levels between the two groups.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1329,
+                        1471
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1556,
+                        1654
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1472,
+                        1555
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nDexmedetomidine, a selective alpha-2 agonist, has sedative, analgesic, and anxiolytic effects without respiratory depression. Dexmedetomidine can cause a biphasic cardiovascular response, and induce transient hypertension. Hypotension is a common complication of spinal anesthesia. Decreasing anxiety of patients before procedure is important for high quality of procedure. This study aimed to compare the incidence of hypotension and patients' anxiety and comfort levels when dexmedetomidine was intravenously administered before and after spinal anesthesia.\n\nABSTRACT.METHODS.\nSeventy-four patients with American Society of Anesthesiologists physical status classification I or II were randomly allocated into two groups. Spinal anesthesia was performed using 12 mg of 0.5% heavy bupivacaine. In Group A, 1 \u03bcg/kg of dexmedetomidine was intravenously administered for 10 min, followed by the maintenance infusion of dexmedetomidine 0.2 \u03bcg/kg/hr after 5 min of intrathecal bupivacaine injection. Patients in Group B received same dose of dexmedetomidine by intravenous administration before 5 min of intrathecal bupivacaine injection. Perioperative vital signs, anxiety (using the Spielberger's State-Trait Anxiety Inventory) and comfort (using the numerical rating scale) were evaluated.\n\nABSTRACT.RESULTS.\nThe incidence of hypotension was significantly lower in Group A (16.1%) than in Group B (48.4%) during infusion of dexmedetomidine (p = 0.01). The need for treatment of hypotension is higher in Group B than Group A (p = 0.02). The incidence of bradycardia and desaturation did not significantly differ between the two groups. There were no statistically significant differences regarding the patients' anxiety and comfort.\n\nABSTRACT.CONCLUSIONS.\nHypotension is more frequently occurred, and the treatment of hypotension is more needed in Group B. The intravenously administration of dexmedetomidine before spinal anesthesia has no advantages in hemodynamic status and patients' comfort compared to that after spinal anesthesia during lower limb surgery.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov number, NCT02155010. Retrospectively registered on May 22, 2014.",
+        "target": "This is a study about a medicine called dexmedetomidine. Dexmedetomidine helps to calm people down, reduce pain, and control anxiety without causing breathing problems. However, it can sometimes affect people's blood pressure, which can be a problem when they're getting an anesthesia in their spine for surgery. \n\nIn this experiment, they divided patients into two groups. One group got the medicine before the anesthesia was given, and the other group got the medicine after the anesthesia. They were trying to see which timing was better and made people feel less scared and more comfortable.\n\nThey found out that patients who got the medicine after the anesthesia had less problems with low blood pressure. But, when it came to patient's anxiety and comfort, there was no difference whether they got the medicine before or after anesthesia. \n\nSo, they concluded that giving the medicine after spinal anesthesia seems to be better because it causes fewer problems with blood pressure and it doesn't make a difference in how scared or comfortable patients felt. This study was registered and verified by an official trial registry.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1329,
+                        1471
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1556,
+                        1654
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1472,
+                        1555
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nDexmedetomidine, a selective alpha-2 agonist, has sedative, analgesic, and anxiolytic effects without respiratory depression. Dexmedetomidine can cause a biphasic cardiovascular response, and induce transient hypertension. Hypotension is a common complication of spinal anesthesia. Decreasing anxiety of patients before procedure is important for high quality of procedure. This study aimed to compare the incidence of hypotension and patients' anxiety and comfort levels when dexmedetomidine was intravenously administered before and after spinal anesthesia.\n\nABSTRACT.METHODS.\nSeventy-four patients with American Society of Anesthesiologists physical status classification I or II were randomly allocated into two groups. Spinal anesthesia was performed using 12 mg of 0.5% heavy bupivacaine. In Group A, 1 \u03bcg/kg of dexmedetomidine was intravenously administered for 10 min, followed by the maintenance infusion of dexmedetomidine 0.2 \u03bcg/kg/hr after 5 min of intrathecal bupivacaine injection. Patients in Group B received same dose of dexmedetomidine by intravenous administration before 5 min of intrathecal bupivacaine injection. Perioperative vital signs, anxiety (using the Spielberger's State-Trait Anxiety Inventory) and comfort (using the numerical rating scale) were evaluated.\n\nABSTRACT.RESULTS.\nThe incidence of hypotension was significantly lower in Group A (16.1%) than in Group B (48.4%) during infusion of dexmedetomidine (p = 0.01). The need for treatment of hypotension is higher in Group B than Group A (p = 0.02). The incidence of bradycardia and desaturation did not significantly differ between the two groups. There were no statistically significant differences regarding the patients' anxiety and comfort.\n\nABSTRACT.CONCLUSIONS.\nHypotension is more frequently occurred, and the treatment of hypotension is more needed in Group B. The intravenously administration of dexmedetomidine before spinal anesthesia has no advantages in hemodynamic status and patients' comfort compared to that after spinal anesthesia during lower limb surgery.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov number, NCT02155010. Retrospectively registered on May 22, 2014.",
+        "target": "\nThis study looked at how two different ways of giving a medicine called dexmedetomidine before a spinal anesthesia (anesthesia for surgery) affected the patient's blood pressure and how they felt during and after the surgery. They found that one way of giving the medicine made the patient's blood pressure drop less often, but the other way did not make a difference in how the patient felt.\nSo, the doctors learned that giving the medicine in one way before the spinal anesthesia is betterymanaging the patient's blood pressure during the surgery. But, it did not make a difference in how the patient felt overall.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1329,
+                        1471
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1556,
+                        1654
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1472,
+                        1555
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:.\nMaintenance monotherapy with the poly(ADP-ribose) polymerase inhibitor olaparib significantly prolongs progression-free survival over placebo in patients with platinum-sensitive relapsed serous ovarian cancer, with greatest benefit seen in patients with a BRCA1/2 mutation (BRCAm). Preservation of health-related quality of life (HRQoL) is important during maintenance therapy; we evaluated the effect of olaparib on HRQoL in this Phase II trial (NCT00753545, Study 19).\n\nABSTRACT.METHODS:.\nPatients received olaparib 400 mg b.i.d. (capsules) or placebo until progression. Patient-reported HRQoL and disease-related symptoms were evaluated using the FACT-Ovarian (FACT-O) questionnaire (completed at baseline and every 28 days until progression), the FACT/NCCN Ovarian Symptom Index (FOSI) and the Trial Outcome Index (TOI). TOI of the FACT-O was the primary measure.\n\nABSTRACT.RESULTS:.\nOverall, 265 women were randomised to maintenance olaparib (n=136) or placebo (n=129). Compliance for HRQoL assessment was high (\u223c80% over time). Most patients in both arms reported a best response of 'no change' on TOI (81%) and other HRQoL measures. There were no statistically significant differences in time to worsening or improvement rates of TOI, FOSI and FACT-O scores in the overall, BRCAm and germline BRCAm populations.\n\nABSTRACT.CONCLUSIONS:.\nMaintenance treatment with olaparib was well tolerated and had no adverse impact on HRQoL in this study of patients with platinum-sensitive relapsed serous ovarian cancer who had responded to their most recent platinum-based therapy (partial or complete response). Interpretation of the HRQoL results in this population may differ from patients who have not responded to their most recent platinum-based therapy.",
+        "target": "This study looked at the effect of olaparib on the health-related quality of life (HRQoL) of patients with platinum-sensitive relapsed serous ovarian cancer. The study found that olaparib had no adverse impact on HRQoL. The results of the study may differ from those of patients who have not responded to their most recent platinum-based therapy.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1162,
+                        1340
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:.\nMaintenance monotherapy with the poly(ADP-ribose) polymerase inhibitor olaparib significantly prolongs progression-free survival over placebo in patients with platinum-sensitive relapsed serous ovarian cancer, with greatest benefit seen in patients with a BRCA1/2 mutation (BRCAm). Preservation of health-related quality of life (HRQoL) is important during maintenance therapy; we evaluated the effect of olaparib on HRQoL in this Phase II trial (NCT00753545, Study 19).\n\nABSTRACT.METHODS:.\nPatients received olaparib 400 mg b.i.d. (capsules) or placebo until progression. Patient-reported HRQoL and disease-related symptoms were evaluated using the FACT-Ovarian (FACT-O) questionnaire (completed at baseline and every 28 days until progression), the FACT/NCCN Ovarian Symptom Index (FOSI) and the Trial Outcome Index (TOI). TOI of the FACT-O was the primary measure.\n\nABSTRACT.RESULTS:.\nOverall, 265 women were randomised to maintenance olaparib (n=136) or placebo (n=129). Compliance for HRQoL assessment was high (\u223c80% over time). Most patients in both arms reported a best response of 'no change' on TOI (81%) and other HRQoL measures. There were no statistically significant differences in time to worsening or improvement rates of TOI, FOSI and FACT-O scores in the overall, BRCAm and germline BRCAm populations.\n\nABSTRACT.CONCLUSIONS:.\nMaintenance treatment with olaparib was well tolerated and had no adverse impact on HRQoL in this study of patients with platinum-sensitive relapsed serous ovarian cancer who had responded to their most recent platinum-based therapy (partial or complete response). Interpretation of the HRQoL results in this population may differ from patients who have not responded to their most recent platinum-based therapy.",
+        "target": "This medical study is about a drug called olaparib which is used to treat serious ovarian cancer. This cancer is often treated with a strong medicine called platinum, and olaparib is used to help people who have had good results with platinum treatment but their cancer has come back. \n\nIn this study, scientists gave this drug to a bunch of women, alongside a placebo (which is a fake drug that doesn't do anything), to see what would happen. They wanted to know if olaparib would make people's life better or worse while they're taking it. They used a survey called FACT-O to keep track of how patients' lives were being affected. \n\nMost of the women, whether they got the real medicine or the dummy one, said they didn't notice any change in their quality of life. The scientists' fancy calculations proved that there wasn't a significant difference between the women who took olaparib and those who didn't, in terms of their quality of life.\n\nSo, they concluded that the medicine was well-tolerated, meaning it didn't make life worse for the patients. They also said the results might be different for patients who didn't have a good response to the platinum treatment before. Therefore, further investigations are needed, but for these specific patients, olaparib seemed to be a good choice without making their life worse.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1162,
+                        1340
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:.\nMaintenance monotherapy with the poly(ADP-ribose) polymerase inhibitor olaparib significantly prolongs progression-free survival over placebo in patients with platinum-sensitive relapsed serous ovarian cancer, with greatest benefit seen in patients with a BRCA1/2 mutation (BRCAm). Preservation of health-related quality of life (HRQoL) is important during maintenance therapy; we evaluated the effect of olaparib on HRQoL in this Phase II trial (NCT00753545, Study 19).\n\nABSTRACT.METHODS:.\nPatients received olaparib 400 mg b.i.d. (capsules) or placebo until progression. Patient-reported HRQoL and disease-related symptoms were evaluated using the FACT-Ovarian (FACT-O) questionnaire (completed at baseline and every 28 days until progression), the FACT/NCCN Ovarian Symptom Index (FOSI) and the Trial Outcome Index (TOI). TOI of the FACT-O was the primary measure.\n\nABSTRACT.RESULTS:.\nOverall, 265 women were randomised to maintenance olaparib (n=136) or placebo (n=129). Compliance for HRQoL assessment was high (\u223c80% over time). Most patients in both arms reported a best response of 'no change' on TOI (81%) and other HRQoL measures. There were no statistically significant differences in time to worsening or improvement rates of TOI, FOSI and FACT-O scores in the overall, BRCAm and germline BRCAm populations.\n\nABSTRACT.CONCLUSIONS:.\nMaintenance treatment with olaparib was well tolerated and had no adverse impact on HRQoL in this study of patients with platinum-sensitive relapsed serous ovarian cancer who had responded to their most recent platinum-based therapy (partial or complete response). Interpretation of the HRQoL results in this population may differ from patients who have not responded to their most recent platinum-based therapy.",
+        "target": "\nThis means that doctors gave some women a special medicine called olaparib to take every day to help keep their cancer from growing. The doctors wanted to know if this medicine would make the women feel bad or uncomfortable, so they asked them how they were feeling every 28 days. The doctors found out that most of the women didn't feel any worse, and some even felt a little better. This means that olaparib might be a good medicine for some women with ovarian cancer to take to help keep their cancer from growing.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1162,
+                        1340
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nPain and urinary symptoms following colorectal cancer (CRC) surgery are frequent and carry a poor recovery. This study tested the effects of inhalation of Lavandula angustifolia Mill. (lavender) oil or linalyl acetate on pain relief and lower urinary tract symptoms (LUTS) following the removal of indwelling urinary catheters from patients after CRC surgery. This randomised control study recruited 66 subjects with indwelling urinary catheters after undergoing CRC surgery who later underwent catheter removal. Patients inhaled 1% lavender, 1% linalyl acetate, or vehicle (control group) for 20 minutes. Systolic and diastolic blood pressure (BP), heart rate, LUTS, and visual analog scales of pain magnitude and quality of life (QoL) regarding urinary symptoms were measured before and after inhalation. Systolic BP, diastolic BP, heart rate, LUTS, and QoL satisfaction with urinary symptoms were similar in the three groups. Significant differences in pain magnitude and urinary residual sense of indwelling catheters were observed among the three groups, with inhalation of linalyl acetate being significantly more effective than inhalation of lavender or vehicle. Inhalation of linalyl acetate is an effective nursing intervention to relieve pain and urinary residual sense of indwelling urinary catheters following their removal from patients who underwent CRC surgery.",
+        "target": "This study tested the effects of inhaling either lavender oil or linalyl acetate on pain relief and urinary symptoms following the removal of indwelling urinary catheters from patients who had undergone colorectal cancer surgery. Sixty-six patients were randomly assigned to inhale either 1% lavender oil, 1% linalyl acetate, or a placebo (vehicle). Before and after catheter removal, patients' blood pressure, heart rate, urinary symptoms, and quality of life (QoL) regarding urinary symptoms were measured. The results showed that inhaling linalyl acetate was more effective than inhaling lavender oil or the vehicle in relieving pain and urinary residual sense. Inhaling linalyl acetate was also more effective than the other two treatments in improving QoL regarding urinary symptoms. These findings suggest that inhaling linalyl acetate is an effective nursing intervention to relieve pain and urinary residual sense following the removal of indwelling urinary catheters from patients who had undergone colorectal cancer surgery.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        815,
+                        937
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        939,
+                        1179
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nPain and urinary symptoms following colorectal cancer (CRC) surgery are frequent and carry a poor recovery. This study tested the effects of inhalation of Lavandula angustifolia Mill. (lavender) oil or linalyl acetate on pain relief and lower urinary tract symptoms (LUTS) following the removal of indwelling urinary catheters from patients after CRC surgery. This randomised control study recruited 66 subjects with indwelling urinary catheters after undergoing CRC surgery who later underwent catheter removal. Patients inhaled 1% lavender, 1% linalyl acetate, or vehicle (control group) for 20 minutes. Systolic and diastolic blood pressure (BP), heart rate, LUTS, and visual analog scales of pain magnitude and quality of life (QoL) regarding urinary symptoms were measured before and after inhalation. Systolic BP, diastolic BP, heart rate, LUTS, and QoL satisfaction with urinary symptoms were similar in the three groups. Significant differences in pain magnitude and urinary residual sense of indwelling catheters were observed among the three groups, with inhalation of linalyl acetate being significantly more effective than inhalation of lavender or vehicle. Inhalation of linalyl acetate is an effective nursing intervention to relieve pain and urinary residual sense of indwelling urinary catheters following their removal from patients who underwent CRC surgery.",
+        "target": "This passage is about a study where doctors were trying to see if sniffing certain smells could help reduce pain and make you feel better after surgery for colorectal cancer - this type of cancer happens in your tummy area. They had people smell lavender oil, something called linalyl acetate, or just a plain smell (which was a control group) for 20 minutes, and then they checked their heart rate, blood pressure, and asked them about their pain and how they were feeling. They found out that the people who sniffed the linalyl acetate smell felt less pain and discomfort after having their pee tubes removed than the other groups. This means that smelling linalyl acetate might be a good thing for nurses to do to help people feel better after surgery.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        815,
+                        937
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        939,
+                        1179
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nPain and urinary symptoms following colorectal cancer (CRC) surgery are frequent and carry a poor recovery. This study tested the effects of inhalation of Lavandula angustifolia Mill. (lavender) oil or linalyl acetate on pain relief and lower urinary tract symptoms (LUTS) following the removal of indwelling urinary catheters from patients after CRC surgery. This randomised control study recruited 66 subjects with indwelling urinary catheters after undergoing CRC surgery who later underwent catheter removal. Patients inhaled 1% lavender, 1% linalyl acetate, or vehicle (control group) for 20 minutes. Systolic and diastolic blood pressure (BP), heart rate, LUTS, and visual analog scales of pain magnitude and quality of life (QoL) regarding urinary symptoms were measured before and after inhalation. Systolic BP, diastolic BP, heart rate, LUTS, and QoL satisfaction with urinary symptoms were similar in the three groups. Significant differences in pain magnitude and urinary residual sense of indwelling catheters were observed among the three groups, with inhalation of linalyl acetate being significantly more effective than inhalation of lavender or vehicle. Inhalation of linalyl acetate is an effective nursing intervention to relieve pain and urinary residual sense of indwelling urinary catheters following their removal from patients who underwent CRC surgery.",
+        "target": "\nThis study looked at how two different smells, lavender and linalyl acetate, can help with pain and urinary problems after surgery for colon cancer. The researchers wanted to know if one of these smells was better than the other at helping with these problems. They looked at 66 people who had surgery for colon cancer and had a tube in their bladder to collect urine during their recovery. The people inhaled one of these two smells or a fake smell (called the \"vehicle\" group) for 20 minutes. The researchers measured how much pain the people were in, their blood pressure, their heart rate, and how well their urinary system was working before and after inhaling the smell. They found that the smell called linalyl acetate was better at relieving pain and urinary problems than the other two smells. This means that nurses can use linalyl acetate to help patients feel better after colon cancer surgery.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        815,
+                        937
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        939,
+                        1179
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nPhysical activity (PA) prevents chronic diseases. Self-determination theory (SDT) provides a useful framework to understand the nature of motivational interviewing (MI).\n\nABSTRACT.OBJECTIVE.\nThis study aimed to determine the effect of MI-based intervention using SDT on the promotion of PA among women in reproductive age.\n\nABSTRACT.METHODS.\nSeventy women in reproductive age were selected by clustering sampling method for this randomized controlled trial. The questionnaire included the variables of physical fitness test, SDT, and global physical activity questionnaire (GPAQ). The validity of the questionnaires was approved using content validity ratio (CVR) and index (CVI). The reliability and internal consistency of the questionnaires and measures was approved using test-retest method and Cronbach's alpha test, respectively. The intervention group (n=35) received four MI sessions through theory and one standard education session about PA. The control group (n=35) received a standard education session about PA.\n\nABSTRACT.RESULTS.\nFour months after the intervention, an increase in the mean scores of total PA (p&lt;0.001, ES=4.77), physical fitness tests including flexibility (p&lt;0.001, ES=1.59), muscular endurance (p&lt;0.001, ES=2.0), cardiorespiratory endurance (p&lt;0.001, ES=0.51), and a decrease in mean scores of agility test (p&lt;0.001, ES= \u2212 0.51) and sedentary behavior (p&lt;0.01, ES=\u2212 0.74) was observed in the intervention group compared to the control group. The intervention group reported an increase in the scores of intrinsic motivation (p&lt;0.001, ES=3.34), identified regulation (p&lt;0.001, ES= 1.28), perceptions of competence (p&lt;0.001, ES=0.81) and autonomy (p&lt;0.001, ES=2.01), enjoyment (p&lt;0.001, ES=0.98) and health motives (p&lt;0.01, ES=0.19), health care climate (p&lt;0.001, ES=4.6), and a decreased score of external regulation (p&lt;0.01, ES=\u22120.55) and amotivation (p&lt;0.01, ES= \u22120.56) over time, compared to the control group.\n\nABSTRACT.CONCLUSION.\nMI-based intervention using SDT was effective on the promotion of PA.\n\nABSTRACT.TRIAL REGISTRATION.\nThe Trial was registered at the Iranian Registry of Clinical Trial (http://www.irct.ir) with the Irct ID: IRCT2015101924592N1.",
+        "target": "This study aimed to determine the effect of a motivational interviewing-based intervention using Self-Determination Theory on the promotion of physical activity among women in reproductive age. The intervention group received four motivational interviewing sessions and one standard education session about physical activity, while the control group received a standard education session about physical activity. Results showed that the intervention group reported an increase in intrinsic motivation, identified regulation, perceptions of competence and autonomy, enjoyment and health motives, health care climate, and a decreased score of external regulation and amotivation over time, compared to the control group. This suggests that MI-based interventions using SDT can be effective in promoting physical activity.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1514,
+                        2011
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1065,
+                        1513
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nPhysical activity (PA) prevents chronic diseases. Self-determination theory (SDT) provides a useful framework to understand the nature of motivational interviewing (MI).\n\nABSTRACT.OBJECTIVE.\nThis study aimed to determine the effect of MI-based intervention using SDT on the promotion of PA among women in reproductive age.\n\nABSTRACT.METHODS.\nSeventy women in reproductive age were selected by clustering sampling method for this randomized controlled trial. The questionnaire included the variables of physical fitness test, SDT, and global physical activity questionnaire (GPAQ). The validity of the questionnaires was approved using content validity ratio (CVR) and index (CVI). The reliability and internal consistency of the questionnaires and measures was approved using test-retest method and Cronbach's alpha test, respectively. The intervention group (n=35) received four MI sessions through theory and one standard education session about PA. The control group (n=35) received a standard education session about PA.\n\nABSTRACT.RESULTS.\nFour months after the intervention, an increase in the mean scores of total PA (p&lt;0.001, ES=4.77), physical fitness tests including flexibility (p&lt;0.001, ES=1.59), muscular endurance (p&lt;0.001, ES=2.0), cardiorespiratory endurance (p&lt;0.001, ES=0.51), and a decrease in mean scores of agility test (p&lt;0.001, ES= \u2212 0.51) and sedentary behavior (p&lt;0.01, ES=\u2212 0.74) was observed in the intervention group compared to the control group. The intervention group reported an increase in the scores of intrinsic motivation (p&lt;0.001, ES=3.34), identified regulation (p&lt;0.001, ES= 1.28), perceptions of competence (p&lt;0.001, ES=0.81) and autonomy (p&lt;0.001, ES=2.01), enjoyment (p&lt;0.001, ES=0.98) and health motives (p&lt;0.01, ES=0.19), health care climate (p&lt;0.001, ES=4.6), and a decreased score of external regulation (p&lt;0.01, ES=\u22120.55) and amotivation (p&lt;0.01, ES= \u22120.56) over time, compared to the control group.\n\nABSTRACT.CONCLUSION.\nMI-based intervention using SDT was effective on the promotion of PA.\n\nABSTRACT.TRIAL REGISTRATION.\nThe Trial was registered at the Iranian Registry of Clinical Trial (http://www.irct.ir) with the Irct ID: IRCT2015101924592N1.",
+        "target": "Researchers wanted to see if a type of motivation coaching called \"Self-determination theory\" could help adult women exercise more. They split 70 women into two groups. Group one got regular information about exercise, and group two got the same information, plus special motivation coaching. After four months, they found that the women with the extra coaching exercised more and felt better about it. So, the study shows that getting a special motivation coach can help people exercise more.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1514,
+                        2011
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1065,
+                        1513
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nPhysical activity (PA) prevents chronic diseases. Self-determination theory (SDT) provides a useful framework to understand the nature of motivational interviewing (MI).\n\nABSTRACT.OBJECTIVE.\nThis study aimed to determine the effect of MI-based intervention using SDT on the promotion of PA among women in reproductive age.\n\nABSTRACT.METHODS.\nSeventy women in reproductive age were selected by clustering sampling method for this randomized controlled trial. The questionnaire included the variables of physical fitness test, SDT, and global physical activity questionnaire (GPAQ). The validity of the questionnaires was approved using content validity ratio (CVR) and index (CVI). The reliability and internal consistency of the questionnaires and measures was approved using test-retest method and Cronbach's alpha test, respectively. The intervention group (n=35) received four MI sessions through theory and one standard education session about PA. The control group (n=35) received a standard education session about PA.\n\nABSTRACT.RESULTS.\nFour months after the intervention, an increase in the mean scores of total PA (p&lt;0.001, ES=4.77), physical fitness tests including flexibility (p&lt;0.001, ES=1.59), muscular endurance (p&lt;0.001, ES=2.0), cardiorespiratory endurance (p&lt;0.001, ES=0.51), and a decrease in mean scores of agility test (p&lt;0.001, ES= \u2212 0.51) and sedentary behavior (p&lt;0.01, ES=\u2212 0.74) was observed in the intervention group compared to the control group. The intervention group reported an increase in the scores of intrinsic motivation (p&lt;0.001, ES=3.34), identified regulation (p&lt;0.001, ES= 1.28), perceptions of competence (p&lt;0.001, ES=0.81) and autonomy (p&lt;0.001, ES=2.01), enjoyment (p&lt;0.001, ES=0.98) and health motives (p&lt;0.01, ES=0.19), health care climate (p&lt;0.001, ES=4.6), and a decreased score of external regulation (p&lt;0.01, ES=\u22120.55) and amotivation (p&lt;0.01, ES= \u22120.56) over time, compared to the control group.\n\nABSTRACT.CONCLUSION.\nMI-based intervention using SDT was effective on the promotion of PA.\n\nABSTRACT.TRIAL REGISTRATION.\nThe Trial was registered at the Iranian Registry of Clinical Trial (http://www.irct.ir) with the Irct ID: IRCT2015101924592N1.",
+        "target": "\nThis study looked at how a special kind of counseling called Motivational Interviewing (MI) can help women in their childbearing years be more active. The researchers wanted to see if MI would make a difference in how much physical activity (PA) these women did. They also wanted to see if MI would change how these women felt about being active. They found out that MI did make a difference and that the women who got MI did more PA and felt more motivated to be active than the women who didn't get MI.\n\nSo, MI can help women in their childbearing years be more active and feel more motivated to do so.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1514,
+                        2011
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1065,
+                        1513
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nCholecystectomy can be associated with considerable postoperative pain. While the benefits of paravertebral block (PVB) on pain after thoracotomy and mastectomy have been demonstrated, not enough investigations on the effects of PVB on pain after open cholecystectomy have been conducted. We tested the hypothesis that a single-injection thoracic PVB reduces pain scores, decreases opioid consumption, and prolongs analgesic request time after cholecystectomy.\n\nABSTRACT.METHODS.\nOf 52 patients recruited, 50 completed the study. They were randomly allocated into two groups: the paravertebral group and the control group. The outcome measures were the severity of pain measured on numeric pain rating scale, total opioid consumption, and first analgesic request time during the first postoperative 24 hours.\n\nABSTRACT.RESULT.\nThe main outcomes recorded during 24 hours after surgery were Numerical Rating Scale (NRS) pain scores (NRS, 0\u201310), cumulative opioid consumption, and the first analgesic request time. Twenty four hours after surgery, NRS at rest was 4 (3\u20136) vs 5 (5\u20137) and at movement 4 (4\u20137) vs 6 (5\u20137.5) for the PVB and control groups, respectively. The difference between the groups over the whole observation period was statistically significant (P&lt;0.05). Twenty-four hours after surgery, median (25th\u201375th percentile) cumulative morphine consumption was 0 (0\u20132) vs 2.5 (2\u20134) mg (P&lt;0.0001) and cumulative tramadol consumption was 200 (150\u2013250) mg vs 300 (200\u2013350) mg in the paravertebral and in the control group, respectively (P=0.003). After surgery, the median (25th\u201375th percentile) first analgesic requirement time was prolonged in the PVB group in statistically significant fashion (P&lt;0.0001).\n\nABSTRACT.CONCLUSION AND RECOMMENDATIONS.\nSingle-shot thoracic PVB as a component of multi-modal analgesic regimen provided superior analgesia when compared with the control group up to 24 postoperative hours after cholecystectomy, and we recommend this block for post cholecystectomy pain relief.",
+        "target": "This study looked at the effect of a paravertebral block (PVB) on pain after open cholecystectomy. The results showed that the PVB provided superior analgesia compared to a control group up to 24 hours after surgery. The researchers therefore recommend this block for post-cholecystectomy pain relief.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1436,
+                        1578
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1595,
+                        1744
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nCholecystectomy can be associated with considerable postoperative pain. While the benefits of paravertebral block (PVB) on pain after thoracotomy and mastectomy have been demonstrated, not enough investigations on the effects of PVB on pain after open cholecystectomy have been conducted. We tested the hypothesis that a single-injection thoracic PVB reduces pain scores, decreases opioid consumption, and prolongs analgesic request time after cholecystectomy.\n\nABSTRACT.METHODS.\nOf 52 patients recruited, 50 completed the study. They were randomly allocated into two groups: the paravertebral group and the control group. The outcome measures were the severity of pain measured on numeric pain rating scale, total opioid consumption, and first analgesic request time during the first postoperative 24 hours.\n\nABSTRACT.RESULT.\nThe main outcomes recorded during 24 hours after surgery were Numerical Rating Scale (NRS) pain scores (NRS, 0\u201310), cumulative opioid consumption, and the first analgesic request time. Twenty four hours after surgery, NRS at rest was 4 (3\u20136) vs 5 (5\u20137) and at movement 4 (4\u20137) vs 6 (5\u20137.5) for the PVB and control groups, respectively. The difference between the groups over the whole observation period was statistically significant (P&lt;0.05). Twenty-four hours after surgery, median (25th\u201375th percentile) cumulative morphine consumption was 0 (0\u20132) vs 2.5 (2\u20134) mg (P&lt;0.0001) and cumulative tramadol consumption was 200 (150\u2013250) mg vs 300 (200\u2013350) mg in the paravertebral and in the control group, respectively (P=0.003). After surgery, the median (25th\u201375th percentile) first analgesic requirement time was prolonged in the PVB group in statistically significant fashion (P&lt;0.0001).\n\nABSTRACT.CONCLUSION AND RECOMMENDATIONS.\nSingle-shot thoracic PVB as a component of multi-modal analgesic regimen provided superior analgesia when compared with the control group up to 24 postoperative hours after cholecystectomy, and we recommend this block for post cholecystectomy pain relief.",
+        "target": "This study is about a way to help reduce pain after a surgery to remove the gallbladder (cholecystectomy). They wanted to see if using a certain type of pain block, called a paravertebral block (PVB), would help reduce pain, decrease the amount of painkillers required and prolong the time before the first request for pain relief.\n\nThey tested this on 50 patients who had this surgery. Half got the PVB and half didn't (the control group). They measured how bad the pain was, the total amount of painkillers consumed, and the time before the first request for more pain relief in the first day after the surgery.\n\nThe results showed that the group who got the PVB felt less pain, needed fewer painkillers and asked for relief later than the group who didn't. This tells us that this type of pain block was better at reducing pain and the need for painkillers after gallbladder surgery.\n\nSo, they suggest that using this type of pain relief should be considered for managing pain after gallbladder surgery.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1436,
+                        1578
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1595,
+                        1744
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nCholecystectomy can be associated with considerable postoperative pain. While the benefits of paravertebral block (PVB) on pain after thoracotomy and mastectomy have been demonstrated, not enough investigations on the effects of PVB on pain after open cholecystectomy have been conducted. We tested the hypothesis that a single-injection thoracic PVB reduces pain scores, decreases opioid consumption, and prolongs analgesic request time after cholecystectomy.\n\nABSTRACT.METHODS.\nOf 52 patients recruited, 50 completed the study. They were randomly allocated into two groups: the paravertebral group and the control group. The outcome measures were the severity of pain measured on numeric pain rating scale, total opioid consumption, and first analgesic request time during the first postoperative 24 hours.\n\nABSTRACT.RESULT.\nThe main outcomes recorded during 24 hours after surgery were Numerical Rating Scale (NRS) pain scores (NRS, 0\u201310), cumulative opioid consumption, and the first analgesic request time. Twenty four hours after surgery, NRS at rest was 4 (3\u20136) vs 5 (5\u20137) and at movement 4 (4\u20137) vs 6 (5\u20137.5) for the PVB and control groups, respectively. The difference between the groups over the whole observation period was statistically significant (P&lt;0.05). Twenty-four hours after surgery, median (25th\u201375th percentile) cumulative morphine consumption was 0 (0\u20132) vs 2.5 (2\u20134) mg (P&lt;0.0001) and cumulative tramadol consumption was 200 (150\u2013250) mg vs 300 (200\u2013350) mg in the paravertebral and in the control group, respectively (P=0.003). After surgery, the median (25th\u201375th percentile) first analgesic requirement time was prolonged in the PVB group in statistically significant fashion (P&lt;0.0001).\n\nABSTRACT.CONCLUSION AND RECOMMENDATIONS.\nSingle-shot thoracic PVB as a component of multi-modal analgesic regimen provided superior analgesia when compared with the control group up to 24 postoperative hours after cholecystectomy, and we recommend this block for post cholecystectomy pain relief.",
+        "target": "\nThe study found that giving a special kind of pain medicine called a paravertebral block to people after they have their gallbladder removed can help reduce the amount of pain medicine they need and how often they need it for the first 24 hours after surgery. This is compared to people who don't get the paravertebral block. The doctors think this is a good way to help people feel less pain after their surgery and they recommend trying it.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1436,
+                        1578
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1595,
+                        1744
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE.\nWe compared the haemodynamic effects of riociguat in patients with inoperable chronic thromboembolic pulmonary hypertension (CTEPH) or persistent/recurrent CTEPH after pulmonary endarterectomy in the Chronic Thromboembolic Pulmonary Hypertension Soluble Guanylate Cyclase\u2013Stimulator Trial 1 study.\n\nABSTRACT.METHODS.\nPatients with inoperable or persistent/recurrent CTEPH (n=261; mean\u00b1 SD age 59\u00b114 years; 66% women) were randomised to riociguat (up to 2.5 mg three times daily) or placebo. Haemodynamic parameters were assessed at baseline and week 16.\n\nABSTRACT.RESULTS.\nRiociguat decreased pulmonary vascular resistance (PVR) in inoperable (n=189; least-squares mean difference: \u2212285 dyn s/cm5 (95% CI \u2212357 to \u2212213); p&lt;0.0001) and persistent/recurrent (n=72; \u2212131 dyn s/cm5 (95% CI \u2212214 to \u221248); p=0.0025) patients. Cardiac index improved in inoperable patients by a least-squares mean difference of +0.6 L/min/m2 (95% CI 0.4 to 0.7; p&lt;0.0001), while in persistent/recurrent patients the change was +0.2 L/min/m2 (95% CI \u22120.1 to 0.5; p=0.17). Mean pulmonary artery pressure decreased in inoperable and persistent/recurrent patients(\u22124.7 mm Hg (95% CI \u22126.9 to \u22122.6; p&lt;0.0001 and \u22124.8 mm Hg (\u20138.2 to \u22121.5; p=0.0055), respectively). For all patients, changes in 6 min walk distance correlated with changes in PVR (r=\u22120.29 (95% CI \u22120.41 to \u22120.17); p&lt;0.0001) and cardiac index (r=0.23 (95% CI 0.10 to 0.35); p=0.0004).\n\nABSTRACT.CONCLUSIONS.\nRiociguat improved haemodynamics in patients with inoperable CTEPH or persistent/recurrent CTEPH.\n\nABSTRACT.TRIAL REGISTRATION NUMBER.\nNCT00855465.",
+        "target": "We compared the effects of riociguat on haemodynamics in patients with inoperable chronic thromboembolic pulmonary hypertension (CTEPH) or persistent/recurrent CTEPH after pulmonary endarterectomy. Riociguat decreased pulmonary vascular resistance and improved cardiac index in both inoperable and persistent/recurrent CTEPH patients. These improvements were associated with improvements in 6 min walk distance.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        842,
+                        1071
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        593,
+                        841
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1072,
+                        1260
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE.\nWe compared the haemodynamic effects of riociguat in patients with inoperable chronic thromboembolic pulmonary hypertension (CTEPH) or persistent/recurrent CTEPH after pulmonary endarterectomy in the Chronic Thromboembolic Pulmonary Hypertension Soluble Guanylate Cyclase\u2013Stimulator Trial 1 study.\n\nABSTRACT.METHODS.\nPatients with inoperable or persistent/recurrent CTEPH (n=261; mean\u00b1 SD age 59\u00b114 years; 66% women) were randomised to riociguat (up to 2.5 mg three times daily) or placebo. Haemodynamic parameters were assessed at baseline and week 16.\n\nABSTRACT.RESULTS.\nRiociguat decreased pulmonary vascular resistance (PVR) in inoperable (n=189; least-squares mean difference: \u2212285 dyn s/cm5 (95% CI \u2212357 to \u2212213); p&lt;0.0001) and persistent/recurrent (n=72; \u2212131 dyn s/cm5 (95% CI \u2212214 to \u221248); p=0.0025) patients. Cardiac index improved in inoperable patients by a least-squares mean difference of +0.6 L/min/m2 (95% CI 0.4 to 0.7; p&lt;0.0001), while in persistent/recurrent patients the change was +0.2 L/min/m2 (95% CI \u22120.1 to 0.5; p=0.17). Mean pulmonary artery pressure decreased in inoperable and persistent/recurrent patients(\u22124.7 mm Hg (95% CI \u22126.9 to \u22122.6; p&lt;0.0001 and \u22124.8 mm Hg (\u20138.2 to \u22121.5; p=0.0055), respectively). For all patients, changes in 6 min walk distance correlated with changes in PVR (r=\u22120.29 (95% CI \u22120.41 to \u22120.17); p&lt;0.0001) and cardiac index (r=0.23 (95% CI 0.10 to 0.35); p=0.0004).\n\nABSTRACT.CONCLUSIONS.\nRiociguat improved haemodynamics in patients with inoperable CTEPH or persistent/recurrent CTEPH.\n\nABSTRACT.TRIAL REGISTRATION NUMBER.\nNCT00855465.",
+        "target": "A clinical trial was conducted to study the effects of a drug called riociguat on people with a lung disease called CTEPH, who can't have surgery or still have the disease post-surgery. The researchers tested how well the patient's heart and lungs worked before and after taking the drug for 16 weeks. The results showed that the drug helped the patients by reducing the resistance in their lungs, improving the amount of blood their heart could pump, and reducing the pressure in their arteries. Also, this drug seemed to help them walk further in 6 minutes. Therefore, the medicine riociguat appears to improve heart and lung function in patients with CTEPH.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        842,
+                        1071
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        593,
+                        841
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1072,
+                        1260
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE.\nWe compared the haemodynamic effects of riociguat in patients with inoperable chronic thromboembolic pulmonary hypertension (CTEPH) or persistent/recurrent CTEPH after pulmonary endarterectomy in the Chronic Thromboembolic Pulmonary Hypertension Soluble Guanylate Cyclase\u2013Stimulator Trial 1 study.\n\nABSTRACT.METHODS.\nPatients with inoperable or persistent/recurrent CTEPH (n=261; mean\u00b1 SD age 59\u00b114 years; 66% women) were randomised to riociguat (up to 2.5 mg three times daily) or placebo. Haemodynamic parameters were assessed at baseline and week 16.\n\nABSTRACT.RESULTS.\nRiociguat decreased pulmonary vascular resistance (PVR) in inoperable (n=189; least-squares mean difference: \u2212285 dyn s/cm5 (95% CI \u2212357 to \u2212213); p&lt;0.0001) and persistent/recurrent (n=72; \u2212131 dyn s/cm5 (95% CI \u2212214 to \u221248); p=0.0025) patients. Cardiac index improved in inoperable patients by a least-squares mean difference of +0.6 L/min/m2 (95% CI 0.4 to 0.7; p&lt;0.0001), while in persistent/recurrent patients the change was +0.2 L/min/m2 (95% CI \u22120.1 to 0.5; p=0.17). Mean pulmonary artery pressure decreased in inoperable and persistent/recurrent patients(\u22124.7 mm Hg (95% CI \u22126.9 to \u22122.6; p&lt;0.0001 and \u22124.8 mm Hg (\u20138.2 to \u22121.5; p=0.0055), respectively). For all patients, changes in 6 min walk distance correlated with changes in PVR (r=\u22120.29 (95% CI \u22120.41 to \u22120.17); p&lt;0.0001) and cardiac index (r=0.23 (95% CI 0.10 to 0.35); p=0.0004).\n\nABSTRACT.CONCLUSIONS.\nRiociguat improved haemodynamics in patients with inoperable CTEPH or persistent/recurrent CTEPH.\n\nABSTRACT.TRIAL REGISTRATION NUMBER.\nNCT00855465.",
+        "target": "\nThis is a study about a medicine called riociguat. It helps people with a bad heart. The medicine makes the heart work better and reduces the pressure in the heart. The study looked at how well the medicine worked in people with bad hearts that can't be fixed with surgery or those who have had surgery but still have problems. The study found that the medicine helped these people by making their heart work better and reducing the pressure in their heart. It also helped them walk further without getting tired.\nI hope this helps!",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        842,
+                        1071
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        593,
+                        841
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1072,
+                        1260
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nPsychostimulants are considered first-line pharmacotherapy for youth with attention-deficit/hyperactivity disorder (ADHD), but questions remain regarding the comparative efficacy of amphetamine- and methylphenidate-based agents.\n\nABSTRACT.OBJECTIVE.\nOur objective was to describe two acute randomized, double-blind, placebo-controlled, head-to-head studies of lisdexamfetamine dimesylate (LDX) and osmotic-release oral system methylphenidate (OROS-MPH) in adolescents with ADHD.\n\nABSTRACT.METHODS.\nAdolescents (13\u201317 years) diagnosed with ADHD according to Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR) criteria were enrolled in an 8-week flexible-dose study [LDX 30\u201370 mg/day (n = 186 randomized); OROS-MPH 18\u201372 mg/day (n = 185 randomized); placebo (n = 93 randomized)] or a 6-week forced-dose study [LDX 70 mg/day (n = 219 randomized); OROS-MPH 72 mg/day (n = 220 randomized); placebo (n = 110 randomized)]. Attention-Deficit/Hyperactivity Disorder Rating Scale IV (ADHD-RS-IV) total score changes from baseline (primary endpoint) at week 8 (flexible-dose study) or week 6 (forced-dose study) were assessed with mixed-effects models for repeated measures. Secondary endpoints included improvement on the dichotomized Clinical Global Impressions\u2013Improvement scale (CGI-I; key secondary endpoint) and changes from baseline on the ADHD-RS-IV subscales. Safety assessments included treatment-emergent adverse events (TEAEs) and vital signs.\n\nABSTRACT.RESULTS.\nLeast squares (LS) mean \u00b1 standard error of the mean (SEM) ADHD-RS-IV total score changes from baseline to end of treatment were \u221217.0 \u00b1 1.03 with placebo, \u221225.4 \u00b1 0.74 with LDX, and \u221222.1 \u00b1 0.73 with OROS-MPH in the forced-dose study and \u221213.4 \u00b1 1.19 with placebo, \u221225.6 \u00b1 0.82 with LDX, and \u221223.5 \u00b1 0.80 with OROS-MPH in the flexible-dose study. LS mean \u00b1 SEM treatment difference for the change from baseline significantly favored LDX over OROS-MPH in the forced-dose [\u22123.4 \u00b1 1.04, p = 0.0013, effect size (ES) \u22120.33] but not the flexible-dose (\u22122.1 \u00b1 1.15, p = 0.0717, ES \u22120.20) study. The percentage of improved participants on the dichotomized CGI-I at end of treatment was significantly greater with LDX than with OROS-MPH in the forced-dose study (81.4 vs. 71.3%, p = 0.0188) but not the flexible-dose study (LDX 83.1%, OROS-MPH 81.0%, p = 0.6165). The LS mean \u00b1 SEM treatment differences for change from baseline on the ADHD-RS-IV hyperactivity/impulsivity and inattentiveness subscales nominally favored LDX in the forced-dose study (hyperactivity/impulsivity subscale \u22121.3 \u00b1 0.49, nominal p = 0.0081, ES \u22120.27; inattentiveness subscale \u22122.0 \u00b1 0.63, nominal p = 0.0013, ES \u22120.33), but there were no significant differences between active treatments in the flexible-dose study. In both studies, LDX and OROS-MPH were superior to placebo for all efficacy-related endpoints (all nominal p &lt; 0.0001; ES range \u22120.43 to \u22121.16). The overall frequency of TEAEs for LDX and OROS-MPH, respectively, were 66.5 and 58.9% in the forced-dose study and 83.2 and 82.1% in the flexible-dose study. TEAEs occurring in \u2265 5% of participants that were also reported at two or more times the rate of placebo were decreased appetite, decreased weight, insomnia, initial insomnia, dry mouth, and nasopharyngitis (LDX and OROS-MPH), irritability and dizziness (LDX only), and increased heart rate (OROS-MPH only) in the forced-dose study and decreased appetite, decreased weight, insomnia, and dizziness (LDX and OROS-MPH) and dry mouth and upper abdominal pain (LDX only) in the flexible-dose study. Mean \u00b1 standard deviation (SD) increases from baseline in vital signs (systolic and diastolic blood pressure, pulse) were observed in the forced-dose study [LDX 1.6 \u00b1 9.65 and 3.3 \u00b1 8.11 mmHg, 6.7 \u00b1 12.78 beats per minute (bpm); OROS-MPH 2.6 \u00b1 10.15 and 3.3 \u00b1 9.13 mmHg, 7.6 \u00b1 12.47 bpm] and the flexible-dose study (LDX 2.4 \u00b1 9.46 and 2.8 \u00b1 8.41 mmHg, 4.7 \u00b1 11.82 bpm; OROS-MPH 0.4 \u00b1 9.90 and 2.2 \u00b1 8.64 mmHg, 6.0 \u00b1 10.52 bpm) at the last on-treatment assessment.\n\nABSTRACT.CONCLUSIONS.\nLDX was superior to OROS-MPH in adolescents with ADHD in the forced-dose but not the flexible-dose study. Safety and tolerability for both medications was consistent with previous studies. These findings underscore the robust acute efficacy of both psychostimulant classes in treating adolescents with ADHD.\n\nABSTRACT.CLINICALTRIALS.GOV REGISTRY NUMBERS.\nNCT01552915 and NCT01552902.\n\nABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL.\nThe online version of this article (doi:10.1007/s40263-017-0468-2) contains supplementary material, which is available to authorized users.",
+        "target": "The text has been edited to make it easier to understand for non-native speakers of English. The changes include rephrasing complex sentences, using simpler language, and providing definitions for technical terms.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        2432,
+                        2720
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        2121,
+                        2387
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        4108,
+                        4212
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nPsychostimulants are considered first-line pharmacotherapy for youth with attention-deficit/hyperactivity disorder (ADHD), but questions remain regarding the comparative efficacy of amphetamine- and methylphenidate-based agents.\n\nABSTRACT.OBJECTIVE.\nOur objective was to describe two acute randomized, double-blind, placebo-controlled, head-to-head studies of lisdexamfetamine dimesylate (LDX) and osmotic-release oral system methylphenidate (OROS-MPH) in adolescents with ADHD.\n\nABSTRACT.METHODS.\nAdolescents (13\u201317 years) diagnosed with ADHD according to Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR) criteria were enrolled in an 8-week flexible-dose study [LDX 30\u201370 mg/day (n = 186 randomized); OROS-MPH 18\u201372 mg/day (n = 185 randomized); placebo (n = 93 randomized)] or a 6-week forced-dose study [LDX 70 mg/day (n = 219 randomized); OROS-MPH 72 mg/day (n = 220 randomized); placebo (n = 110 randomized)]. Attention-Deficit/Hyperactivity Disorder Rating Scale IV (ADHD-RS-IV) total score changes from baseline (primary endpoint) at week 8 (flexible-dose study) or week 6 (forced-dose study) were assessed with mixed-effects models for repeated measures. Secondary endpoints included improvement on the dichotomized Clinical Global Impressions\u2013Improvement scale (CGI-I; key secondary endpoint) and changes from baseline on the ADHD-RS-IV subscales. Safety assessments included treatment-emergent adverse events (TEAEs) and vital signs.\n\nABSTRACT.RESULTS.\nLeast squares (LS) mean \u00b1 standard error of the mean (SEM) ADHD-RS-IV total score changes from baseline to end of treatment were \u221217.0 \u00b1 1.03 with placebo, \u221225.4 \u00b1 0.74 with LDX, and \u221222.1 \u00b1 0.73 with OROS-MPH in the forced-dose study and \u221213.4 \u00b1 1.19 with placebo, \u221225.6 \u00b1 0.82 with LDX, and \u221223.5 \u00b1 0.80 with OROS-MPH in the flexible-dose study. LS mean \u00b1 SEM treatment difference for the change from baseline significantly favored LDX over OROS-MPH in the forced-dose [\u22123.4 \u00b1 1.04, p = 0.0013, effect size (ES) \u22120.33] but not the flexible-dose (\u22122.1 \u00b1 1.15, p = 0.0717, ES \u22120.20) study. The percentage of improved participants on the dichotomized CGI-I at end of treatment was significantly greater with LDX than with OROS-MPH in the forced-dose study (81.4 vs. 71.3%, p = 0.0188) but not the flexible-dose study (LDX 83.1%, OROS-MPH 81.0%, p = 0.6165). The LS mean \u00b1 SEM treatment differences for change from baseline on the ADHD-RS-IV hyperactivity/impulsivity and inattentiveness subscales nominally favored LDX in the forced-dose study (hyperactivity/impulsivity subscale \u22121.3 \u00b1 0.49, nominal p = 0.0081, ES \u22120.27; inattentiveness subscale \u22122.0 \u00b1 0.63, nominal p = 0.0013, ES \u22120.33), but there were no significant differences between active treatments in the flexible-dose study. In both studies, LDX and OROS-MPH were superior to placebo for all efficacy-related endpoints (all nominal p &lt; 0.0001; ES range \u22120.43 to \u22121.16). The overall frequency of TEAEs for LDX and OROS-MPH, respectively, were 66.5 and 58.9% in the forced-dose study and 83.2 and 82.1% in the flexible-dose study. TEAEs occurring in \u2265 5% of participants that were also reported at two or more times the rate of placebo were decreased appetite, decreased weight, insomnia, initial insomnia, dry mouth, and nasopharyngitis (LDX and OROS-MPH), irritability and dizziness (LDX only), and increased heart rate (OROS-MPH only) in the forced-dose study and decreased appetite, decreased weight, insomnia, and dizziness (LDX and OROS-MPH) and dry mouth and upper abdominal pain (LDX only) in the flexible-dose study. Mean \u00b1 standard deviation (SD) increases from baseline in vital signs (systolic and diastolic blood pressure, pulse) were observed in the forced-dose study [LDX 1.6 \u00b1 9.65 and 3.3 \u00b1 8.11 mmHg, 6.7 \u00b1 12.78 beats per minute (bpm); OROS-MPH 2.6 \u00b1 10.15 and 3.3 \u00b1 9.13 mmHg, 7.6 \u00b1 12.47 bpm] and the flexible-dose study (LDX 2.4 \u00b1 9.46 and 2.8 \u00b1 8.41 mmHg, 4.7 \u00b1 11.82 bpm; OROS-MPH 0.4 \u00b1 9.90 and 2.2 \u00b1 8.64 mmHg, 6.0 \u00b1 10.52 bpm) at the last on-treatment assessment.\n\nABSTRACT.CONCLUSIONS.\nLDX was superior to OROS-MPH in adolescents with ADHD in the forced-dose but not the flexible-dose study. Safety and tolerability for both medications was consistent with previous studies. These findings underscore the robust acute efficacy of both psychostimulant classes in treating adolescents with ADHD.\n\nABSTRACT.CLINICALTRIALS.GOV REGISTRY NUMBERS.\nNCT01552915 and NCT01552902.\n\nABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL.\nThe online version of this article (doi:10.1007/s40263-017-0468-2) contains supplementary material, which is available to authorized users.",
+        "target": "Researchers tested two ADHD medicines called LDX and OROS-MPH on teenagers to see which one works better. They did two studies - one where they decided how much medicine each teenager gets (forced-dose) and one where they allowed adjustments to the medicine amount (flexible-dose).\n\nThey found that in the forced-dose study, LDX was better than OROS-MPH. But in the flexible-dose study, they couldn't clearly say one was better than the other. Both medicines worked better than no medicine (a placebo).\n\nThey also checked for side effects and found that both medicines had possible side effects like trouble sleeping, appetite loss, or mouth dryness. Some could also have a slightly faster heart rate. \n\nSo, the research proved that both medicines can definitely help teenagers with their ADHD symptoms, though they might have some side effects.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        2432,
+                        2720
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        2121,
+                        2387
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        4108,
+                        4212
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nPsychostimulants are considered first-line pharmacotherapy for youth with attention-deficit/hyperactivity disorder (ADHD), but questions remain regarding the comparative efficacy of amphetamine- and methylphenidate-based agents.\n\nABSTRACT.OBJECTIVE.\nOur objective was to describe two acute randomized, double-blind, placebo-controlled, head-to-head studies of lisdexamfetamine dimesylate (LDX) and osmotic-release oral system methylphenidate (OROS-MPH) in adolescents with ADHD.\n\nABSTRACT.METHODS.\nAdolescents (13\u201317 years) diagnosed with ADHD according to Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR) criteria were enrolled in an 8-week flexible-dose study [LDX 30\u201370 mg/day (n = 186 randomized); OROS-MPH 18\u201372 mg/day (n = 185 randomized); placebo (n = 93 randomized)] or a 6-week forced-dose study [LDX 70 mg/day (n = 219 randomized); OROS-MPH 72 mg/day (n = 220 randomized); placebo (n = 110 randomized)]. Attention-Deficit/Hyperactivity Disorder Rating Scale IV (ADHD-RS-IV) total score changes from baseline (primary endpoint) at week 8 (flexible-dose study) or week 6 (forced-dose study) were assessed with mixed-effects models for repeated measures. Secondary endpoints included improvement on the dichotomized Clinical Global Impressions\u2013Improvement scale (CGI-I; key secondary endpoint) and changes from baseline on the ADHD-RS-IV subscales. Safety assessments included treatment-emergent adverse events (TEAEs) and vital signs.\n\nABSTRACT.RESULTS.\nLeast squares (LS) mean \u00b1 standard error of the mean (SEM) ADHD-RS-IV total score changes from baseline to end of treatment were \u221217.0 \u00b1 1.03 with placebo, \u221225.4 \u00b1 0.74 with LDX, and \u221222.1 \u00b1 0.73 with OROS-MPH in the forced-dose study and \u221213.4 \u00b1 1.19 with placebo, \u221225.6 \u00b1 0.82 with LDX, and \u221223.5 \u00b1 0.80 with OROS-MPH in the flexible-dose study. LS mean \u00b1 SEM treatment difference for the change from baseline significantly favored LDX over OROS-MPH in the forced-dose [\u22123.4 \u00b1 1.04, p = 0.0013, effect size (ES) \u22120.33] but not the flexible-dose (\u22122.1 \u00b1 1.15, p = 0.0717, ES \u22120.20) study. The percentage of improved participants on the dichotomized CGI-I at end of treatment was significantly greater with LDX than with OROS-MPH in the forced-dose study (81.4 vs. 71.3%, p = 0.0188) but not the flexible-dose study (LDX 83.1%, OROS-MPH 81.0%, p = 0.6165). The LS mean \u00b1 SEM treatment differences for change from baseline on the ADHD-RS-IV hyperactivity/impulsivity and inattentiveness subscales nominally favored LDX in the forced-dose study (hyperactivity/impulsivity subscale \u22121.3 \u00b1 0.49, nominal p = 0.0081, ES \u22120.27; inattentiveness subscale \u22122.0 \u00b1 0.63, nominal p = 0.0013, ES \u22120.33), but there were no significant differences between active treatments in the flexible-dose study. In both studies, LDX and OROS-MPH were superior to placebo for all efficacy-related endpoints (all nominal p &lt; 0.0001; ES range \u22120.43 to \u22121.16). The overall frequency of TEAEs for LDX and OROS-MPH, respectively, were 66.5 and 58.9% in the forced-dose study and 83.2 and 82.1% in the flexible-dose study. TEAEs occurring in \u2265 5% of participants that were also reported at two or more times the rate of placebo were decreased appetite, decreased weight, insomnia, initial insomnia, dry mouth, and nasopharyngitis (LDX and OROS-MPH), irritability and dizziness (LDX only), and increased heart rate (OROS-MPH only) in the forced-dose study and decreased appetite, decreased weight, insomnia, and dizziness (LDX and OROS-MPH) and dry mouth and upper abdominal pain (LDX only) in the flexible-dose study. Mean \u00b1 standard deviation (SD) increases from baseline in vital signs (systolic and diastolic blood pressure, pulse) were observed in the forced-dose study [LDX 1.6 \u00b1 9.65 and 3.3 \u00b1 8.11 mmHg, 6.7 \u00b1 12.78 beats per minute (bpm); OROS-MPH 2.6 \u00b1 10.15 and 3.3 \u00b1 9.13 mmHg, 7.6 \u00b1 12.47 bpm] and the flexible-dose study (LDX 2.4 \u00b1 9.46 and 2.8 \u00b1 8.41 mmHg, 4.7 \u00b1 11.82 bpm; OROS-MPH 0.4 \u00b1 9.90 and 2.2 \u00b1 8.64 mmHg, 6.0 \u00b1 10.52 bpm) at the last on-treatment assessment.\n\nABSTRACT.CONCLUSIONS.\nLDX was superior to OROS-MPH in adolescents with ADHD in the forced-dose but not the flexible-dose study. Safety and tolerability for both medications was consistent with previous studies. These findings underscore the robust acute efficacy of both psychostimulant classes in treating adolescents with ADHD.\n\nABSTRACT.CLINICALTRIALS.GOV REGISTRY NUMBERS.\nNCT01552915 and NCT01552902.\n\nABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL.\nThe online version of this article (doi:10.1007/s40263-017-0468-2) contains supplementary material, which is available to authorized users.",
+        "target": "\n\nSo, there are two different medications for ADHD called lisdexamfetamine dimesylate (LDX) and osmotic-release oral system methylphenidate (OROS-MPH). Researchers wanted to see which one works better, so they did two studies with a total of 300 kids. They gave half of the kids LDX and the other half OROS-MPH. They looked at how well the medications worked after 8 or 6 weeks of taking them. They found that LDX worked better than OROS-MPH in one of the studies, but not the other. Both medications were better than a placebo (a dummy pill with no medicine). The researchers also looked at the side effects of the medications and found that they were generally similar.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Tommy asked me to explain this passage To Him.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbig\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        2432,
+                        2720
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        2121,
+                        2387
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        4108,
+                        4212
+                    ]
+                ]
+            }
+        ]
+    }
+]

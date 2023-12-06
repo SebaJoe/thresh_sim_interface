@@ -1,0 +1,1472 @@
+[
+    {
+        "source": "ABSTRACT.BACKGROUND:\nThe apparent interactions between the mechanisms of action of non-steroidal anti-inflammatory drugs (NSAIDS) and steroids suggest that co-therapy may provide beneficial inflammatory and pain relief in the absence of side effects. The aim of the study was to compare the effect of co-administered dexamethasone and diclofenac potassium (diclofenac K) with diclofenac K alone on the postoperative pain, swelling and trismus after surgical removal of third molars.\n\nABSTRACT.PATIENTS AND METHODS:\nA prospective randomized double-blind study was conducted at the Department of Oral and Maxillofacial Surgery, Lagos University Teaching Hospital, Nigeria. A total of 100 patients were randomly allocated to two treatment groups of dexamethasone (prophylactic 8 mg and postoperative 4 mg IV) and diclofenac K (50 mg Oral before and after surgery), and diclofenac K alone (as with first group). The overall analgesic efficacy of the drug combinations was assessed postoperatively by determination of pain intensity using a category rating scale. Facial swelling was measured using a tape measure placed from tragus to gonion to tragus, while interincisal mouth-opening of patients was measured using a vernier calibrated caliper pre-operatively and post-operatively.\n\nABSTRACT.RESULTS:\nCo-administration of dexamethasone and diclofenac K was significantly superior to diclofenac alone for the relief of pain (P &lt; 0.05), and facial swelling up to post-operative 48 hour (P &lt; 0.05). However, there was no significant difference for trismus relief between the two medication protocols (P &gt; 0.05).\n\nABSTRACT.CONCLUSION:\nThis study illustrates enhanced effects of co-administered dexamethasone and diclofenac K on short-term post-operative pain and swelling, compared to diclofenac potassium alone in third molar surgery.",
+        "target": "This study showed that a combination of dexamethasone and diclofenac potassium (diclofenac K) was more effective than diclofenac K alone in relieving post-operative pain and swelling after surgical removal of third molars. There was no significant difference in trismus relief between the two medication protocols.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1299,
+                        1435
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1509,
+                        1615
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nThe apparent interactions between the mechanisms of action of non-steroidal anti-inflammatory drugs (NSAIDS) and steroids suggest that co-therapy may provide beneficial inflammatory and pain relief in the absence of side effects. The aim of the study was to compare the effect of co-administered dexamethasone and diclofenac potassium (diclofenac K) with diclofenac K alone on the postoperative pain, swelling and trismus after surgical removal of third molars.\n\nABSTRACT.PATIENTS AND METHODS:\nA prospective randomized double-blind study was conducted at the Department of Oral and Maxillofacial Surgery, Lagos University Teaching Hospital, Nigeria. A total of 100 patients were randomly allocated to two treatment groups of dexamethasone (prophylactic 8 mg and postoperative 4 mg IV) and diclofenac K (50 mg Oral before and after surgery), and diclofenac K alone (as with first group). The overall analgesic efficacy of the drug combinations was assessed postoperatively by determination of pain intensity using a category rating scale. Facial swelling was measured using a tape measure placed from tragus to gonion to tragus, while interincisal mouth-opening of patients was measured using a vernier calibrated caliper pre-operatively and post-operatively.\n\nABSTRACT.RESULTS:\nCo-administration of dexamethasone and diclofenac K was significantly superior to diclofenac alone for the relief of pain (P &lt; 0.05), and facial swelling up to post-operative 48 hour (P &lt; 0.05). However, there was no significant difference for trismus relief between the two medication protocols (P &gt; 0.05).\n\nABSTRACT.CONCLUSION:\nThis study illustrates enhanced effects of co-administered dexamethasone and diclofenac K on short-term post-operative pain and swelling, compared to diclofenac potassium alone in third molar surgery.",
+        "target": "This passage is about a study on how well two medicines work together to relieve pain and swelling after a type of dental surgery. The surgery is for removing the third molars, which are also known as wisdom teeth. The medicines they studied are called dexamethasone, a type of steroid, and diclofenac K, a regular painkiller. The researchers wanted to know if giving these medicines together worked better than just giving diclofenac K alone.\n\nThe study took place at a hospital in Lagos, Nigeria, and it included 100 patients. The patients were divided into two groups: one that received both medicines and another that only got diclofenac K. To check how well the medicines were working, they measured patients' pain levels, the swelling in their faces, and how much they could open their mouths (this is the trismus mentioned in the text).\n\nThe results showed that patients who got both medicines had less pain and swelling than those who only got diclofenac K. However, there was no difference between the two groups in how wide they could open their mouths. In summary, the combination of medicines worked better than just one in decreasing pain and swelling after wisdom tooth surgery.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1299,
+                        1435
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1509,
+                        1615
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nThe apparent interactions between the mechanisms of action of non-steroidal anti-inflammatory drugs (NSAIDS) and steroids suggest that co-therapy may provide beneficial inflammatory and pain relief in the absence of side effects. The aim of the study was to compare the effect of co-administered dexamethasone and diclofenac potassium (diclofenac K) with diclofenac K alone on the postoperative pain, swelling and trismus after surgical removal of third molars.\n\nABSTRACT.PATIENTS AND METHODS:\nA prospective randomized double-blind study was conducted at the Department of Oral and Maxillofacial Surgery, Lagos University Teaching Hospital, Nigeria. A total of 100 patients were randomly allocated to two treatment groups of dexamethasone (prophylactic 8 mg and postoperative 4 mg IV) and diclofenac K (50 mg Oral before and after surgery), and diclofenac K alone (as with first group). The overall analgesic efficacy of the drug combinations was assessed postoperatively by determination of pain intensity using a category rating scale. Facial swelling was measured using a tape measure placed from tragus to gonion to tragus, while interincisal mouth-opening of patients was measured using a vernier calibrated caliper pre-operatively and post-operatively.\n\nABSTRACT.RESULTS:\nCo-administration of dexamethasone and diclofenac K was significantly superior to diclofenac alone for the relief of pain (P &lt; 0.05), and facial swelling up to post-operative 48 hour (P &lt; 0.05). However, there was no significant difference for trismus relief between the two medication protocols (P &gt; 0.05).\n\nABSTRACT.CONCLUSION:\nThis study illustrates enhanced effects of co-administered dexamethasone and diclofenac K on short-term post-operative pain and swelling, compared to diclofenac potassium alone in third molar surgery.",
+        "target": "\nThe study compared how well two different medicines, dexamethasone and diclofenac K, worked together to help people feel better after having surgery to remove their wisdom teeth. The researchers found that taking these two medicines together was better than taking just one of them for pain and swelling after surgery. However, they did not find that taking these two medicines together helped people open their mouths wider after surgery.\n\nDoes this make sense to you?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhttps\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\n\n\n\n\n\n\n\nMS\n\n\n\n\n\n\nMS\nMSG\nMS-\n\n\n\nMS Office\n\n\n\nMS Office.\n\n\n\n\n\n\nMS Office\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word \n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Document\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Document\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n MS Office Word Documents\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n MS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n MS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n MS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS Office Word Documents\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1299,
+                        1435
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1509,
+                        1615
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nAfghanistan's national guidelines recommend chloroquine for the treatment of Plasmodium vivax infection, the parasite responsible for the majority of its malaria burden. Chloroquine resistance in P. vivax is emerging in Asia. Therapeutic responses across Afghanistan have not been evaluated in detail.\n\nABSTRACT.METHODS.\nBetween July 2007 and February 2009, an open-label, randomized controlled trial of chloroquine and dihydroartemisinin-piperaquine in patients aged three months and over with slide-confirmed P. vivax mono-infections was conducted. Consistent with current national guidelines, primaquine was not administered. Subjects were followed up daily during the acute phase of illness (days 0-3) and weekly until day 56. The primary endpoint was the overall cumulative parasitological failure rate at day 56 after the start of treatment, with the hypothesis being that dihydroartemisinin-piperaquine was non-inferior compared to chloroquine (\u0394 = 5% difference in proportion of failures).\n\nABSTRACT.RESULTS.\nOf 2,182 individuals with positive blood films for P. vivax, 536 were enrolled in the trial. The day 28 cure rate was 100% in both treatment groups. Parasite clearance was more rapid with dihydroartemisinin-piperaquine than chloroquine. At day 56, there were more recurrent infections in the chloroquine arm (8.9%, 95% CI 6.0-13.1%) than the dihydroartemisinin-piperaquine arm (2.8%, 95% CI 1.4-5.8%), a difference in cumulative recurrence rate of 6.1% (2-sided 90%CI +2.6 to +9.7%). The log-rank test comparing the survival curves confirmed the superiority of dihydroartemisinin-piperaquine over chloroquine (p = 0.003). Multivariate analysis showed that a lower initial haemoglobin concentration was also independently associated with recurrence. Both regimens were well tolerated and no serious adverse events were reported.\n\nABSTRACT.CONCLUSIONS.\nChloroquine remains an efficacious treatment for the treatment of vivax malaria in Afghanistan. In a setting where radical therapy cannot be administered, dihydroartemisinin-piperaquine provides additional benefit in terms of post-treatment prophylaxis, reducing the incidence of recurrence from 4-8 weeks after treatment.\n\nABSTRACT.TRIAL REGISTRATION.\nThe trial was registered at ClinicalTrials.gov under identifier NCT00682578.",
+        "target": "Afghanistan's national guidelines recommend chloroquine for the treatment of Plasmodium vivax infection, a type of malaria. Recent studies have shown that chloroquine resistance is emerging in Asia, including in Afghanistan. This study was conducted to evaluate the efficacy of chloroquine and dihydroartemisinin-piperaquine, two different treatments, in patients aged three months and over with P. vivax mono-infections. The primary endpoint was the overall cumulative parasitological failure rate at day 56 after the start of treatment. The hypothesis was that dihydroartemisinin-piperaquine was non-inferior compared to chloroquine (\u0394 = 5% difference in proportion of failures). \n\nThe study found that both treatments were effective, with a day 28 cure rate of 100%. Parasite clearance was more rapid with dihydroartemisinin-piperaquine than chloroquine. At day 56, there were more recurrent infections in the chloroquine arm (8.9%, 95% CI 6.0-13.1%) than the dihydroartemisinin-piperaquine arm (2.8%, 95% CI 1.4-5.8%), a difference in cumulative recurrence rate of 6.1% (2-sided 90%CI +2.6 to +9.7%). The log-rank test comparing the survival curves confirmed the superiority of dihydroartemisinin-piperaquine over chloroquine (p = 0.003). Both regimens were well tolerated and no serious adverse events were reported. \n\nOverall, the study showed that chloroquine remains an efficacious treatment for the treatment of vivax malaria in Afghanistan. In a setting where radical therapy cannot be administered, dihydroartemisinin-piperaquine provides additional benefit in terms of post-treatment prophylaxis, reducing the incidence of recurrence from 4-8 weeks after treatment.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1522,
+                        1659
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1787,
+                        1865
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nAfghanistan's national guidelines recommend chloroquine for the treatment of Plasmodium vivax infection, the parasite responsible for the majority of its malaria burden. Chloroquine resistance in P. vivax is emerging in Asia. Therapeutic responses across Afghanistan have not been evaluated in detail.\n\nABSTRACT.METHODS.\nBetween July 2007 and February 2009, an open-label, randomized controlled trial of chloroquine and dihydroartemisinin-piperaquine in patients aged three months and over with slide-confirmed P. vivax mono-infections was conducted. Consistent with current national guidelines, primaquine was not administered. Subjects were followed up daily during the acute phase of illness (days 0-3) and weekly until day 56. The primary endpoint was the overall cumulative parasitological failure rate at day 56 after the start of treatment, with the hypothesis being that dihydroartemisinin-piperaquine was non-inferior compared to chloroquine (\u0394 = 5% difference in proportion of failures).\n\nABSTRACT.RESULTS.\nOf 2,182 individuals with positive blood films for P. vivax, 536 were enrolled in the trial. The day 28 cure rate was 100% in both treatment groups. Parasite clearance was more rapid with dihydroartemisinin-piperaquine than chloroquine. At day 56, there were more recurrent infections in the chloroquine arm (8.9%, 95% CI 6.0-13.1%) than the dihydroartemisinin-piperaquine arm (2.8%, 95% CI 1.4-5.8%), a difference in cumulative recurrence rate of 6.1% (2-sided 90%CI +2.6 to +9.7%). The log-rank test comparing the survival curves confirmed the superiority of dihydroartemisinin-piperaquine over chloroquine (p = 0.003). Multivariate analysis showed that a lower initial haemoglobin concentration was also independently associated with recurrence. Both regimens were well tolerated and no serious adverse events were reported.\n\nABSTRACT.CONCLUSIONS.\nChloroquine remains an efficacious treatment for the treatment of vivax malaria in Afghanistan. In a setting where radical therapy cannot be administered, dihydroartemisinin-piperaquine provides additional benefit in terms of post-treatment prophylaxis, reducing the incidence of recurrence from 4-8 weeks after treatment.\n\nABSTRACT.TRIAL REGISTRATION.\nThe trial was registered at ClinicalTrials.gov under identifier NCT00682578.",
+        "target": "Scientists in Afghanistan tried to figure out how well two different medicines worked to fight off a common type of malaria, a type of illness caused by tiny parasites, using a special experiment called a randomized controlled trial. They discovered that both medicines worked pretty well, but one, called dihydroartemisinin-piperaquine, worked a little better and faster in getting rid of the parasites. The medicine also helped to keep the parasites from coming back. They noted that the most effective method was to have healthy levels of hemoglobin, a stuff in our blood, to start with. None of the people who took the medicines got really sick from them. They then logged their trial on a special government website for scientists to share their tests.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1522,
+                        1659
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1787,
+                        1865
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nAfghanistan's national guidelines recommend chloroquine for the treatment of Plasmodium vivax infection, the parasite responsible for the majority of its malaria burden. Chloroquine resistance in P. vivax is emerging in Asia. Therapeutic responses across Afghanistan have not been evaluated in detail.\n\nABSTRACT.METHODS.\nBetween July 2007 and February 2009, an open-label, randomized controlled trial of chloroquine and dihydroartemisinin-piperaquine in patients aged three months and over with slide-confirmed P. vivax mono-infections was conducted. Consistent with current national guidelines, primaquine was not administered. Subjects were followed up daily during the acute phase of illness (days 0-3) and weekly until day 56. The primary endpoint was the overall cumulative parasitological failure rate at day 56 after the start of treatment, with the hypothesis being that dihydroartemisinin-piperaquine was non-inferior compared to chloroquine (\u0394 = 5% difference in proportion of failures).\n\nABSTRACT.RESULTS.\nOf 2,182 individuals with positive blood films for P. vivax, 536 were enrolled in the trial. The day 28 cure rate was 100% in both treatment groups. Parasite clearance was more rapid with dihydroartemisinin-piperaquine than chloroquine. At day 56, there were more recurrent infections in the chloroquine arm (8.9%, 95% CI 6.0-13.1%) than the dihydroartemisinin-piperaquine arm (2.8%, 95% CI 1.4-5.8%), a difference in cumulative recurrence rate of 6.1% (2-sided 90%CI +2.6 to +9.7%). The log-rank test comparing the survival curves confirmed the superiority of dihydroartemisinin-piperaquine over chloroquine (p = 0.003). Multivariate analysis showed that a lower initial haemoglobin concentration was also independently associated with recurrence. Both regimens were well tolerated and no serious adverse events were reported.\n\nABSTRACT.CONCLUSIONS.\nChloroquine remains an efficacious treatment for the treatment of vivax malaria in Afghanistan. In a setting where radical therapy cannot be administered, dihydroartemisinin-piperaquine provides additional benefit in terms of post-treatment prophylaxis, reducing the incidence of recurrence from 4-8 weeks after treatment.\n\nABSTRACT.TRIAL REGISTRATION.\nThe trial was registered at ClinicalTrials.gov under identifier NCT00682578.",
+        "target": "\nThe passage is talking about a medical study that was done in Afghanistan to compare two different medicines for treating malaria. The two medicines are chloroquine and dihydroartemisinin-piperaquine. The study found that dihydroartemisinin-piperaquine is better than chloroquine at preventing malaria from coming back after treatment. This is important because in some places, like Afghanistan, people can't take the usual medicine to treat malaria because it doesn't work as wellarina. So, doctors are trying to find other medicines that can work better.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1522,
+                        1659
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1787,
+                        1865
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nMental health problems are common and are associated with increased disability and health care costs. Problem-Solving Treatment (PST) delivered to these patients by nurses in primary care might be efficient. The aim of this study was to evaluate the cost-effectiveness of PST by mental health nurses compared with usual care (UC) by the general practitioner for primary care patients with mental health problems.\n\nABSTRACT.METHODS.\nAn economic evaluation from a societal perspective was performed alongside a randomized clinical trial. Patients with a positive General Health Questionnaire score (score \u2265 4) and who visited their general practitioner at least three times during the past 6 months were eligible. Outcome measures were improvement on the Hospital Anxiety and Depression Scale and QALYs based on the EQ-5D. Resource use was measured using a validated questionnaire. Missing cost and effect data were imputed using multiple imputation techniques. Bootstrapping was used to analyze costs and cost-effectiveness of PST compared with UC.\n\nABSTRACT.RESULTS.\nThere were no statistically significant differences in clinical outcomes at 9 months. Mean total costs were \u20ac4795 in the PST group and \u20ac6857 in the UC group. Costs were not statistically significantly different between the two groups (95% CI -4698;359). The cost-effectiveness analysis showed that PST was cost-effective in comparison with UC. Sensitivity analyses confirmed these findings.\n\nABSTRACT.CONCLUSIONS.\nPST delivered by nurses seems cost-effective in comparison with UC. However, these results should be interpreted with caution, since the difference in total costs was mainly caused by 3 outliers with extremely high indirect costs in the UC group.\n\nABSTRACT.TRIAL REGISTRATION.\nNederlands Trial Register ISRCTN51021015",
+        "target": "This study evaluated the cost-effectiveness of Problem-Solving Treatment (PST) delivered by mental health nurses compared to usual care (UC) by general practitioners for primary care patients with mental health problems. The aim was to determine if PST was more cost-effective than UC.\n\nThe study was conducted in the Netherlands and included patients with a positive General Health Questionnaire score (score \u2265 4) and who had visited their general practitioner at least three times in the past six months. Outcome measures were improvement on the Hospital Anxiety and Depression Scale and quality-adjusted life years (QALYs) based on the EQ-5D. Resource use was measured using a validated questionnaire. Missing cost and effect data were imputed using multiple imputation techniques. Bootstrapping was used to analyze costs and cost-effectiveness of PST compared to UC.\n\nThere were no statistically significant differences in clinical outcomes at nine months. Mean total costs were \u20ac4795 in the PST group and \u20ac6857 in the UC group. Costs were not statistically significantly different between the two groups (95% CI -4698;359). The cost-effectiveness analysis showed that PST was cost-effective in comparison with UC. Sensitivity analyses confirmed these findings.\n\nThe results of this study suggest that PST delivered by mental health nurses is cost-effective in comparison to UC. However, these results should be interpreted with caution, since the difference in total costs was mainly caused by three outliers with extremely high indirect costs in the UC group.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1174,
+                        1341
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1088,
+                        1173
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nMental health problems are common and are associated with increased disability and health care costs. Problem-Solving Treatment (PST) delivered to these patients by nurses in primary care might be efficient. The aim of this study was to evaluate the cost-effectiveness of PST by mental health nurses compared with usual care (UC) by the general practitioner for primary care patients with mental health problems.\n\nABSTRACT.METHODS.\nAn economic evaluation from a societal perspective was performed alongside a randomized clinical trial. Patients with a positive General Health Questionnaire score (score \u2265 4) and who visited their general practitioner at least three times during the past 6 months were eligible. Outcome measures were improvement on the Hospital Anxiety and Depression Scale and QALYs based on the EQ-5D. Resource use was measured using a validated questionnaire. Missing cost and effect data were imputed using multiple imputation techniques. Bootstrapping was used to analyze costs and cost-effectiveness of PST compared with UC.\n\nABSTRACT.RESULTS.\nThere were no statistically significant differences in clinical outcomes at 9 months. Mean total costs were \u20ac4795 in the PST group and \u20ac6857 in the UC group. Costs were not statistically significantly different between the two groups (95% CI -4698;359). The cost-effectiveness analysis showed that PST was cost-effective in comparison with UC. Sensitivity analyses confirmed these findings.\n\nABSTRACT.CONCLUSIONS.\nPST delivered by nurses seems cost-effective in comparison with UC. However, these results should be interpreted with caution, since the difference in total costs was mainly caused by 3 outliers with extremely high indirect costs in the UC group.\n\nABSTRACT.TRIAL REGISTRATION.\nNederlands Trial Register ISRCTN51021015",
+        "target": "This study is trying to understand if a method of treating mental health problems, called Problem-Solving Treatment (PST), is a good and cost-effective way. They compared it to the typical treatment that a family doctor would give. They studied patients with mental health problems who had visited their doctor quite a lot in the last 6 months. They measured how the patients improved and also how much each treatment cost.\n\nThey found that both treatments worked about the same, but the cost was a bit lower for PST. So, they concluded that Problem-Solving Treatment might be a more cost-effective way to treat mental health issues than the usual methods. However, they remind that a few patients in the usual treatment group had very high costs, which might have affected the averages, so we should be a bit careful with the results.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1174,
+                        1341
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1088,
+                        1173
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nMental health problems are common and are associated with increased disability and health care costs. Problem-Solving Treatment (PST) delivered to these patients by nurses in primary care might be efficient. The aim of this study was to evaluate the cost-effectiveness of PST by mental health nurses compared with usual care (UC) by the general practitioner for primary care patients with mental health problems.\n\nABSTRACT.METHODS.\nAn economic evaluation from a societal perspective was performed alongside a randomized clinical trial. Patients with a positive General Health Questionnaire score (score \u2265 4) and who visited their general practitioner at least three times during the past 6 months were eligible. Outcome measures were improvement on the Hospital Anxiety and Depression Scale and QALYs based on the EQ-5D. Resource use was measured using a validated questionnaire. Missing cost and effect data were imputed using multiple imputation techniques. Bootstrapping was used to analyze costs and cost-effectiveness of PST compared with UC.\n\nABSTRACT.RESULTS.\nThere were no statistically significant differences in clinical outcomes at 9 months. Mean total costs were \u20ac4795 in the PST group and \u20ac6857 in the UC group. Costs were not statistically significantly different between the two groups (95% CI -4698;359). The cost-effectiveness analysis showed that PST was cost-effective in comparison with UC. Sensitivity analyses confirmed these findings.\n\nABSTRACT.CONCLUSIONS.\nPST delivered by nurses seems cost-effective in comparison with UC. However, these results should be interpreted with caution, since the difference in total costs was mainly caused by 3 outliers with extremely high indirect costs in the UC group.\n\nABSTRACT.TRIAL REGISTRATION.\nNederlands Trial Register ISRCTN51021015",
+        "target": "\nThis is a study about how well a special kind of treatment called Problem-Solving Treatment (PST) works for people with mental health problems. The study looked at how well PST worked compared to regular care from a doctor. The study found that PST was not much more expensive than regular care, and it worked just as well.\nSo, PST might be a good option for people with mental health problems because it is cost-effective and works well. But, the study also found that there were a few people in the regular care group who had very high costs, so it's important to keep an eye on those costs.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1174,
+                        1341
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1088,
+                        1173
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.PURPOSE:\nWe evaluated the efficacy of alfuzosin for the treatment of ureteral calculi less than 10 mm in diameter after extracorporeal shock wave lithotripsy (ESWL).\n\nABSTRACT.MATERIALS AND METHODS:\nA randomized, single-blind clinical trial was performed prospectively by one physician between June 2010 and August 2011. A total of 84 patients with ureteral calculi 5 to 10 mm in diameter were divided into two groups. Alfuzosin 10 mg (once daily) and loxoprofen sodium 68.1 mg (as needed) were prescribed to group 1 (n=41), and loxoprofen sodium 68.1 mg (as needed) only was prescribed to group 2 (n=44). The drug administration began immediately after ESWL and continued until stone expulsion was confirmed up to a maximum of 42 days after the procedure.\n\nABSTRACT.RESULTS:\nThirty-nine of 41 (95.1%) patients in group 1 and 40 of 43 (93.0%) patients in group 2 ultimately passed stones (p=0.96). The number of ESWL sessions was 1.34\u00b10.65 and 1.41\u00b10.85 in groups 1 and 2, respectively (p=0.33). The patients who required analgesics after ESWL were 8 (19.5%) in group 1 and 13 (30.2%) in group 2 (p=0.31). Visual analogue scale pain severity scores were 5.33\u00b11.22 and 6.43\u00b11.36 in groups 1 and 2, respectively (p=0.056). The time to stone expulsion in groups 1 and 2 was 9.5\u00b14.8 days and 14.7\u00b19.8 days, respectively (p=0.005). No significant adverse effects occurred.\n\nABSTRACT.CONCLUSIONS:\nThe use of alfuzosin in combination with ESWL seems to facilitate stone passage and to reduce the time of stone expulsion but does not affect the stone-free rate.",
+        "target": "This study evaluated the efficacy of alfuzosin for the treatment of ureteral calculi less than 10 mm in diameter after extracorporeal shock wave lithotripsy (ESWL). A total of 84 patients were randomly assigned to either a group prescribed alfuzosin 10 mg (once daily) or loxoprofen sodium 68.1 mg (as needed). The patients were followed up for up to 42 days after the procedure. The results showed that 39 of the 41 patients in the alfuzosin group and 40 of the 43 patients in the loxoprofen sodium group eventually passed stones. There was no significant difference in the stone-free rate or the number of ESWL sessions between the two groups. However, the alfuzosin group had a shorter time to stone expulsion (9.5\u00b14.8 days) than the loxoprofen sodium group (14.7\u00b19.8 days). No significant adverse effects were reported. In conclusion, alfuzosin appears to be effective in facilitating stone passage and reducing the time to stone expulsion after ESWL, but it does not affect the stone-free rate.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        907,
+                        1004
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        785,
+                        906
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1005,
+                        1114
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        1115,
+                        1229
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 10,
+                "input_idx": [
+                    [
+                        1230,
+                        1335
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.PURPOSE:\nWe evaluated the efficacy of alfuzosin for the treatment of ureteral calculi less than 10 mm in diameter after extracorporeal shock wave lithotripsy (ESWL).\n\nABSTRACT.MATERIALS AND METHODS:\nA randomized, single-blind clinical trial was performed prospectively by one physician between June 2010 and August 2011. A total of 84 patients with ureteral calculi 5 to 10 mm in diameter were divided into two groups. Alfuzosin 10 mg (once daily) and loxoprofen sodium 68.1 mg (as needed) were prescribed to group 1 (n=41), and loxoprofen sodium 68.1 mg (as needed) only was prescribed to group 2 (n=44). The drug administration began immediately after ESWL and continued until stone expulsion was confirmed up to a maximum of 42 days after the procedure.\n\nABSTRACT.RESULTS:\nThirty-nine of 41 (95.1%) patients in group 1 and 40 of 43 (93.0%) patients in group 2 ultimately passed stones (p=0.96). The number of ESWL sessions was 1.34\u00b10.65 and 1.41\u00b10.85 in groups 1 and 2, respectively (p=0.33). The patients who required analgesics after ESWL were 8 (19.5%) in group 1 and 13 (30.2%) in group 2 (p=0.31). Visual analogue scale pain severity scores were 5.33\u00b11.22 and 6.43\u00b11.36 in groups 1 and 2, respectively (p=0.056). The time to stone expulsion in groups 1 and 2 was 9.5\u00b14.8 days and 14.7\u00b19.8 days, respectively (p=0.005). No significant adverse effects occurred.\n\nABSTRACT.CONCLUSIONS:\nThe use of alfuzosin in combination with ESWL seems to facilitate stone passage and to reduce the time of stone expulsion but does not affect the stone-free rate.",
+        "target": "A group of scientists wanted to test if a medicine called alfuzosin could help people pass kidney stones faster after a particular treatment. They studied two groups of people who all had this treatment. One group was given only a pain medicine, while the other was given the pain medicine and alfuzosin. They found that almost everyone in both groups was able to pass their stones. But, people who had also taken alfuzosin passed their stones faster and had slightly less pain. They didn't have any bad side effects from the medicine, so it might be a good thing to use with the treatment.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        907,
+                        1004
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        785,
+                        906
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1005,
+                        1114
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        1115,
+                        1229
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 10,
+                "input_idx": [
+                    [
+                        1230,
+                        1335
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.PURPOSE:\nWe evaluated the efficacy of alfuzosin for the treatment of ureteral calculi less than 10 mm in diameter after extracorporeal shock wave lithotripsy (ESWL).\n\nABSTRACT.MATERIALS AND METHODS:\nA randomized, single-blind clinical trial was performed prospectively by one physician between June 2010 and August 2011. A total of 84 patients with ureteral calculi 5 to 10 mm in diameter were divided into two groups. Alfuzosin 10 mg (once daily) and loxoprofen sodium 68.1 mg (as needed) were prescribed to group 1 (n=41), and loxoprofen sodium 68.1 mg (as needed) only was prescribed to group 2 (n=44). The drug administration began immediately after ESWL and continued until stone expulsion was confirmed up to a maximum of 42 days after the procedure.\n\nABSTRACT.RESULTS:\nThirty-nine of 41 (95.1%) patients in group 1 and 40 of 43 (93.0%) patients in group 2 ultimately passed stones (p=0.96). The number of ESWL sessions was 1.34\u00b10.65 and 1.41\u00b10.85 in groups 1 and 2, respectively (p=0.33). The patients who required analgesics after ESWL were 8 (19.5%) in group 1 and 13 (30.2%) in group 2 (p=0.31). Visual analogue scale pain severity scores were 5.33\u00b11.22 and 6.43\u00b11.36 in groups 1 and 2, respectively (p=0.056). The time to stone expulsion in groups 1 and 2 was 9.5\u00b14.8 days and 14.7\u00b19.8 days, respectively (p=0.005). No significant adverse effects occurred.\n\nABSTRACT.CONCLUSIONS:\nThe use of alfuzosin in combination with ESWL seems to facilitate stone passage and to reduce the time of stone expulsion but does not affect the stone-free rate.",
+        "target": "\nThis means that a medicine called alfuzosin, when used with a special kind of shock figurine called ESWL, can help stones move out of the urinary tract more quickly. But it doesn't make it more likely that the stones will actually go away completely.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\n\nMS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\nMS\n\n\n\n\n\n\n\nMS\nMSMSL()\n\n\n\n\n\n\n\n\n\n\n\n\nMSGPAGEO\n\n\n\n\n\n\n\n\n\n\nMSGSOFTFHY\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGSOFTFHY\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGSOFTFHY\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGSOFTFHY\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHY\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGFHY\n\n\n\n\n\n\n\n\nMS GSOFTFHY\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFTGMSFHY\n\n\n\n\n\n\n\n\n\n\nMSGFHY\n\n\n\n\n\n\n\n\n\n\nMS GFHY\n\n\n\n\nMS GFHY\n\n\n\n\n\nMS GFHY\n\n\n\n\n\n\n\nMS GFHY\n\n\n\n\n\n\nMS GFHY\n\n\n\n\n\n\n\n\n\nMS GFHY\n\n\n\n\n\n\n\nMS GFHY\n\n\n\n\n\n\n\n\nMS GFHY\n\n\n\n\n\n\n\n\nMS GFHY\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHY\n\n\n\n\n\n\nMS GFHY\n\nMS GFHY\n\n\n\n\n\nMS GFHY\n\n\nMS GFHY\nMS GFHY\n\n\n\n\n\n\n\nMS GFHYMS GFHY\n\n\n\n\nMS GFHYMS GFHY\n\n\n\n\n\nMS GFHYMS GFHY\n\n\n\n\nMS GFHYMS GFHY\n\n\n\n\n\nMS GFHYMS GFHYMS GFHY\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHY\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHY\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHY\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHY\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHY\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHY\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHY\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHY\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHY\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHY\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHY\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHY\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHY\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHY\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHY\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHY\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHYMS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHYMS\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHYMS\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHYMS\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHYMS\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHYMS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHYMS GFHYMS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHYMS GFHYMS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHYMS GFHYMS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHYMS GFHYMS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHYMS GFHYMS\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS GFHYMS",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        907,
+                        1004
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        785,
+                        906
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1005,
+                        1114
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        1115,
+                        1229
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 10,
+                "input_idx": [
+                    [
+                        1230,
+                        1335
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE:\nThe Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) trial demonstrated similar long-term clinical effectiveness of insulin-sensitizing (IS) versus insulin-providing (IP) treatments for type 2 diabetes on cardiovascular outcomes in a cohort with documented coronary artery disease. We evaluated the effects of randomized glycemic control strategy (IS vs. IP) on the prevalence and incidence of diabetic peripheral neuropathy (DPN).\n\nABSTRACT.RESEARCH DESIGN AND METHODS:\nDPN (defined as Michigan Neuropathy Screening Instrument [MNSI] clinical examination score &gt;2) was assessed at baseline and yearly for 4 years. DPN prevalence and incidence were compared by intention-to-treat modeling by logistic generalized estimating equation models for prevalence and Kaplan-Meier estimates and Cox regression models for incidence rates.\n\nABSTRACT.RESULTS:\nResults are reported for 2,159 BARI 2D participants (70% males) with valid baseline and at least one follow-up MNSI score (mean age 62 \u00b1 9 years, mean HbA1c 7.7 \u00b1 1.6%, diabetes duration 10 \u00b1 9 years). There were no differences in the prevalence of DPN between the IS and the IP groups throughout the 4 years of follow-up. In 1,075 BARI 2D participants with no DPN at baseline, the 4-year cumulative incidence rate of DPN was significantly lower in the IS (66%) than in the IP (72%) strategy group (P = 0.02), which remained significant after adjusting for the in-trial HbA1c (P = 0.04). In subgroup analyses, IS strategy had a greater benefit in men (hazard ratio 0.75 [99% CI 0.58\u20130.99], P &lt; 0.01).\n\nABSTRACT.CONCLUSIONS:\nAmong patients with type 2 diabetes followed for up to 4 years during BARI 2D, a glycemic control therapy with IS significantly reduced the incidence of DPN compared with IP therapy and may add further benefit for men.",
+        "target": "This study looked at the effects of two different types of treatment for type 2 diabetes on the prevalence and incidence of diabetic peripheral neuropathy (DPN). The study included 2,159 participants with type 2 diabetes who were followed for up to 4 years. The results showed that there were no differences in the prevalence of DPN between the insulin-sensitizing (IS) and insulin-providing (IP) groups. However, the 4-year cumulative incidence rate of DPN was significantly lower in the IS group (66%) than in the IP group (72%). In addition, this benefit was more pronounced in men. These results suggest that IS strategy may be more effective in reducing the risk of DPN compared to IP strategy.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1217,
+                        1481
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE:\nThe Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) trial demonstrated similar long-term clinical effectiveness of insulin-sensitizing (IS) versus insulin-providing (IP) treatments for type 2 diabetes on cardiovascular outcomes in a cohort with documented coronary artery disease. We evaluated the effects of randomized glycemic control strategy (IS vs. IP) on the prevalence and incidence of diabetic peripheral neuropathy (DPN).\n\nABSTRACT.RESEARCH DESIGN AND METHODS:\nDPN (defined as Michigan Neuropathy Screening Instrument [MNSI] clinical examination score &gt;2) was assessed at baseline and yearly for 4 years. DPN prevalence and incidence were compared by intention-to-treat modeling by logistic generalized estimating equation models for prevalence and Kaplan-Meier estimates and Cox regression models for incidence rates.\n\nABSTRACT.RESULTS:\nResults are reported for 2,159 BARI 2D participants (70% males) with valid baseline and at least one follow-up MNSI score (mean age 62 \u00b1 9 years, mean HbA1c 7.7 \u00b1 1.6%, diabetes duration 10 \u00b1 9 years). There were no differences in the prevalence of DPN between the IS and the IP groups throughout the 4 years of follow-up. In 1,075 BARI 2D participants with no DPN at baseline, the 4-year cumulative incidence rate of DPN was significantly lower in the IS (66%) than in the IP (72%) strategy group (P = 0.02), which remained significant after adjusting for the in-trial HbA1c (P = 0.04). In subgroup analyses, IS strategy had a greater benefit in men (hazard ratio 0.75 [99% CI 0.58\u20130.99], P &lt; 0.01).\n\nABSTRACT.CONCLUSIONS:\nAmong patients with type 2 diabetes followed for up to 4 years during BARI 2D, a glycemic control therapy with IS significantly reduced the incidence of DPN compared with IP therapy and may add further benefit for men.",
+        "target": "This scientific study was looking at two different ways to treat type 2 diabetes. These treatments were insulin-sensitizing (IS) and insulin-providing (IP). Basically, one way helps the body use insulin better and the other way gives the body more insulin. They were studying which treatment is better.\n\nIn this study, they also looked at how many people with diabetes developed another health problem called peripheral neuropathy (DPN). This is a condition where nerves in the hands and feet are damaged, causing numbness, pain, and weakness. \n\nThey found that both ways of treating diabetes were equal in terms of how likely people were to develop DPN. However, they found that the insulin-sensitizing treatment slightly reduced the chances of people getting DPN compared to the insulin-providing treatment, particularly in men. So, this suggests that the insulin-sensitizing treatment might be a slightly better choice for treating type 2 diabetes.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1217,
+                        1481
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE:\nThe Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) trial demonstrated similar long-term clinical effectiveness of insulin-sensitizing (IS) versus insulin-providing (IP) treatments for type 2 diabetes on cardiovascular outcomes in a cohort with documented coronary artery disease. We evaluated the effects of randomized glycemic control strategy (IS vs. IP) on the prevalence and incidence of diabetic peripheral neuropathy (DPN).\n\nABSTRACT.RESEARCH DESIGN AND METHODS:\nDPN (defined as Michigan Neuropathy Screening Instrument [MNSI] clinical examination score &gt;2) was assessed at baseline and yearly for 4 years. DPN prevalence and incidence were compared by intention-to-treat modeling by logistic generalized estimating equation models for prevalence and Kaplan-Meier estimates and Cox regression models for incidence rates.\n\nABSTRACT.RESULTS:\nResults are reported for 2,159 BARI 2D participants (70% males) with valid baseline and at least one follow-up MNSI score (mean age 62 \u00b1 9 years, mean HbA1c 7.7 \u00b1 1.6%, diabetes duration 10 \u00b1 9 years). There were no differences in the prevalence of DPN between the IS and the IP groups throughout the 4 years of follow-up. In 1,075 BARI 2D participants with no DPN at baseline, the 4-year cumulative incidence rate of DPN was significantly lower in the IS (66%) than in the IP (72%) strategy group (P = 0.02), which remained significant after adjusting for the in-trial HbA1c (P = 0.04). In subgroup analyses, IS strategy had a greater benefit in men (hazard ratio 0.75 [99% CI 0.58\u20130.99], P &lt; 0.01).\n\nABSTRACT.CONCLUSIONS:\nAmong patients with type 2 diabetes followed for up to 4 years during BARI 2D, a glycemic control therapy with IS significantly reduced the incidence of DPN compared with IP therapy and may add further benefit for men.",
+        "target": "\n\nThis study looked at how two different ways of controlling blood sugar levels affect the risk of nerve damage in people with type 2 diabetes. The study found that one way of controlling blood sugar levels (called insulin-sensitizing) was better at preventing nerve damage than the other way (called insulin-providing). The study also found that this difference was bigger for men.\n\nSo, if you have type 2 diabetes and are trying to prevent nerve damage, you might want to talk to your doctor about using the insulin-sensitizing way of controlling your blood sugar levels. This could be especially important for men with type 2 diabetes.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1217,
+                        1481
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "\nABSTRACT.OBJECTIVE.\nGenetic variants near IRS1 are associated with features of the metabolic syndrome (MetS). We examined whether genetic variants near IRS1 might modulate the effects of diets varying in fat content on the MetS status in a 2-year weight-loss trial.\n\nABSTRACT.RESEARCH DESIGN AND METHODS.\nTwo variants near IRS1, rs1522813 and rs2943641, were genotyped in 738 overweight/obese adults (age 60 \u00b1 9 years; BMI 32.7 \u00b1 3.9 kg/m2) randomly assigned to one of four weight-loss diets (a deficit of 750 kcal/day of caloric intake from baseline) varying in macronutrient contents for 2 years. We compared MetS status of high-fat (40% of caloric intake; n = 370) and low-fat (20% caloric intake; n = 368) diet groups differentiated by genotypes (rs1522813 A-allele carriers and noncarriers and rs2943641T-allele carriers and noncarriers).\n\nABSTRACT.RESULTS.\nAmong rs1522813 A-allele carriers, the reversion rates of the MetS were higher in the high-fat diet group than those in the low-fat diet group over the 2-year intervention (P = 0.002), while no significant difference between diet groups was observed among noncarriers (P = 0.27). The genetic modulation on dietary effect was independent of weight changes. The odds ratio (OR) for the 2-year reversion of the MetS was 2.88 (95% CI 1.25\u20136.67) comparing the high-fat and low-fat diets among rs1522813 A-allele carriers, while the corresponding OR was 0.83 (0.36\u20131.92) in noncarriers. The variant rs2943641 was not observed to modulate dietary effects on the MetS status.\n\nABSTRACT.CONCLUSIONS.\nOur data suggest that high-fat weight-loss diets might be more effective in the management of the MetS compared with low-fat diets among individuals with the A-allele of the rs1522813 variant near IRS1.",
+        "target": "This study examined the effect of two genetic variants near IRS1 on the metabolic syndrome (MetS). The study included 738 overweight/obese adults who were randomly assigned to one of four weight-loss diets varying in fat content for two years. The researchers found that the reversion rates of the MetS were higher in the high-fat diet group than in the low-fat diet group among individuals with a specific genetic variant near IRS1. This genetic variant appeared to have an effect on the dietary effects on the MetS status, independent of weight changes. These results suggest that high-fat weight-loss diets may be more effective in managing the MetS for individuals with this genetic variant.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        864,
+                        1143
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "\nABSTRACT.OBJECTIVE.\nGenetic variants near IRS1 are associated with features of the metabolic syndrome (MetS). We examined whether genetic variants near IRS1 might modulate the effects of diets varying in fat content on the MetS status in a 2-year weight-loss trial.\n\nABSTRACT.RESEARCH DESIGN AND METHODS.\nTwo variants near IRS1, rs1522813 and rs2943641, were genotyped in 738 overweight/obese adults (age 60 \u00b1 9 years; BMI 32.7 \u00b1 3.9 kg/m2) randomly assigned to one of four weight-loss diets (a deficit of 750 kcal/day of caloric intake from baseline) varying in macronutrient contents for 2 years. We compared MetS status of high-fat (40% of caloric intake; n = 370) and low-fat (20% caloric intake; n = 368) diet groups differentiated by genotypes (rs1522813 A-allele carriers and noncarriers and rs2943641T-allele carriers and noncarriers).\n\nABSTRACT.RESULTS.\nAmong rs1522813 A-allele carriers, the reversion rates of the MetS were higher in the high-fat diet group than those in the low-fat diet group over the 2-year intervention (P = 0.002), while no significant difference between diet groups was observed among noncarriers (P = 0.27). The genetic modulation on dietary effect was independent of weight changes. The odds ratio (OR) for the 2-year reversion of the MetS was 2.88 (95% CI 1.25\u20136.67) comparing the high-fat and low-fat diets among rs1522813 A-allele carriers, while the corresponding OR was 0.83 (0.36\u20131.92) in noncarriers. The variant rs2943641 was not observed to modulate dietary effects on the MetS status.\n\nABSTRACT.CONCLUSIONS.\nOur data suggest that high-fat weight-loss diets might be more effective in the management of the MetS compared with low-fat diets among individuals with the A-allele of the rs1522813 variant near IRS1.",
+        "target": "This scientific study aimed to understand how different diets might work on people based on their genetic makeup, focusing on specific genes related to a condition called 'metabolic syndrome' (this condition can include things like high blood pressure and increased risk of heart disease). They looked at individuals who were overweight and split them into two groups, one which had a high-fat diet and another which had a low-fat diet, for a period of two years.\n\nThey discovered that for people carrying a specific variant of a gene (the rs1522813), the high-fat diet was more successful in improving the symptoms of metabolic syndrome over the two years. This was true even when the weight changes of the individuals were not considered. But for people who didn't have this specific gene variant, it didn't make a huge difference whether they took a high or low-fat diet in terms of their syndrome.\n\nThe other gene they studied (rs2943641) didn't show any relation to diet's effect on the syndrome.\n\nIn short, the foods people choose to eat might affect their health differently based on their genes. For people with a specific gene variant, a high-fat diet might help manage their metabolic syndrome better than a low-fat one.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        864,
+                        1143
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "\nABSTRACT.OBJECTIVE.\nGenetic variants near IRS1 are associated with features of the metabolic syndrome (MetS). We examined whether genetic variants near IRS1 might modulate the effects of diets varying in fat content on the MetS status in a 2-year weight-loss trial.\n\nABSTRACT.RESEARCH DESIGN AND METHODS.\nTwo variants near IRS1, rs1522813 and rs2943641, were genotyped in 738 overweight/obese adults (age 60 \u00b1 9 years; BMI 32.7 \u00b1 3.9 kg/m2) randomly assigned to one of four weight-loss diets (a deficit of 750 kcal/day of caloric intake from baseline) varying in macronutrient contents for 2 years. We compared MetS status of high-fat (40% of caloric intake; n = 370) and low-fat (20% caloric intake; n = 368) diet groups differentiated by genotypes (rs1522813 A-allele carriers and noncarriers and rs2943641T-allele carriers and noncarriers).\n\nABSTRACT.RESULTS.\nAmong rs1522813 A-allele carriers, the reversion rates of the MetS were higher in the high-fat diet group than those in the low-fat diet group over the 2-year intervention (P = 0.002), while no significant difference between diet groups was observed among noncarriers (P = 0.27). The genetic modulation on dietary effect was independent of weight changes. The odds ratio (OR) for the 2-year reversion of the MetS was 2.88 (95% CI 1.25\u20136.67) comparing the high-fat and low-fat diets among rs1522813 A-allele carriers, while the corresponding OR was 0.83 (0.36\u20131.92) in noncarriers. The variant rs2943641 was not observed to modulate dietary effects on the MetS status.\n\nABSTRACT.CONCLUSIONS.\nOur data suggest that high-fat weight-loss diets might be more effective in the management of the MetS compared with low-fat diets among individuals with the A-allele of the rs1522813 variant near IRS1.",
+        "target": "\n\"Scientists found that people with a certain gene near the IRS1 gene were more likely to have their metabolic syndrome (a group of conditions that increase the risk of heart disease and diabetes) improve when they ate a high-fat diet compared to a low-fat diet. They looked at 738 people who were overweight or obese and had this gene and found that those with the A-allele of the rs1522813 variant near IRS1 were more likely to have their metabolic syndrome improve when they ate a high-fat diet. They did this for 2 years and found that the A-allele carriers had a higher rate of improvement in their metabolic syndrome when they ate a high-fat diet compared to a low-fat diet.\"\n\nCan you please explain why the author used the term \"ABSTRACT\" in the passage?\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        864,
+                        1143
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nPersistent neuroinflammation and disruptions in brain energy metabolism is commonly seen in traumatic brain injury (TBI). Because of the lack of success of most TBI interventions and the documented benefits of environmental enrichment (EE) in enhancing brain plasticity, here we focused our study on use of EE in regulating injury-induced neuroinflammation and disruptions in energy metabolism in the prefrontal cortex and hippocampus. Adult male Wistar rats were used in the study and randomly assigned to receive either: mild TBI (mTBI) using the controlled cortical injury model or sham surgery. Following surgery, rats from each group were further randomized to either: EE housing or standard laboratory housing (CON). After 4 weeks of recovery, cognitive testing was performed using the non-matching-to-sample and delayed non-matching-to-sample tasks. After completion of behavioral testing, levels of the pro-inflammatory cytokines IL-1\u03b2 and TNF-\u03b1 and the anti-inflammatory cytokine IL-10 were measured. In addition, levels of AMPK (adenosine monophosphate-activated protein kinase), phosphorylated AMPK and uMtCK (ubiquitous mitochondrial creatine kinase) were assessed as measures of brain energy homeostasis.\n\nABSTRACT.RESULTS.\nOur results showed that EE: (1) decreased the pro-inflammatory cytokines IL-1\u03b2 and TNF-\u03b1 and enhanced levels of the anti-inflammatory cytokine IL-10 after mTBI; (2) mitigated mTBI-induced cognitive impairment; and (3) attenuated mTBI-induced downregulation in pAMPK/AMPK ratio and uMtCK levels.\n\nABSTRACT.CONCLUSIONS.\nOur data demonstrated the potential of EE to modulate the persistent: (1) neuroinflammatory response seen following mTBI, and (2) persistent disturbance in brain energy homeostasis. It is possible that through the mechanism of modulating neuroinflammation, EE housing was able to restore the disruption in energy metabolism and enhanced functional recovery after mTBI.",
+        "target": "Our study showed that environmental enrichment (EE) can help reduce the inflammation and disruption of energy metabolism in the brain following traumatic brain injury (TBI). EE also improved cognitive functioning and mitigated the effects of TBI. We believe this is due to EE's ability to modulate the persistent neuroinflammation and disruption of energy metabolism seen after TBI.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1258,
+                        1552
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nPersistent neuroinflammation and disruptions in brain energy metabolism is commonly seen in traumatic brain injury (TBI). Because of the lack of success of most TBI interventions and the documented benefits of environmental enrichment (EE) in enhancing brain plasticity, here we focused our study on use of EE in regulating injury-induced neuroinflammation and disruptions in energy metabolism in the prefrontal cortex and hippocampus. Adult male Wistar rats were used in the study and randomly assigned to receive either: mild TBI (mTBI) using the controlled cortical injury model or sham surgery. Following surgery, rats from each group were further randomized to either: EE housing or standard laboratory housing (CON). After 4 weeks of recovery, cognitive testing was performed using the non-matching-to-sample and delayed non-matching-to-sample tasks. After completion of behavioral testing, levels of the pro-inflammatory cytokines IL-1\u03b2 and TNF-\u03b1 and the anti-inflammatory cytokine IL-10 were measured. In addition, levels of AMPK (adenosine monophosphate-activated protein kinase), phosphorylated AMPK and uMtCK (ubiquitous mitochondrial creatine kinase) were assessed as measures of brain energy homeostasis.\n\nABSTRACT.RESULTS.\nOur results showed that EE: (1) decreased the pro-inflammatory cytokines IL-1\u03b2 and TNF-\u03b1 and enhanced levels of the anti-inflammatory cytokine IL-10 after mTBI; (2) mitigated mTBI-induced cognitive impairment; and (3) attenuated mTBI-induced downregulation in pAMPK/AMPK ratio and uMtCK levels.\n\nABSTRACT.CONCLUSIONS.\nOur data demonstrated the potential of EE to modulate the persistent: (1) neuroinflammatory response seen following mTBI, and (2) persistent disturbance in brain energy homeostasis. It is possible that through the mechanism of modulating neuroinflammation, EE housing was able to restore the disruption in energy metabolism and enhanced functional recovery after mTBI.",
+        "target": "Scientists did an experiment on rats to see if a certain kind of environment called \"environmental enrichment\" or EE could help rats recover better after a mild form of brain injury (which they call mTBI). After the rats were injured, some were put in the EE which has lots of things for them to play and interact with, and the others were kept in normal laboratory cages.\n\n4 weeks later, the researchers tested the rats' memory and checked certain chemicals in their brains. These chemicals can tell us if the brain is inflamed (which is bad and can happen after an injury) and how well the brain is producing and using energy. \n\nThe results showed that the EE: (1) reduced brain inflammation and increased a helpful chemical that fights inflammation; (2) improved the rats' memory after the injury; and (3) maintained better production and use of energy in the brain after injury. \n\nSo, the study suggests that having a richer environment to interact with (like the EE) can actually help the brain recover better after an injury. By reducing inflammation and helping the brain use energy more efficiently, the rats were able to function better.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1258,
+                        1552
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nPersistent neuroinflammation and disruptions in brain energy metabolism is commonly seen in traumatic brain injury (TBI). Because of the lack of success of most TBI interventions and the documented benefits of environmental enrichment (EE) in enhancing brain plasticity, here we focused our study on use of EE in regulating injury-induced neuroinflammation and disruptions in energy metabolism in the prefrontal cortex and hippocampus. Adult male Wistar rats were used in the study and randomly assigned to receive either: mild TBI (mTBI) using the controlled cortical injury model or sham surgery. Following surgery, rats from each group were further randomized to either: EE housing or standard laboratory housing (CON). After 4 weeks of recovery, cognitive testing was performed using the non-matching-to-sample and delayed non-matching-to-sample tasks. After completion of behavioral testing, levels of the pro-inflammatory cytokines IL-1\u03b2 and TNF-\u03b1 and the anti-inflammatory cytokine IL-10 were measured. In addition, levels of AMPK (adenosine monophosphate-activated protein kinase), phosphorylated AMPK and uMtCK (ubiquitous mitochondrial creatine kinase) were assessed as measures of brain energy homeostasis.\n\nABSTRACT.RESULTS.\nOur results showed that EE: (1) decreased the pro-inflammatory cytokines IL-1\u03b2 and TNF-\u03b1 and enhanced levels of the anti-inflammatory cytokine IL-10 after mTBI; (2) mitigated mTBI-induced cognitive impairment; and (3) attenuated mTBI-induced downregulation in pAMPK/AMPK ratio and uMtCK levels.\n\nABSTRACT.CONCLUSIONS.\nOur data demonstrated the potential of EE to modulate the persistent: (1) neuroinflammatory response seen following mTBI, and (2) persistent disturbance in brain energy homeostasis. It is possible that through the mechanism of modulating neuroinflammation, EE housing was able to restore the disruption in energy metabolism and enhanced functional recovery after mTBI.",
+        "target": "\nThe study looked at how a special kind of housing called environmental enrichment (EE) can help heal the brain after a traumatic brain injury (TBI). TBI can cause inflammation and disrupt the way the brain uses energy. The study used rats to see if EE could reduce the inflammation and improve the brain's energy use after a TBI. The results showed that EE helped reduce inflammation and improve the brain's energy use, which could help improve cognitive function after a TBI.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1258,
+                        1552
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nNicVAX\u00ae, a nicotine vaccine (3'AmNic-rEPA), has been clinically evaluated to determine if higher antibody concentrations are associated with higher smoking abstinence rates and if doses and frequency of administration are associated with increased antibody response. This randomized, double-blinded, placebo-controlled multicenter clinical trial (N=301 smokers) tested 200 and 400 \u03bcg doses administered 4 or 5 times over 6 months compared to placebo. 3'AmNic-rEPA recipients with the highest serum anti-nicotine antibody response (top 30% by AUC) were significantly more likely to attain 8 weeks continuous abstinence from weeks 19 through 26 than the placebo recipients (24.6% vs. 12.0%, p=0.024, OR=2.69, 95% CI, 1.14\u20136.37). The 5 injection 400 \u03bcg dose regimen had the greatest antibody response and had significantly higher abstinence rates than placebo. This study demonstrates proof-of-concept that 3'AmNic-rEPA elicits antibodies to nicotine and is associated with higher continuous abstinence rates, justifying its further development as a treatment for nicotine dependence.",
+        "target": "This study tested a nicotine vaccine (3'AmNic-rEPA) in smokers to determine if higher antibody concentrations are associated with higher smoking abstinence rates and if different doses and frequencies of administration affect the antibody response. The results showed that recipients with the highest serum anti-nicotine antibody response (top 30% by AUC) were significantly more likely to achieve 8 weeks continuous abstinence from weeks 19 through 26 than the placebo recipients (24.6% vs. 12.0%, p=0.024, OR=2.69, 95% CI, 1.14\u20136.37). The 5 injection 400 \u03bcg dose regimen had the greatest antibody response and had significantly higher abstinence rates than placebo. These results demonstrate proof-of-concept that 3'AmNic-rEPA elicits antibodies to nicotine and is associated with higher continuous abstinence rates, justifying its further development as a treatment for nicotine dependence.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        461,
+                        737
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nNicVAX\u00ae, a nicotine vaccine (3'AmNic-rEPA), has been clinically evaluated to determine if higher antibody concentrations are associated with higher smoking abstinence rates and if doses and frequency of administration are associated with increased antibody response. This randomized, double-blinded, placebo-controlled multicenter clinical trial (N=301 smokers) tested 200 and 400 \u03bcg doses administered 4 or 5 times over 6 months compared to placebo. 3'AmNic-rEPA recipients with the highest serum anti-nicotine antibody response (top 30% by AUC) were significantly more likely to attain 8 weeks continuous abstinence from weeks 19 through 26 than the placebo recipients (24.6% vs. 12.0%, p=0.024, OR=2.69, 95% CI, 1.14\u20136.37). The 5 injection 400 \u03bcg dose regimen had the greatest antibody response and had significantly higher abstinence rates than placebo. This study demonstrates proof-of-concept that 3'AmNic-rEPA elicits antibodies to nicotine and is associated with higher continuous abstinence rates, justifying its further development as a treatment for nicotine dependence.",
+        "target": "This passage is about a vaccine called NicVAX that's designed to help people quit smoking. The vaccine works by creating antibodies against nicotine, the substance in cigarettes that causes addiction. The study found out that people who took the vaccine and produced lots of these anti-nicotine antibodies were more successful in quitting smoking. They also found that giving a bigger dose of the vaccine and giving it 5 times over 6 months was the best way to use it. So, the study shows that the vaccine could potentially be a good way to help people stop smoking.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        461,
+                        737
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nNicVAX\u00ae, a nicotine vaccine (3'AmNic-rEPA), has been clinically evaluated to determine if higher antibody concentrations are associated with higher smoking abstinence rates and if doses and frequency of administration are associated with increased antibody response. This randomized, double-blinded, placebo-controlled multicenter clinical trial (N=301 smokers) tested 200 and 400 \u03bcg doses administered 4 or 5 times over 6 months compared to placebo. 3'AmNic-rEPA recipients with the highest serum anti-nicotine antibody response (top 30% by AUC) were significantly more likely to attain 8 weeks continuous abstinence from weeks 19 through 26 than the placebo recipients (24.6% vs. 12.0%, p=0.024, OR=2.69, 95% CI, 1.14\u20136.37). The 5 injection 400 \u03bcg dose regimen had the greatest antibody response and had significantly higher abstinence rates than placebo. This study demonstrates proof-of-concept that 3'AmNic-rEPA elicits antibodies to nicotine and is associated with higher continuous abstinence rates, justifying its further development as a treatment for nicotine dependence.",
+        "target": "\nThis is a study about a new medicine called NicVAX. It's a shot that helps people stop smoking. The doctors gave the shot to 301 smokers and then checked to see if they were able to stop smoking for a long time. They found that the people who got the highest dose of the shot (400 micrograms) were more likely to stop smoking than the people who got a lower dose or a placebo (a fake shot). The doctors think that this shot might be a good treatment for people who want to stop smoking.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        461,
+                        737
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nFracture risk in type 2 diabetes is increased despite normal or high bone mineral density, implicating poor bone quality as a risk factor. Raloxifene improves bone material and mechanical properties independent of bone mineral density. This study aimed to determine if raloxifene prevents the negative effects of diabetes on skeletal fragility in diabetes-prone rats. Adult Zucker Diabetic Sprague-Dawley (ZDSD) female rats (20-week-old, n = 24) were fed a diabetogenic high-fat diet and were randomized to receive daily subcutaneous injections of raloxifene or vehicle for 12 weeks. Blood glucose was measured weekly and glycated hemoglobin was measured at baseline and 12 weeks. At sacrifice, femora and lumbar vertebrae were harvested for imaging and mechanical testing. Raloxifene-treated rats had a lower incidence of type 2 diabetes compared with vehicle-treated rats. In addition, raloxifene-treated rats had blood glucose levels significantly lower than both diabetic vehicle-treated rats as well as vehicle-treated rats that did not become diabetic. Femoral toughness was greater in raloxifene-treated rats compared with both diabetic and non-diabetic vehicle-treated ZDSD rats, due to greater energy absorption in the post-yield region of the stress-strain curve. Similar differences between groups were observed for the structural (extrinsic) mechanical properties of energy-to-failure, post-yield energy-to-failure, and post-yield displacement. These results show that raloxifene is beneficial in preventing the onset of diabetes and improving bone material properties in the diabetes-prone ZDSD rat. This presents unique therapeutic potential for raloxifene in preserving bone quality in diabetes as well as in diabetes prevention, if these results can be supported by future experimental and clinical studies.",
+        "target": "This study investigated the effects of raloxifene on bone quality in diabetes-prone rats. Raloxifene is a drug that is known to improve bone quality in humans. The study found that raloxifene prevented the onset of type 2 diabetes and improved bone material properties in the Zucker Diabetic Sprague-Dawley (ZDSD) rat, a model of diabetes-prone rats. These results suggest that raloxifene may be beneficial in preserving bone quality in diabetes and in diabetes prevention. Further experimental and clinical studies are needed to confirm these results.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        784,
+                        1068
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1069,
+                        1197
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nFracture risk in type 2 diabetes is increased despite normal or high bone mineral density, implicating poor bone quality as a risk factor. Raloxifene improves bone material and mechanical properties independent of bone mineral density. This study aimed to determine if raloxifene prevents the negative effects of diabetes on skeletal fragility in diabetes-prone rats. Adult Zucker Diabetic Sprague-Dawley (ZDSD) female rats (20-week-old, n = 24) were fed a diabetogenic high-fat diet and were randomized to receive daily subcutaneous injections of raloxifene or vehicle for 12 weeks. Blood glucose was measured weekly and glycated hemoglobin was measured at baseline and 12 weeks. At sacrifice, femora and lumbar vertebrae were harvested for imaging and mechanical testing. Raloxifene-treated rats had a lower incidence of type 2 diabetes compared with vehicle-treated rats. In addition, raloxifene-treated rats had blood glucose levels significantly lower than both diabetic vehicle-treated rats as well as vehicle-treated rats that did not become diabetic. Femoral toughness was greater in raloxifene-treated rats compared with both diabetic and non-diabetic vehicle-treated ZDSD rats, due to greater energy absorption in the post-yield region of the stress-strain curve. Similar differences between groups were observed for the structural (extrinsic) mechanical properties of energy-to-failure, post-yield energy-to-failure, and post-yield displacement. These results show that raloxifene is beneficial in preventing the onset of diabetes and improving bone material properties in the diabetes-prone ZDSD rat. This presents unique therapeutic potential for raloxifene in preserving bone quality in diabetes as well as in diabetes prevention, if these results can be supported by future experimental and clinical studies.",
+        "target": "This experiment is about a disease called diabetes that can make bones weaker, even though the amount of minerals in these bones may still be normal or high. The scientists were studying a medicine called raloxifene that helps improve the quality of bones. They checked to see if this medicine could help prevent the harmful effects of diabetes on the weakness of bones in rats that were very likely to get diabetes. \n\nThe scientists fed these rats a diet that would make them more likely to get diabetes and gave some of them raloxifene while others didn't get any. They did this for 12 weeks and kept a very close eye on the rats' blood sugar levels. \n\nWhat they found was that the rats treated with raloxifene were less likely to get diabetes and had better blood sugar levels than the rats that didn't get the medicine. Even more, the bones of the rats that got raloxifene were stronger than the bones of the rats that did not get the medicine because they could absorb more energy before breaking.\n\nSo this study shows that raloxifene might be a really good medicine to make bones stronger in individuals with diabetes and it might even help to prevent diabetes. This can be very important but it's not for sure until bigger studies are done in the future.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        784,
+                        1068
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1069,
+                        1197
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nFracture risk in type 2 diabetes is increased despite normal or high bone mineral density, implicating poor bone quality as a risk factor. Raloxifene improves bone material and mechanical properties independent of bone mineral density. This study aimed to determine if raloxifene prevents the negative effects of diabetes on skeletal fragility in diabetes-prone rats. Adult Zucker Diabetic Sprague-Dawley (ZDSD) female rats (20-week-old, n = 24) were fed a diabetogenic high-fat diet and were randomized to receive daily subcutaneous injections of raloxifene or vehicle for 12 weeks. Blood glucose was measured weekly and glycated hemoglobin was measured at baseline and 12 weeks. At sacrifice, femora and lumbar vertebrae were harvested for imaging and mechanical testing. Raloxifene-treated rats had a lower incidence of type 2 diabetes compared with vehicle-treated rats. In addition, raloxifene-treated rats had blood glucose levels significantly lower than both diabetic vehicle-treated rats as well as vehicle-treated rats that did not become diabetic. Femoral toughness was greater in raloxifene-treated rats compared with both diabetic and non-diabetic vehicle-treated ZDSD rats, due to greater energy absorption in the post-yield region of the stress-strain curve. Similar differences between groups were observed for the structural (extrinsic) mechanical properties of energy-to-failure, post-yield energy-to-failure, and post-yield displacement. These results show that raloxifene is beneficial in preventing the onset of diabetes and improving bone material properties in the diabetes-prone ZDSD rat. This presents unique therapeutic potential for raloxifene in preserving bone quality in diabetes as well as in diabetes prevention, if these results can be supported by future experimental and clinical studies.",
+        "target": "\nRaloxifene is a medicine that can help prevent diabetes from causing weak bones. In a study, researchers gave raloxifene to rats that were likely to get diabetes and compared them to rats that didn't get the medicine. They found that the rats that got raloxifene had stronger bones and were less likely to get diabetes. They also found that the bones of the rats that got raloxifene were better able to absorb energy and were less likely to break. These results suggest that raloxifene may be helpful in preventing or treating diabetes in people, too.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        784,
+                        1068
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1069,
+                        1197
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.PURPOSE.\nThis randomized controlled, clinical prospective interventional trial was aimed at exploring the effect of patient empowerment on short- and long-term outcomes after major oncologic surgery in elderly cancer patients.\n\nABSTRACT.METHODS.\nThis trial was performed from February 2011 to January 2014 at two tertiary medical centers in Germany. The study included patients aged 65 years and older undergoing elective surgery for gastro-intestinal, genitourinary, and thoracic cancer. The patients were randomly assigned to the intervention group, i.e. patient empowerment through information booklet and diary keeping, or to the control group, which received standard care. Randomization was done by block randomization in blocks of four in order of enrollment. The primary outcome were 1,postoperative length of hospital stay (LOS) and 2. long-term global health-related quality of life (HRQoL) one year postoperatively. HRQoL was assessed using the EORTC QLQ C30 questionnaire. Secondary outcomes encompassed postoperative stress and complications. Further objectives were the identification of predictors of LOS, and HRQoL at 12 months.\n\nABSTRACT.RESULTS.\nOverall 652 patients were included. The mean age was 72 \u00b1 4.9 years, and the majority of patients were male (68.6%, n = 447). The ^median of postoperative length of stay was 9 days (IQR 7\u201314 day). There were no significant differences between the intervention and the control groups in postoperative LOS (p = 0.99) or global HRQoL after one year (women: p = 0.54, men: p = 0.94). While overall complications and major complications occurred in 74% and 24% of the cases, respectively, frequency and severity of complications did not differ significantly between the groups. Patients in the intervention group reported significantly less postoperative pain (p = 0.03) than the control group. Independent predictors for LOS were identified as severity of surgery, length of anesthesia, major postoperative complications, nutritional state, and pre-operative physical functional capacity measured by the Timed Up and Go-test by multiple robust regressions.\n\nABSTRACT.CONCLUSION.\nPatient empowerment through information booklet and diary keeping did not shorten the postoperative LOS in elderly onco-surgical patients, but improved quality of care regarding postoperative pain. Postoperative length of stay is influenced by pre-operative nutritional state, pre-operative functional impairment, severity of surgery, and length of anesthesia.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicaltrials.gov. Identifier NCT01278537",
+        "target": "This randomized controlled trial was conducted to explore the effect of patient empowerment on short- and long-term outcomes after major oncologic surgery in elderly cancer patients. The study included 652 patients aged 65 years and older who were randomly assigned to either a patient empowerment group or a control group. The patient empowerment group received an information booklet and diary keeping, while the control group received standard care. The primary outcome was postoperative length of hospital stay (LOS), and the secondary outcomes included postoperative stress and complications, global health-related quality of life (HRQoL) one year postoperatively, and predictors of LOS. The results showed that patient empowerment did not shorten the postoperative LOS, but improved quality of care regarding postoperative pain. Postoperative LOS was influenced by pre-operative nutritional state, pre-operative functional impairment, severity of surgery, and length of anesthesia.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1746,
+                        1862
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1370,
+                        1552
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.PURPOSE.\nThis randomized controlled, clinical prospective interventional trial was aimed at exploring the effect of patient empowerment on short- and long-term outcomes after major oncologic surgery in elderly cancer patients.\n\nABSTRACT.METHODS.\nThis trial was performed from February 2011 to January 2014 at two tertiary medical centers in Germany. The study included patients aged 65 years and older undergoing elective surgery for gastro-intestinal, genitourinary, and thoracic cancer. The patients were randomly assigned to the intervention group, i.e. patient empowerment through information booklet and diary keeping, or to the control group, which received standard care. Randomization was done by block randomization in blocks of four in order of enrollment. The primary outcome were 1,postoperative length of hospital stay (LOS) and 2. long-term global health-related quality of life (HRQoL) one year postoperatively. HRQoL was assessed using the EORTC QLQ C30 questionnaire. Secondary outcomes encompassed postoperative stress and complications. Further objectives were the identification of predictors of LOS, and HRQoL at 12 months.\n\nABSTRACT.RESULTS.\nOverall 652 patients were included. The mean age was 72 \u00b1 4.9 years, and the majority of patients were male (68.6%, n = 447). The ^median of postoperative length of stay was 9 days (IQR 7\u201314 day). There were no significant differences between the intervention and the control groups in postoperative LOS (p = 0.99) or global HRQoL after one year (women: p = 0.54, men: p = 0.94). While overall complications and major complications occurred in 74% and 24% of the cases, respectively, frequency and severity of complications did not differ significantly between the groups. Patients in the intervention group reported significantly less postoperative pain (p = 0.03) than the control group. Independent predictors for LOS were identified as severity of surgery, length of anesthesia, major postoperative complications, nutritional state, and pre-operative physical functional capacity measured by the Timed Up and Go-test by multiple robust regressions.\n\nABSTRACT.CONCLUSION.\nPatient empowerment through information booklet and diary keeping did not shorten the postoperative LOS in elderly onco-surgical patients, but improved quality of care regarding postoperative pain. Postoperative length of stay is influenced by pre-operative nutritional state, pre-operative functional impairment, severity of surgery, and length of anesthesia.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicaltrials.gov. Identifier NCT01278537",
+        "target": "This passage is explaining a scientific study done in Germany. The study wanted to see if empowering or encouraging cancer patients in their 60s and above by giving them an information booklet and having them keep a diary would help them heal better or feel better after their cancer surgery. This idea was tested on a group of 652 patients in two major hospitals.\n\nHow was this done? The patients were divided into 2 groups. One group got the regular hospital care while the other group got the regular care plus they were given a handbook and asked to keep a diary. The researchers then checked to see how long the patients stayed in the hospital after their surgery and also how they were feeling health-wise a year after their surgery.\n\nThe results? It wasn't found that the people who were given the booklet and kept a diary left the hospital earlier or were healthier a year after their surgery. However, it was found that they experienced less pain after their surgery. The study also found out that the time patients stayed in the hospital after surgery was influenced by things like their nutritional state before surgery, how severe their surgery was, and how long they were under anesthesia. \n\nSo overall, while keeping the diary and the booklet didn't necessarily make patients healthier, it did seem to help them experience less pain after surgery.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1746,
+                        1862
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1370,
+                        1552
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.PURPOSE.\nThis randomized controlled, clinical prospective interventional trial was aimed at exploring the effect of patient empowerment on short- and long-term outcomes after major oncologic surgery in elderly cancer patients.\n\nABSTRACT.METHODS.\nThis trial was performed from February 2011 to January 2014 at two tertiary medical centers in Germany. The study included patients aged 65 years and older undergoing elective surgery for gastro-intestinal, genitourinary, and thoracic cancer. The patients were randomly assigned to the intervention group, i.e. patient empowerment through information booklet and diary keeping, or to the control group, which received standard care. Randomization was done by block randomization in blocks of four in order of enrollment. The primary outcome were 1,postoperative length of hospital stay (LOS) and 2. long-term global health-related quality of life (HRQoL) one year postoperatively. HRQoL was assessed using the EORTC QLQ C30 questionnaire. Secondary outcomes encompassed postoperative stress and complications. Further objectives were the identification of predictors of LOS, and HRQoL at 12 months.\n\nABSTRACT.RESULTS.\nOverall 652 patients were included. The mean age was 72 \u00b1 4.9 years, and the majority of patients were male (68.6%, n = 447). The ^median of postoperative length of stay was 9 days (IQR 7\u201314 day). There were no significant differences between the intervention and the control groups in postoperative LOS (p = 0.99) or global HRQoL after one year (women: p = 0.54, men: p = 0.94). While overall complications and major complications occurred in 74% and 24% of the cases, respectively, frequency and severity of complications did not differ significantly between the groups. Patients in the intervention group reported significantly less postoperative pain (p = 0.03) than the control group. Independent predictors for LOS were identified as severity of surgery, length of anesthesia, major postoperative complications, nutritional state, and pre-operative physical functional capacity measured by the Timed Up and Go-test by multiple robust regressions.\n\nABSTRACT.CONCLUSION.\nPatient empowerment through information booklet and diary keeping did not shorten the postoperative LOS in elderly onco-surgical patients, but improved quality of care regarding postoperative pain. Postoperative length of stay is influenced by pre-operative nutritional state, pre-operative functional impairment, severity of surgery, and length of anesthesia.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicaltrials.gov. Identifier NCT01278537",
+        "target": "\nThis study looked at how giving patients information and a diary to keep track of their health can affect their recovery after surgery. Researchers wanted to know if this would shorten the time they spent in the hospital after surgery, but it didn't. However, patients who got the information and diary reported less pain after surgery. The study also found that other things, like how sick the patient was before surgery, how long they were under anesthesia, and how well they could do things like stand up and walk, could also affect how long they stayed in the hospital.\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1746,
+                        1862
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1370,
+                        1552
+                    ]
+                ]
+            }
+        ]
+    }
+]
