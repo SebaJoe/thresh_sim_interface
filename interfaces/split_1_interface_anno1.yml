@@ -198,6 +198,8 @@ edits:
         options:
         - name: r_1
           label: "Accurate"
+        - name: r_vague_2
+          label: "Vague/Slightly inaccurate"  
         - name: r_2
           label: "Inaccurate"
         - name: r_3
