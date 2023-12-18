@@ -1,0 +1,1412 @@
+[
+    {
+        "source": "ABSTRACT.BACKGROUND.\nMany drug users present to primary care requesting detoxification from illicit opiates. There are a number of detoxification agents but no recommended drug of choice. The purpose of this study is to compare buprenorphine with dihydrocodeine for detoxification from illicit opiates in primary care.\n\nABSTRACT.METHODS.\nOpen label randomised controlled trial in NHS Primary Care (General Practices), Leeds, UK. Sixty consenting adults using illicit opiates received either daily sublingual buprenorphine or daily oral dihydrocodeine. Reducing regimens for both interventions were at the discretion of prescribing doctor within a standard regimen of not more than 15 days. Primary outcome was abstinence from illicit opiates at final prescription as indicated by a urine sample. Secondary outcomes during detoxification period and at three and six months post detoxification were recorded.\n\nABSTRACT.RESULTS.\nOnly 23% completed the prescribed course of detoxification medication and gave a urine sample on collection of their final prescription. Risk of non-completion of detoxification was reduced if allocated buprenorphine (68% vs 88%, RR 0.58 CI 0.35\u20130.96, p = 0.065). A higher proportion of people allocated to buprenorphine provided a clean urine sample compared with those who received dihydrocodeine (21% vs 3%, RR 2.06 CI 1.33\u20133.21, p = 0.028). People allocated to buprenorphine had fewer visits to professional carers during detoxification and more were abstinent at three months (10 vs 4, RR 1.55 CI 0.96\u20132.52) and six months post detoxification (7 vs 3, RR 1.45 CI 0.84\u20132.49).\n\nABSTRACT.CONCLUSION.\nInformative randomised trials evaluating routine care within the primary care setting are possible amongst drug using populations. This small study generates unique data on commonly used treatment regimens.",
+        "target": "This study compared two medications, buprenorphine and dihydrocodeine, for the detoxification of illicit opiates in primary care. Of the 60 participants recruited, 23% completed the prescribed course of medication and provided a urine sample on collection of their final prescription. Those allocated to buprenorphine were more likely to complete the detoxification regimen and provided a clean urine sample compared to those who received dihydrocodeine. Furthermore, those allocated to buprenorphine had fewer visits to professional carers during detoxification and more were abstinent at three and six months post detoxification. These results suggest that buprenorphine may be a more effective and efficient treatment for detoxification from illicit opiates in primary care.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1063,
+                        1189
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nMany drug users present to primary care requesting detoxification from illicit opiates. There are a number of detoxification agents but no recommended drug of choice. The purpose of this study is to compare buprenorphine with dihydrocodeine for detoxification from illicit opiates in primary care.\n\nABSTRACT.METHODS.\nOpen label randomised controlled trial in NHS Primary Care (General Practices), Leeds, UK. Sixty consenting adults using illicit opiates received either daily sublingual buprenorphine or daily oral dihydrocodeine. Reducing regimens for both interventions were at the discretion of prescribing doctor within a standard regimen of not more than 15 days. Primary outcome was abstinence from illicit opiates at final prescription as indicated by a urine sample. Secondary outcomes during detoxification period and at three and six months post detoxification were recorded.\n\nABSTRACT.RESULTS.\nOnly 23% completed the prescribed course of detoxification medication and gave a urine sample on collection of their final prescription. Risk of non-completion of detoxification was reduced if allocated buprenorphine (68% vs 88%, RR 0.58 CI 0.35\u20130.96, p = 0.065). A higher proportion of people allocated to buprenorphine provided a clean urine sample compared with those who received dihydrocodeine (21% vs 3%, RR 2.06 CI 1.33\u20133.21, p = 0.028). People allocated to buprenorphine had fewer visits to professional carers during detoxification and more were abstinent at three months (10 vs 4, RR 1.55 CI 0.96\u20132.52) and six months post detoxification (7 vs 3, RR 1.45 CI 0.84\u20132.49).\n\nABSTRACT.CONCLUSION.\nInformative randomised trials evaluating routine care within the primary care setting are possible amongst drug using populations. This small study generates unique data on commonly used treatment regimens.",
+        "target": "This is a study where scientists tried to help people who were using harmful drugs to stop. To do this, they gave them two different medications, buprenorphine and dihydrocodeine, to see which one works better. They found out that people who took buprenorphine were more likely to finish the treatment and to stop using the harmful drugs, compared to those who took dihydrocodeine. Also, those who took buprenorphine needed less help from doctors during the treatment, and more of them were still off the harmful drugs three and six months later. The scientists concluded that we can learn a lot from doing studies like this in regular doctor's offices with people who use drugs. This study is important because it gives us first-hand information on how these treatments work.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1063,
+                        1189
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nMany drug users present to primary care requesting detoxification from illicit opiates. There are a number of detoxification agents but no recommended drug of choice. The purpose of this study is to compare buprenorphine with dihydrocodeine for detoxification from illicit opiates in primary care.\n\nABSTRACT.METHODS.\nOpen label randomised controlled trial in NHS Primary Care (General Practices), Leeds, UK. Sixty consenting adults using illicit opiates received either daily sublingual buprenorphine or daily oral dihydrocodeine. Reducing regimens for both interventions were at the discretion of prescribing doctor within a standard regimen of not more than 15 days. Primary outcome was abstinence from illicit opiates at final prescription as indicated by a urine sample. Secondary outcomes during detoxification period and at three and six months post detoxification were recorded.\n\nABSTRACT.RESULTS.\nOnly 23% completed the prescribed course of detoxification medication and gave a urine sample on collection of their final prescription. Risk of non-completion of detoxification was reduced if allocated buprenorphine (68% vs 88%, RR 0.58 CI 0.35\u20130.96, p = 0.065). A higher proportion of people allocated to buprenorphine provided a clean urine sample compared with those who received dihydrocodeine (21% vs 3%, RR 2.06 CI 1.33\u20133.21, p = 0.028). People allocated to buprenorphine had fewer visits to professional carers during detoxification and more were abstinent at three months (10 vs 4, RR 1.55 CI 0.96\u20132.52) and six months post detoxification (7 vs 3, RR 1.45 CI 0.84\u20132.49).\n\nABSTRACT.CONCLUSION.\nInformative randomised trials evaluating routine care within the primary care setting are possible amongst drug using populations. This small study generates unique data on commonly used treatment regimens.",
+        "target": "\nThis study looked at two different medications that doctors use to help people stop using illegal opioids (like heroin). The study wanted to see which medication works better. The two medications were buprenorphine and dihydrocodeine. The study found that people who took buprenorphine were more likely to stop using illegal opioids and have fewer visits to doctors compared to people who took dihydrocodeine.\n\nBACKGROUND.\nOpiate detoxification is a common problem in primary care. There are several detoxification agents available but no recommended drug of choice. This study aimed to compare buprenorphine with dihydrocodeine for detoxification from illicit opiates in primary care.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\navailable.\n\n\n\n\n\n\n\n\n\n\nUST\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n tap\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS MSG\n\n\n\n\n\nMSG\nMSGMSG\nMSGMSGMSGMSGMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n NationsGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\nMSGMSG chant\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSGMSGMSGMSGMSG",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1063,
+                        1189
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nThere continues to be a need for improved medical management of diabetes patients with hypertension in primary care. While several care models have shown effectiveness in achieving various outcomes among these patients, it remains unclear what care model is most effective in improving blood pressure control in primary care. In this prospective study, 54 patients with type 2 diabetes mellitus and blood pressure of &gt;140/90 identified through the registry, were randomized into three groups. Group A attended a nurse educator-conducted class on diabetes and hypertension, group B attended the same class and was asked to monitor their home blood pressure using provided device, and group C served as control (usual care). Of the 24 subjects who completed the study, only 20% achieved the target blood pressure of &lt;130/80 and there was no statistical difference in mean systolic and diastolic blood pressures among the three groups (p &gt; 0.05). Efforts to intensify management of hypertension among type 2 diabetes patients did not result in better blood pressure control compared to usual care. Studies looking into factors which limit patients' participation in group classes and determining patients' preferences in disease management would be helpful in ensuring success of any chronic disease management program.",
+        "target": "This study looked at the effectiveness of different care models in improving blood pressure control among type 2 diabetes patients with hypertension in primary care. The study included 54 participants who were randomized into three groups: Group A attended a nurse educator-conducted class on diabetes and hypertension, Group B attended the same class and was asked to monitor their home blood pressure using a provided device, and Group C served as the control (usual care). Of the 24 subjects who completed the study, only 20% achieved the target blood pressure of &lt;130/80, and there was no statistical difference in mean systolic and diastolic blood pressures among the three groups (p &gt; 0.05). \n\nThe results of this study suggest that the care models tested did not result in better blood pressure control compared to usual care. Studies looking into factors which limit patients' participation in group classes and determining patients' preferences in disease management would be helpful in ensuring success of any chronic disease management program.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        736,
+                        962
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nThere continues to be a need for improved medical management of diabetes patients with hypertension in primary care. While several care models have shown effectiveness in achieving various outcomes among these patients, it remains unclear what care model is most effective in improving blood pressure control in primary care. In this prospective study, 54 patients with type 2 diabetes mellitus and blood pressure of &gt;140/90 identified through the registry, were randomized into three groups. Group A attended a nurse educator-conducted class on diabetes and hypertension, group B attended the same class and was asked to monitor their home blood pressure using provided device, and group C served as control (usual care). Of the 24 subjects who completed the study, only 20% achieved the target blood pressure of &lt;130/80 and there was no statistical difference in mean systolic and diastolic blood pressures among the three groups (p &gt; 0.05). Efforts to intensify management of hypertension among type 2 diabetes patients did not result in better blood pressure control compared to usual care. Studies looking into factors which limit patients' participation in group classes and determining patients' preferences in disease management would be helpful in ensuring success of any chronic disease management program.",
+        "target": "The passage talks about a study on how doctors tried different ways to help people with diabetes and high blood pressure. They divided these people into three groups. Group A took a class on diabetes and blood pressure, Group B took the same class and were given a device to check their blood pressure at home, and Group C just followed the normal care. But they found out making these extra efforts didn't really improve the patients' blood pressure compared to the normal care. The study suggests that we need to better understand why patients may not want to take part in these classes, and what they prefer when treating their diseases.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        736,
+                        962
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nThere continues to be a need for improved medical management of diabetes patients with hypertension in primary care. While several care models have shown effectiveness in achieving various outcomes among these patients, it remains unclear what care model is most effective in improving blood pressure control in primary care. In this prospective study, 54 patients with type 2 diabetes mellitus and blood pressure of &gt;140/90 identified through the registry, were randomized into three groups. Group A attended a nurse educator-conducted class on diabetes and hypertension, group B attended the same class and was asked to monitor their home blood pressure using provided device, and group C served as control (usual care). Of the 24 subjects who completed the study, only 20% achieved the target blood pressure of &lt;130/80 and there was no statistical difference in mean systolic and diastolic blood pressures among the three groups (p &gt; 0.05). Efforts to intensify management of hypertension among type 2 diabetes patients did not result in better blood pressure control compared to usual care. Studies looking into factors which limit patients' participation in group classes and determining patients' preferences in disease management would be helpful in ensuring success of any chronic disease management program.",
+        "target": "This passage is talking about how doctors are trying to figure out the best way to help people with diabetes and high blood pressure. They are doing a study where they are splitting the people into three groups and giving them different things to do. One group is just getting a class on how to manage their diabetes and high blood pressure, another group is getting a device to measure their blood pressure at home, and the third group is just getting usual care from their doctor. They are looking to see if any of these groups does better at controlling their blood pressure. But, the study didn't show that any of the groups did better. So, doctors are still trying to figure out the best way to help people with diabetes and high blood pressure.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        736,
+                        962
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE.\nTo test the hypothesis that replacement of sucrose with isomaltulose in sweet foods and beverages improves metabolic control in patients with type 2 diabetes.\n\nABSTRACT.RESEARCH DESIGN AND METHODS.\nOne hundred ten patients with type 2 diabetes were randomized to receive sweet foods containing either 50 g/day isomaltulose or sucrose for 12 weeks as part of their habitual diet under free-living conditions. HbA1c at 12 weeks was the primary outcome parameter.\n\nABSTRACT.RESULTS.\nIn the final analysis comprising 101 patients, isomaltulose did not significantly affect HbA1c at 12 weeks (sucrose: 7.39 \u00b1 0.78%; isomaltulose: 7.24 \u00b1 0.76%; regression coefficient [b]: 0.02 [95% CI: \u22120.21 to 0.25], P = 0.844). Triglycerides at 12 weeks were significantly lower in the isomaltulose versus the sucrose group (b: 34.01 [6.59\u201361.44], P = 0.016). Other secondary parameters did not significantly differ between groups.\n\nABSTRACT.CONCLUSIONS.\nIsomaltulose did not influence glycemic control assessed as HbA1c in type 2 diabetes under free-living conditions but was associated with lower triglyceride levels.",
+        "target": "This study investigated the effect of replacing sucrose with isomaltulose in sweet foods and beverages on metabolic control in patients with type 2 diabetes.\n\nOne hundred ten patients with type 2 diabetes were randomized to receive sweet foods containing either 50 grams of isomaltulose or sucrose per day for 12 weeks as part of their usual diet. The primary outcome parameter was HbA1c, which measures long-term blood sugar control.\n\nThe results showed that isomaltulose did not significantly affect HbA1c levels compared to sucrose (7.39 \u00b1 0.78% vs. 7.24 \u00b1 0.76%, respectively). However, triglyceride levels were significantly lower in the isomaltulose group compared to the sucrose group (34.01 \u00b1 6.59 vs. 61.44 \u00b1 6.59%, respectively). Other secondary parameters did not significantly differ between groups.\n\nIn conclusion, isomaltulose did not influence glycemic control in type 2 diabetes under free-living conditions, but was associated with lower triglyceride levels.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        500,
+                        728
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        729,
+                        860
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE.\nTo test the hypothesis that replacement of sucrose with isomaltulose in sweet foods and beverages improves metabolic control in patients with type 2 diabetes.\n\nABSTRACT.RESEARCH DESIGN AND METHODS.\nOne hundred ten patients with type 2 diabetes were randomized to receive sweet foods containing either 50 g/day isomaltulose or sucrose for 12 weeks as part of their habitual diet under free-living conditions. HbA1c at 12 weeks was the primary outcome parameter.\n\nABSTRACT.RESULTS.\nIn the final analysis comprising 101 patients, isomaltulose did not significantly affect HbA1c at 12 weeks (sucrose: 7.39 \u00b1 0.78%; isomaltulose: 7.24 \u00b1 0.76%; regression coefficient [b]: 0.02 [95% CI: \u22120.21 to 0.25], P = 0.844). Triglycerides at 12 weeks were significantly lower in the isomaltulose versus the sucrose group (b: 34.01 [6.59\u201361.44], P = 0.016). Other secondary parameters did not significantly differ between groups.\n\nABSTRACT.CONCLUSIONS.\nIsomaltulose did not influence glycemic control assessed as HbA1c in type 2 diabetes under free-living conditions but was associated with lower triglyceride levels.",
+        "target": "Scientists wanted to see if replacing normal sugar (sucrose) with a different kind of sugar (isomaltulose) in sweet foods and drinks would help people with type 2 diabetes control their blood sugar. They had 110 people with type 2 diabetes eat sweet foods with either normal sugar or the different sugar for 12 weeks. They found that the different sugar didn't really help control blood sugar. But the interesting thing is that people eating the different sugar had lower levels of another type of fat (triglycerides) in their body.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        500,
+                        728
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        729,
+                        860
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.OBJECTIVE.\nTo test the hypothesis that replacement of sucrose with isomaltulose in sweet foods and beverages improves metabolic control in patients with type 2 diabetes.\n\nABSTRACT.RESEARCH DESIGN AND METHODS.\nOne hundred ten patients with type 2 diabetes were randomized to receive sweet foods containing either 50 g/day isomaltulose or sucrose for 12 weeks as part of their habitual diet under free-living conditions. HbA1c at 12 weeks was the primary outcome parameter.\n\nABSTRACT.RESULTS.\nIn the final analysis comprising 101 patients, isomaltulose did not significantly affect HbA1c at 12 weeks (sucrose: 7.39 \u00b1 0.78%; isomaltulose: 7.24 \u00b1 0.76%; regression coefficient [b]: 0.02 [95% CI: \u22120.21 to 0.25], P = 0.844). Triglycerides at 12 weeks were significantly lower in the isomaltulose versus the sucrose group (b: 34.01 [6.59\u201361.44], P = 0.016). Other secondary parameters did not significantly differ between groups.\n\nABSTRACT.CONCLUSIONS.\nIsomaltulose did not influence glycemic control assessed as HbA1c in type 2 diabetes under free-living conditions but was associated with lower triglyceride levels.",
+        "target": "\nThe researchers wanted to know if using a special sweetener called isomaltulose instead of regular sugar in food and drinks would help people with type 2 diabetes control their blood sugar better. They gave 101 patients either isomaltulose or regular sugar to use in their regular diet for 12 weeks and measured how well their blood sugar was controlled at the end of the study. They found that using isomaltulose did not make a big difference in how well their blood sugar was controlled, but it did lower their triglyceride levels.\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        500,
+                        728
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        729,
+                        860
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nThis study is a randomized prospective study comparing two fracture fixation implants, the extramedullary sliding hip screw (SHS) and the dual lag screw cephalomedullary nail, in the treatment of intertrochanteric femoral fractures in the elderly. One hundred and sixty-five patients with low-energy intertrochanteric fractures, classified as AO/OTA 31A, were prospectively included during a 2-year period (2005\u20132006). Patients were randomized into two groups: group A included 79 hip fractures managed with sliding hip screws and group B included 86 fractures treated with cephalomedullary nails. Delay to surgery, duration of surgery, time of fluoroscopy, total hospital stay, implant-related complications, transfusion requirements, re-operation details, functional recovery, and mortality were recorded. The mean follow-up was 36 months (24\u201356 months). The mean surgical time was statistically significantly shorter and fluoroscopy time longer for the group B. No intraoperative femoral shaft fractures occurred. There was no statistically significant difference in the functional recovery score, reoperation, and mortality rates between the 2 groups. A new type of complication, the so-called Z-effect phenomenon, was noticed in the cephalomedullary nail group. There are no statistically significant differences between the two techniques in terms of type and rate of complications, functional outcome, reoperation and mortality rates when comparing the SHS and the cephalomedullary nail for low-energy AO/OTA 31A intertrochanteric fractures. Our data do not support recommendations for the use of one implant over the other.",
+        "target": "This study compared two types of fracture fixation implants, the sliding hip screw (SHS) and the cephalomedullary nail, in the treatment of low-energy intertrochanteric femoral fractures in the elderly. One hundred and sixty-five patients were included in the study during a two-year period (2005-2006). The patients were randomly assigned to either a group treated with the SHS or a group treated with the cephalomedullary nail. The mean follow-up was 36 months. The mean surgical time was shorter for the group treated with the cephalomedullary nail, while the fluoroscopy time was longer. There were no significant differences in terms of complications, functional outcome, reoperation and mortality rates when comparing the SHS and the cephalomedullary nail. We did not find any evidence to suggest that one implant is better than the other. We did notice a new type of complication, the so-called \u201cZ-effect phenomenon\u201d, which was only seen in the cephalomedullary nail group.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        975,
+                        1026
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nThis study is a randomized prospective study comparing two fracture fixation implants, the extramedullary sliding hip screw (SHS) and the dual lag screw cephalomedullary nail, in the treatment of intertrochanteric femoral fractures in the elderly. One hundred and sixty-five patients with low-energy intertrochanteric fractures, classified as AO/OTA 31A, were prospectively included during a 2-year period (2005\u20132006). Patients were randomized into two groups: group A included 79 hip fractures managed with sliding hip screws and group B included 86 fractures treated with cephalomedullary nails. Delay to surgery, duration of surgery, time of fluoroscopy, total hospital stay, implant-related complications, transfusion requirements, re-operation details, functional recovery, and mortality were recorded. The mean follow-up was 36 months (24\u201356 months). The mean surgical time was statistically significantly shorter and fluoroscopy time longer for the group B. No intraoperative femoral shaft fractures occurred. There was no statistically significant difference in the functional recovery score, reoperation, and mortality rates between the 2 groups. A new type of complication, the so-called Z-effect phenomenon, was noticed in the cephalomedullary nail group. There are no statistically significant differences between the two techniques in terms of type and rate of complications, functional outcome, reoperation and mortality rates when comparing the SHS and the cephalomedullary nail for low-energy AO/OTA 31A intertrochanteric fractures. Our data do not support recommendations for the use of one implant over the other.",
+        "target": "This study involved comparing two types of surgery methods for fixing a certain kind of hip fracture often seen in the elderly. Two groups were made, each using different methods, and the researchers recorded things like length of hospital stay, complications, and recovery rates. They found that while one method had a slightly quicker surgery time, the overall results like recovery and complications were almost the same for both groups. The researchers noticed one unique complication in one method. However, since there wasn't a big difference in results between the two methods, they didn't recommend one over the other.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        975,
+                        1026
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nThis study is a randomized prospective study comparing two fracture fixation implants, the extramedullary sliding hip screw (SHS) and the dual lag screw cephalomedullary nail, in the treatment of intertrochanteric femoral fractures in the elderly. One hundred and sixty-five patients with low-energy intertrochanteric fractures, classified as AO/OTA 31A, were prospectively included during a 2-year period (2005\u20132006). Patients were randomized into two groups: group A included 79 hip fractures managed with sliding hip screws and group B included 86 fractures treated with cephalomedullary nails. Delay to surgery, duration of surgery, time of fluoroscopy, total hospital stay, implant-related complications, transfusion requirements, re-operation details, functional recovery, and mortality were recorded. The mean follow-up was 36 months (24\u201356 months). The mean surgical time was statistically significantly shorter and fluoroscopy time longer for the group B. No intraoperative femoral shaft fractures occurred. There was no statistically significant difference in the functional recovery score, reoperation, and mortality rates between the 2 groups. A new type of complication, the so-called Z-effect phenomenon, was noticed in the cephalomedullary nail group. There are no statistically significant differences between the two techniques in terms of type and rate of complications, functional outcome, reoperation and mortality rates when comparing the SHS and the cephalomedullary nail for low-energy AO/OTA 31A intertrochanteric fractures. Our data do not support recommendations for the use of one implant over the other.",
+        "target": "\nThis is a study about two different ways to fix broken hips in old people. The researchers wanted to see which method works better. They took 165 patients with low-energy hip fractures and divided them into two groups. One group got a sliding hip screw, and the other group got a special kind of nail. They looked at how long it took to do the surgery, how long the surgery took, how long the patient had to stay in the hospital, and other things like that. They also looked at how well the patients did after the surgery, like how well they could walk and move around. They found that the two methods were about the same in terms of how well the patients did after the surgery, and there were no big differences in things like complications or death rates. So, the researchers couldn't say which method is better.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        975,
+                        1026
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:\nIn a previous pooled analysis of 19 double-blind clinical studies conducted by Merck, which included data available as of July 2009 on 10,246 patients with type 2 diabetes (T2DM), treatment with sitagliptin was shown to be generally well tolerated compared with treatment with control agents. As the sitagliptin clinical development program continues, additional studies with sitagliptin have been completed. The present analysis updates the safety and tolerability assessment of sitagliptin by examining pooled data from 25 double-blind clinical studies.\n\nABSTRACT.METHODS:\nThe present analysis included data from 14,611 patients in 25 studies with T2DM who received either sitagliptin 100\u00a0mg/day (n\u00a0=\u00a07,726; sitagliptin group) or a comparator agent (n\u00a0=\u00a06,885; non-exposed group). These studies represent all randomized, double-blind trials conducted by Merck that included patients treated with the usual clinical dose of sitagliptin (100\u00a0mg/day) for between 12\u00a0weeks and 2\u00a0years, and for which results were available as of December 2011. These studies assessed sitagliptin, versus comparator agents, taken as monotherapy, initial combination therapy with metformin or pioglitazone, or as add-on combination therapy with other antihyperglycemic agents (metformin, pioglitazone, a sulfonylurea\u00a0\u00b1\u00a0metformin, insulin\u00a0\u00b1\u00a0metformin, or metformin\u00a0+\u00a0pioglitazone or rosiglitazone). Patient-level data from each study were used to evaluate between-group differences in the exposure-adjusted incidence rates of adverse events (AEs).\n\nABSTRACT.RESULTS:\nOverall incidence rates of AEs and drug-related AEs were higher in the non-exposed group compared with the sitagliptin group. Incidence rates of specific AEs were generally similar between the two groups, except for higher incidence rates of hypoglycemia related to the greater use of a sulfonylurea and diarrhea related to the greater use of metformin in the non-exposed group, and of constipation in the sitagliptin group. Treatment with sitagliptin was not associated with an increased risk of major adverse cardiovascular events, malignancy, or pancreatitis.\n\nABSTRACT.CONCLUSION:\nIn this updated pooled safety analysis of data from 14,611 patients with T2DM, sitagliptin 100\u00a0mg/day was generally well tolerated in clinical trials of up to 2\u00a0years in duration.",
+        "target": "In this updated safety analysis of data from 14,611 patients with type 2 diabetes (T2DM), treatment with sitagliptin 100 mg/day was generally well tolerated compared to treatment with a comparator agent. There were no significant differences in the incidence of adverse events (AEs) or drug-related AEs between the two groups. However, the comparator agent group had higher incidence rates of hypoglycemia related to the greater use of a sulfonylurea and diarrhea related to the greater use of metformin. Additionally, treatment with sitagliptin was not associated with an increased risk of major adverse cardiovascular events, malignancy, or pancreatitis.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1993,
+                        2130
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:\nIn a previous pooled analysis of 19 double-blind clinical studies conducted by Merck, which included data available as of July 2009 on 10,246 patients with type 2 diabetes (T2DM), treatment with sitagliptin was shown to be generally well tolerated compared with treatment with control agents. As the sitagliptin clinical development program continues, additional studies with sitagliptin have been completed. The present analysis updates the safety and tolerability assessment of sitagliptin by examining pooled data from 25 double-blind clinical studies.\n\nABSTRACT.METHODS:\nThe present analysis included data from 14,611 patients in 25 studies with T2DM who received either sitagliptin 100\u00a0mg/day (n\u00a0=\u00a07,726; sitagliptin group) or a comparator agent (n\u00a0=\u00a06,885; non-exposed group). These studies represent all randomized, double-blind trials conducted by Merck that included patients treated with the usual clinical dose of sitagliptin (100\u00a0mg/day) for between 12\u00a0weeks and 2\u00a0years, and for which results were available as of December 2011. These studies assessed sitagliptin, versus comparator agents, taken as monotherapy, initial combination therapy with metformin or pioglitazone, or as add-on combination therapy with other antihyperglycemic agents (metformin, pioglitazone, a sulfonylurea\u00a0\u00b1\u00a0metformin, insulin\u00a0\u00b1\u00a0metformin, or metformin\u00a0+\u00a0pioglitazone or rosiglitazone). Patient-level data from each study were used to evaluate between-group differences in the exposure-adjusted incidence rates of adverse events (AEs).\n\nABSTRACT.RESULTS:\nOverall incidence rates of AEs and drug-related AEs were higher in the non-exposed group compared with the sitagliptin group. Incidence rates of specific AEs were generally similar between the two groups, except for higher incidence rates of hypoglycemia related to the greater use of a sulfonylurea and diarrhea related to the greater use of metformin in the non-exposed group, and of constipation in the sitagliptin group. Treatment with sitagliptin was not associated with an increased risk of major adverse cardiovascular events, malignancy, or pancreatitis.\n\nABSTRACT.CONCLUSION:\nIn this updated pooled safety analysis of data from 14,611 patients with T2DM, sitagliptin 100\u00a0mg/day was generally well tolerated in clinical trials of up to 2\u00a0years in duration.",
+        "target": "Merck, a medicine company, did 25 studies on a diabetes medicine called sitagliptin. They tested it on 14,611 people who had type 2 diabetes. The tests showed that sitagliptin didn't cause as many side effects or health problems as other diabetes medicines. The side effects it did cause were mostly constipation. But compared to other medicines, it didn't cause more serious problems like heart issues, cancer, or pancreatitis. So, sitagliptin seems to be a safer choice for treating type 2 diabetes.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1993,
+                        2130
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:\nIn a previous pooled analysis of 19 double-blind clinical studies conducted by Merck, which included data available as of July 2009 on 10,246 patients with type 2 diabetes (T2DM), treatment with sitagliptin was shown to be generally well tolerated compared with treatment with control agents. As the sitagliptin clinical development program continues, additional studies with sitagliptin have been completed. The present analysis updates the safety and tolerability assessment of sitagliptin by examining pooled data from 25 double-blind clinical studies.\n\nABSTRACT.METHODS:\nThe present analysis included data from 14,611 patients in 25 studies with T2DM who received either sitagliptin 100\u00a0mg/day (n\u00a0=\u00a07,726; sitagliptin group) or a comparator agent (n\u00a0=\u00a06,885; non-exposed group). These studies represent all randomized, double-blind trials conducted by Merck that included patients treated with the usual clinical dose of sitagliptin (100\u00a0mg/day) for between 12\u00a0weeks and 2\u00a0years, and for which results were available as of December 2011. These studies assessed sitagliptin, versus comparator agents, taken as monotherapy, initial combination therapy with metformin or pioglitazone, or as add-on combination therapy with other antihyperglycemic agents (metformin, pioglitazone, a sulfonylurea\u00a0\u00b1\u00a0metformin, insulin\u00a0\u00b1\u00a0metformin, or metformin\u00a0+\u00a0pioglitazone or rosiglitazone). Patient-level data from each study were used to evaluate between-group differences in the exposure-adjusted incidence rates of adverse events (AEs).\n\nABSTRACT.RESULTS:\nOverall incidence rates of AEs and drug-related AEs were higher in the non-exposed group compared with the sitagliptin group. Incidence rates of specific AEs were generally similar between the two groups, except for higher incidence rates of hypoglycemia related to the greater use of a sulfonylurea and diarrhea related to the greater use of metformin in the non-exposed group, and of constipation in the sitagliptin group. Treatment with sitagliptin was not associated with an increased risk of major adverse cardiovascular events, malignancy, or pancreatitis.\n\nABSTRACT.CONCLUSION:\nIn this updated pooled safety analysis of data from 14,611 patients with T2DM, sitagliptin 100\u00a0mg/day was generally well tolerated in clinical trials of up to 2\u00a0years in duration.",
+        "target": "\n\"In a big study of 14,611 people with type 2 diabetes, researchers looked at how safe a medicine called sitagliptin is. They found that sitagliptin was generally well tolerated, which means that most people didn't have serious side effects. They also found that sitagliptin wasn't associated with an increased risk of certain serious problems, like heart attacks or cancer. So overall, sitagliptin seems to be a pretty safe medicine for people with type 2 diabetes.\"\nI hope this helps! Let me know if you have any other questions.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1993,
+                        2130
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:.\nThe conduct of clinical trials should be an integral part of routine patient care. Treating patients in trials incurs additional costs over and above standard of care (SOC), but the extent of the cost burden is not known. We undertook a retrospective cost attribution analysis to quantitate the treatment costs associated with cancer clinical trial protocols conducted over a 2 year period.\n\nABSTRACT.METHODS:.\nAll patients entered into oncology (non-haematology) clinical trials involving investigational medicinal products in 2009 and 2010 in a single UK institution were identified. The trial protocols on which they were treated were analysed to identify the treatment costs for the experimental arm(s) of the trial and the equivalent SOC had the patient not been entered in the trial. The treatment cost difference was calculated by subtracting the experimental treatment cost from SOC cost. For randomised trials, an average treatment cost was estimated by taking into account the number of arms and randomisation ratio. An estimate of the annual treatment costs was calculated.\n\nABSTRACT.RESULTS:.\nA total of 357 adult oncology patients were treated on 53 different trial protocols: 40 phase III, 2 randomised II/III and 11 phase II design. A total of 27 trials were academic, non-commercial sponsored trials and 26 were commercial sponsored trials. When compared with SOC, the average treatment cost per patient was an excess of \u00a3431 for a non-commercial trial (range \u00a36393 excess to \u00a36005 saving) and a saving of \u00a39294 for a commercial trial (range \u00a30 to \u00a371 480). There was an overall treatment cost saving of \u00a3388 719 in 2009 and \u00a3496 556 in 2010, largely attributable to pharmaceutical company provision of free drug supplies.\n\nABSTRACT.CONCLUSION:.\nOn an average, non-commercial trial protocols were associated with a small per patient excess treatment cost, whereas commercial trials were associated with a substantially higher cost saving. Taking into account the total number of patients recruited annually, treatment of patients on clinical trial protocols was associated with considerable cost savings across both the non-commercial and commercial portfolio.",
+        "target": "This study looked at the cost of treating patients who took part in cancer clinical trials compared to standard care. The results showed that non-commercial trial protocols had a small per patient excess cost, whereas commercial trials had a substantially higher cost saving. Taking into account the total number of patients recruited annually, the study found that clinical trials were associated with considerable cost savings across both the non-commercial and commercial portfolio.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1403,
+                        1595
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1784,
+                        1976
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:.\nThe conduct of clinical trials should be an integral part of routine patient care. Treating patients in trials incurs additional costs over and above standard of care (SOC), but the extent of the cost burden is not known. We undertook a retrospective cost attribution analysis to quantitate the treatment costs associated with cancer clinical trial protocols conducted over a 2 year period.\n\nABSTRACT.METHODS:.\nAll patients entered into oncology (non-haematology) clinical trials involving investigational medicinal products in 2009 and 2010 in a single UK institution were identified. The trial protocols on which they were treated were analysed to identify the treatment costs for the experimental arm(s) of the trial and the equivalent SOC had the patient not been entered in the trial. The treatment cost difference was calculated by subtracting the experimental treatment cost from SOC cost. For randomised trials, an average treatment cost was estimated by taking into account the number of arms and randomisation ratio. An estimate of the annual treatment costs was calculated.\n\nABSTRACT.RESULTS:.\nA total of 357 adult oncology patients were treated on 53 different trial protocols: 40 phase III, 2 randomised II/III and 11 phase II design. A total of 27 trials were academic, non-commercial sponsored trials and 26 were commercial sponsored trials. When compared with SOC, the average treatment cost per patient was an excess of \u00a3431 for a non-commercial trial (range \u00a36393 excess to \u00a36005 saving) and a saving of \u00a39294 for a commercial trial (range \u00a30 to \u00a371 480). There was an overall treatment cost saving of \u00a3388 719 in 2009 and \u00a3496 556 in 2010, largely attributable to pharmaceutical company provision of free drug supplies.\n\nABSTRACT.CONCLUSION:.\nOn an average, non-commercial trial protocols were associated with a small per patient excess treatment cost, whereas commercial trials were associated with a substantially higher cost saving. Taking into account the total number of patients recruited annually, treatment of patients on clinical trial protocols was associated with considerable cost savings across both the non-commercial and commercial portfolio.",
+        "target": "This study is basically about looking at the costs of treating patients on clinical trials for cancer medicines. A clinical trial is when they test a new medicine or treatment to see whether it works and is safe. Sometimes, these treatments can cost more than the regular ones, but sometimes they can cost less -- especially when pharmaceutical companies give the new medicine for free during the test. The study found out that commercial trials (done by businesses) saved more money than non-commercial ones. So overall, treating patients through clinical trials saved a good amount of money.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1403,
+                        1595
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1784,
+                        1976
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:.\nThe conduct of clinical trials should be an integral part of routine patient care. Treating patients in trials incurs additional costs over and above standard of care (SOC), but the extent of the cost burden is not known. We undertook a retrospective cost attribution analysis to quantitate the treatment costs associated with cancer clinical trial protocols conducted over a 2 year period.\n\nABSTRACT.METHODS:.\nAll patients entered into oncology (non-haematology) clinical trials involving investigational medicinal products in 2009 and 2010 in a single UK institution were identified. The trial protocols on which they were treated were analysed to identify the treatment costs for the experimental arm(s) of the trial and the equivalent SOC had the patient not been entered in the trial. The treatment cost difference was calculated by subtracting the experimental treatment cost from SOC cost. For randomised trials, an average treatment cost was estimated by taking into account the number of arms and randomisation ratio. An estimate of the annual treatment costs was calculated.\n\nABSTRACT.RESULTS:.\nA total of 357 adult oncology patients were treated on 53 different trial protocols: 40 phase III, 2 randomised II/III and 11 phase II design. A total of 27 trials were academic, non-commercial sponsored trials and 26 were commercial sponsored trials. When compared with SOC, the average treatment cost per patient was an excess of \u00a3431 for a non-commercial trial (range \u00a36393 excess to \u00a36005 saving) and a saving of \u00a39294 for a commercial trial (range \u00a30 to \u00a371 480). There was an overall treatment cost saving of \u00a3388 719 in 2009 and \u00a3496 556 in 2010, largely attributable to pharmaceutical company provision of free drug supplies.\n\nABSTRACT.CONCLUSION:.\nOn an average, non-commercial trial protocols were associated with a small per patient excess treatment cost, whereas commercial trials were associated with a substantially higher cost saving. Taking into account the total number of patients recruited annually, treatment of patients on clinical trial protocols was associated with considerable cost savings across both the non-commercial and commercial portfolio.",
+        "target": "\nThe researchers wanted to know how much more it costs to treat patients in clinical trials compared to the usual care they would receive. They looked at 53 different clinical trial protocols and found that some trials cost more than others. They found that non-commercial trials cost a little more per patient, while commercial trials saved money. Overall, they found that treating patients in clinical trials saved a lot of money, about $400,000 in 2009 and $500,000 in 2010.\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1403,
+                        1595
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1784,
+                        1976
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThe purpose of this study was to examine the effect of mental clinical nursing pathways on suicidal ideation and life quality of patients with malignant tumors.\n\nABSTRACT.METHODS.\nTwo hundred patients with malignant tumors were randomly divided into a study group and a control group, with 100 patients in each group. During the treatment, patients in the study group received mental clinical nursing pathway care, while those in the control group were given the usual nursing care, such as timely inspection, nurse's reactions to patient's behavior, and execution of medical orders. Thereafter, the \"self-rating idea of suicide scale\" and Karnofsky Performance Status (KPS) were used to compare the differences in the suicidal ideation of patients with malignant tumors between the two groups before and after the treatment.\n\nABSTRACT.RESULTS.\nThere were no statistical differences in the scores of despair factor, optimistic factor, sleep factor, and cover factor between the two groups before the treatment (P&gt;0.05). After different styles of nursing, the former four factors of patients in the study group were significantly lower than those in the control group (P&lt;0.01), while there were no significant differences in the score of cover factor between the two groups (P&gt;0.05). The KPS of patients receiving mental clinical nursing pathway care was higher than those receiving usual nursing care, and there was a statistical significant difference between the two groups (P&lt;0.01). Interestingly, the patients' suicidal ideation scale was negatively correlated with KPS (r =\u22120.29, P&lt;0.05).\n\nABSTRACT.CONCLUSION.\nFor individuals diagnosed with a malignant tumor, using a mental health clinical nursing pathway can effectively decrease the degree of suicidal ideation and positively impact the quality of life.",
+        "target": "This study examined the effect of mental clinical nursing pathways on suicidal ideation and quality of life in patients with malignant tumors. Two hundred patients were randomly assigned to either a study group or a control group. The study group received mental clinical nursing pathway care, while the control group received the usual nursing care, such as timely inspection, nurse's reactions to patient's behavior, and execution of medical orders.\n\nThe results showed that there were no significant differences in the scores of despair factor, optimistic factor, sleep factor, and cover factor between the two groups before the treatment (P&gt;0.05). After different styles of nursing, the former four factors of patients in the study group were significantly lower than those in the control group (P&lt;0.01). In addition, the KPS of patients receiving mental clinical nursing pathway care was higher than those receiving usual nursing care, and there was a statistical significant difference between the two groups (P&lt;0.01). Interestingly, the patients' suicidal ideation scale was negatively correlated with KPS (r = -0.29, P&lt;0.05).\n\nIn conclusion, for individuals diagnosed with a malignant tumor, using a mental health clinical nursing pathway can effectively decrease the degree of suicidal ideation and positively impact the quality of life.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1652,
+                        1848
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        866,
+                        1312
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1313,
+                        1518
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThe purpose of this study was to examine the effect of mental clinical nursing pathways on suicidal ideation and life quality of patients with malignant tumors.\n\nABSTRACT.METHODS.\nTwo hundred patients with malignant tumors were randomly divided into a study group and a control group, with 100 patients in each group. During the treatment, patients in the study group received mental clinical nursing pathway care, while those in the control group were given the usual nursing care, such as timely inspection, nurse's reactions to patient's behavior, and execution of medical orders. Thereafter, the \"self-rating idea of suicide scale\" and Karnofsky Performance Status (KPS) were used to compare the differences in the suicidal ideation of patients with malignant tumors between the two groups before and after the treatment.\n\nABSTRACT.RESULTS.\nThere were no statistical differences in the scores of despair factor, optimistic factor, sleep factor, and cover factor between the two groups before the treatment (P&gt;0.05). After different styles of nursing, the former four factors of patients in the study group were significantly lower than those in the control group (P&lt;0.01), while there were no significant differences in the score of cover factor between the two groups (P&gt;0.05). The KPS of patients receiving mental clinical nursing pathway care was higher than those receiving usual nursing care, and there was a statistical significant difference between the two groups (P&lt;0.01). Interestingly, the patients' suicidal ideation scale was negatively correlated with KPS (r =\u22120.29, P&lt;0.05).\n\nABSTRACT.CONCLUSION.\nFor individuals diagnosed with a malignant tumor, using a mental health clinical nursing pathway can effectively decrease the degree of suicidal ideation and positively impact the quality of life.",
+        "target": "This study is about trying to see if a certain type of care for people with serious illnesses, like cancer, can help them feel better in their minds and about their lives. They compared two groups of people: one group received special nursing care focused on mental health, and the other group got the usual care. After this, they looked at everyone's thoughts about suicide and their quality of life. They found that the group that got the special mental health care had less suicidal thoughts and better quality of life. This means that this type of care seems to be good at helping people with serious illnesses feel better in their minds and lives.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1652,
+                        1848
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        866,
+                        1312
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1313,
+                        1518
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nThe purpose of this study was to examine the effect of mental clinical nursing pathways on suicidal ideation and life quality of patients with malignant tumors.\n\nABSTRACT.METHODS.\nTwo hundred patients with malignant tumors were randomly divided into a study group and a control group, with 100 patients in each group. During the treatment, patients in the study group received mental clinical nursing pathway care, while those in the control group were given the usual nursing care, such as timely inspection, nurse's reactions to patient's behavior, and execution of medical orders. Thereafter, the \"self-rating idea of suicide scale\" and Karnofsky Performance Status (KPS) were used to compare the differences in the suicidal ideation of patients with malignant tumors between the two groups before and after the treatment.\n\nABSTRACT.RESULTS.\nThere were no statistical differences in the scores of despair factor, optimistic factor, sleep factor, and cover factor between the two groups before the treatment (P&gt;0.05). After different styles of nursing, the former four factors of patients in the study group were significantly lower than those in the control group (P&lt;0.01), while there were no significant differences in the score of cover factor between the two groups (P&gt;0.05). The KPS of patients receiving mental clinical nursing pathway care was higher than those receiving usual nursing care, and there was a statistical significant difference between the two groups (P&lt;0.01). Interestingly, the patients' suicidal ideation scale was negatively correlated with KPS (r =\u22120.29, P&lt;0.05).\n\nABSTRACT.CONCLUSION.\nFor individuals diagnosed with a malignant tumor, using a mental health clinical nursing pathway can effectively decrease the degree of suicidal ideation and positively impact the quality of life.",
+        "target": "\nThe study looked at how nurses helping patients with cancer feel less sad and more hopeful. They found that patients who got special nursing care had fewer thoughts of suicide and were generally happier. The nurses asked the patients how they were feeling and gave them extra help when they needed it. This made a big difference in how the patients felt about themselves and their lives.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1652,
+                        1848
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        866,
+                        1312
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1313,
+                        1518
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nObesity has become a great problem all over the world. We repeatedly screened to find an effective food to treat obesity and discovered that rosehip extract shows potent anti-obesity effects. Investigations in mice have demonstrated that rosehip extract inhibits body weight gain and decreases visceral fat. Thus, the present study examined the effect of rosehip extract on human body fat in preobese subjects.\n\nABSTRACT.METHODS:\nWe conducted a 12-week, single-center, double-blind, randomized, placebo-controlled study of 32 subjects who had a body mass index of \u226525 but &lt;30. The subjects were assigned to two random groups, and they received one tablet of placebo or rosehip that contained 100 mg of rosehip extract once each day for 12 weeks with no dietary intervention. Abdominal fat area and body fat percent were measured as primary outcomes. The other outcomes were body weight and body mass index.\n\nABSTRACT.RESULTS:\nAbdominal total fat area, abdominal visceral fat area, body weight, and body mass index decreased significantly in the rosehip group at week 12 compared with their baseline levels (P&lt;0.01) after receiving the rosehip tablet intake, and the decreases in these parameters were significantly higher when compared with those in the placebo group. Additionally, body fat percent tended to decrease compared with the placebo group and their baseline level. Moreover, the abdominal subcutaneous fat area was significantly lower in the rosehip group than in the placebo group at week 12 after the initiation of intake (P&lt;0.05). In addition, there were no abnormalities, subjective symptoms, and findings that may indicate clinical problems during the study period.\n\nABSTRACT.CONCLUSION:\nThese results suggest that rosehip extract may be a good candidate food material for preventing obesity.",
+        "target": "Obesity has become a major problem worldwide. We screened for an effective food to treat obesity and discovered that rosehip extract has potent anti-obesity effects. Investigations in mice showed that rosehip extract inhibits body weight gain and decreases visceral fat. To test the effect of rosehip extract on human body fat, we conducted a 12-week, single-center, double-blind, randomized, placebo-controlled study with 32 preobese subjects. The results showed that abdominal total fat area, abdominal visceral fat area, body weight, and body mass index decreased significantly in the rosehip group at week 12 compared to baseline (P&lt;0.01). Additionally, body fat percent tended to decrease compared to the placebo group and their baseline level. These results suggest that rosehip extract may be a good candidate food material for preventing obesity.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        950,
+                        1295
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nObesity has become a great problem all over the world. We repeatedly screened to find an effective food to treat obesity and discovered that rosehip extract shows potent anti-obesity effects. Investigations in mice have demonstrated that rosehip extract inhibits body weight gain and decreases visceral fat. Thus, the present study examined the effect of rosehip extract on human body fat in preobese subjects.\n\nABSTRACT.METHODS:\nWe conducted a 12-week, single-center, double-blind, randomized, placebo-controlled study of 32 subjects who had a body mass index of \u226525 but &lt;30. The subjects were assigned to two random groups, and they received one tablet of placebo or rosehip that contained 100 mg of rosehip extract once each day for 12 weeks with no dietary intervention. Abdominal fat area and body fat percent were measured as primary outcomes. The other outcomes were body weight and body mass index.\n\nABSTRACT.RESULTS:\nAbdominal total fat area, abdominal visceral fat area, body weight, and body mass index decreased significantly in the rosehip group at week 12 compared with their baseline levels (P&lt;0.01) after receiving the rosehip tablet intake, and the decreases in these parameters were significantly higher when compared with those in the placebo group. Additionally, body fat percent tended to decrease compared with the placebo group and their baseline level. Moreover, the abdominal subcutaneous fat area was significantly lower in the rosehip group than in the placebo group at week 12 after the initiation of intake (P&lt;0.05). In addition, there were no abnormalities, subjective symptoms, and findings that may indicate clinical problems during the study period.\n\nABSTRACT.CONCLUSION:\nThese results suggest that rosehip extract may be a good candidate food material for preventing obesity.",
+        "target": "Scientists did a study to see if a special extract from a plant called rosehip could help people lose weight. They gave 32 people who were a bit overweight a pill every day for 12 weeks. Some people got a pill with the rosehip extract in it, and others got a fake pill with no rosehip (which is called a placebo). \n\nThey checked to see if their body fat, weight, and waist size changed. After 12 weeks, the people who got the rosehip pill had less body fat, lost weight, their waist size was smaller, and no one reported any health problems.\n\nSo, the study suggests that the rosehip extract could be a good thing to help prevent people from becoming overweight.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        950,
+                        1295
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nObesity has become a great problem all over the world. We repeatedly screened to find an effective food to treat obesity and discovered that rosehip extract shows potent anti-obesity effects. Investigations in mice have demonstrated that rosehip extract inhibits body weight gain and decreases visceral fat. Thus, the present study examined the effect of rosehip extract on human body fat in preobese subjects.\n\nABSTRACT.METHODS:\nWe conducted a 12-week, single-center, double-blind, randomized, placebo-controlled study of 32 subjects who had a body mass index of \u226525 but &lt;30. The subjects were assigned to two random groups, and they received one tablet of placebo or rosehip that contained 100 mg of rosehip extract once each day for 12 weeks with no dietary intervention. Abdominal fat area and body fat percent were measured as primary outcomes. The other outcomes were body weight and body mass index.\n\nABSTRACT.RESULTS:\nAbdominal total fat area, abdominal visceral fat area, body weight, and body mass index decreased significantly in the rosehip group at week 12 compared with their baseline levels (P&lt;0.01) after receiving the rosehip tablet intake, and the decreases in these parameters were significantly higher when compared with those in the placebo group. Additionally, body fat percent tended to decrease compared with the placebo group and their baseline level. Moreover, the abdominal subcutaneous fat area was significantly lower in the rosehip group than in the placebo group at week 12 after the initiation of intake (P&lt;0.05). In addition, there were no abnormalities, subjective symptoms, and findings that may indicate clinical problems during the study period.\n\nABSTRACT.CONCLUSION:\nThese results suggest that rosehip extract may be a good candidate food material for preventing obesity.",
+        "target": "\nThe study found that taking rosehip extract for 12 weeks helped people lose weight and reduce their body fat. The study showed that taking rosehip extract was more effective than taking a placebo (a dummy pill with no medicine in it). The people in the rosehip group lost more weight and had less body fat than the people in the placebo group. The study also found that taking rosehip extract did not cause any problems or side effects.\n\n\nI hope this helps! Let me know if you have any other questions.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        950,
+                        1295
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:\nIntensive care unit (ICU) environmental factors such as noise and light have been cited as important causes of sleep deprivation in critically ill patients. Previous studies indicated that using earplugs and eye masks can improve REM sleep in healthy subjects in simulated ICU environment, and improve sleep quality in ICU patients. This study aimed to determine the effects of using earplugs and eye masks with relaxing background music on sleep, melatonin and cortisol levels in ICU patients.\n\nABSTRACT.METHODS:\nFifty patients who underwent a scheduled cardiac surgery and were expected to stay at least 2 nights in Cardiac Surgical ICU (CSICU) were included. They were randomized to sleep with or without earplugs and eye masks combined with 30-minute relaxing music during the postoperative nights in CSICU. Urine was analyzed for nocturnal melatonin and cortisol levels. Subjective sleep quality was evaluated using the Chinese version of Richards-Campbell Sleep Questionnaire (a visual analog scale, ranging 0\u2013100).\n\nABSTRACT.RESULTS:\nData from 45 patients (20 in intervention group, 25 in control group) were analyzed. Significant differences were found between groups in depth of sleep, falling asleep, awakenings, falling asleep again after awakening and overall sleep quality (P\u2009&lt;\u20090.05). Perceived sleep quality was better in the intervention group. No group differences were found in urinary melatonin levels and cortisol levels for the night before surgery, and the first and second nights post-surgery (P\u2009&gt;\u20090.05). The urinary melatonin levels of the first and second postoperative nights were significantly lower than those of the night before surgery (P\u2009=\u20090.01). The opposite pattern was seen with urinary cortisol levels (P\u2009=\u20090.00).\n\nABSTRACT.CONCLUSION:\nThis combination of non-pharmacological interventions is useful for promoting sleep in ICU adult patients; however, any influence on nocturnal melatonin levels and cortisol level may have been masked by several factors such as the timing of surgery, medication use and individual differences. Larger scale studies would be needed to examine the potential influences of these factors on biological markers and intervention efficacy on sleep.\n\nABSTRACT.TRIAL REGISTRATION:\nChinese Clinical Trial Registry: ChiCTR-IOR-14005511. Registered 21 November 2014.",
+        "target": "This study aimed to determine the effects of using earplugs and eye masks with relaxing background music on sleep, melatonin and cortisol levels in critically ill patients in the intensive care unit (ICU). Fifty patients who were expected to stay at least two nights in the Cardiac Surgical ICU (CSICU) were randomized to either sleep with or without the earplugs and eye masks combined with the relaxing music. The results showed that the combination of the earplugs and eye masks with the relaxing music improved sleep quality and reduced stress levels in the ICU patients. Nocturnal melatonin and cortisol levels were also affected, with the first and second nights post-surgery showing lower levels than the night before surgery. These findings suggest that the combination of non-pharmacological interventions may be useful for promoting sleep in ICU adult patients. Further studies should be conducted to examine the potential influences of factors such as the timing of surgery, medication use and individual differences on biological markers and intervention efficacy on sleep.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1386,
+                        1465
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:\nIntensive care unit (ICU) environmental factors such as noise and light have been cited as important causes of sleep deprivation in critically ill patients. Previous studies indicated that using earplugs and eye masks can improve REM sleep in healthy subjects in simulated ICU environment, and improve sleep quality in ICU patients. This study aimed to determine the effects of using earplugs and eye masks with relaxing background music on sleep, melatonin and cortisol levels in ICU patients.\n\nABSTRACT.METHODS:\nFifty patients who underwent a scheduled cardiac surgery and were expected to stay at least 2 nights in Cardiac Surgical ICU (CSICU) were included. They were randomized to sleep with or without earplugs and eye masks combined with 30-minute relaxing music during the postoperative nights in CSICU. Urine was analyzed for nocturnal melatonin and cortisol levels. Subjective sleep quality was evaluated using the Chinese version of Richards-Campbell Sleep Questionnaire (a visual analog scale, ranging 0\u2013100).\n\nABSTRACT.RESULTS:\nData from 45 patients (20 in intervention group, 25 in control group) were analyzed. Significant differences were found between groups in depth of sleep, falling asleep, awakenings, falling asleep again after awakening and overall sleep quality (P\u2009&lt;\u20090.05). Perceived sleep quality was better in the intervention group. No group differences were found in urinary melatonin levels and cortisol levels for the night before surgery, and the first and second nights post-surgery (P\u2009&gt;\u20090.05). The urinary melatonin levels of the first and second postoperative nights were significantly lower than those of the night before surgery (P\u2009=\u20090.01). The opposite pattern was seen with urinary cortisol levels (P\u2009=\u20090.00).\n\nABSTRACT.CONCLUSION:\nThis combination of non-pharmacological interventions is useful for promoting sleep in ICU adult patients; however, any influence on nocturnal melatonin levels and cortisol level may have been masked by several factors such as the timing of surgery, medication use and individual differences. Larger scale studies would be needed to examine the potential influences of these factors on biological markers and intervention efficacy on sleep.\n\nABSTRACT.TRIAL REGISTRATION:\nChinese Clinical Trial Registry: ChiCTR-IOR-14005511. Registered 21 November 2014.",
+        "target": "This study is about how making the room quieter and darker, and playing relaxing music can help patients in the ICU sleep better. The researchers used earplugs, eye masks, and music to see if it would improve sleep quality. They also looked at the levels of two chemicals in the body that can tell a lot about a person's sleep - melatonin and cortisol. What they found is that people who had earplugs, eye masks, and music did sleep better, but the levels of melatonin and cortisol didn't really change. This means that while these methods can help with sleep, they may not affect the body's natural sleep chemicals a whole lot.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1386,
+                        1465
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:\nIntensive care unit (ICU) environmental factors such as noise and light have been cited as important causes of sleep deprivation in critically ill patients. Previous studies indicated that using earplugs and eye masks can improve REM sleep in healthy subjects in simulated ICU environment, and improve sleep quality in ICU patients. This study aimed to determine the effects of using earplugs and eye masks with relaxing background music on sleep, melatonin and cortisol levels in ICU patients.\n\nABSTRACT.METHODS:\nFifty patients who underwent a scheduled cardiac surgery and were expected to stay at least 2 nights in Cardiac Surgical ICU (CSICU) were included. They were randomized to sleep with or without earplugs and eye masks combined with 30-minute relaxing music during the postoperative nights in CSICU. Urine was analyzed for nocturnal melatonin and cortisol levels. Subjective sleep quality was evaluated using the Chinese version of Richards-Campbell Sleep Questionnaire (a visual analog scale, ranging 0\u2013100).\n\nABSTRACT.RESULTS:\nData from 45 patients (20 in intervention group, 25 in control group) were analyzed. Significant differences were found between groups in depth of sleep, falling asleep, awakenings, falling asleep again after awakening and overall sleep quality (P\u2009&lt;\u20090.05). Perceived sleep quality was better in the intervention group. No group differences were found in urinary melatonin levels and cortisol levels for the night before surgery, and the first and second nights post-surgery (P\u2009&gt;\u20090.05). The urinary melatonin levels of the first and second postoperative nights were significantly lower than those of the night before surgery (P\u2009=\u20090.01). The opposite pattern was seen with urinary cortisol levels (P\u2009=\u20090.00).\n\nABSTRACT.CONCLUSION:\nThis combination of non-pharmacological interventions is useful for promoting sleep in ICU adult patients; however, any influence on nocturnal melatonin levels and cortisol level may have been masked by several factors such as the timing of surgery, medication use and individual differences. Larger scale studies would be needed to examine the potential influences of these factors on biological markers and intervention efficacy on sleep.\n\nABSTRACT.TRIAL REGISTRATION:\nChinese Clinical Trial Registry: ChiCTR-IOR-14005511. Registered 21 November 2014.",
+        "target": "\nThis study looked at how using earplugs and eye masks with relaxing music can help improve sleep quality in adults who are in the intensive care unit (ICU) after having surgery. The study foundblockquote that using these items helped the patients sleep better and feel more rested. The study also found that the patients' bodies produced less melatonin and cortisol, which are hormones that help regulate sleep, during the night after surgery. The study suggests that using earplugs and eye masks with relaxing music may help improve sleep quality in ICU patients, but more research is needed to confirm this.\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1386,
+                        1465
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nDifferent amounts of ingested alcohol can have distinct effects on the human body. However, there is limited research on chronic alcohol consumption with Helicobacter pylori infection. We sought to investigate the relationship between the cytokine profile, oxidative balance and H. pylori infection in subjects with chronic alcohol consumption. A total of 142 subjects were divided into three groups: 59 subjects with chronic alcohol ingestion and H. pylori infection (group A); 53 subjects with chronic alcohol ingestion without H. pylori infection (group B); and 30 control subjects (group C). The serum levels of CagA, interleukin (IL)-10, E-selectin, TNF-\u03b1, malondialdehyde (MDA) and superoxide dismutase (SOD) activity were measured by enzyme-linked immunosorbent assay (ELISA). We found that the ages and serum H. pylori CagA levels among the three groups, as well as both the mean drinking age and the mean daily alcohol consumption between groups A and B, were matched and comparable. Comparing the BMIs among the three groups, the BMI differences were found to be statistically significant (F=3.921, P&lt;0.05). Compared with group C, the BMIs in groups A and B were significantly higher (P&lt;0.001 and P&lt;0.01, respectively); however, the BMI differences between group A and group B were not statistically significant (P&gt;0.05). Additionally, no differences in the serum CagA levels were found in comparisons among the groups (all P&gt;0.05). The serum IL-10 and E-selectin levels in group A were significantly lower than those in group B (serum IL-10: P&lt;0.05; E-selectin: P&lt;0.05). The serum IL-10 in group A was significantly higher than that in group C (P&lt;0.01); the serum E-selectin levels in group A did not significantly differ compared with those in group C (P&gt;0.05). Furthermore, the serum IL-10 and E-selectin levels in group B were significantly higher than those in group C (serum IL-10: P&lt;0.001; E-selectin: P&lt;0.05); however, the serum TNF-\u03b1 levels did not differ among groups (all P&gt;0.05). Although the serum levels of MDA and SOD in groups A and B were slightly lower than those in group C, there were no significant differences among groups (all P&gt;0.05). In conclusion, we believe that H. pylori infection might cause a significant inhibition of certain cytokine profiles in subjects with chronic alcohol ingestion. Moreover, chronically ingested alcohol may exert an adjusted inflammatory effect, but there was no association between H. pylori infection, chronic alcohol consumption and oxidative balance.",
+        "target": "Different amounts of ingested alcohol can have distinct effects on the human body. However, there is limited research on chronic alcohol consumption in combination with Helicobacter pylori infection. We sought to investigate the relationship between the cytokine profile, oxidative balance, and H. pylori infection in subjects with chronic alcohol consumption. A total of 142 subjects were divided into three groups: 59 subjects with chronic alcohol ingestion and H. pylori infection (group A); 53 subjects with chronic alcohol ingestion without H. pylori infection (group B); and 30 control subjects (group C). The serum levels of CagA, interleukin (IL)-10, E-selectin, tumor necrosis factor-alpha (TNF-alpha), malondialdehyde (MDA), and superoxide dismutase (SOD) activity were measured by enzyme-linked immunosorbent assay (ELISA). We found that the ages and serum H. pylori CagA levels among the three groups, as well as both the mean drinking age and the mean daily alcohol consumption between groups A and B, were matched and comparable. Comparing the body mass indices (BMIs) among the three groups, the BMI differences were found to be statistically significant (F=3.921, P&lt;0.05). Compared with group C, the BMIs in groups A and B were significantly higher (P&lt;0.001 and P&lt;0.01, respectively); however, the BMI differences between group A and group B were not statistically significant (P&gt;0.05). Additionally, no differences in the serum CagA levels were found in comparisons among the groups (all P&gt;0.05). The serum IL-10 and E-selectin levels in group A were significantly lower than those in group B (serum IL-10: P&lt;0.05; E-selectin: P&lt;0.05). The serum IL-10 in group A was significantly higher than that in group C (P&lt;0.01); the serum E-selectin levels in group A did not significantly differ compared with group C (P&gt;0.05). Furthermore, the serum IL-10 and E-selectin levels in group B were significantly higher than those in group C (serum IL-10: P&lt;0.001; E-selectin: P&lt;0.05); however, the serum TNF-alpha levels did not differ among groups (all P&gt;0.05). Although the serum levels of MDA and SOD in groups A and B were slightly lower than those in group C, there were no significant differences among groups (all P&gt;0.05). In conclusion, we believe that H. pylori infection might cause a significant inhibition of certain cytokine profiles in subjects with chronic alcohol ingestion. Moreover, chronically ingested alcohol may exert an adjusted inflammatory effect, but there was no association between H. pylori infection, chronic alcohol consumption, and oxidative balance.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1980,
+                        2047
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1468,
+                        1612
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1613,
+                        1810
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        1811,
+                        1970
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nDifferent amounts of ingested alcohol can have distinct effects on the human body. However, there is limited research on chronic alcohol consumption with Helicobacter pylori infection. We sought to investigate the relationship between the cytokine profile, oxidative balance and H. pylori infection in subjects with chronic alcohol consumption. A total of 142 subjects were divided into three groups: 59 subjects with chronic alcohol ingestion and H. pylori infection (group A); 53 subjects with chronic alcohol ingestion without H. pylori infection (group B); and 30 control subjects (group C). The serum levels of CagA, interleukin (IL)-10, E-selectin, TNF-\u03b1, malondialdehyde (MDA) and superoxide dismutase (SOD) activity were measured by enzyme-linked immunosorbent assay (ELISA). We found that the ages and serum H. pylori CagA levels among the three groups, as well as both the mean drinking age and the mean daily alcohol consumption between groups A and B, were matched and comparable. Comparing the BMIs among the three groups, the BMI differences were found to be statistically significant (F=3.921, P&lt;0.05). Compared with group C, the BMIs in groups A and B were significantly higher (P&lt;0.001 and P&lt;0.01, respectively); however, the BMI differences between group A and group B were not statistically significant (P&gt;0.05). Additionally, no differences in the serum CagA levels were found in comparisons among the groups (all P&gt;0.05). The serum IL-10 and E-selectin levels in group A were significantly lower than those in group B (serum IL-10: P&lt;0.05; E-selectin: P&lt;0.05). The serum IL-10 in group A was significantly higher than that in group C (P&lt;0.01); the serum E-selectin levels in group A did not significantly differ compared with those in group C (P&gt;0.05). Furthermore, the serum IL-10 and E-selectin levels in group B were significantly higher than those in group C (serum IL-10: P&lt;0.001; E-selectin: P&lt;0.05); however, the serum TNF-\u03b1 levels did not differ among groups (all P&gt;0.05). Although the serum levels of MDA and SOD in groups A and B were slightly lower than those in group C, there were no significant differences among groups (all P&gt;0.05). In conclusion, we believe that H. pylori infection might cause a significant inhibition of certain cytokine profiles in subjects with chronic alcohol ingestion. Moreover, chronically ingested alcohol may exert an adjusted inflammatory effect, but there was no association between H. pylori infection, chronic alcohol consumption and oxidative balance.",
+        "target": "This is a scientific study summary. Scientists wanted to see if drinking alcohol a lot over a long time affected people differently if they had an infection from a germ called H. pylori. They studied 142 people, some who have the infection and drink alcohol, some who drink alcohol but don't have the infection, and a group who were healthy, which they used as a control or comparison group. \n\nThey examined everyone's blood to measure certain things that can show how your body reacts to infections and alcohol. They didn't find a huge difference in those measures between those with the infection and those without the infection who consume alcohol. Basically, the researchers found that having this infection, while also drinking alcohol chronically, affects some of the substances your body produces to fight off diseases. However, drinking alcohol alone or having the infection alone does not seem to affect the body's ability to stay balanced. \n\nIn simpler terms, scientists found out that drinking a lot of alcohol over time can affect some of your body's alarms (those substances they measured) if you have this specific germ. But, just drinking alcohol a lot or just having the infection doesn't seem to throw your body's balance off.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1980,
+                        2047
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1468,
+                        1612
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1613,
+                        1810
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        1811,
+                        1970
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nDifferent amounts of ingested alcohol can have distinct effects on the human body. However, there is limited research on chronic alcohol consumption with Helicobacter pylori infection. We sought to investigate the relationship between the cytokine profile, oxidative balance and H. pylori infection in subjects with chronic alcohol consumption. A total of 142 subjects were divided into three groups: 59 subjects with chronic alcohol ingestion and H. pylori infection (group A); 53 subjects with chronic alcohol ingestion without H. pylori infection (group B); and 30 control subjects (group C). The serum levels of CagA, interleukin (IL)-10, E-selectin, TNF-\u03b1, malondialdehyde (MDA) and superoxide dismutase (SOD) activity were measured by enzyme-linked immunosorbent assay (ELISA). We found that the ages and serum H. pylori CagA levels among the three groups, as well as both the mean drinking age and the mean daily alcohol consumption between groups A and B, were matched and comparable. Comparing the BMIs among the three groups, the BMI differences were found to be statistically significant (F=3.921, P&lt;0.05). Compared with group C, the BMIs in groups A and B were significantly higher (P&lt;0.001 and P&lt;0.01, respectively); however, the BMI differences between group A and group B were not statistically significant (P&gt;0.05). Additionally, no differences in the serum CagA levels were found in comparisons among the groups (all P&gt;0.05). The serum IL-10 and E-selectin levels in group A were significantly lower than those in group B (serum IL-10: P&lt;0.05; E-selectin: P&lt;0.05). The serum IL-10 in group A was significantly higher than that in group C (P&lt;0.01); the serum E-selectin levels in group A did not significantly differ compared with those in group C (P&gt;0.05). Furthermore, the serum IL-10 and E-selectin levels in group B were significantly higher than those in group C (serum IL-10: P&lt;0.001; E-selectin: P&lt;0.05); however, the serum TNF-\u03b1 levels did not differ among groups (all P&gt;0.05). Although the serum levels of MDA and SOD in groups A and B were slightly lower than those in group C, there were no significant differences among groups (all P&gt;0.05). In conclusion, we believe that H. pylori infection might cause a significant inhibition of certain cytokine profiles in subjects with chronic alcohol ingestion. Moreover, chronically ingested alcohol may exert an adjusted inflammatory effect, but there was no association between H. pylori infection, chronic alcohol consumption and oxidative balance.",
+        "target": "The study found that people who drink alcohol every day for a long time have different levels of certain chemicals in their body compared to people who only drink occasionally. The study also found that people who have a bug called Helicobacter pylori in their stomach might have lower levels of some of these chemicals. The study didn't find any connection between the bug and the way the body responds to alcohol. So, it seems that drinking alcohol every day for a long time can affect the body's response to the bug, but the bug itself doesn't seem to affect how the body responds to alcohol.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1980,
+                        2047
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1468,
+                        1612
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1613,
+                        1810
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 9,
+                "input_idx": [
+                    [
+                        1811,
+                        1970
+                    ]
+                ]
+            }
+        ]
+    }
+]

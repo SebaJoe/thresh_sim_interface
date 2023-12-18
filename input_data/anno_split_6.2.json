@@ -1,0 +1,1352 @@
+[
+    {
+        "source": "ABSTRACT.INTRODUCTION:.\nThe aim of this study was to compare the formation of dentinal crack and craze lines in the root dentin during root canal preparation with three different NiTi endodontic systems, naming Reciproc (RCP), ProTaper Universal (PTU) and Mtwo. \n\nABSTRACT.METHODS AND MATERIALS:.\nOne hundred extracted mandibular premolars with single canals were selected and decoronated. The teeth were randomly divided into four groups of 25 each (n=25). In groups 1, 2 and 3 the teeth were prepared using Mtwo, PTU and RCP, respectively. While in group 4 (control group) the samples were left unprepared. After preparation, all specimens were sectioned perpendicular to the long axis of root at 3, 5 and 9-mm distances from the apex. The sections were then individually observed under 12\u00d7 magnification using stereomicroscope. The data was analyzed using the chi-square and Fisher's exact tests. The level of significance was set at 0.05. \n\nABSTRACT.RESULTS:.\nNo cracks were observed in the control group. All engine-driven systems caused dentinal cracks. Mtwo and PTU caused cracks significantly more than RCP (P&lt;0.05). There was no significant difference between RCP and control group (P&gt;0.05). \n\nABSTRACT.CONCLUSION:.\nAll three engine-driven systems created dentinal defects. Reciproc caused less cracks than Mtwo and ProTaper Universal.",
+        "target": "This study compared the formation of dentinal crack and craze lines during root canal preparation with three different NiTi endodontic systems: Reciproc (RCP), ProTaper Universal (PTU) and Mtwo. One hundred extracted mandibular premolars with single canals were decoronated and randomly divided into four groups of 25 each (n=25). In groups 1 and 2, the teeth were prepared using Mtwo and PTU respectively, while group 3 (control group) was left unprepared. In group 4, RCP was used for preparation. After preparation, all specimens were sectioned perpendicular to the long axis of root at 3, 5 and 9-mm distances from the apex. The sections were then individually observed under 12\u00d7 magnification using a stereomicroscope. The data was analyzed using the chi-square and Fisher's exact tests. The results showed that all three engine-driven systems caused dentinal cracks. Mtwo and PTU caused cracks significantly more than RCP (P&lt;0.05). There was no significant difference between RCP and control group (P&gt;0.05). In conclusion, all three engine-driven systems created dentinal defects, but RCP caused less cracks than Mtwo and ProTaper Universal.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1128,
+                        1206
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        964,
+                        1059
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:.\nThe aim of this study was to compare the formation of dentinal crack and craze lines in the root dentin during root canal preparation with three different NiTi endodontic systems, naming Reciproc (RCP), ProTaper Universal (PTU) and Mtwo. \n\nABSTRACT.METHODS AND MATERIALS:.\nOne hundred extracted mandibular premolars with single canals were selected and decoronated. The teeth were randomly divided into four groups of 25 each (n=25). In groups 1, 2 and 3 the teeth were prepared using Mtwo, PTU and RCP, respectively. While in group 4 (control group) the samples were left unprepared. After preparation, all specimens were sectioned perpendicular to the long axis of root at 3, 5 and 9-mm distances from the apex. The sections were then individually observed under 12\u00d7 magnification using stereomicroscope. The data was analyzed using the chi-square and Fisher's exact tests. The level of significance was set at 0.05. \n\nABSTRACT.RESULTS:.\nNo cracks were observed in the control group. All engine-driven systems caused dentinal cracks. Mtwo and PTU caused cracks significantly more than RCP (P&lt;0.05). There was no significant difference between RCP and control group (P&gt;0.05). \n\nABSTRACT.CONCLUSION:.\nAll three engine-driven systems created dentinal defects. Reciproc caused less cracks than Mtwo and ProTaper Universal.",
+        "target": "This study talks about how different types of tools used by dentists can sometimes cause fine lines, called cracks, in the roots of teeth. There were three different types of tools tested: Reciproc, ProTaper Universal, and Mtwo. \n\nScientists conducted this experiment on a hundred old teeth that had been pulled out. The teeth were divided into four equal groups. The first three groups of teeth were each treated with one of the three tools, while the fourth group of teeth was left as it was. \n\nAfter the experiment, the scientists cut each tooth into sections and looked at them under a microscope. They were checking how many cracks were created by each tool. \n\nThey found that all tools made some cracks, but the Reciproc tool made the least. The other two tools made significantly more cracks. \n\nSo, in simple words, this research found out that of the three tools tested, the Reciproc tool is less likely to cause fine lines or cracks in the roots of the teeth than the other two.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1128,
+                        1206
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        964,
+                        1059
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:.\nThe aim of this study was to compare the formation of dentinal crack and craze lines in the root dentin during root canal preparation with three different NiTi endodontic systems, naming Reciproc (RCP), ProTaper Universal (PTU) and Mtwo. \n\nABSTRACT.METHODS AND MATERIALS:.\nOne hundred extracted mandibular premolars with single canals were selected and decoronated. The teeth were randomly divided into four groups of 25 each (n=25). In groups 1, 2 and 3 the teeth were prepared using Mtwo, PTU and RCP, respectively. While in group 4 (control group) the samples were left unprepared. After preparation, all specimens were sectioned perpendicular to the long axis of root at 3, 5 and 9-mm distances from the apex. The sections were then individually observed under 12\u00d7 magnification using stereomicroscope. The data was analyzed using the chi-square and Fisher's exact tests. The level of significance was set at 0.05. \n\nABSTRACT.RESULTS:.\nNo cracks were observed in the control group. All engine-driven systems caused dentinal cracks. Mtwo and PTU caused cracks significantly more than RCP (P&lt;0.05). There was no significant difference between RCP and control group (P&gt;0.05). \n\nABSTRACT.CONCLUSION:.\nAll three engine-driven systems created dentinal defects. Reciproc caused less cracks than Mtwo and ProTaper Universal.",
+        "target": "\nThe researchers wanted to see which of three different tools used in root canal treatment (Reciproc, ProTaper Universal, and Mtwo) caused the least amount of damage to the tooth. They looked at how many cracks formed in the tooth after each tool was used. They found that Reciproc caused the fewest cracks, and that Mtwo and ProTaper Universal caused more cracks than Reciproc.\n\nI hope this helps! Let me know if you have any other questions.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1128,
+                        1206
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        964,
+                        1059
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nSocial media offer a great opportunity to deliver smoking cessation treatment to young adults, but previous online and social media interventions targeting health behavior change have struggled with low participant engagement. We examined engagement generated by content based on the Transtheoretical Model of Behavior Change (TTM) in a motivationally tailored smoking cessation intervention on Facebook.\n\nABSTRACT.OBJECTIVE.\nThis study aimed to identify which intervention content based on the TTM (Decisional Balance and 10 processes of change) generated the highest engagement among participants in pre-action stages of change (Precontemplation, Contemplation, and Preparation).\n\nABSTRACT.METHODS.\nParticipants (N=79, 20% female, mean age 20.8) were assessed for readiness to quit smoking and assigned to one of 7 secret Facebook groups tailored to their stage of change. Daily postings to the groups based on TTM Decisional Balance and the 10 processes of change were made by research staff over 3 months. Engagement was operationalized as the number of participant comments to each post. TTM content-based predictors of number of comments were analyzed and stratified by baseline stage of change, using negative binomial regression analyses with and without zero inflation.\n\nABSTRACT.RESULTS.\nA total of 512 TTM-based posts generated 630 individual comments. In Precontemplation and Contemplation groups, Decisional Balance posts generated above average engagement (P=.01 and P&lt;.001). In Contemplation groups, posts based on the TTM processes Dramatic Relief and Self-Liberation resulted in below average engagement (P=.01 and P=.005). In Preparation groups, posts based on Consciousness Raising generated above average engagement (P=.009). Participant engagement decreased over time and differed between groups within Precontemplation and Contemplation stages, but was independent of day of the week and time of day the content was posted to the groups. No participant baseline characteristics significantly predicted engagement.\n\nABSTRACT.CONCLUSIONS.\nParticipants not ready to quit in the next 30 days (in Precontemplation or Contemplation) engaged most when prompted to think about the pros and cons of behavior change, while those in the Preparation stage engaged most when posts increased awareness about smoking and smoking cessation. Findings support tailoring intervention content to readiness to quit and suggest intervention components that may be most effective in generating high participant engagement on social media.",
+        "target": "This study examined the engagement generated by content based on the Transtheoretical Model of Behavior Change (TTM) in a motivationally tailored smoking cessation intervention on Facebook. Participants (N=79, 20% female, mean age 20.8) were assessed for readiness to quit smoking and assigned to one of 7 secret Facebook groups tailored to their stage of change. Daily postings to the groups based on TTM Decisional Balance and the 10 processes of change were made by research staff over 3 months. Engagement was operationalized as the number of participant comments to each post. TTM content-based predictors of number of comments were analyzed and stratified by baseline stage of change, using negative binomial regression analyses with and without zero inflation. \n\nThe results showed that a total of 512 TTM-based posts generated 630 individual comments. In Precontemplation and Contemplation groups, Decisional Balance posts generated above average engagement (P=.01 and P&lt;.001). In Contemplation groups, posts based on the TTM processes Dramatic Relief and Self-Liberation resulted in below average engagement (P=.01 and P=.005). In Preparation groups, posts based on Consciousness Raising generated above average engagement (P=.009). Participant engagement decreased over time and differed between groups within Precontemplation and Contemplation stages, but was independent of day of the week and time of day the content was posted to the groups. No participant baseline characteristics significantly predicted engagement. \n\nThese findings suggest that tailoring intervention content to readiness to quit and increasing awareness about smoking and smoking cessation may be most effective in generating high participant engagement on social media.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1385,
+                        1513
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1515,
+                        1664
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1665,
+                        1769
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nSocial media offer a great opportunity to deliver smoking cessation treatment to young adults, but previous online and social media interventions targeting health behavior change have struggled with low participant engagement. We examined engagement generated by content based on the Transtheoretical Model of Behavior Change (TTM) in a motivationally tailored smoking cessation intervention on Facebook.\n\nABSTRACT.OBJECTIVE.\nThis study aimed to identify which intervention content based on the TTM (Decisional Balance and 10 processes of change) generated the highest engagement among participants in pre-action stages of change (Precontemplation, Contemplation, and Preparation).\n\nABSTRACT.METHODS.\nParticipants (N=79, 20% female, mean age 20.8) were assessed for readiness to quit smoking and assigned to one of 7 secret Facebook groups tailored to their stage of change. Daily postings to the groups based on TTM Decisional Balance and the 10 processes of change were made by research staff over 3 months. Engagement was operationalized as the number of participant comments to each post. TTM content-based predictors of number of comments were analyzed and stratified by baseline stage of change, using negative binomial regression analyses with and without zero inflation.\n\nABSTRACT.RESULTS.\nA total of 512 TTM-based posts generated 630 individual comments. In Precontemplation and Contemplation groups, Decisional Balance posts generated above average engagement (P=.01 and P&lt;.001). In Contemplation groups, posts based on the TTM processes Dramatic Relief and Self-Liberation resulted in below average engagement (P=.01 and P=.005). In Preparation groups, posts based on Consciousness Raising generated above average engagement (P=.009). Participant engagement decreased over time and differed between groups within Precontemplation and Contemplation stages, but was independent of day of the week and time of day the content was posted to the groups. No participant baseline characteristics significantly predicted engagement.\n\nABSTRACT.CONCLUSIONS.\nParticipants not ready to quit in the next 30 days (in Precontemplation or Contemplation) engaged most when prompted to think about the pros and cons of behavior change, while those in the Preparation stage engaged most when posts increased awareness about smoking and smoking cessation. Findings support tailoring intervention content to readiness to quit and suggest intervention components that may be most effective in generating high participant engagement on social media.",
+        "target": "Researchers wanted to find out which type of posts about quitting smoking would get the most responses on a secret Facebook group for young adults. They divided the group into three stages: people not thinking about quitting, people thinking about it, and people preparing to quit. They found that depending on the group's stage, different types of posts got more responses. Posts about the pros and cons of quitting smoking got more responses from people who weren't ready to quit yet. Posts that increased awareness about smoking and its effects got more responses from those who were preparing to quit. The results can help create better campaigns for quitting smoking.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1385,
+                        1513
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1515,
+                        1664
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1665,
+                        1769
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nSocial media offer a great opportunity to deliver smoking cessation treatment to young adults, but previous online and social media interventions targeting health behavior change have struggled with low participant engagement. We examined engagement generated by content based on the Transtheoretical Model of Behavior Change (TTM) in a motivationally tailored smoking cessation intervention on Facebook.\n\nABSTRACT.OBJECTIVE.\nThis study aimed to identify which intervention content based on the TTM (Decisional Balance and 10 processes of change) generated the highest engagement among participants in pre-action stages of change (Precontemplation, Contemplation, and Preparation).\n\nABSTRACT.METHODS.\nParticipants (N=79, 20% female, mean age 20.8) were assessed for readiness to quit smoking and assigned to one of 7 secret Facebook groups tailored to their stage of change. Daily postings to the groups based on TTM Decisional Balance and the 10 processes of change were made by research staff over 3 months. Engagement was operationalized as the number of participant comments to each post. TTM content-based predictors of number of comments were analyzed and stratified by baseline stage of change, using negative binomial regression analyses with and without zero inflation.\n\nABSTRACT.RESULTS.\nA total of 512 TTM-based posts generated 630 individual comments. In Precontemplation and Contemplation groups, Decisional Balance posts generated above average engagement (P=.01 and P&lt;.001). In Contemplation groups, posts based on the TTM processes Dramatic Relief and Self-Liberation resulted in below average engagement (P=.01 and P=.005). In Preparation groups, posts based on Consciousness Raising generated above average engagement (P=.009). Participant engagement decreased over time and differed between groups within Precontemplation and Contemplation stages, but was independent of day of the week and time of day the content was posted to the groups. No participant baseline characteristics significantly predicted engagement.\n\nABSTRACT.CONCLUSIONS.\nParticipants not ready to quit in the next 30 days (in Precontemplation or Contemplation) engaged most when prompted to think about the pros and cons of behavior change, while those in the Preparation stage engaged most when posts increased awareness about smoking and smoking cessation. Findings support tailoring intervention content to readiness to quit and suggest intervention components that may be most effective in generating high participant engagement on social media.",
+        "target": "\nSocial media can be a great way to help people stop smoking, but past efforts have not been very successful. We wanted to see which types of messages on Facebook would get the most attention from people who are thinking about quitting smoking. We found that people in the early stages of quitting (Precontemplation and Contemplation) were most interested in messages that talked about the pros and cons of quitting, while people who were closer to quitting (Preparation) were most interested in messages that informed them about smoking and how to quit. This study shows that it's important to tailor messages to the person's stage of change when trying to help them quit smoking on social media.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1385,
+                        1513
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1515,
+                        1664
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 8,
+                "input_idx": [
+                    [
+                        1665,
+                        1769
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:.\nPerformance of painful diagnostic and therapeutic procedures is common in emergency department (ED), and procedural sedation and analgesia (PSA) is a fundamental skill for every emergency physician. This study was aim to compare the efficacy of remifentanil with fentanyl/midazolam in painless reduction of anterior shoulder dislocation.\n\nABSTRACT.METHOD:.\nIn this randomized, double blind, clinical trial the procedural characteristics, patients' satisfaction as well as adverse events were compared between fentanyl/midazolam and remifentanil for PSA of 18\u201364 years old patients, which were presented to ED following anterior shoulder dislocation.\n\nABSTRACT.RESULTS:.\n96 cases were randomly allocated to two groups (86.5% male). There were no significant difference between groups regarding baseline characteristics. Remifentanil group had lower duration of procedure (2.5 \u00b1 1.6 versus 4.6 \u00b1 1.8 minutes, p &lt; 0.001), higher pain reduction (53.7 \u00b1 13.3 versus 33.5 \u00b1 19.6, p &lt; 0.001), lower failure rate (1 (2.1%) versus 15 (31.3%), p &lt; 0.001), higher satisfaction (p = 0.005). Adverse events were seen in 12 (25%) patients in midazolam/fentanyl and 8 (16.7%) cases in remifentanil group (p = 0.122).\n\nABSTRACT.CONCLUSION:.\nIt seems that use of remifentanil resulted in lower procedural time, lower failure rate, and lower pain during procedure as well as higher patient satisfaction in comparison with midazolam/fentanyl combination in anterior shoulder dislocation. ",
+        "target": "This study compared the efficacy of remifentanil with fentanyl/midazolam in reducing pain during shoulder dislocation procedures in the emergency department. The results showed that remifentanil was more effective than the combination of fentanyl and midazolam, with a lower failure rate, shorter procedure time, and higher patient satisfaction.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        843,
+                        1111
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:.\nPerformance of painful diagnostic and therapeutic procedures is common in emergency department (ED), and procedural sedation and analgesia (PSA) is a fundamental skill for every emergency physician. This study was aim to compare the efficacy of remifentanil with fentanyl/midazolam in painless reduction of anterior shoulder dislocation.\n\nABSTRACT.METHOD:.\nIn this randomized, double blind, clinical trial the procedural characteristics, patients' satisfaction as well as adverse events were compared between fentanyl/midazolam and remifentanil for PSA of 18\u201364 years old patients, which were presented to ED following anterior shoulder dislocation.\n\nABSTRACT.RESULTS:.\n96 cases were randomly allocated to two groups (86.5% male). There were no significant difference between groups regarding baseline characteristics. Remifentanil group had lower duration of procedure (2.5 \u00b1 1.6 versus 4.6 \u00b1 1.8 minutes, p &lt; 0.001), higher pain reduction (53.7 \u00b1 13.3 versus 33.5 \u00b1 19.6, p &lt; 0.001), lower failure rate (1 (2.1%) versus 15 (31.3%), p &lt; 0.001), higher satisfaction (p = 0.005). Adverse events were seen in 12 (25%) patients in midazolam/fentanyl and 8 (16.7%) cases in remifentanil group (p = 0.122).\n\nABSTRACT.CONCLUSION:.\nIt seems that use of remifentanil resulted in lower procedural time, lower failure rate, and lower pain during procedure as well as higher patient satisfaction in comparison with midazolam/fentanyl combination in anterior shoulder dislocation. ",
+        "target": "Doctors often need to do procedures that might hurt in the emergency room. They give medicines to patients so they don't feel the pain. This study tested two types of medicines during a procedure to put a shoulder back in place. This study found that one medicine, called remifentanil, works better - the procedure is quicker, less painful, works better and patients are happier with it than with the other medicine, midazolam/fentanyl.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        843,
+                        1111
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION:.\nPerformance of painful diagnostic and therapeutic procedures is common in emergency department (ED), and procedural sedation and analgesia (PSA) is a fundamental skill for every emergency physician. This study was aim to compare the efficacy of remifentanil with fentanyl/midazolam in painless reduction of anterior shoulder dislocation.\n\nABSTRACT.METHOD:.\nIn this randomized, double blind, clinical trial the procedural characteristics, patients' satisfaction as well as adverse events were compared between fentanyl/midazolam and remifentanil for PSA of 18\u201364 years old patients, which were presented to ED following anterior shoulder dislocation.\n\nABSTRACT.RESULTS:.\n96 cases were randomly allocated to two groups (86.5% male). There were no significant difference between groups regarding baseline characteristics. Remifentanil group had lower duration of procedure (2.5 \u00b1 1.6 versus 4.6 \u00b1 1.8 minutes, p &lt; 0.001), higher pain reduction (53.7 \u00b1 13.3 versus 33.5 \u00b1 19.6, p &lt; 0.001), lower failure rate (1 (2.1%) versus 15 (31.3%), p &lt; 0.001), higher satisfaction (p = 0.005). Adverse events were seen in 12 (25%) patients in midazolam/fentanyl and 8 (16.7%) cases in remifentanil group (p = 0.122).\n\nABSTRACT.CONCLUSION:.\nIt seems that use of remifentanil resulted in lower procedural time, lower failure rate, and lower pain during procedure as well as higher patient satisfaction in comparison with midazolam/fentanyl combination in anterior shoulder dislocation. ",
+        "target": "\nThe study compared two different medicines used for pain relief during emergency procedures. The first medicine (midazolam and fentanyl) was used by 96 patients who came to the emergency room with a shoulder injury. The second medicine (remifentanil) was used by 96 other patients with the same injury. The results showed that the remifentanil medicine was more effective in reducing pain during the procedure, and the patients were more satisfied with the results. The study found that the remifentanil medicine was faster and had a lower failure rate compared to the midazolam and fentanyl medicine.\n\nI hope this helps! Let me know if you have any other questions.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        843,
+                        1111
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nLocally advanced pancreatic cancer (LAPC) is associated with high mortality, and biomarker-driven treatment approach is currently lacking. This study evaluated safety and efficacy of a combination approach of chemotherapy followed by chemo-radiotherapy (CRT) +/\u2212 cetuximab, and the prognostic role of miR-21 in patients with LAPC treated with a multimodality approach.\n\nABSTRACT.PATIENTS AND METHODS:\nThis was a randomised phase II trial in which patients with inoperable LAPC were offered gemcitabine and capecitabine (GEM-CAP) for 16 weeks. Patients with stable disease or response after GEM-CAP were randomised to capecitabine or UFT plus radiotherapy (RT) (A), or capecitabine or UFT plus cetuximab plus RT (B). The primary outcome of the study was overall survival (OS). Clinical outcome was compared according to baseline circulating miR-21 levels.\n\nABSTRACT.RESULTS:\n17 patients were enrolled and treated with GEM-CAP, with 13 patients achieving disease control and being randomised to arms A (n:7) and B (n:6). After a median follow-up of 61.2 months, median progression free survival (PFS) was 10.4 months and 12.7 months, median OS was 15.8 months and 22.0 months in arms A and B respectively (p &gt; 0.05). Patients with high baseline plasma miR-21 had worse PFS (3.5 vs. 12.7 months; p:0.032) and OS (5.1 vs 15.3 months; p:0.5) compared to patients with low miR-21. Circulating miR-21 levels reflected miR-21 expression within the tissues.\n\nABSTRACT.CONCLUSIONS:\nAddition of Cetuximab to CRT following induction chemotherapy did not improve survival. High miR-21 baseline plasma expression was associated with poor clinical outcome in LAPC patients treated with induction chemotherapy followed by chemo-radiotherapy.",
+        "target": "This study evaluated the safety and effectiveness of a combination approach of chemotherapy followed by chemo-radiotherapy (CRT) plus/or cetuximab, and the prognostic role of microRNA-21 (miR-21) in patients with locally advanced pancreatic cancer (LAPC) treated with a multimodality approach.\n\nSeventeen patients were enrolled and treated with gemcitabine and capecitabine (GEM-CAP), with 13 achieving disease control and being randomized to either arm A (capecitabine or UFT plus radiotherapy (RT)) or arm B (capecitabine or UFT plus cetuximab plus RT). After a median follow-up of 61.2 months, the median progression-free survival (PFS) was 10.4 months and the median overall survival (OS) was 15.8 months in arm A and 12.7 months and 22.0 months in arm B, respectively (p &gt; 0.05). Patients with high baseline plasma miR-21 had worse PFS (3.5 vs. 12.7 months; p:0.032) and OS (5.1 vs 15.3 months; p:0.5) compared to patients with low miR-21. Circulating miR-21 levels reflected miR-21 expression within the tissues.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1239,
+                        1398
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nLocally advanced pancreatic cancer (LAPC) is associated with high mortality, and biomarker-driven treatment approach is currently lacking. This study evaluated safety and efficacy of a combination approach of chemotherapy followed by chemo-radiotherapy (CRT) +/\u2212 cetuximab, and the prognostic role of miR-21 in patients with LAPC treated with a multimodality approach.\n\nABSTRACT.PATIENTS AND METHODS:\nThis was a randomised phase II trial in which patients with inoperable LAPC were offered gemcitabine and capecitabine (GEM-CAP) for 16 weeks. Patients with stable disease or response after GEM-CAP were randomised to capecitabine or UFT plus radiotherapy (RT) (A), or capecitabine or UFT plus cetuximab plus RT (B). The primary outcome of the study was overall survival (OS). Clinical outcome was compared according to baseline circulating miR-21 levels.\n\nABSTRACT.RESULTS:\n17 patients were enrolled and treated with GEM-CAP, with 13 patients achieving disease control and being randomised to arms A (n:7) and B (n:6). After a median follow-up of 61.2 months, median progression free survival (PFS) was 10.4 months and 12.7 months, median OS was 15.8 months and 22.0 months in arms A and B respectively (p &gt; 0.05). Patients with high baseline plasma miR-21 had worse PFS (3.5 vs. 12.7 months; p:0.032) and OS (5.1 vs 15.3 months; p:0.5) compared to patients with low miR-21. Circulating miR-21 levels reflected miR-21 expression within the tissues.\n\nABSTRACT.CONCLUSIONS:\nAddition of Cetuximab to CRT following induction chemotherapy did not improve survival. High miR-21 baseline plasma expression was associated with poor clinical outcome in LAPC patients treated with induction chemotherapy followed by chemo-radiotherapy.",
+        "target": "This study is about people who are very sick with a certain type of cancer in their pancreas that usually cannot be fixed with surgery. The researchers wanted to see if a particular kind of drug treatment, combined with radiation, would help these people live longer and improve their health. They also wanted to see if the amount of a certain molecule in the blood, called miR-21, could predict how well the patients will do with their treatment.\n\nThey divided the patients into two groups randomly. Both groups received some specific drugs for some time and then they were either given more drugs along with radiation, or the same plus another drug called cetuximab. The main goal was to see which group would live longer.\n\nIn total, they had 17 patients, from whom 13 responded well enough to the first drugs to continue with the rest of the treatment. After following these patients for over five years, they saw that none of the two treatment methods made people live significantly longer than the other.\n\nAlso, they noticed that patients who had more miR-21 molecule in their blood at the beginning did not do as well, meaning they had lesser disease-free time and overall survival time compared to patients with lower miR-21.\n\nIn simple terms, additional cetuximab drug didn't help people live longer. But knowing how much miR-21 is there in their blood can give an idea about how the patient might fare.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1239,
+                        1398
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND:\nLocally advanced pancreatic cancer (LAPC) is associated with high mortality, and biomarker-driven treatment approach is currently lacking. This study evaluated safety and efficacy of a combination approach of chemotherapy followed by chemo-radiotherapy (CRT) +/\u2212 cetuximab, and the prognostic role of miR-21 in patients with LAPC treated with a multimodality approach.\n\nABSTRACT.PATIENTS AND METHODS:\nThis was a randomised phase II trial in which patients with inoperable LAPC were offered gemcitabine and capecitabine (GEM-CAP) for 16 weeks. Patients with stable disease or response after GEM-CAP were randomised to capecitabine or UFT plus radiotherapy (RT) (A), or capecitabine or UFT plus cetuximab plus RT (B). The primary outcome of the study was overall survival (OS). Clinical outcome was compared according to baseline circulating miR-21 levels.\n\nABSTRACT.RESULTS:\n17 patients were enrolled and treated with GEM-CAP, with 13 patients achieving disease control and being randomised to arms A (n:7) and B (n:6). After a median follow-up of 61.2 months, median progression free survival (PFS) was 10.4 months and 12.7 months, median OS was 15.8 months and 22.0 months in arms A and B respectively (p &gt; 0.05). Patients with high baseline plasma miR-21 had worse PFS (3.5 vs. 12.7 months; p:0.032) and OS (5.1 vs 15.3 months; p:0.5) compared to patients with low miR-21. Circulating miR-21 levels reflected miR-21 expression within the tissues.\n\nABSTRACT.CONCLUSIONS:\nAddition of Cetuximab to CRT following induction chemotherapy did not improve survival. High miR-21 baseline plasma expression was associated with poor clinical outcome in LAPC patients treated with induction chemotherapy followed by chemo-radiotherapy.",
+        "target": "\nThis is a study about a type of cancer called pancreatic cancer. Doctors wanted to see if a special treatment called chemo-radiotherapy (CRT) plus a drug called cetuximab would help people with this cancer live longer. They looked at the blood of 17 people with this cancer to see if a certain type of tiny molecule called miR-21 could help predict how well they would do with this treatment. They found that people with more of this molecule in their blood did not do as well with the treatment.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n objetivo:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Regarding the objective of the study, the researchers wanted to determine whether adding cetuximab to chemo-radiotherapy (CRT) after induction chemotherapy would improve survival in patients with locally advanced pancreatic cancer (LAPC). They also wanted to see if the levels of a certain type of tiny molecule called miR-21 in the blood could predict how well patients would do with this treatment.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeanFactory\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n coverage\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npus\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\nMS\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS MS\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\nMS MS  ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n MS ()\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS\n\n\n\nMS\nMS ()\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n MS ()\n\n\n\n\n\n\n\n\n\n MS ()\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n MS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n MS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n lieutenant\n\n\n\n\n\n\n\n\n\n\u0431\u043e\u043c\n\nMS ()\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n MS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n MS ()\n\n\n\n\n\n\n\n\n\n\n MS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n MS ()\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n MS ()\n\n\n\n\n\n MS ()\n\n\n\n\n\n\n MS MS ()\n\n\n\n\n\n\n\n\n MS ()\n\n\n\n\n\n\n\n\n\n\n MS MS ()\n\n\n\n\n\n\n\n\n\n\n MS MS ()\n\n\n\n\n\n\n\n\n\n\n\n MS MS ()\n\n\n\n\n\n\n\n\n\n\n\n MS MS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n MS MS ()\n\n\n\n\n\n\n\n\n MS MS ()\n\n\n\n\n\n\n\n\n\n\n\n\n MS MS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS ()\n\n\n\n\n\n\n\n\n\n\n\n\nMS MS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\nMS MS ()\n\n\n\n\n\n\n\n\nMS MS ()\n\n\n\n\n\n\n\n\n MS MS ()\n\n\n\n\n\n\n\n MS MS MS ()\n\n\n\n\n\n\n\n\n\n\n MS MS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n MS MS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n MS MS MS ()\nizzard MS MS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n MS MS ()\n\n\n\n\n\n\n\n\n\n\n\n\n MS MS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n MS MS MS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n MS MS MS ()\n\n\n\n\n\n\n\n\n\n\n\n\n\n MS MS ()\n\n\n\n\n\n\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1239,
+                        1398
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nIt is hypothesised that individuals with knowledge of their genetic risk are more likely to make health-promoting dietary and lifestyle changes. The present study aims to test this hypothesis using data from the Food4Me study. This was a 6-month Internet-based randomised controlled trial conducted across seven centres in Europe where individuals received either general healthy eating advice or varying levels of personalised nutrition advice. Participants who received genotype-based personalised advice were informed whether they had the risk (CT/TT) (n = 178) or non-risk (CC) (n = 141) alleles of the methylenetetrahydrofolate reductase (MTHFR) gene in relation to cardiovascular health and the importance of a sufficient intake of folate. General linear model analysis was used to assess changes in folate intake between the MTHFR risk, MTHFR non-risk and control groups from baseline to month 6 of the intervention.\n\nABSTRACT.RESULTS.\nThere were no differences between the groups for age, gender or BMI. However, there was a significant difference in country distribution between the groups (p = 0.010). Baseline folate intakes were 412 \u00b1 172, 391 \u00b1 190 and 410 \u00b1 186 \u03bcg per 10 MJ for the risk, non-risk and control groups, respectively. There were no significant differences between the three groups in terms of changes in folate intakes from baseline to month 6. Similarly, there were no changes in reported intake of food groups high in folate.\n\nABSTRACT.CONCLUSIONS.\nThese results suggest that knowledge of MTHFR 677C \u2192 T genotype did not improve folate intake in participants with the risk variant compared with those with the non-risk variant.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov NCT01530139\n\nABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL.\nThe online version of this article (doi:10.1186/s12263-016-0539-x) contains supplementary material, which is available to authorized users.",
+        "target": "This study aimed to test the hypothesis that individuals with knowledge of their genetic risk for a certain condition are more likely to make health-promoting dietary and lifestyle changes. Participants were recruited from the Food4Me study, a 6-month Internet-based randomised controlled trial conducted across seven centres in Europe. Participants were randomly assigned to either receive general healthy eating advice or varying levels of personalised nutrition advice, depending on their genotype for the methylenetetrahydrofolate reductase (MTHFR) gene.\n\nAt the end of the trial, the researchers found that there were no significant differences between the three groups in terms of changes in folate intake from baseline to month 6. Similarly, there were no changes in reported intake of food groups high in folate. These results suggest that knowledge of MTHFR 677C \u2192 T genotype did not improve folate intake in participants with the risk variant compared with those with the non-risk variant.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1267,
+                        1476
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nIt is hypothesised that individuals with knowledge of their genetic risk are more likely to make health-promoting dietary and lifestyle changes. The present study aims to test this hypothesis using data from the Food4Me study. This was a 6-month Internet-based randomised controlled trial conducted across seven centres in Europe where individuals received either general healthy eating advice or varying levels of personalised nutrition advice. Participants who received genotype-based personalised advice were informed whether they had the risk (CT/TT) (n = 178) or non-risk (CC) (n = 141) alleles of the methylenetetrahydrofolate reductase (MTHFR) gene in relation to cardiovascular health and the importance of a sufficient intake of folate. General linear model analysis was used to assess changes in folate intake between the MTHFR risk, MTHFR non-risk and control groups from baseline to month 6 of the intervention.\n\nABSTRACT.RESULTS.\nThere were no differences between the groups for age, gender or BMI. However, there was a significant difference in country distribution between the groups (p = 0.010). Baseline folate intakes were 412 \u00b1 172, 391 \u00b1 190 and 410 \u00b1 186 \u03bcg per 10 MJ for the risk, non-risk and control groups, respectively. There were no significant differences between the three groups in terms of changes in folate intakes from baseline to month 6. Similarly, there were no changes in reported intake of food groups high in folate.\n\nABSTRACT.CONCLUSIONS.\nThese results suggest that knowledge of MTHFR 677C \u2192 T genotype did not improve folate intake in participants with the risk variant compared with those with the non-risk variant.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov NCT01530139\n\nABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL.\nThe online version of this article (doi:10.1186/s12263-016-0539-x) contains supplementary material, which is available to authorized users.",
+        "target": "Scientists did a study to see if people who know they have a gene that puts them at risk for heart problems would eat healthier. They looked at people's intake of a vitamin called folate, which is good for heart health. The participants in the study were told if they have the risk gene or not. But in the end, there was no difference in how much folate the people with the risk gene ate compared to those without the risk gene. So, knowing if they have the risk gene didn't make people eat healthier.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1267,
+                        1476
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nIt is hypothesised that individuals with knowledge of their genetic risk are more likely to make health-promoting dietary and lifestyle changes. The present study aims to test this hypothesis using data from the Food4Me study. This was a 6-month Internet-based randomised controlled trial conducted across seven centres in Europe where individuals received either general healthy eating advice or varying levels of personalised nutrition advice. Participants who received genotype-based personalised advice were informed whether they had the risk (CT/TT) (n = 178) or non-risk (CC) (n = 141) alleles of the methylenetetrahydrofolate reductase (MTHFR) gene in relation to cardiovascular health and the importance of a sufficient intake of folate. General linear model analysis was used to assess changes in folate intake between the MTHFR risk, MTHFR non-risk and control groups from baseline to month 6 of the intervention.\n\nABSTRACT.RESULTS.\nThere were no differences between the groups for age, gender or BMI. However, there was a significant difference in country distribution between the groups (p = 0.010). Baseline folate intakes were 412 \u00b1 172, 391 \u00b1 190 and 410 \u00b1 186 \u03bcg per 10 MJ for the risk, non-risk and control groups, respectively. There were no significant differences between the three groups in terms of changes in folate intakes from baseline to month 6. Similarly, there were no changes in reported intake of food groups high in folate.\n\nABSTRACT.CONCLUSIONS.\nThese results suggest that knowledge of MTHFR 677C \u2192 T genotype did not improve folate intake in participants with the risk variant compared with those with the non-risk variant.\n\nABSTRACT.TRIAL REGISTRATION.\nClinicalTrials.gov NCT01530139\n\nABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL.\nThe online version of this article (doi:10.1186/s12263-016-0539-x) contains supplementary material, which is available to authorized users.",
+        "target": "\nThe researchers wanted to know if people who knew they had a certain gene that affects their heart health would change their diet and lifestyle to be healthier. They looked at data from a big study where people were given different levels of information about their gene and how it affects their heart health. They found out that people who knew about their gene didn't change their diet or lifestyle more than people who didn't know about their gene.\n\nSo, the researchers concluded that knowing about this gene doesn't necessarily make people change their diet or lifestyle to be healthier.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1267,
+                        1476
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nLittle is known about action-perception learning processes underlying prosthetic skills in body-powered prosthesis users. Body-powered prostheses are controlled through a harness connected by a cable that might provide for limited proprioceptive feedback. This study aims to test transfer of training basic tasks to functional tasks and to describe the changes over time in kinematics of basic tasks of novice body-powered prosthesis users.\n\nABSTRACT.METHODS.\nThirty able-bodied participants and 17 controls participated in the study, using a body-powered prosthetic simulator. Participants in the training group were divided over four groups and practiced during a 2-week-period either direct grasping, indirect grasping, fixation, or a combination of these tasks. Deformable objects with different compliances had to be manipulated while kinematic variables and grip force control were assessed. Functional performance was measured with the Southampton Hand Assessment Procedure (SHAP) prior to and after the training sessions, and after 2 weeks and 3 months retention. The control group only performed the SHAP tests.\n\nABSTRACT.RESULTS.\nAll four training groups and the control group improved on the SHAP, also after a period of non-use. Type of training had a small but significant influence on the improvements of the SHAP score. On a kinematic level movement times decreased and hook closing velocities increased over time. The indirect grasping group showed significantly shorter plateau times than the other training groups. Grip force control only improved a little over training.\n\nABSTRACT.CONCLUSIONS.\nTraining action-perception couplings of body-powered prosthesis in basic tasks transferred to functional tasks and this lasted after a period of non-use. During training movement times decreased and the indirect grasping group showed advantages. It is advisable to start body-powered training with indirect grasping tasks but also to practice hook-object orientations.\n\nABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL.\nThe online version of this article (doi:10.1186/s12984-016-0197-7) contains supplementary material, which is available to authorized users.",
+        "target": "This study investigated the effects of training on prosthetic skills in body-powered prosthesis users. Body-powered prostheses are controlled through a harness connected by a cable, which may provide limited proprioceptive feedback.\n\nThe study included 30 able-bodied participants and 17 controls. The participants were divided into four groups and trained for two weeks on either direct grasping, indirect grasping, fixation, or a combination of these tasks. Deformable objects with different compliances were manipulated while kinematic variables and grip force control were assessed. Functional performance was measured with the Southampton Hand Assessment Procedure (SHAP) prior to and after the training sessions, and after two weeks and three months retention. The control group only performed the SHAP tests.\n\nThe results showed that all four training groups and the control group improved on the SHAP. The type of training had a small but significant influence on the improvements of the SHAP score. On a kinematic level, movement times decreased and hook closing velocities increased over time. The indirect grasping group showed significantly shorter plateau times than the other training groups. Grip force control only improved a little over training.\n\nThe results suggest that training action-perception couplings in basic tasks transferred to functional tasks and this lasted after a period of non-use. It is advisable to start body-powered training with indirect grasping tasks but also to practice hook-object orientations.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1451,
+                        1553
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nLittle is known about action-perception learning processes underlying prosthetic skills in body-powered prosthesis users. Body-powered prostheses are controlled through a harness connected by a cable that might provide for limited proprioceptive feedback. This study aims to test transfer of training basic tasks to functional tasks and to describe the changes over time in kinematics of basic tasks of novice body-powered prosthesis users.\n\nABSTRACT.METHODS.\nThirty able-bodied participants and 17 controls participated in the study, using a body-powered prosthetic simulator. Participants in the training group were divided over four groups and practiced during a 2-week-period either direct grasping, indirect grasping, fixation, or a combination of these tasks. Deformable objects with different compliances had to be manipulated while kinematic variables and grip force control were assessed. Functional performance was measured with the Southampton Hand Assessment Procedure (SHAP) prior to and after the training sessions, and after 2 weeks and 3 months retention. The control group only performed the SHAP tests.\n\nABSTRACT.RESULTS.\nAll four training groups and the control group improved on the SHAP, also after a period of non-use. Type of training had a small but significant influence on the improvements of the SHAP score. On a kinematic level movement times decreased and hook closing velocities increased over time. The indirect grasping group showed significantly shorter plateau times than the other training groups. Grip force control only improved a little over training.\n\nABSTRACT.CONCLUSIONS.\nTraining action-perception couplings of body-powered prosthesis in basic tasks transferred to functional tasks and this lasted after a period of non-use. During training movement times decreased and the indirect grasping group showed advantages. It is advisable to start body-powered training with indirect grasping tasks but also to practice hook-object orientations.\n\nABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL.\nThe online version of this article (doi:10.1186/s12984-016-0197-7) contains supplementary material, which is available to authorized users.",
+        "target": "This study is about training people to use a certain kind of artificial limb called a body-powered prosthesis. The researchers wanted to see if learning to do basic tasks with the artificial limb translated to being able to do more complex or \"functional\" tasks. So, they got groups of people to train using a simulator of the prosthesis for two weeks, doing different tasks like grasping. They had to handle objects of different softness and the researchers measured their ability to control the grip and the movement of the artificial limb. \n\nThey found out that everyone, even those who didn't train, got better at using the prosthesis over time. How the participants trained did affect how much they improved, but not by a lot. Movements became quicker and participants were better at closing the prosthesis. The group that practiced grasping things indirectly saw more benefits than the others. The strength of the grip didn\u2019t improve much.\n\nSo, the study concluded that learning to work with a body-powered prosthesis did carry over to doing more complex tasks, even after a period of not using it. They therefore recommend that training of a body-powered prosthesis should start with practicing indirect grasping tasks and practicing the orientation of the prosthetic hook to the object being manipulated.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1451,
+                        1553
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.BACKGROUND.\nLittle is known about action-perception learning processes underlying prosthetic skills in body-powered prosthesis users. Body-powered prostheses are controlled through a harness connected by a cable that might provide for limited proprioceptive feedback. This study aims to test transfer of training basic tasks to functional tasks and to describe the changes over time in kinematics of basic tasks of novice body-powered prosthesis users.\n\nABSTRACT.METHODS.\nThirty able-bodied participants and 17 controls participated in the study, using a body-powered prosthetic simulator. Participants in the training group were divided over four groups and practiced during a 2-week-period either direct grasping, indirect grasping, fixation, or a combination of these tasks. Deformable objects with different compliances had to be manipulated while kinematic variables and grip force control were assessed. Functional performance was measured with the Southampton Hand Assessment Procedure (SHAP) prior to and after the training sessions, and after 2 weeks and 3 months retention. The control group only performed the SHAP tests.\n\nABSTRACT.RESULTS.\nAll four training groups and the control group improved on the SHAP, also after a period of non-use. Type of training had a small but significant influence on the improvements of the SHAP score. On a kinematic level movement times decreased and hook closing velocities increased over time. The indirect grasping group showed significantly shorter plateau times than the other training groups. Grip force control only improved a little over training.\n\nABSTRACT.CONCLUSIONS.\nTraining action-perception couplings of body-powered prosthesis in basic tasks transferred to functional tasks and this lasted after a period of non-use. During training movement times decreased and the indirect grasping group showed advantages. It is advisable to start body-powered training with indirect grasping tasks but also to practice hook-object orientations.\n\nABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL.\nThe online version of this article (doi:10.1186/s12984-016-0197-7) contains supplementary material, which is available to authorized users.",
+        "target": "\nThis study looked at how people who use body-powered prosthetic limbs can learn to use them better. The researchers wanted to know if people who practiced certain tasks for two weeks could do them better after a period of time without practicing. They found that people who practiced certain tasks, like indirect grasping, did better on a test of hand function after training and after a period of time without practicing. They also found that people who practiced hook-object orientations, like closing a hook on an object, did better on the test after training. The researchers think it's important to start training with indirect grasping tasks and to practice hook-object orientations.\n\nSo, in simple terms, the study found that people who use body-powered prosthetic limbs can improve their hand function by practicing certain tasks, and that these improvements last even after a period of time without practicing. The researchers suggest that it's best to start training with tasks that involve indirect grasping, like picking up small objects, and to also practice tasks that involve hook-object orientations, like closing a hook on an object.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1451,
+                        1553
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.PURPOSE::\nThis study examines whether cognitive function, as measured by the subtests of the Woodcock\u2013Johnson III (WCJ-III) assessment, predicts listening-effort performance during dual tasks across the adults of varying ages.\n\nABSTRACT.MATERIALS AND METHODS::\nParticipants were divided into two groups. Group 1 consisted of 14 listeners (number of females\u2009=\u200911) who were 41\u201361 years old [mean\u2009=\u200953.18; standard deviation (SD)\u2009=\u20095.97]. Group 2 consisted of 15 listeners (number of females\u2009=\u20099) who were 63\u201381 years old (mean\u2009=\u200972.07; SD\u2009=\u20095.11). Participants were administered the WCJ-III Memory for Words, Auditory Working Memory, Visual Matching, and Decision Speed subtests. All participants were tested in each of the following three dual-task experimental conditions, which were varying in complexity: (1) auditory word recognition\u2009+\u2009visual processing, (2) auditory working memory (word)\u2009+\u2009visual processing, and (3) auditory working memory (sentence)\u2009+\u2009visual processing in noise.\n\nABSTRACT.RESULTS::\nA repeated measures analysis of variance revealed that task complexity significantly affected the performance measures of auditory accuracy, visual accuracy, and processing speed. Linear regression revealed that the cognitive subtests of the WCJ-III test significantly predicted performance across dependent variable measures.\n\nABSTRACT.CONCLUSION::\nListening effort is significantly affected by task complexity, regardless of age. Performance on the WCJ-III test may predict listening effort in adults and may assist speech-language pathologist (SLPs) to understand challenges faced by participants when subjected to noise.",
+        "target": "This study examined whether cognitive function, as measured by the subtests of the Woodcock\u2013Johnson III (WCJ-III) assessment, predicted listening effort during dual tasks across adults of varying ages.\n\nParticipants were divided into two groups. Group 1 consisted of 14 listeners (number of females = 11) who were 41\u201361 years old (mean = 53.18; standard deviation (SD) = 5.97). Group 2 consisted of 15 listeners (number of females = 9) who were 63\u201381 years old (mean = 72.07; SD = 5.11). Participants were administered the WCJ-III Memory for Words, Auditory Working Memory, Visual Matching, and Decision Speed subtests. All participants were tested in each of the following three dual-task experimental conditions, which varied in complexity: (1) auditory word recognition + visual processing, (2) auditory working memory (word) + visual processing, and (3) auditory working memory (sentence) + visual processing in noise.\n\nA repeated measures analysis of variance revealed that task complexity significantly affected the performance measures of auditory accuracy, visual accuracy, and processing speed. Linear regression revealed that the cognitive subtests of the WCJ-III test significantly predicted performance across dependent variable measures.\n\nListening effort is significantly affected by task complexity, regardless of age. Performance on the WCJ-III test may predict listening effort in adults and may assist speech-language pathologists (SLPs) to understand challenges faced by participants when subjected to noise.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1016,
+                        1195
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.PURPOSE::\nThis study examines whether cognitive function, as measured by the subtests of the Woodcock\u2013Johnson III (WCJ-III) assessment, predicts listening-effort performance during dual tasks across the adults of varying ages.\n\nABSTRACT.MATERIALS AND METHODS::\nParticipants were divided into two groups. Group 1 consisted of 14 listeners (number of females\u2009=\u200911) who were 41\u201361 years old [mean\u2009=\u200953.18; standard deviation (SD)\u2009=\u20095.97]. Group 2 consisted of 15 listeners (number of females\u2009=\u20099) who were 63\u201381 years old (mean\u2009=\u200972.07; SD\u2009=\u20095.11). Participants were administered the WCJ-III Memory for Words, Auditory Working Memory, Visual Matching, and Decision Speed subtests. All participants were tested in each of the following three dual-task experimental conditions, which were varying in complexity: (1) auditory word recognition\u2009+\u2009visual processing, (2) auditory working memory (word)\u2009+\u2009visual processing, and (3) auditory working memory (sentence)\u2009+\u2009visual processing in noise.\n\nABSTRACT.RESULTS::\nA repeated measures analysis of variance revealed that task complexity significantly affected the performance measures of auditory accuracy, visual accuracy, and processing speed. Linear regression revealed that the cognitive subtests of the WCJ-III test significantly predicted performance across dependent variable measures.\n\nABSTRACT.CONCLUSION::\nListening effort is significantly affected by task complexity, regardless of age. Performance on the WCJ-III test may predict listening effort in adults and may assist speech-language pathologist (SLPs) to understand challenges faced by participants when subjected to noise.",
+        "target": "Scientists did a study to see if how well adults think can predict how hard they have to listen when they are doing two things at once. They tested two groups of adults, one younger and one older, using a special brain test. They made them do listening and seeing tasks at the same time, with some tasks being harder than others. What they found was that the harder the task, the harder the people had to listen, no matter how old they were. This special brain test could help us understand why it might be hard for people to listen, especially when there is a lot of noise around.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1016,
+                        1195
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.PURPOSE::\nThis study examines whether cognitive function, as measured by the subtests of the Woodcock\u2013Johnson III (WCJ-III) assessment, predicts listening-effort performance during dual tasks across the adults of varying ages.\n\nABSTRACT.MATERIALS AND METHODS::\nParticipants were divided into two groups. Group 1 consisted of 14 listeners (number of females\u2009=\u200911) who were 41\u201361 years old [mean\u2009=\u200953.18; standard deviation (SD)\u2009=\u20095.97]. Group 2 consisted of 15 listeners (number of females\u2009=\u20099) who were 63\u201381 years old (mean\u2009=\u200972.07; SD\u2009=\u20095.11). Participants were administered the WCJ-III Memory for Words, Auditory Working Memory, Visual Matching, and Decision Speed subtests. All participants were tested in each of the following three dual-task experimental conditions, which were varying in complexity: (1) auditory word recognition\u2009+\u2009visual processing, (2) auditory working memory (word)\u2009+\u2009visual processing, and (3) auditory working memory (sentence)\u2009+\u2009visual processing in noise.\n\nABSTRACT.RESULTS::\nA repeated measures analysis of variance revealed that task complexity significantly affected the performance measures of auditory accuracy, visual accuracy, and processing speed. Linear regression revealed that the cognitive subtests of the WCJ-III test significantly predicted performance across dependent variable measures.\n\nABSTRACT.CONCLUSION::\nListening effort is significantly affected by task complexity, regardless of age. Performance on the WCJ-III test may predict listening effort in adults and may assist speech-language pathologist (SLPs) to understand challenges faced by participants when subjected to noise.",
+        "target": "\nThis study looked at how well older adults do on a test called the Woodcock-Johnson III (WCJ-III) when they are doing two tasks at the same time. The researchers found that the older adults did better on the tasks that were easier and took less time to do. They also found that the test results could predict how well the older adults would do on the dual tasks.\nSo, the study showed that older adults have more trouble doing two things at the same time than younger adults, but the test can help speech-language pathologists (SLPs) understand how well older adults will do on dual tasks.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1016,
+                        1195
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.CONTEXT::\nDentinal hypersensitivity (DH) is a chronic disorder in which patients report sharp and acute pain to a variety of stimuli. Till date, a standardized procedure to treat DH is missing, though several alternative treatment strategies have been designed, including laser therapies.\n\nABSTRACT.AIM::\nThe aim of the study was to treat DH with minimum chemical concentration and least laser energy level with longer follow-up period.\n\nABSTRACT.MATERIALS AND METHODS::\nOne hundred and twenty patients were randomly divided into four groups: (i) Group 1-5% potassium nitrate (KNO3); (ii) Group 2 - gallium-aluminum-arsenide diode laser (62.2 J/cm2, wavelength - 980 nm, noncontact pulse mode, and power wattage - 0.5 W); (iii) Group 3 - combined 5% KNO3 and the diode laser; and (iv) Group 4 - placebo (control). The visual analog scale (VAS) scores were recorded, analyzed, and compared to tactile stimuli, cold water, and air blast tests at different intervals for 6 weeks.\n\nABSTRACT.RESULTS::\nSynergistic use of 5% KNO3 and diode laser (Group 3) significantly reduced the DH pain, which was almost negligible after 6th week (97%\u201399% of the pain was reported to be relieved) and showed promising results than any other studied groups. Further, the diode laser (Group 2) showed better results than 5% KNO3 (Group 1). One-way ANOVA and Bonferroni correction post hoc test revealed the combination of groups with significant differences in the mean VAS scores at the different interval of time (P &lt; 0.01).\n\nABSTRACT.CONCLUSIONS::\nConvincingly, the combined application of 5% KNO3 with the diode laser can be recommended for treating DH patients.",
+        "target": "This study aimed to find a treatment for dental hypersensitivity (DH). One hundred and twenty patients were randomly divided into four groups: a control group, a group treated with 5% potassium nitrate (KNO3), a group treated with a gallium-aluminum-arsenide diode laser, and a group treated with a combination of 5% KNO3 and the diode laser. The VAS scores were recorded and compared to tactile stimuli, cold water, and air blast tests at different intervals for 6 weeks. The results showed that the combination of 5% KNO3 and the diode laser significantly reduced the DH pain, which was almost completely relieved after 6 weeks. These results suggest that the combination of 5% KNO3 and the diode laser is an effective treatment for DH.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1006,
+                        1093
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.CONTEXT::\nDentinal hypersensitivity (DH) is a chronic disorder in which patients report sharp and acute pain to a variety of stimuli. Till date, a standardized procedure to treat DH is missing, though several alternative treatment strategies have been designed, including laser therapies.\n\nABSTRACT.AIM::\nThe aim of the study was to treat DH with minimum chemical concentration and least laser energy level with longer follow-up period.\n\nABSTRACT.MATERIALS AND METHODS::\nOne hundred and twenty patients were randomly divided into four groups: (i) Group 1-5% potassium nitrate (KNO3); (ii) Group 2 - gallium-aluminum-arsenide diode laser (62.2 J/cm2, wavelength - 980 nm, noncontact pulse mode, and power wattage - 0.5 W); (iii) Group 3 - combined 5% KNO3 and the diode laser; and (iv) Group 4 - placebo (control). The visual analog scale (VAS) scores were recorded, analyzed, and compared to tactile stimuli, cold water, and air blast tests at different intervals for 6 weeks.\n\nABSTRACT.RESULTS::\nSynergistic use of 5% KNO3 and diode laser (Group 3) significantly reduced the DH pain, which was almost negligible after 6th week (97%\u201399% of the pain was reported to be relieved) and showed promising results than any other studied groups. Further, the diode laser (Group 2) showed better results than 5% KNO3 (Group 1). One-way ANOVA and Bonferroni correction post hoc test revealed the combination of groups with significant differences in the mean VAS scores at the different interval of time (P &lt; 0.01).\n\nABSTRACT.CONCLUSIONS::\nConvincingly, the combined application of 5% KNO3 with the diode laser can be recommended for treating DH patients.",
+        "target": "This is about a test looking for a good way to help people with Dental Hypersensitivity, which is when your teeth hurt really bad from things like cold water or touch. They tested different treatments on 120 people and found that the best result came from using a combination of a special toothpaste and laser therapy. This combo helped relieve the teeth pain almost entirely by the end of 6 weeks. So, the study suggests this combo could be a good way to treat people who have this teeth sensitivity problem.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1006,
+                        1093
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.CONTEXT::\nDentinal hypersensitivity (DH) is a chronic disorder in which patients report sharp and acute pain to a variety of stimuli. Till date, a standardized procedure to treat DH is missing, though several alternative treatment strategies have been designed, including laser therapies.\n\nABSTRACT.AIM::\nThe aim of the study was to treat DH with minimum chemical concentration and least laser energy level with longer follow-up period.\n\nABSTRACT.MATERIALS AND METHODS::\nOne hundred and twenty patients were randomly divided into four groups: (i) Group 1-5% potassium nitrate (KNO3); (ii) Group 2 - gallium-aluminum-arsenide diode laser (62.2 J/cm2, wavelength - 980 nm, noncontact pulse mode, and power wattage - 0.5 W); (iii) Group 3 - combined 5% KNO3 and the diode laser; and (iv) Group 4 - placebo (control). The visual analog scale (VAS) scores were recorded, analyzed, and compared to tactile stimuli, cold water, and air blast tests at different intervals for 6 weeks.\n\nABSTRACT.RESULTS::\nSynergistic use of 5% KNO3 and diode laser (Group 3) significantly reduced the DH pain, which was almost negligible after 6th week (97%\u201399% of the pain was reported to be relieved) and showed promising results than any other studied groups. Further, the diode laser (Group 2) showed better results than 5% KNO3 (Group 1). One-way ANOVA and Bonferroni correction post hoc test revealed the combination of groups with significant differences in the mean VAS scores at the different interval of time (P &lt; 0.01).\n\nABSTRACT.CONCLUSIONS::\nConvincingly, the combined application of 5% KNO3 with the diode laser can be recommended for treating DH patients.",
+        "target": "\n\"Scientists wanted to find a way to treat a condition called dentinal hypersensitivity. They tried using different concentrations of a medicine called potassium nitrate and different levels of a special kind of laser energy. They found that using a combination of the medicine and the laser worked the best and gave the most relief from the pain. They think this combination could be a good way to treat people with dentinal hypersensitivity.\"\nIs this a good job of rephrasing? Are there any suggestions you have for improving it?",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1006,
+                        1093
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nIn 2010, approximately 79 million Americans had prediabetes and about 50 percent of those individuals were 65 years and older. The most effective diabetes prevention method in prediabetic adults is lifestyle modification. However, despite the benefits of lifestyle change, diabetes prevalence continues to increase. Maintaining a regular exercise routine and a healthy eating plan may be difficult because of the negative emotional barriers (i.e., stress, mood) that a prediabetic individual faces. This is particularly evident in older individuals when you combine that with decreases in mobility and geriatric syndromes. A potential treatment for these emotional barriers is a natural supplement called 5-aminolevulinic acid (5-ALA). In the current study, the group included 154 participants, both men and women, ranging between the ages of 41 to 71 years old. The study design was a double-blind, randomized parallel-group study. The Psychosocial Depressive Symptoms Questionnaire (PDS) and the Perceived Stress Scale (PSS) were used to examine the effect of two doses of 5-ALA (15 mg and 50 mg) on various components of mood (i.e., hopefulness, loneliness, and motivation) and coping ability. Using SAS software, an ordered logistic regression model was used to analyze the association between the dose groups (control, 15 mg, and 50 mg) and the responses to the two questionnaires, the PDS and PSS, used in this study. An integrative literature review, using the PubMed database, searched for studies on the relationship between 5-ALA administration and mood and coping ability. Our literature review resulted in zero published articles. Next, we found that the intake of 5-ALA was significantly associated with improved coping ability (p = 0.004) and improved self-perception of effort spent (p = 0.002). Finally, we found a significant dose-dependent relationship for the association of 5-ALA intake on measures of effort (p = 0.003), loneliness (p = 0.006), and coping ability (p = 0.003). The 50 mg dose was more effective than the 15 mg dose in improving these measures. In conclusion, after 12 weeks of taking 5-ALA, we found significant improvements in self-perception of effort spent, loneliness, and coping ability in prediabetic middle age and older adults. Improved mood and coping ability may allow prediabetic individuals to overcome the emotional obstacles preventing them from maintaining a healthy lifestyle and ultimately, help them to avoid the development of diabetes.",
+        "target": "In 2010, approximately 79 million Americans had prediabetes, and half of them were 65 years old and older. The most effective way to prevent diabetes in these individuals is lifestyle modification, but despite the benefits, diabetes prevalence continues to increase. Maintaining a regular exercise routine and healthy eating plan can be difficult due to the negative emotional barriers that prediabetic adults face, such as stress and mood. A natural supplement called 5-aminolevulinic acid (5-ALA) may help. In a recent study, the group included 154 participants, both men and women, ranging in age from 41 to 71 years old. The study was a double-blind, randomized, parallel-group study. The Psychosocial Depressive Symptoms Questionnaire (PDS) and the Perceived Stress Scale (PSS) were used to measure the effect of two doses of 5-ALA (15 mg and 50 mg) on various components of mood (such as hopefulness, loneliness, and motivation) and coping ability. After 12 weeks, the results showed that 5-ALA was significantly associated with improved coping ability (p = 0.004) and improved self-perception of effort spent (p = 0.002). Additionally, a significant dose-dependent relationship was found for the association of 5-ALA intake on measures of effort (p = 0.003), loneliness (p = 0.006), and coping ability (p = 0.003). The 50 mg dose was more effective than the 15 mg dose in improving these measures. In conclusion, after 12 weeks of taking 5-ALA, we found significant improvements in self-perception of effort spent, loneliness, and coping ability in prediabetic middle-age and older adults. Improved mood and coping ability may allow prediabetic individuals to overcome the emotional obstacles preventing them from maintaining a healthy lifestyle and ultimately, help them to avoid the development of diabetes.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1653,
+                        1820
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        2091,
+                        2282
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nIn 2010, approximately 79 million Americans had prediabetes and about 50 percent of those individuals were 65 years and older. The most effective diabetes prevention method in prediabetic adults is lifestyle modification. However, despite the benefits of lifestyle change, diabetes prevalence continues to increase. Maintaining a regular exercise routine and a healthy eating plan may be difficult because of the negative emotional barriers (i.e., stress, mood) that a prediabetic individual faces. This is particularly evident in older individuals when you combine that with decreases in mobility and geriatric syndromes. A potential treatment for these emotional barriers is a natural supplement called 5-aminolevulinic acid (5-ALA). In the current study, the group included 154 participants, both men and women, ranging between the ages of 41 to 71 years old. The study design was a double-blind, randomized parallel-group study. The Psychosocial Depressive Symptoms Questionnaire (PDS) and the Perceived Stress Scale (PSS) were used to examine the effect of two doses of 5-ALA (15 mg and 50 mg) on various components of mood (i.e., hopefulness, loneliness, and motivation) and coping ability. Using SAS software, an ordered logistic regression model was used to analyze the association between the dose groups (control, 15 mg, and 50 mg) and the responses to the two questionnaires, the PDS and PSS, used in this study. An integrative literature review, using the PubMed database, searched for studies on the relationship between 5-ALA administration and mood and coping ability. Our literature review resulted in zero published articles. Next, we found that the intake of 5-ALA was significantly associated with improved coping ability (p = 0.004) and improved self-perception of effort spent (p = 0.002). Finally, we found a significant dose-dependent relationship for the association of 5-ALA intake on measures of effort (p = 0.003), loneliness (p = 0.006), and coping ability (p = 0.003). The 50 mg dose was more effective than the 15 mg dose in improving these measures. In conclusion, after 12 weeks of taking 5-ALA, we found significant improvements in self-perception of effort spent, loneliness, and coping ability in prediabetic middle age and older adults. Improved mood and coping ability may allow prediabetic individuals to overcome the emotional obstacles preventing them from maintaining a healthy lifestyle and ultimately, help them to avoid the development of diabetes.",
+        "target": "Many grown-ups in America have a problem with their sugar levels that could turn into diabetes. The best way to stop diabetes is to eat healthy and exercise regularly. But some people find it hard to keep this up because they feel stressed or upset, especially older people who might not be able to move around as much. Scientists tested a natural supplement called 5-ALA to see if it could help these feelings and make it easier for people to stick with a healthy lifestyle. They found that people who took 5-ALA felt they were trying harder, felt less lonely, and handled stress better. This might help them keep up the good habits and prevent diabetes.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1653,
+                        1820
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        2091,
+                        2282
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.\nIn 2010, approximately 79 million Americans had prediabetes and about 50 percent of those individuals were 65 years and older. The most effective diabetes prevention method in prediabetic adults is lifestyle modification. However, despite the benefits of lifestyle change, diabetes prevalence continues to increase. Maintaining a regular exercise routine and a healthy eating plan may be difficult because of the negative emotional barriers (i.e., stress, mood) that a prediabetic individual faces. This is particularly evident in older individuals when you combine that with decreases in mobility and geriatric syndromes. A potential treatment for these emotional barriers is a natural supplement called 5-aminolevulinic acid (5-ALA). In the current study, the group included 154 participants, both men and women, ranging between the ages of 41 to 71 years old. The study design was a double-blind, randomized parallel-group study. The Psychosocial Depressive Symptoms Questionnaire (PDS) and the Perceived Stress Scale (PSS) were used to examine the effect of two doses of 5-ALA (15 mg and 50 mg) on various components of mood (i.e., hopefulness, loneliness, and motivation) and coping ability. Using SAS software, an ordered logistic regression model was used to analyze the association between the dose groups (control, 15 mg, and 50 mg) and the responses to the two questionnaires, the PDS and PSS, used in this study. An integrative literature review, using the PubMed database, searched for studies on the relationship between 5-ALA administration and mood and coping ability. Our literature review resulted in zero published articles. Next, we found that the intake of 5-ALA was significantly associated with improved coping ability (p = 0.004) and improved self-perception of effort spent (p = 0.002). Finally, we found a significant dose-dependent relationship for the association of 5-ALA intake on measures of effort (p = 0.003), loneliness (p = 0.006), and coping ability (p = 0.003). The 50 mg dose was more effective than the 15 mg dose in improving these measures. In conclusion, after 12 weeks of taking 5-ALA, we found significant improvements in self-perception of effort spent, loneliness, and coping ability in prediabetic middle age and older adults. Improved mood and coping ability may allow prediabetic individuals to overcome the emotional obstacles preventing them from maintaining a healthy lifestyle and ultimately, help them to avoid the development of diabetes.",
+        "target": "The study found that taking a special supplement called 5-aminolevulinic acid (5-ALA) for 12 weeks can help people who are at risk of getting diabetes feel less stressed and lonely, and make them more motivated to take care of themselves. The supplement can also help them feel better about how much effort they are putting into taking care of themselves. The researchers found that the higher dose of the supplement was more helpful than the lower dose. They think that taking 5-ALA might be a good way for people at risk of getting diabetes to feel better and take better care of themselves.\n\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1653,
+                        1820
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        2091,
+                        2282
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION::\nHalitosis and foreign body sensation are two common and disturbing symptoms of chronic caseous tonsillitis (CCT). The aim of this study was to compare the efficacy and safety of temperature-controlled radiofrequency (TC-RF) tonsil ablation with CO2-laser cryptolysis (CO2-LC) in the treatment of patients with halitosis caused by CCT.\n\nABSTRACT.MATERIALS AND METHODS::\nSixty-two patients who suffered from halitosis and/or foreign body sensation due to CCT were enrolled in the present randomized clinical trial, and were randomly assigned into two groups. Group A underwent TC-RF tonsil ablation and Group B received CO2-LC. The severity of symptoms including halitosis and foreign body sensation was reported 7 days, 1 month, and 6 months after the procedure. Patient pain levels and amount of bleeding were evaluated as safety outcome measures. Pain levels were evaluated during the intervention, and at Day 1, 3, and 7 following the procedure using a visual analog scale (VAS).\n\nABSTRACT.RESULTS::\nMean rank of pain score in the RF tonsil ablation group was found to be higher than in the CO2-LC group at all measured timepoints following the procedure. The amount of bleeding in the LC group was found to be significantly less than in the RF group (P&lt;0.05). No significant difference was found between the groups regarding duration of procedure (P=0.157).\n\nABSTRACT.CONCLUSION::\nBoth procedures were found to be effective and safe in the treatment of CT-associated halitosis. However, LC showed better results based on lower pain levels, lower incidence of bleeding, and faster progression to a routine diet.",
+        "target": "This study compared the efficacy and safety of two treatments for chronic caseous tonsillitis (CCT) - temperature-controlled radiofrequency (TC-RF) tonsil ablation and CO2-laser cryptolysis (CO2-LC). The aim was to determine which treatment was more effective and safer for patients with CCT who suffer from halitosis.\n\nSixty-two patients were enrolled in the study and randomly assigned to either the TC-RF tonsil ablation group or the CO2-LC group. The severity of symptoms including halitosis and foreign body sensation was reported 7 days, 1 month, and 6 months after the procedure. Patient pain levels and amount of bleeding were evaluated as safety outcome measures. Pain levels were evaluated during the intervention, and at Day 1, 3, and 7 following the procedure using a visual analog scale (VAS).\n\nThe results showed that the TC-RF tonsil ablation group had higher mean rank of pain score compared to the CO2-LC group at all measured timepoints following the procedure. The amount of bleeding in the LC group was found to be significantly less than in the RF group (P&lt;0.05). No significant difference was found between the groups regarding duration of procedure (P=0.157).\n\nIn conclusion, both procedures were found to be effective and safe in the treatment of CT-associated halitosis. However, LC showed better results based on lower pain levels, lower incidence of bleeding, and faster progression to a routine diet.&lt;/s&gt;&lt;s&gt;",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1182,
+                        1289
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1290,
+                        1387
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION::\nHalitosis and foreign body sensation are two common and disturbing symptoms of chronic caseous tonsillitis (CCT). The aim of this study was to compare the efficacy and safety of temperature-controlled radiofrequency (TC-RF) tonsil ablation with CO2-laser cryptolysis (CO2-LC) in the treatment of patients with halitosis caused by CCT.\n\nABSTRACT.MATERIALS AND METHODS::\nSixty-two patients who suffered from halitosis and/or foreign body sensation due to CCT were enrolled in the present randomized clinical trial, and were randomly assigned into two groups. Group A underwent TC-RF tonsil ablation and Group B received CO2-LC. The severity of symptoms including halitosis and foreign body sensation was reported 7 days, 1 month, and 6 months after the procedure. Patient pain levels and amount of bleeding were evaluated as safety outcome measures. Pain levels were evaluated during the intervention, and at Day 1, 3, and 7 following the procedure using a visual analog scale (VAS).\n\nABSTRACT.RESULTS::\nMean rank of pain score in the RF tonsil ablation group was found to be higher than in the CO2-LC group at all measured timepoints following the procedure. The amount of bleeding in the LC group was found to be significantly less than in the RF group (P&lt;0.05). No significant difference was found between the groups regarding duration of procedure (P=0.157).\n\nABSTRACT.CONCLUSION::\nBoth procedures were found to be effective and safe in the treatment of CT-associated halitosis. However, LC showed better results based on lower pain levels, lower incidence of bleeding, and faster progression to a routine diet.",
+        "target": "This passage is about a science experiment where doctors wanted to compare two different treatments for a condition called chronic caseous tonsillitis, which can cause bad breath and the feeling of a foreign object in the throat. They divided 62 patients into two groups - half got a treatment called RF tonsil ablation and the other half got a treatment called CO2 laser cryptolysis. The doctors then monitored them to see which group felt better and had fewer side effects.\n\nWhat they found was that both treatments worked well, but the patients who got the CO2 laser treatment had lower pain levels, less bleeding, and were able to get back to regular eating faster than the ones who got the RF tonsil ablation. So, the CO2 laser treatment seems to be the better option.",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1182,
+                        1289
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1290,
+                        1387
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "source": "ABSTRACT.INTRODUCTION::\nHalitosis and foreign body sensation are two common and disturbing symptoms of chronic caseous tonsillitis (CCT). The aim of this study was to compare the efficacy and safety of temperature-controlled radiofrequency (TC-RF) tonsil ablation with CO2-laser cryptolysis (CO2-LC) in the treatment of patients with halitosis caused by CCT.\n\nABSTRACT.MATERIALS AND METHODS::\nSixty-two patients who suffered from halitosis and/or foreign body sensation due to CCT were enrolled in the present randomized clinical trial, and were randomly assigned into two groups. Group A underwent TC-RF tonsil ablation and Group B received CO2-LC. The severity of symptoms including halitosis and foreign body sensation was reported 7 days, 1 month, and 6 months after the procedure. Patient pain levels and amount of bleeding were evaluated as safety outcome measures. Pain levels were evaluated during the intervention, and at Day 1, 3, and 7 following the procedure using a visual analog scale (VAS).\n\nABSTRACT.RESULTS::\nMean rank of pain score in the RF tonsil ablation group was found to be higher than in the CO2-LC group at all measured timepoints following the procedure. The amount of bleeding in the LC group was found to be significantly less than in the RF group (P&lt;0.05). No significant difference was found between the groups regarding duration of procedure (P=0.157).\n\nABSTRACT.CONCLUSION::\nBoth procedures were found to be effective and safe in the treatment of CT-associated halitosis. However, LC showed better results based on lower pain levels, lower incidence of bleeding, and faster progression to a routine diet.",
+        "target": "\nThe study compared two ways to treat bad breath caused by a tonsil infection. One way used a special machine to heat up the tonsils and kill the bad bacteria. The other way used a laser to make small cuts in the tonsils and let them heal on their own. Both ways worked well, but the las can cause less pain and bleeding.\n\n\n",
+        "edits": [
+            {
+                "category": "hol_eval",
+                "id": 0
+            },
+            {
+                "category": "final_q",
+                "id": 1
+            },
+            {
+                "category": "pico_pop",
+                "id": 2
+            },
+            {
+                "category": "pico_inter",
+                "id": 3
+            },
+            {
+                "category": "pico_comp",
+                "id": 4
+            },
+            {
+                "category": "pico_out",
+                "id": 5
+            },
+            {
+                "category": "results",
+                "id": 6,
+                "input_idx": [
+                    [
+                        1182,
+                        1289
+                    ]
+                ]
+            },
+            {
+                "category": "results",
+                "id": 7,
+                "input_idx": [
+                    [
+                        1290,
+                        1387
+                    ]
+                ]
+            }
+        ]
+    }
+]
