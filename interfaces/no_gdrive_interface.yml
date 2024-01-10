@@ -1,5 +1,5 @@
 instructions: | 
-  ## Instructions (Anno2)
+  ## Instructions (Anno1)
 
   Please follow the instructions [here](https://docs.google.com/document/d/1rM7Rq5RBmevRalXK5Dc_8iGQGpAxeQV2e4uNW98BRt0/edit#heading=h.11mbgz5eqdsc).
 
@@ -17,10 +17,6 @@ interface_text:
     target_label: "Generated Summary/Simplfication"
 
 prepend_instructions: true
-
-gdrive_save:
-  folder_id: "15UPgEOWq49D6SYvSmUo-sMQcxzsNUYWf"
-  file_prefix: "anno2_split1"
 
 
 font_size:
