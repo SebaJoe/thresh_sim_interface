@@ -1,0 +1,36 @@
+# ========================================================================
+#
+# 👋👋 Welcome to the annotation builder!
+#
+# This contains your template, and the below editor contains your data.
+#
+# Feel free to customize this template, or choose one of the provided
+# examples or fully built interfaces from the drop-down.
+#
+# ========================================================================
+
+# Metadata about your interface. 
+#   "labels" change text displayed to the annotator and "names" change the
+#   backend object names
+template_name: AstroCodeBench Template
+template_label: Demo Template
+template_description: This is a demo template
+
+interface_text:
+    typology:
+        source_label: "Code Snippet"
+        target_label: "Description"
+
+font_size:
+    target: 16
+
+display:
+- disable-lines
+
+# "Edits" are our units of annotations. First, edits are selected, then annotated.
+edits:
+  - name: target_code_call
+    label: "Targeted Code Call"
+    enable_input: true          # Enables selecting this edit on the input
+    color: red                  # Use HEX codes, or pre-defined colors
+    icon: fa-magnifying-glass   # <- Use any icon name from http://fontawesome.com/search?o=r&m=free
