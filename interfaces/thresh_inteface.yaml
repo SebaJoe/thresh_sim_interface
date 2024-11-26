@@ -22,6 +22,7 @@ interface_text:
         target_label: "Description"
 
 font_size:
+    source: 16
     target: 16
 
 display:
