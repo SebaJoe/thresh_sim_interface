@@ -13,8 +13,8 @@
 #   "labels" change text displayed to the annotator and "names" change the
 #   backend object names
 template_name: AstroCodeBench Template
-template_label: Demo Template
-template_description: This is a demo template
+template_label: AstroCodeBench Examples
+template_description: Template for viewing examples in AstroCodeBench
 
 interface_text:
     typology:
